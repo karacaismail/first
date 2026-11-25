@@ -1,0 +1,29 @@
+{
+  "unit": "preface-1st",
+  "description": "Spencer'ın 1862 tarihli Birinci Baskıya Önsözü: Sentetik Felsefe programının tam metni ve Biyoloji, Psikoloji, Sosyoloji, Ahlak ciltlerinin planı.",
+  "summary": "Spencer, İlk İlkeler'in 1860'ta duyurulan bir dizinin ilk cildi olduğunu belirtir ve o prospektüsü yeniden basar. Program, Bilinemez ve Bilinebilir kısımlarından başlayarak Biyoloji, Psikoloji, Sosyoloji ve Ahlakın İlkeleri ciltlerinin bütün kısımlarını özetler. Spencer, tasarı tamamlanamasa bile taslağın elde kalması için programı yeniden bastığını söyler.",
+  "sections": [],
+  "ocr_issues": [
+    "Kaynakta yalnız ⟦PAGE pdfNN⟧ (basılı numarası okunamayan) sayfa işaretleri var (pdf20–pdf24); yönerge gereği atlandı, çeviride sayfa işareti yok.",
+    "Üçüncü dipnottaki 'Medico-Chirurgical Review for January. 1850' tarihi OCR hatası sayılarak 1859 olarak düzeltildi (ikinci dipnotta aynı yazı Ocak 1859 olarak anılıyor).",
+    "'Mcdico-Chirurgical', 'THB', '^ESTHETIC', 'Form/'', 'Population/'' gibi OCR bozuklukları bağlamdan düzeltildi.",
+    "Tarih satırı 'June 5<A, 1862' → '5 Haziran 1862' olarak düzeltildi."
+  ],
+  "terms": [
+    {"key": "Development Hypothesis", "tr": "Gelişim Hipotezi", "explanation": "Darwin öncesi dönemde türlerin sabit olmayıp birbirinden geliştiğini savunan görüşe verilen ad; Spencer bu adı evrim kuramının erken adı olarak kullanır."},
+    {"key": "Conservation of Force", "tr": "Kuvvetin Korunumu", "explanation": "19. yüzyıl ortasında enerjinin korunumu ilkesine verilen yaygın ad; Spencer bunu daha sonra 'Kuvvetin Kalıcılığı' olarak yeniden adlandırır."},
+    {"key": "Physics", "tr": "fizik", "explanation": "Madde, hareket ve kuvvetin genel yasalarını inceleyen bilim; Spencer'a göre akılcı biyolojinin yola çıkması gereken temel doğruların kaynağı."},
+    {"key": "Chemistry", "tr": "kimya", "explanation": "Maddelerin bileşimini ve dönüşümlerini inceleyen bilim; biyolojinin dayandığı fiziksel bilimlerden biri."},
+    {"key": "Physiology", "tr": "fizyoloji", "explanation": "Canlı organizmaların işlevlerini inceleyen bilim dalı; Spencer'da işlevlerin farklılaşmasını izleyen 'fizyolojik gelişim' bu alana aittir."},
+    {"key": "Morphology", "tr": "morfoloji", "explanation": "Canlıların biçim ve yapısını inceleyen bilim dalı; Spencer organik biçimleri etkiyen kuvvetlerin birikimli sonucu olarak açıklamayı önerir."},
+    {"key": "Comparative Anatomy", "tr": "karşılaştırmalı anatomi", "explanation": "Farklı canlı türlerinin yapılarını karşılaştırarak inceleyen bilim dalı; biyolojinin tümevarımlarının başlıca kaynaklarından biri."},
+    {"key": "Corollaries", "tr": "sonuç önermeleri", "explanation": "Kanıtlanmış ilkelerden doğrudan türetilen ikincil önermeler; Spencer, Psikolojinin İlkeleri'nin son kısmında sosyolojiye giriş oluşturan bu tür türetilmiş ilkeleri toplar."},
+    {"key": "prevision", "tr": "öngörü", "explanation": "Olayların önceden kestirilmesi; Spencer'a göre bilgi, nitel öngörüden nicel (ölçülebilir) öngörüye doğru ilerler."},
+    {"key": "Consensus", "tr": "konsensüs", "explanation": "Spencer'ın fizyolojiden aldığı terim: bir toplum tipindeki yapılar ile işlevlerin zorunlu karşılıklı bağımlılığı ve birbirine uygunluğu."},
+    {"key": "Equilibrium", "tr": "denge", "explanation": "Zıt kuvvetlerin birbirini karşıladığı durum; Spencer ahlaki ideali bünye ile varoluş koşulları arasındaki denge olarak tanımlar."},
+    {"key": "expediency", "tr": "yararlılık", "explanation": "Eylemlerin sonuçlarına göre uygun ve yararlı sayılması; Spencer'a göre uygar ulusların ahlak kuralları bu tür deneysel genellemelerdir."},
+    {"key": "Justice", "tr": "adalet", "explanation": "Spencer'ın ahlak sisteminde, insanların bir toplumun birimleri olarak bir arada yaşamasının zorunlu kıldığı karşılıklı eylem sınırlamaları."},
+    {"key": "Beneficence", "tr": "iyilikseverlik", "explanation": "Spencer'ın ahlakında adaletin ötesinde kalan davranış alanı: olumsuz iyilikseverlik başkalarının mutluluğunu dolaylı yoldan bozmaktan kaçınmayı, olumlu iyilikseverlik ise haz vermekten haz duymayı kapsar."},
+    {"key": "Sympathy", "tr": "duygudaşlık", "explanation": "Başkalarının duygularını paylaşma yetisi; Spencer edilgin duygudaşlığı olumsuz, etkin duygudaşlığı olumlu iyilikseverliğin kaynağı sayar."}
+  ]
+}

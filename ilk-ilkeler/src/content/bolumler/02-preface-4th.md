@@ -1,0 +1,30 @@
+---
+unit: "preface-4th"
+part: "onsozler"
+order: 2
+number: ""
+slug: "dorduncu-baskiya-onsoz"
+title: "Dördüncü Baskıya Önsöz"
+titleEn: "Preface to the Fourth Edition"
+description: "Spencer'ın 1880 tarihli Dördüncü Baskıya Önsözü: evrim kuramının Darwin'in Türlerin Kökeni'nden bağımsız ve daha önce doğduğunu belgeleyen açıklama."
+summary: "Spencer, eserinin Darwin'in Türlerin Kökeni'nden kaynaklandığı yolundaki yaygın yanlış anlamayı düzeltir: 1857 tarihli denemeleri ve 1855 tarihli Psikolojinin İlkeleri'nin, Darwin'in 1859'daki kitabından önce evrim kuramını içerdiğini gösterir. Eserin Darwin'in öğretisine yalnız § 159'daki bir notta değindiğini belirtir ve bu baskıya eleştirilere yanıt veren bir Ek eklediğini söyler."
+pages: [null,null]
+sections: []
+words: 474
+terms: ["Evolution","Phenomenon","inorganic","organic","super-organic","Matter","Motion","Multiplication of Effects","Organism"]
+termOverrides: {}
+---
+
+Bu eserin ilk baskısının başına, kökenine ilişkin kesin bir açıklama konmalıydı; böyle bir açıklamanın yokluğunda doğan yanlış anlamaların da bunu sağlama gereğini bana çoktan göstermiş olması gerekirdi.
+
+Gerçi özgün önsözün ilk sayfasındaki bir notta, orada programı sunulan “Felsefe Sistemi”nde işlenecek genellemeleri içermeleri bakımından “Progress: its Law and Cause” [İlerleme: Yasası ve Nedeni] ve “Transcendental Physiology” [Transandantal Fizyoloji] başlıklı belirli Denemelere gönderme yapılmıştı; ne var ki bu Denemelerin tarihleri verilmemişti; genel {{Evrim|Evolution}} (Evolution) Kuramını kısa bir biçimde içermeleri dolayısıyla taşıdıkları temel öneme ilişkin herhangi bir belirti de yoktu. Aksine açık bir kanıt bulunmadığından, bu eserin ve onu izleyen eserlerin Bay Darwin'in *Origin of Species* [Türlerin Kökeni] adlı eserinde yer alan özel öğretiden sonra ortaya çıktığı ve ondan kaynaklandığı inancı çok yaygın biçimde dile getirilip kabul görmüştür.
+
+İçerdiği kuram bakımından bu eserin II. Kısmındaki XV., XVI., XVII. ve XX. Bölümlerle eş kapsamlı olan “Progress: its Law and Cause” Denemesi ilk kez *Westminster Review*'ın Nisan 1857 sayısında yayımlanmıştı; XIX. Bölümde işlenen genel doğrunun kısaca ortaya konduğu Deneme ise başlangıçta “The Ultimate Laws of Physiology” [Fizyolojinin Nihai Yasaları] başlığıyla *National Review*'ın Ekim 1857 sayısında çıkmıştı. Dahası, şuna işaret edebilirim ki Temmuz 1855'te yayımlanan *The Principles of Psychology* [Psikolojinin İlkeleri] adlı eserin ilk baskısında zihinsel {{görüngüler|Phenomenon}} (phenomena) tümüyle evrim bakış açısından yorumlanmıştı; ve çeşitli bölümlerin başlıklarında kullanılan sözcükler, az önce adı geçen Denemelerde daha geniş biçimde uygulanan düşüncelerin o tarihte mevcut olduğunu ima etmektedir. *The Origin of Species*'in ilk baskısı Ekim 1859'a kadar ortaya çıkmadığına göre, bu eserde ve ardıllarında ortaya konan kuramın, genellikle onu başlattığı varsayılan kuramdan bağımsız ve ondan önce bir kökeni olduğu açıktır.
+
+Kökenin ayrılığı, aslında, eserin kendisinden de çıkarılabilirdi; çünkü eser {{Evrimi|Evolution}} bütünüyle — {{İnorganik|inorganic}} (Inorganic), {{Organik|organic}} (Organic) ve {{Organizma-üstü|super-organic}} (Super-organic) — {{Madde|Matter}} (Matter) ve {{Hareket|Motion}} (Motion) terimleriyle ele almakta; Bay Darwin'in öylesine parlak biçimde sergilediği o özel süreçlere ise ancak kısaca değinmektedir. Yalnızca § 159'da (s. 404), “{{Etkilerin Çoğalması|Multiplication of Effects}} (The Multiplication of Effects)” yasasının evrensel olarak nasıl sergilendiğini örneklerken, *Origin of Species*'te ortaya konan öğretiye gönderme yapma fırsatım olmuştur: Bir notta, {{organizmaların|Organism}} (organisms) ıraksak çeşitlerinin üretimi için daha önce ileri sürdüğüm genel nedenin, Bay Darwin'in açığa çıkardığı o özel neden olmaksızın bütün olguları açıklamaya yetmeyeceğine işaret ederek. Bu notun yokluğu, kuşkusuz, genel argümanda ciddi bir boşluk bırakırdı; ancak eserin geri kalanı tamı tamına şimdi olduğu gibi kalırdı.
+
+Bu açıklamayı, yaygın yanlış anlamanın bu yolla kısa sürede düzeltileceği inancıyla yapmıyorum; çünkü bu tür yanlış anlamaların bir kez yaygınlaştıktan sonra — bütün çürütmelere rağmen — uzun süre direndiğinin bilincindeyim. Yine de, olguları oldukları gibi ortaya koymazsam şimdi beslenen yanlış kanıyı desteklemeyi sürdüreceğim ve sona ermesini bekleyemeyeceğim düşüncesine boyun eğiyorum.
+
+Notlardan birindeki önemsiz değişiklikler ve bazı dizgi düzeltmeleri dışında, bu baskının metni bir öncekininkiyle özdeştir. Bununla birlikte, Evrimin genel formülüne ve ondan önce gelen felsefi öğretiye yöneltilmiş belirli eleştirileri ele alan bir Ek koydum.
+
+Mayıs 1880.

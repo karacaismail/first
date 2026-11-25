@@ -1,0 +1,27 @@
+{
+  "unit": "p2-ch24",
+  "description": "Spencer'ın İlk İlkeler'inin son bölümü: Kuvvetin Kalıcılığı'ndan Evrim yasasına uzanan kanıtlamanın özeti ve Bilinmeyen Gerçeklik üzerine sonuç.",
+  "summary": "Spencer, eserin tamamında kurulan kanıtlamayı baştan sona yeniden izler: Felsefe'nin birleştirilmiş bilgi olarak tanımı, Kuvvetin Kalıcılığı ve ondan türeyen yasalar, Evrim ile Çözülme'nin formülü ve bütün evrim türlerinin tek bir evrensel başkalaşım olduğu düşüncesi. Bölüm, Madde, Hareket ve Kuvvet'in yalnızca Bilinmeyen Gerçeklik'in simgeleri olduğunu, dolayısıyla öğretinin ne materyalist ne de spiritüalist sayılabileceğini vurgulayan felsefi-dinî bir sonuçla kapanır.",
+  "sections": [184, 194],
+  "ocr_issues": [
+    "Kaynak OCR'da § 191'den sonra doğrudan § 193 geliyor; § 192 işareti düşmüş. 'Let no one suppose that any such implied degree of trustworthiness...' paragrafı, sıraya ve 6. baskının bilinen kesim düzenine göre § 192 olarak numaralandırıldı.",
+    "Kaynağın sonundaki 'THE END' satırı ve ⟦PAGE pdf528–530⟧ / 'APPENDICES' artıkları bölüm gövdesine ait sayılmayıp çevrilmedi."
+  ],
+  "terms": [
+    {"key": "Philosophy", "tr": "Felsefe", "explanation": "Spencer'ın özel anlamıyla Felsefe: tamamen birleştirilmiş bilgi; bilimlerin en genel doğrularını tek bir ilke altında toplayan bilgi biçimi."},
+    {"key": "Special Philosophy", "tr": "Özel Felsefe", "explanation": "Genel Felsefe'nin (İlk İlkeler) ulaştığı evrensel ilkelerin biyoloji, psikoloji, sosyoloji gibi tek tek alanlara uygulanması; Sentetik Felsefe'nin sonraki ciltleri."},
+    {"key": "Persistence of the Relations among Forces", "tr": "Kuvvetler Arasındaki İlişkilerin Kalıcılığı", "explanation": "Kuvvetler arasındaki ilişkilerin de kuvvetin kendisi gibi değişmez olduğu ilkesi; Spencer'a göre Yasanın Tekbiçimliliği denen şeyin asıl adı ve Kuvvetin Kalıcılığı'nın dolaysız sonucu."},
+    {"key": "aggregate", "tr": "küme", "explanation": "Spencer'ın, bir arada toplanmış parçalardan oluşan herhangi bir bütün (yıldız, gezegen, organizma, toplum) için kullandığı genel terim."},
+    {"key": "Solar System", "tr": "Güneş Sistemi", "explanation": "Güneş ile çevresinde dolanan gezegen ve uyduların oluşturduğu sistem; Spencer'da astronomik evrimin başlıca örneği."},
+    {"key": "Sidereal System", "tr": "Yıldız Sistemi", "explanation": "19. yüzyıl astronomisinde yıldızların tamamının oluşturduğu büyük sistem (Samanyolu ve görünür evren); Spencer bunun da çözülmeye uğrayıp uğramayacağını sorar."},
+    {"key": "germ", "tr": "tohum", "explanation": "Bir organizmanın geliştiği başlangıç hücresi ya da embriyo; Spencer'da organik evrimin yalın başlangıç durumu."},
+    {"key": "Polytheism", "tr": "çoktanrıcılık", "explanation": "Birden çok tanrıya inanç; Spencer'a göre dinî düşüncenin tektanrıcılığa doğru birleşmeden önceki aşaması."},
+    {"key": "Monotheism", "tr": "tektanrıcılık", "explanation": "Tek bir Tanrı'ya inanç; Spencer bu tasavvurun giderek kişisel gözetimden evrensel içkinliğe doğru genelleştiğini savunur."},
+    {"key": "immanence", "tr": "içkinlik", "explanation": "Tanrısal gücün evrenin dışında değil, içinde ve her yerinde mevcut olması; aşkınlığın (transcendence) karşıtı."},
+    {"key": "Platonic Ideas", "tr": "Platoncu İdealar", "explanation": "Platon'un, duyulur şeylerin ardındaki değişmez ve kusursuz örnekler (idealar) öğretisi; Spencer bunu terk edilmiş eski kuramlar arasında sayar."},
+    {"key": "Pre-established Harmony", "tr": "Önceden Kurulmuş Uyum", "explanation": "Leibniz'in, ruh ile beden arasında doğrudan etkileşim olmaksızın Tanrı'nın baştan kurduğu bir uyum bulunduğu öğretisi."},
+    {"key": "Unknown Reality", "tr": "Bilinmeyen Gerçeklik", "explanation": "Madde, Hareket ve Kuvvet simgelerinin ardında yatan, hem özne hem nesnenin temelinde bulunan ve asla bilinemeyen nihai gerçeklik; Bilinemez'in bu bölümdeki adı."},
+    {"key": "ontological order", "tr": "ontolojik düzen", "explanation": "Şeylerin kendilerinde, bilincimizden bağımsız olarak var olma düzeni; görüngüsel (fenomenal) düzenin karşıtı ve Spencer'a göre sonsuza dek kavranamaz."},
+    {"key": "Spiritualism", "tr": "spiritüalizm", "explanation": "Gerçekliğin temelinin madde değil tin ya da zihin olduğunu savunan görüş; Spencer öğretisinin ne materyalist ne de spiritüalist olduğunu vurgular."}
+  ]
+}

@@ -1,0 +1,631 @@
+[
+ {
+  "id": "preface-1st",
+  "kind": "preface",
+  "part": null,
+  "heading": "PREFACE  TO  THE  FIRST  EDITION",
+  "title_en": "",
+  "pdf_pages": [
+   19,
+   24
+  ],
+  "printed_pages": [
+   null,
+   null
+  ],
+  "words": 1815,
+  "file": "preface-1st.txt"
+ },
+ {
+  "id": "preface-4th",
+  "kind": "preface",
+  "part": null,
+  "heading": "PREFACE   TO   THE    FOURTH",
+  "title_en": "EDITION",
+  "pdf_pages": [
+   25,
+   26
+  ],
+  "printed_pages": [
+   null,
+   null
+  ],
+  "words": 596,
+  "file": "preface-4th.txt"
+ },
+ {
+  "id": "preface-6th",
+  "kind": "preface",
+  "part": null,
+  "heading": "PREFACE  TO  THE  SIXTH  EDITION",
+  "title_en": "",
+  "pdf_pages": [
+   27,
+   32
+  ],
+  "printed_pages": [
+   null,
+   null
+  ],
+  "words": 419,
+  "file": "preface-6th.txt"
+ },
+ {
+  "id": "p1-ch01",
+  "kind": "chapter",
+  "part": 1,
+  "heading": "CHAPTER    I",
+  "title_en": "RELIGION AND SCIENCE",
+  "pdf_pages": [
+   33,
+   48
+  ],
+  "printed_pages": [
+   4,
+   17
+  ],
+  "words": 5532,
+  "file": "p1-ch01.txt"
+ },
+ {
+  "id": "p1-ch02",
+  "kind": "chapter",
+  "part": 1,
+  "heading": "CHAPTER   II",
+  "title_en": "ULTIMATE RELIGIOUS IDEAS",
+  "pdf_pages": [
+   49,
+   67
+  ],
+  "printed_pages": [
+   19,
+   37
+  ],
+  "words": 6691,
+  "file": "p1-ch02.txt"
+ },
+ {
+  "id": "p1-ch03",
+  "kind": "chapter",
+  "part": 1,
+  "heading": "CHAPTER   III",
+  "title_en": "ULTIMATE SCIENTIFIC IDEAS",
+  "pdf_pages": [
+   68,
+   84
+  ],
+  "printed_pages": [
+   39,
+   54
+  ],
+  "words": 5751,
+  "file": "p1-ch03.txt"
+ },
+ {
+  "id": "p1-ch04",
+  "kind": "chapter",
+  "part": 1,
+  "heading": "CHAPTER  IV",
+  "title_en": "THE RELATIVITY OF ALL KNOWLEDGE",
+  "pdf_pages": [
+   85,
+   110
+  ],
+  "printed_pages": [
+   55,
+   79
+  ],
+  "words": 8844,
+  "file": "p1-ch04.txt"
+ },
+ {
+  "id": "p1-ch05",
+  "kind": "chapter",
+  "part": 1,
+  "heading": "CHAPTER   V",
+  "title_en": "THE RECONCILIATION",
+  "pdf_pages": [
+   111,
+   132
+  ],
+  "printed_pages": [
+   81,
+   102
+  ],
+  "words": 7510,
+  "file": "p1-ch05.txt"
+ },
+ {
+  "id": "p1-postscript",
+  "kind": "postscript",
+  "part": 1,
+  "heading": "POSTSCRIPT  TO   PART   I",
+  "title_en": "",
+  "pdf_pages": [
+   133,
+   138
+  ],
+  "printed_pages": [
+   105,
+   105
+  ],
+  "words": 1256,
+  "file": "p1-postscript.txt"
+ },
+ {
+  "id": "p2-ch01",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   I",
+  "title_en": "PHILOSOPHY DEFINED",
+  "pdf_pages": [
+   139,
+   146
+  ],
+  "printed_pages": [
+   113,
+   115
+  ],
+  "words": 2415,
+  "file": "p2-ch01.txt"
+ },
+ {
+  "id": "p2-ch02",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   II",
+  "title_en": "THE DATA OF PHILOSOPHY",
+  "pdf_pages": [
+   147,
+   165
+  ],
+  "printed_pages": [
+   120,
+   135
+  ],
+  "words": 6275,
+  "file": "p2-ch02.txt"
+ },
+ {
+  "id": "p2-ch03",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   III",
+  "title_en": "SPACE, TIME, MATTER, MOTION, AND FORCE",
+  "pdf_pages": [
+   166,
+   175
+  ],
+  "printed_pages": [
+   136,
+   147
+  ],
+  "words": 3187,
+  "file": "p2-ch03.txt"
+ },
+ {
+  "id": "p2-ch04",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   IV",
+  "title_en": "THE INDESTRUCTIBILITY OF MATTER",
+  "pdf_pages": [
+   176,
+   182
+  ],
+  "printed_pages": [
+   148,
+   154
+  ],
+  "words": 2140,
+  "file": "p2-ch04.txt"
+ },
+ {
+  "id": "p2-ch05",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   V",
+  "title_en": "THE CONTINUITY OF MOTION",
+  "pdf_pages": [
+   183,
+   192
+  ],
+  "printed_pages": [
+   156,
+   163
+  ],
+  "words": 3289,
+  "file": "p2-ch05.txt"
+ },
+ {
+  "id": "p2-ch06",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   VI",
+  "title_en": "THE PERSISTENCE OF FORCE*",
+  "pdf_pages": [
+   193,
+   199
+  ],
+  "printed_pages": [
+   165,
+   171
+  ],
+  "words": 2395,
+  "file": "p2-ch06.txt"
+ },
+ {
+  "id": "p2-ch07",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER    VII",
+  "title_en": "THE PERSISTENCE OF RELATIONS AMONG FORCES",
+  "pdf_pages": [
+   200,
+   202
+  ],
+  "printed_pages": [
+   172,
+   174
+  ],
+  "words": 890,
+  "file": "p2-ch07.txt"
+ },
+ {
+  "id": "p2-ch08",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   VIII",
+  "title_en": "THE TRANSFORMATION AND EQUIVALENCE OF FORCES",
+  "pdf_pages": [
+   203,
+   228
+  ],
+  "printed_pages": [
+   175,
+   200
+  ],
+  "words": 8727,
+  "file": "p2-ch08.txt"
+ },
+ {
+  "id": "p2-ch09",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER    IX",
+  "title_en": "THE DIRECTION OF MOTION",
+  "pdf_pages": [
+   229,
+   249
+  ],
+  "printed_pages": [
+   202,
+   221
+  ],
+  "words": 7134,
+  "file": "p2-ch09.txt"
+ },
+ {
+  "id": "p2-ch10",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   X",
+  "title_en": "THE RHYTHM OF MOTION",
+  "pdf_pages": [
+   250,
+   268
+  ],
+  "printed_pages": [
+   222,
+   239
+  ],
+  "words": 6567,
+  "file": "p2-ch10.txt"
+ },
+ {
+  "id": "p2-ch11",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XI",
+  "title_en": "RECAPITULATION, CRITICISM, AND RECOMMENCEMENT",
+  "pdf_pages": [
+   269,
+   273
+  ],
+  "printed_pages": [
+   241,
+   245
+  ],
+  "words": 1487,
+  "file": "p2-ch11.txt"
+ },
+ {
+  "id": "p2-ch12",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XII",
+  "title_en": "EVOLUTION AND DISSOLUTION",
+  "pdf_pages": [
+   274,
+   282
+  ],
+  "printed_pages": [
+   246,
+   254
+  ],
+  "words": 2847,
+  "file": "p2-ch12.txt"
+ },
+ {
+  "id": "p2-ch13",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER  XIII",
+  "title_en": "SIMPLE AND COMPOUND EVOLUTION",
+  "pdf_pages": [
+   283,
+   300
+  ],
+  "printed_pages": [
+   256,
+   272
+  ],
+  "words": 5670,
+  "file": "p2-ch13.txt"
+ },
+ {
+  "id": "p2-ch14",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XIV",
+  "title_en": "THE LAW OF EVOLUTION",
+  "pdf_pages": [
+   301,
+   321
+  ],
+  "printed_pages": [
+   274,
+   293
+  ],
+  "words": 6816,
+  "file": "p2-ch14.txt"
+ },
+ {
+  "id": "p2-ch15",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER  XV",
+  "title_en": "THE LAW OF EVOLUTION CONTINUED",
+  "pdf_pages": [
+   322,
+   353
+  ],
+  "printed_pages": [
+   294,
+   325
+  ],
+  "words": 10652,
+  "file": "p2-ch15.txt"
+ },
+ {
+  "id": "p2-ch16",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER    XVI",
+  "title_en": "THE LAW OF EVOLUTION CONTINUED",
+  "pdf_pages": [
+   354,
+   371
+  ],
+  "printed_pages": [
+   326,
+   343
+  ],
+  "words": 5760,
+  "file": "p2-ch16.txt"
+ },
+ {
+  "id": "p2-ch17",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER  XVII",
+  "title_en": "THE LAW OF EVOLUTION CONCLUDED",
+  "pdf_pages": [
+   372,
+   387
+  ],
+  "printed_pages": [
+   344,
+   359
+  ],
+  "words": 5022,
+  "file": "p2-ch17.txt"
+ },
+ {
+  "id": "p2-ch18",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XVIII",
+  "title_en": "THE INTERPRETATION OF EVOLUTION",
+  "pdf_pages": [
+   388,
+   391
+  ],
+  "printed_pages": [
+   360,
+   363
+  ],
+  "words": 1071,
+  "file": "p2-ch18.txt"
+ },
+ {
+  "id": "p2-ch19",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER  XIX",
+  "title_en": "THE INSTABILITY OF THE HOMOGENEOUS: EXEMPLIFYING INSTABILITY AT LARGE*",
+  "pdf_pages": [
+   392,
+   417
+  ],
+  "printed_pages": [
+   364,
+   389
+  ],
+  "words": 8595,
+  "file": "p2-ch19.txt"
+ },
+ {
+  "id": "p2-ch20",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XX",
+  "title_en": "THE MULTIPLICATION OF EFFECTS",
+  "pdf_pages": [
+   418,
+   442
+  ],
+  "printed_pages": [
+   390,
+   413
+  ],
+  "words": 8202,
+  "file": "p2-ch20.txt"
+ },
+ {
+  "id": "p2-ch21",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER  XXI",
+  "title_en": "SEGREGATION",
+  "pdf_pages": [
+   443,
+   464
+  ],
+  "printed_pages": [
+   416,
+   436
+  ],
+  "words": 7457,
+  "file": "p2-ch21.txt"
+ },
+ {
+  "id": "p2-ch22",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XXII",
+  "title_en": "EQUILIBRATION",
+  "pdf_pages": [
+   465,
+   491
+  ],
+  "printed_pages": [
+   437,
+   463
+  ],
+  "words": 9138,
+  "file": "p2-ch22.txt"
+ },
+ {
+  "id": "p2-ch23",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XXII!",
+  "title_en": "DISSOLUTION",
+  "pdf_pages": [
+   492,
+   510
+  ],
+  "printed_pages": [
+   464,
+   482
+  ],
+  "words": 6380,
+  "file": "p2-ch23.txt"
+ },
+ {
+  "id": "p2-ch24",
+  "kind": "chapter",
+  "part": 2,
+  "heading": "CHAPTER   XXIV",
+  "title_en": "SUMMARY AND CONCLUSION",
+  "pdf_pages": [
+   511,
+   530
+  ],
+  "printed_pages": [
+   483,
+   499
+  ],
+  "words": 5390,
+  "file": "p2-ch24.txt"
+ },
+ {
+  "id": "app-a",
+  "kind": "appendix",
+  "part": 2,
+  "heading": "APPENDIX   A",
+  "title_en": "NOTE TO CHAPTERS XVII AND XIX",
+  "pdf_pages": [
+   531,
+   534
+  ],
+  "printed_pages": [
+   504,
+   506
+  ],
+  "words": 1125,
+  "file": "app-a.txt"
+ },
+ {
+  "id": "app-b",
+  "kind": "appendix",
+  "part": 2,
+  "heading": "APPENDIX   B",
+  "title_en": "DEALING WITH CERTAIN CRITICISMS",
+  "pdf_pages": [
+   535,
+   555
+  ],
+  "printed_pages": [
+   509,
+   527
+  ],
+  "words": 7098,
+  "file": "app-b.txt"
+ },
+ {
+  "id": "app-c",
+  "kind": "appendix",
+  "part": 2,
+  "heading": "APPENDIX  C",
+  "title_en": "DEALING WITH SOME CRITICISMS OF PROF. WARD",
+  "pdf_pages": [
+   556,
+   563
+  ],
+  "printed_pages": [
+   528,
+   535
+  ],
+  "words": 2398,
+  "file": "app-c.txt"
+ },
+ {
+  "id": "app-d",
+  "kind": "appendix",
+  "part": 2,
+  "heading": "APPENDIX   D",
+  "title_en": "THE GENESIS OF GASEOUS NEBULAE",
+  "pdf_pages": [
+   564,
+   568
+  ],
+  "printed_pages": [
+   536,
+   539
+  ],
+  "words": 1073,
+  "file": "app-d.txt"
+ }
+]

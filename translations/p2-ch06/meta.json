@@ -1,0 +1,30 @@
+{
+  "unit": "p2-ch06",
+  "description": "Spencer, kuvvetin iki kipini ayırır; kalıcılığının kanıtlanamayıp her ölçümde varsayılan nihai postulat olduğunu ve Mutlak Kuvveti imlediğini gösterir.",
+  "summary": "Spencer, maddenin uzay kaplamasını sağlayan içsel kuvvet ile enerji denen dışsal kuvveti ayırır ve her ikisinin kalıcı olduğunu ileri sürer. Maddenin yok edilemezliği ve hareketin sürekliliği ölçümle kurulurken, kuvvetin kalıcılığı her ölçümde örtük olarak varsayıldığı için kanıtlanamaz; o, bilimin dayandığı fakat bilimle kurulamayan en geniş hakikattir. Kalıcılığı yüklenen kuvvet, bilincimizdeki çaba duygusunun ötesindeki Mutlak Kuvvettir; böylece Din ile Bilimin birleştiği Bilinemez'e yeniden ulaşılır. Başlık dipnotu 'kalıcılık' sözcüğünün Huxley'in önerisiyle 'korunum' yerine seçilmesinin nedenlerini açıklar.",
+  "sections": [60, 62],
+  "ocr_issues": [
+    "§ 60 ikinci dipnotunda ('Concerning the fundamental distinction...') ana taramada bozuk olan 'a resistance we are obliged s figured fn thought 1' kesimi ikinci (temiz) taramayla (p2-ch06-alt-fn.txt) doğrulandı: 'a resistance we are obliged to symbolize as the equivalent of the muscular force it opposes. In imagining a unit of matter we may not ignore this symbol, by which alone a unit of matter can be figured in thought as an existence.' — ana taramada düşen cümle eklendi ve bozuk cümle birebir yeniden çevrildi. 'There is, however, a further...' cümlesinin ayrı paragraf olduğu da bu taramayla doğrulandı.",
+    "§ 60: 'passive but independent'' — sonundaki fazla kesme işareti OCR artığı sayıldı.",
+    "Başlık dipnotu (* Some explanation of this title is needful...) OCR'da § 60'ın ortasına karışmıştı; [^1] olarak ayrıldı ve referansı § 60 işaretinden hemen sonraya kondu."
+  ],
+  "terms": [
+    {"key": "Energy", "tr": "enerji", "explanation": "Fizikçilerin, değişim yapan türden kuvvete verdiği özel ad; kütlesel hareketi ve onun dönüştüğü ısı, ışık gibi kipleri kapsar."},
+    {"key": "perceptible activity", "tr": "algılanabilir etkinlik", "explanation": "Görünür hareket olarak kendini gösteren etkinlik; fizikçilerin 'edimsel enerji' dediği şey."},
+    {"key": "actual energy", "tr": "edimsel enerji", "explanation": "19. yüzyıl fiziğinde hareket hâlindeki cismin sahip olduğu enerji için kullanılan ad (bugünkü kinetik enerji); potansiyel enerjinin karşıtı."},
+    {"key": "latent activity", "tr": "gizil etkinlik", "explanation": "Algılanamayan fakat var olmaya devam eden etkinlik; fizikçilerin 'potansiyel enerji' dediği şey."},
+    {"key": "potential energy", "tr": "potansiyel enerji", "explanation": "Cisimlerin konumlarından ya da kimyasal birleşimlerinden dolayı sahip oldukları, henüz hareket olarak görünmeyen enerji."},
+    {"key": "intrinsic force", "tr": "içsel kuvvet", "explanation": "Spencer'ın, maddenin uzayda yer kaplamasını ve direnç göstermesini sağlayan, edilgin fakat bağımsız kuvvete verdiği ad."},
+    {"key": "extrinsic force", "tr": "dışsal kuvvet", "explanation": "Spencer'ın, maddenin başka maddelerle ilişkilerine bağlı olan, değişim üreten etkin kuvvete (enerjiye) verdiği ad."},
+    {"key": "atom", "tr": "atom", "explanation": "Maddenin bölünemez sayılan en küçük birimi; Spencer'da içsel ve dışsal kuvvet ayrımının en açık görüldüğü yalın veri."},
+    {"key": "strain", "tr": "gerilim", "explanation": "Kasın ya da bir cismin, hareket üretmeksizin de var olabilen zorlanma durumu; Spencer'da kuvvet fikrinin öznel kaynağı."},
+    {"key": "geodesy", "tr": "jeodezi", "explanation": "Yerin biçimini ve boyutlarını ölçen bilim dalı; standart uzunluk ölçüsünden türetilen ölçümlerin bir alanı."},
+    {"key": "celestial dynamics", "tr": "gök dinamiği", "explanation": "Gök cisimlerinin kuvvetler etkisindeki hareketlerini inceleyen gökbilim dalı; her problemi bir kuvvet birimi varsayımına dayanır."},
+    {"key": "equality of action and reaction", "tr": "etki ile tepkinin eşitliği", "explanation": "Newton'un üçüncü yasası: her etkiye eşit ve karşıt bir tepki karşılık gelir; Spencer'a göre bu, kuvvetin kalıcılığını ileri sürmekle aynı şeydir."},
+    {"key": "tension", "tr": "gerginlik", "explanation": "Kasın ya da gerilmiş bir cismin çekme durumu; kuvvet sözcüğünün gündelik anlamda karşılık geldiği çaba duygusu."},
+    {"key": "momentum", "tr": "momentum", "explanation": "Hareket eden bir cismin kütlesi ile hızının çarpımı; kas gerilimine yeniden dönüşebilen hareket miktarı."},
+    {"key": "correlative", "tr": "bağlılaşık", "explanation": "Bir şeyin zorunlu karşılığı ya da eşleniği; bilincimizdeki kuvvetin karşılığı olan Mutlak Kuvvet, Bilinebilir'in karşılığı olan Bilinemez gibi."},
+    {"key": "Unconditioned Reality", "tr": "Koşulsuz Gerçeklik", "explanation": "Hiçbir koşula bağlı olmayan, başlangıcı ve sonu bulunmayan nihai gerçeklik; Spencer'a göre kuvvetin kalıcılığını ileri sürmek bunu ileri sürmektir."},
+    {"key": "Conservation of Force", "tr": "Kuvvetin Korunumu", "explanation": "1860'larda enerjinin korunumu ilkesi için yaygın olan ad; Spencer bir koruyucu ve koruma edimi imlediği gerekçesiyle bunun yerine 'kalıcılık'ı benimsemiştir."}
+  ]
+}

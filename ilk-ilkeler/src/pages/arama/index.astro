@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import SearchBox from '../../components/SearchBox';
+import { BOOK } from '../../data/book';
+---
+<Base title="Kitapta Ara" description={`${BOOK.title} çevirisinin bütün bölümlerinde ve terimler sözlüğünde tam metin arama.`} current="/arama/" noindex>
+  <div class="page page-narrow">
+    <h1 class="title">Kitapta ara</h1>
+    <p class="subtitle">Bölüm metinlerinde ve terimler sözlüğünde arayın.</p>
+    <SearchBox client:load />
+  </div>
+</Base>

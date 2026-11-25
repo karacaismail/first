@@ -1,0 +1,300 @@
+[
+ {
+  "unit": "preface-1st",
+  "title": "Birinci Baskıya Önsöz",
+  "href": "/onsozler/birinci-baskiya-onsoz/",
+  "issues": [
+   "Kaynakta yalnız ⟦PAGE pdfNN⟧ (basılı numarası okunamayan) sayfa işaretleri var (pdf20–pdf24); yönerge gereği atlandı, çeviride sayfa işareti yok.",
+   "Üçüncü dipnottaki 'Medico-Chirurgical Review for January. 1850' tarihi OCR hatası sayılarak 1859 olarak düzeltildi (ikinci dipnotta aynı yazı Ocak 1859 olarak anılıyor).",
+   "'Mcdico-Chirurgical', 'THB', '^ESTHETIC', 'Form/'', 'Population/'' gibi OCR bozuklukları bağlamdan düzeltildi.",
+   "Tarih satırı 'June 5<A, 1862' → '5 Haziran 1862' olarak düzeltildi."
+  ]
+ },
+ {
+  "unit": "preface-4th",
+  "title": "Dördüncü Baskıya Önsöz",
+  "href": "/onsozler/dorduncu-baskiya-onsoz/",
+  "issues": [
+   "Kaynakta yalnız ⟦PAGE pdf26⟧ işareti var; yönerge gereği atlandı, çeviride sayfa işareti yok.",
+   "'^ *s manifest' → 'it is manifest', 'XVIL' → 'XVII.' olarak bağlamdan düzeltildi."
+  ]
+ },
+ {
+  "unit": "preface-6th",
+  "title": "Altıncı Baskıya Önsöz",
+  "href": "/onsozler/altinci-baskiya-onsoz/",
+  "issues": [
+   "'§§ 710-71^' → '§§ 71a–71b', '§§ 182-3 •' → '§§ 182–3', 'in' → '111', '1390' → '139a' olarak bağlamdan düzeltildi.",
+   "Kaynak dosyada önsöz imzasından sonra İÇİNDEKİLER tablosu (⟦PAGE pdf29⟧–⟦PAGE pdf32⟧ arası, OCR'ı bozuk sayfa numaralarıyla) ve 'PART I THE UNKNOWABLE' kısım başlığı yer alıyor; bunlar önsözün parçası olmadığından çevrilmedi. İstenirse ayrı birim olarak çevrilebilir.",
+   "⟦PAGE 541⟧ işareti İçindekiler bloğunun içinde ve bariz hatalı (önsöz Roma rakamlı sayfalardadır); İçindekiler çevrilmediği için bu işaret de çeviriye alınmadı. ⟦PAGE pdf28⟧ yönerge gereği atlandı."
+  ]
+ },
+ {
+  "unit": "p1-ch01",
+  "title": "Bölüm I · Din ve Bilim",
+  "href": "/bilinemez/din-ve-bilim/",
+  "issues": [
+   "§ 4, 'Regarding Science as a gradually increasing sphere, we may say that every addition to its surface does not bring it into wider contact with surrounding nescience': OCR'daki 'does not' bağlamla (sonraki cümledeki 'therefore') çelişir; 6. baskıdaki 'does but bring' okuması esas alınarak 'yalnızca daha geniş bir temasa soktuğunu' biçiminde çevrildi.",
+   "§ 4, 'derived out of human experiences,^ slowly accumulated': virgülden sonraki '^' işareti OCR artığı sayıldı; birimde buna karşılık gelen bir dipnot metni bulunmadığından dipnot olarak işlenmedi.",
+   "§ 1'deki ⟦PAGE 4⟧ işareti, basılı sayfa aralığı 4–17 olduğu hâlde bölümün ilk sayfasının ortasında yer alıyor (muhtemelen 5. sayfanın başlangıcını işaretliyor); kaynaktaki numara olduğu gibi (⟦4⟧) korundu.",
+   "Sayfa başlarındaki OCR koşu başlıkları ('S RELIGION AND SCIENCE', 'io RELIGION AND SCIENCE', 'RELIGION AND SCIENCE u', 'I4 RELIGION AND SCIENCE', '1 8 RELIGION AND SCIENCE') ve ⟦PAGE pdf38/pdf40/pdf41/pdf44/pdf48⟧ işaretleri atlandı; 'teliefs', 'hi opinions', 'pur knowledge', 'conclusion i showing', 'to. take', '§ i.' bağlamdan düzeltildi."
+  ]
+ },
+ {
+  "unit": "p1-ch03",
+  "title": "Bölüm III · Nihai Bilimsel Fikirler",
+  "href": "/bilinemez/nihai-bilimsel-fikirler/",
+  "issues": [
+   "Görev başlığında § 15–23 deniyor; kaynak dosyada ise bölüm § 21 ile (basılı s. 54) bitiyor. Dosyadaki § 15–21 eksiksiz çevrildi; § 22–23 kaynakta yok.",
+   "Basılı 53. sayfa işareti yalnızca ⟦PAGE pdf83⟧ olarak ve '.ULTIMATE SCIENTIFIC IDEAS 53' sayfa başlığı artığıyla geldi; yönerge gereği pdf işareti atlandı ve başlık artığı metinden çıkarıldı (sayfa 53 çeviride işaretsiz).",
+   "Bariz OCR bozuklukları bağlamdan düzeltildi: 'aie' → 'are', 'hi its' → 'in its', 'outr side' → 'outside', 'nothing out empty extension' → 'nothing but', 'real egol' → 'real ego?', 'imples' → 'implies', 'annihilation ol both' → 'of both', 'force/'' → 'force,\"'. Çözülemeyen yer kalmadı."
+  ]
+ },
+ {
+  "unit": "p1-ch04",
+  "title": "Bölüm IV · Bütün Bilginin Göreliliği",
+  "href": "/bilinemez/butun-bilginin-goreliligi/",
+  "issues": [
+   "s. 77 sonundaki ağır OCR kaybı ('...we cannot expel the entire contents of consci remains behind an element which ... Though not directly •e ever $') aynı baskının ikinci (temiz) taramasıyla (chapters/p1-ch04-alt-p77.txt) doğrulandı. Eksik iki paragraf ('there ever remains behind an element which passes into new shapes...' ve 'And here we come face to face with the ultimate difficulty...') bu metne göre birebir çevrildi; ilk taramadan bağlamla tamamlanan metin ikinci taramayla örtüştü, yalnız 'its conditions' ifadesi ('kendi koşullarının') düzeltildi ve ⟦78⟧ işareti 'conditions' sözcüğünün önüne alındı.",
+   "s. 78 piyano örneğindeki OCR bozuklukları ('idgas QI its reiftote'side', 'tfop pedals', 'Nfofcr as in this case we ioijri', 'teafistfence', 'limjfs', '^s') ikinci taramayla doğrulandı: 'ideas of its remote side and of its solid substance', 'the pedals', 'Now as in this case we form a definite concept of a special existence', 'limits and conditions in successive acts'. 'remote side' karşılığı 'öteki yanı' olarak düzeltildi.",
+   "⟦PAGE pdf110⟧ işareti yönerge gereği atlandı; ardındaki '8o THE RELATIVITY OF ALL KNOWLEDGE' sayfa başlığı, 'which persists at all times' ifadesinden itibaren basılı 80. sayfanın başladığını gösterir, ancak sayı okunamadığı için ⟦80⟧ eklenmedi.",
+   "s. 57 'comprehension\"*' ve s. 63 'constituted.'*' içindeki yıldızlar dipnot işareti değil, kapanış tırnağının OCR artığıdır; bölümde dipnot yoktur.",
+   "s. 55 'philsopher', 'reechoed', 'gaming ground', 'St. Augustm', 'hi themselves', 'Augustm' gibi küçük OCR hataları bağlamdan düzeltildi (philosopher, re-echoed, gaining ground, St. Augustin, in themselves).",
+   "Çeviri sözcük sayısı kaynağın %75'i: paragraf paragraf oran 0,70–0,80 arasında tekbiçimli olduğundan içerik eksiği değil, Türkçenin eklemeli yapısından kaynaklanan doğal kısalmadır."
+  ]
+ },
+ {
+  "unit": "p1-ch05",
+  "title": "Bölüm V · Uzlaşma",
+  "href": "/bilinemez/uzlasma/",
+  "issues": [
+   "§ 32, s. 97–98 arası: ilk taramada ağır biçimde bozuk olan pasaj ('Tn^^ clearly how a right or wrong act gg0£ra£e& …') aynı baskının ikinci, temiz taramasıyla (chapters/p1-ch05-alt-p97.txt) doğrulandı; çeviri bu metne göre birebir kontrol edildi, yalnız bir cümlede başlangıçtaki 'And' bağlacı eklendi.",
+   "§ 32 sonu, s. 98: 'During those early stages X v • \"' — satır sonundaki 'X v • \"' OCR gürültüsü olarak atıldı; 'the old1 belief' → 'the old belief' olarak okundu.",
+   "Basılı 90 ve 100. sayfaların işaretleri kaynakta yalnız pdf numarasıyla (pdf120, pdf130) verildiği için çeviriye konmadı."
+  ]
+ },
+ {
+  "unit": "p1-postscript",
+  "title": "Birinci Kısma Son Not",
+  "href": "/bilinemez/birinci-kisma-son-not/",
+  "issues": [
+   "Basılı 103 → 104 sayfa geçişi kaynakta 'E 103 ⟦PAGE pdf134⟧ io4' biçiminde (forma işareti 'E' ve sayfa numaraları) görünüyor; basılı numaralı ⟦PAGE⟧ işareti bulunmadığından çeviriye yalnız ⟦105⟧ işareti konuldu.",
+   "'The Unknowable/'' → 'The Unknowable,' ve 'oefore' → 'before' olarak okundu.",
+   "Metnin sonundaki 'THE KNOWABLE' (pdf137) İkinci Kısım'ın yarım başlık sayfasıdır; Son Not'un parçası olmadığı için çeviriye alınmadı."
+  ]
+ },
+ {
+  "unit": "p2-ch03",
+  "title": "Bölüm III · Uzay, Zaman, Madde, Hareket ve Kuvvet",
+  "href": "/bilinebilir/uzay-zaman-madde-hareket-ve-kuvvet/",
+  "issues": [
+   "Basılı 140–141. sayfalar ana OCR'da yoktu; aynı baskının başka bir taramasından (p2-ch03-gap-140-141.txt) tamamlandı ve § 46'nın sonu ile § 47 bu parçadan çevrildi. Parçadaki koşu başlıkları ('…141', '142 SPACE, TIME…') metinden çıkarıldı.",
+   "§ 47'nin '*' dipnotu ikinci taramada 'the writer's Principles of Psychology,' ifadesinden sonra virgülle kesiliyor (muhtemelen cilt/kısım göndermesi eksik); dipnot [^1] eldeki metin kadar çevrildi. Dipnot işareti kaynakta '§ 47.*' biçiminde kesim numarasına bağlıdır; '§ 47. ' çapa biçimini bozmamak için [^1] ilk cümlenin sonuna kondu.",
+   "⟦PAGE pdf170⟧ ve ⟦PAGE pdf172⟧ işaretleri yönerge gereği atlandı; OCR'daki koşu başlıklarına ('I42 SPACE, TIME…', 'I44 …') göre bunlar basılı 142 ve 144. sayfalardır. Koşu başlıkları metinden çıkarıldı.",
+   "'§§ 5°» 51-' → '§§ 50, 51.' olarak düzeltildi; Spencer iki kesimi tek başlıkta birleştirmiş, çeviride de '§§ 50, 51. ' biçiminde korundu (tek-numara çapa isteniyorsa '§ 50. ' yapılabilir).",
+   "Düzeltilen bariz OCR hataları: 'aft our senses' → 'all our senses'; 'hi the genesis' → 'in the genesis'; 'cancelled* The comet' ve 'to* its original' içindeki yıldızlar noktalama gürültüsü sayıldı (dipnot yok)."
+  ]
+ },
+ {
+  "unit": "p2-ch04",
+  "title": "Bölüm IV · Maddenin Yok Edilemezliği",
+  "href": "/bilinebilir/maddenin-yok-edilemezligi/",
+  "issues": [
+   "⟦PAGE pdf178⟧ işareti yönerge gereği atlandı; koşu başlığına ('I5o THE INDESTRUCTIBILITY OF MATTER') göre basılı 150. sayfadır. Koşu başlığı metinden çıkarıldı.",
+   "Düzeltilen bariz OCR hataları: '7 and 5 are n' → '11' (iki yerde); 'o£ which' → 'of which'; 'selfevident', 'nonrecognition', 'neverceasing', 'moredeveloped', 'bankclerk' bitişik yazımları; 'assertion,,' çift virgül; dipnottaki 'freight 1' → 'freight!'; dipnot içindeki 'folded up tightly*' yıldızı gürültü sayıldı.",
+   "Shakespeare alıntısı OCR'da 'leave not a wrack behind' biçimindedir (Fırtına'daki 'rack'); anlam korunarak çevrildi.",
+   "Başlıkta '§ 52–55 civarı' deniyor; kaynak metin § 54'ün sonundaki dipnotla bitiyor, § 55 bu birimde yok (Bölüm V'in ilk kesimi olmalı)."
+  ]
+ },
+ {
+  "unit": "p2-ch05",
+  "title": "Bölüm V · Hareketin Sürekliliği",
+  "href": "/bilinebilir/hareketin-surekliligi/",
+  "issues": [
+   "§ 55: ana taramada sütun kenarı kesik olan paragraf ('ment of certain facts having to inquiries which have provecl illusive ...') aynı baskının ikinci (temiz) taramasıyla (p2-ch05-alt-s55.txt) doğrulandı ve birebir yeniden çevrildi; 'To explain here all disappearances...' cümlesinin ayrı paragraf olduğu da bu taramayla doğrulandı.",
+   "§ 55 dipnotu (* Throughout this chapter I use this phrase, not with any metaphysical meaning, but merely to avoid foregone conclusions.) ikinci taramayla doğrulandı ve tam metinden çevrildi.",
+   "§ 56: Newton alıntısı ve izleyen iki cümle ağır biçimde bozuk ('fcody', '^uniform motio*^', 'diarige, tl^at', 'lUnditninished velocity', 'seionH'); hareketin birinci yasasının bilinen metnine göre düzeltildi.",
+   "§ 59: 'correrid with a certain calculated position which the Eet must occupy, supposing that no motion has been >st' — 'correspond', 'planet', 'lost' olarak okundu.",
+   "⟦PAGE pdf192⟧ sonrasındaki 'i64 THE CONTINUITY OF MOTION' sayfa başlığı atlandı; bu sayfadaki metin ikinci dipnotun devamı olarak birleştirildi."
+  ]
+ },
+ {
+  "unit": "p2-ch06",
+  "title": "Bölüm VI · Kuvvetin Kalıcılığı",
+  "href": "/bilinebilir/kuvvetin-kaliciligi/",
+  "issues": [
+   "§ 60 ikinci dipnotunda ('Concerning the fundamental distinction...') ana taramada bozuk olan 'a resistance we are obliged s figured fn thought 1' kesimi ikinci (temiz) taramayla (p2-ch06-alt-fn.txt) doğrulandı: 'a resistance we are obliged to symbolize as the equivalent of the muscular force it opposes. In imagining a unit of matter we may not ignore this symbol, by which alone a unit of matter can be figured in thought as an existence.' — ana taramada düşen cümle eklendi ve bozuk cümle birebir yeniden çevrildi. 'There is, however, a further...' cümlesinin ayrı paragraf olduğu da bu taramayla doğrulandı.",
+   "§ 60: 'passive but independent'' — sonundaki fazla kesme işareti OCR artığı sayıldı.",
+   "Başlık dipnotu (* Some explanation of this title is needful...) OCR'da § 60'ın ortasına karışmıştı; [^1] olarak ayrıldı ve referansı § 60 işaretinden hemen sonraya kondu."
+  ]
+ },
+ {
+  "unit": "p2-ch08",
+  "title": "Bölüm VIII · Kuvvetlerin Dönüşümü ve Eşdeğerliği",
+  "href": "/bilinebilir/kuvvetlerin-donusumu-ve-esdegerligi/",
+  "issues": [
+   "Basılı numarası okunamayan ⟦PAGE pdf208⟧, pdf210, pdf212, pdf216, pdf218 işaretleri (çalışan başlıktan sırasıyla 180, 182, 184, 188, 190 olduğu çıkarsanabiliyor) yönerge gereği atlandı; bu sayfa sınırları çeviride işaretsizdir.",
+   "Harfli kesim numaraları OCR'da '§ 710', '§ 716', '§ 710' olarak bozulmuştu; sıraya göre § 71a, § 71b, § 71c olarak düzeltildi.",
+   "Grove alıntılarının kapanış tırnakları OCR'da '/1' olarak bozulmuştu; bağlama göre tırnak olarak kapatıldı. § 73'te ⟦PAGE 200⟧ öncesindeki 'H' matbaa forma işareti olarak değerlendirilip atlandı."
+  ]
+ },
+ {
+  "unit": "p2-ch12",
+  "title": "Bölüm XII · Evrim ve Çözülme",
+  "href": "/bilinebilir/evrim-ve-cozulme/",
+  "issues": [
+   "Kaynakta 'analogy helps us hade' ifadesi 'back' olarak düzeltilerek çevrildi.",
+   "Kaynakta 'will be affected under guidance' ifadesi bağlam gereği 'effected' (gerçekleştirilecek) olarak çevrildi.",
+   "Kaynakta 'the wails' ifadesi 'the walls' (duvarlar) olarak düzeltildi; 'centuries ago. they formed' içindeki fazla nokta yok sayıldı."
+  ]
+ },
+ {
+  "unit": "p2-ch13",
+  "title": "Bölüm XIII · Basit ve Bileşik Evrim",
+  "href": "/bilinebilir/basit-ve-bilesik-evrim/",
+  "issues": [
+   "§ 98 son paragrafları (basılı 256. sayfanın sonu) ana OCR'da ağır biçimde bozuk ve parçalı okunmuştu (\"is^gtj^^tively great, the large size of the ag of the motion; or because^ lost more motion is rapidly ... These several proposi U» Req\"). Pasaj, aynı baskının ikinci (temiz) taramasıyla (p2-ch13-alt-p256.txt) doğrulandı ve o metne göre birebir yeniden çevrildi; paragraf bölünmesi de (\"But when, conversely...\" ve \"These several propositions require some explanation.\" ayrı paragraflar) ikinci taramaya göre düzeltildi. Çözülmemiş sorun kalmadı.",
+   "§ 99: \"of the motion its parts bnce had has been lost\" cümlesinin başında bir sözcük (muhtemelen \"much\"/\"most\") eksik görünüyor; \"hareketin büyük bölümü\" olarak çevrildi.",
+   "§ 99: \"in proportion as the parts of the molecules are freely bound together\" ifadesi bağlama göre \"parts or the molecules\" (parçalar ya da moleküller) olarak yorumlandı.",
+   "§ 104: \"cateris paribus\" OCR hatası; Latince doğru biçim \"ceteris paribus\" kullanıldı.",
+   "Sayfa işaretleri: kaynakta ⟦PAGE pdf292⟧ (koşu başlığı \"*64\"), ikinci bir ⟦PAGE 263⟧ ve ⟦PAGE pdf294⟧ (koşu başlığı \"a66\") biçiminde bozuk üç işaret vardı; 17 işaret 256–272 arası 17 basılı sayfaya denk geldiğinden sırayla 264, 265, 266 olarak düzeltildi ve sonraki 267–272 işaretleri kaynaktaki numaralarıyla korundu."
+  ]
+ },
+ {
+  "unit": "p2-ch14",
+  "title": "Bölüm XIV · Evrim Yasası",
+  "href": "/bilinebilir/evrim-yasasi/",
+  "issues": [
+   "Kaynaktaki ⟦PAGE 186⟧ işareti sıraya göre 286 olmalıdır; ⟦286⟧ olarak düzeltildi.",
+   "⟦PAGE pdf308⟧ işaretinden sonraki '28o THE LAW OF EVOLUTION' satırı basılı 280. sayfanın başlığıdır; yönerge gereği pdf işareti atlandı, sayfa 280 için işaret konmadı.",
+   "Kesim numaraları '§ up' → § 110 ve '§ Hi' → § 111 olarak düzeltildi.",
+   "Carpenter dipnotundaki 'p. 6x7' sayfa numarası okunamıyor; 617 olarak verildi (tahmin).",
+   "'these into still 'r ones' ifadesi 'still higher ones' olarak okundu.",
+   "'nattf al objects', 'compac*6 nd', 'in&ce X of' bozuklukları 'natural objects', 'compact and', 'in place of' olarak okundu.",
+   "'industrial rtgimc' → 'industrial régime'; 'banisters' → 'barristers'; 'terminal i' → 'terminal t'; 'Calenterata/Ccelenterata' → 'Coelenterata'; 'Insccta' → 'Insecta'; 'Invertebrate'/'Vertebrate exhibit' → 'Invertebrata'/'Vertebrata'; 'a still larger integration that any' → 'than any' olarak düzeltildi."
+  ]
+ },
+ {
+  "unit": "p2-ch15",
+  "title": "Bölüm XV · Evrim Yasası (devam)",
+  "href": "/bilinebilir/evrim-yasasi-devam-1/",
+  "issues": [
+   "§ 127: Kaynak OCR'da 'Along with a passage from the coherent to the incoherent' yazıyor; bağlam ve bölümün sonucu tersini gerektirdiğinden 'tutarsızdan tutarlıya' olarak çevrildi (baskı ya da OCR hatası olabilir).",
+   "§ 122 (s. 309): 'obeisances made* before the monarch' ifadesindeki yıldız OCR artığı sayıldı; kesimin tek dipnotu 'the due of all.*' noktasına bağlandı.",
+   "§ 119 (s. 300): 'Of o^ same general character are the transformations unc^ tbne by' → 'Of the same general character are the transformations undergone by' olarak okundu.",
+   "§ 121 (s. 306): 'relatively larger siztPt>f the bones' → 'relatively larger size of the bones' olarak okundu.",
+   "§ 123: 'Max Midler' → Max Müller; 'phSolegists' → philologists; § 125: '^Eolian' → Aeolian, 'i8th' → 18th; § 124: 'anvi' → and, 'an£' → and, 'we' see' → we see, 'all Jin some sort' → all in some sort; § 125: 'So, top,' → So, too; dipnot 3: 'that tune' → that time, 'ana cautious' → and cautious, 'uj>on' → upon, 'increase m heterogeneity' → in heterogeneity.",
+   "§ 120 (s. 304): Huxley alıntılarındaki tırnak işaretleri OCR'da bozuk ('Persistent Types —', 'fossil/'', 'creation ''); alıntı sınırları bağlama göre belirlendi.",
+   "§ 125: 'danced and sung \" at the inauguration of the golden calf...' alıntısının açılış tırnağı OCR'da kaymış; alıntı 'at the inauguration' ile başlatıldı.",
+   "Sayfa 304, 310 ve 318 işaretleri kaynakta yalnız pdf numarasıyla (pdf332, pdf338, pdf346) verildiği için atlandı; 'L' forma işareti ve sayfa üstü başlıklar çıkarıldı."
+  ]
+ },
+ {
+  "unit": "p2-ch16",
+  "title": "Bölüm XVI · Evrim Yasası (devam)",
+  "href": "/bilinebilir/evrim-yasasi-devam-2/",
+  "issues": [
+   "Basılı sayfa 328'in işareti kaynakta ⟦PAGE pdf356⟧ biçiminde (basılı numara okunamamış) geldiğinden yönerge gereği atlandı; çeviride ⟦328⟧ yok.",
+   "Kaynakta sayfa 328 başındaki satır başlığı ('3*8 THE LAW OF EVOLUTION CONTINUED') ana metne karışmıştı; çıkarıldı."
+  ]
+ },
+ {
+  "unit": "p2-ch17",
+  "title": "Bölüm XVII · Evrim Yasası (sonuç)",
+  "href": "/bilinebilir/evrim-yasasi-sonuc/",
+  "issues": [
+   "İkinci kesim başlığı OCR'da '§ 1390.' görünüyor; sıraya göre (139 ile 140 arasında) '§ 139a.' olarak düzeltildi.",
+   "§ 140 başlangıcı: 'from many points at ir^ *-v distances with many degrees of indirectness, mumble nry into the nebulous mass' bozuk; ikinci taramayla doğrulandı: 'at many distances ... must carry into', çeviri buna göre düzeltildi.",
+   "§ 141 sonu: 'the change: Arihe Earth's crust itself, have presented an analcejous p^oigress' bozuk; ikinci taramayla doğrulandı: 'the changes in the Earth's crust itself, have presented an analogous progress'. Bağlamdan yapılan yorum birebir doğru çıktı; çeviri değişmedi.",
+   "§ 144: 'increased in precision;1' ifadesindeki '1' ikinci taramayla doğrulandı: temiz metin 'increased in precision; so that in battle' biçiminde, dipnot işareti yok. OCR artığı olduğu kesinleşti; dipnot eklenmedi.",
+   "Bölüm sonundaki editör notunda OCR, '§ 116 (page 295)' göndermesini ayrı paragrafa bölmüştü; notun içindeki cümleyle birleştirildi."
+  ]
+ },
+ {
+  "unit": "p2-ch19",
+  "title": "Bölüm XIX · Homojen Olanın Kararsızlığı",
+  "href": "/bilinebilir/homojen-olanin-kararsizligi/",
+  "issues": [
+   "Kaynaktaki ilk sayfa işareti ⟦PAGE 363⟧ olarak okunmuştur; tam OCR'daki koşu başlıkları (pdf 391 = basılı 363, pdf 392 = bölüm başı 364, pdf 393 = '363' diye okunan 365, pdf 394 = 366 ... pdf 417 = 389) ve metindeki 'sayfa 367' iç göndermesiyle doğrulanarak ⟦365⟧ olarak düzeltildi; sonraki işaretler (366–389) kaynaktaki gibi korundu. Koordinatörün önerdiği 363→364→365… dizisi bu kanıtlarla uyuşmadığı için uygulanmadı.",
+   "§ 151 sonundaki ciddi biçimde bozuk pasaj ('Thus it is maTjjfegt that ... present chemical heterogeneity of ... decrease of heat has permitted] itself in three forms ...') Internet Archive'daki başka bir baskının OCR'ı ile tamamlanarak çevrildi: 'Thus it is manifest that the present chemical heterogeneity of the Earth's surface, and of the bodies upon it, has arisen by degrees as the decrease of heat has permitted; and that it has shown itself in three forms: first, in the multiplication of chemical compounds; second, in the greater number of different elements contained in the more modern of these compounds; and third, in the higher and more varied multiples in which these more numerous elements combine. Without specifying them, it will suffice just to name the meteorologic processes ...'",
+   "§ 152'de 'the protoplasm surrounding it. f But let us pass on' içindeki 'f' işareti tam OCR'da da yalnızca satır başında duran bir artıktır; o sayfada (basılı 374) buna karşılık gelen dipnot metni yoktur; dipnot işareti sayılmadı.",
+   "§ 152'de 'F*7w#-sphere' bağlamdan 'Volvox-sphere' olarak, 'SfhcereUa nivalis' 'Sphaerella nivalis' olarak, 'Amcebce' 'Amoebae' olarak, 'Kerncr' 'Kerner' olarak düzeltildi.",
+   "§ 151'de 'coolingand soldification' → 'cooling and solidification', 'sho\\\\ how' → 'show how'; § 149'da 'tinfrequently' → 'unfrequently', 'ulterior' → 'interior' (bağlam); § 150'de 'tall into the mass' → 'fall into the mass'; § 153'te 'hi the first stage' → 'in the first stage'; § 155'te 'o°' → '0°', 'ot changing' → 'of changing', 'wlu'ch' → 'which'; kapanış notunda 'lack oi' → 'lack of', 'iound' → 'found'. Bunlar bağlamdan düzeltilerek çevrildi.",
+   "Bölüm başlığındaki '*' dipnotu OCR'da § 149'un üçüncü paragrafına karışmıştı ('The idea developed in this chapter originally formed part of an article on Transcendental Physiology...'); [^1] olarak ayrıldı ve referansı § 149'un ilk cümlesinin sonuna konuldu. Görev tanımında anılan 'Some explanation of this title is needful...' metni bu bölümde yoktur (başka bir bölüme aittir)."
+  ]
+ },
+ {
+  "unit": "p2-ch20",
+  "title": "Bölüm XX · Etkilerin Çoğalması",
+  "href": "/bilinebilir/etkilerin-cogalmasi/",
+  "issues": [
+   "Görev tanımında anılan Darwin dipnotu cümlesi (“...would not suffice to account for all the facts without that special cause disclosed by Mr. Darwin”) kaynak OCR metninde yer almıyor; 6. baskıdaki dipnot “Had this paragraph, first published in the Westminster Review in April, 1857...” biçimindedir ve [^2] olarak bu metin çevrildi.",
+   "§ 161'de ⟦PAGE pdf436⟧, ⟦PAGE pdf438⟧, ⟦PAGE pdf440⟧ ve § 162'de ⟦PAGE pdf442⟧ işaretleri (basılı 408, 410, 412, 414) yönerge gereği atlandı; bu sayfaların OCR'a karışan koşu başlıkları (“4o8 THE MULTIPLICATION OF EFFECTS” vb.) çıkarıldı.",
+   "§ 159'da OCR “The modifications would effect” yazıyor; bağlama göre “affect” okunup “etkilerdi” diye çevrildi."
+  ]
+ },
+ {
+  "unit": "p2-ch21",
+  "title": "Bölüm XXI · Ayrışma",
+  "href": "/bilinebilir/ayrisma/",
+  "issues": [
+   "Sayfa 418'in işareti kaynakta yalnızca ⟦PAGE pdf446⟧ biçiminde (basılı numara okunamamış; '4i8 SEGREGATION' başlık artığı) olduğundan yönerge gereği atlandı; 419'dan önce bu sayfanın çeviride işareti yoktur.",
+   "⟦PAGE 416⟧ öncesindeki '4*5' ve ⟦PAGE 424⟧ öncesindeki 'p' OCR sayfa altı artıklarıdır; çeviriye alınmadı.",
+   "§ 169 son paragrafında 'fhases, f of the mixed units' ifadesi 'phases. If of the mixed units' olarak okundu.",
+   "Bölüm başlığı ve kesim numaraları kaynaktaki sırayla (§ 163–169) alındı; görev tanımındaki '§ 166–172' tahmini kaynağa uymuyor."
+  ]
+ },
+ {
+  "unit": "p2-ch22",
+  "title": "Bölüm XXII · Dengelenme",
+  "href": "/bilinebilir/dengelenme/",
+  "issues": [
+   "§ 171 Helmholtz tahminindeki kesirler OCR'da bozuk ('-4B-4th', 'T^.VOTT*', '-^uinT.W?', '^'); 'more than 2000 years' ve 'next million years' ifadeleriyle aritmetik tutarlılığa göre 1/454, 1/10.000, 1/20.000.000 ve 1/20 olarak yeniden kuruldu; basılı nüshayla doğrulanmalı.",
+   "§ 171 'Meanwrj^e, each of these simple perturbations, as well as ea/ g^-jf the complex ones resulting from their combinatio,' ^^inibits' bölümü bağlamdan 'Meanwhile, each of ... as well as each of the complex ones resulting from their combination, exhibits' olarak okundu.",
+   "§ 170 Fransız matematikçilere atfedilen 'equilibrium mobile' kaynakta bu biçimde basılıdır (muhtemelen 'équilibre mobile'); olduğu gibi korundu. § 173 'vis medicatrix natura' → 'vis medicatrix naturae' düzeltildi.",
+   "Basılı sayfa 460'ın işareti kaynakta yalnızca '⟦PAGE pdf488⟧' olarak geldiği ve ardından '46o EQUILIBRATION' sayfa başlığı OCR'a karıştığı için ⟦460⟧ işareti konmadı, sayfa başlığı atıldı. Sayfa 456 öncesindeki 'Q' forma işareti atıldı."
+  ]
+ },
+ {
+  "unit": "p2-ch23",
+  "title": "Bölüm XXIII · Çözülme",
+  "href": "/bilinebilir/cozulme/",
+  "issues": [
+   "Kaynaktaki ⟦PAGE 407⟧ işareti sıra gereği 467 olmalıdır; çeviride ⟦467⟧ olarak yazıldı.",
+   "§ 182'de Sirius'un yoldaşının ışık oranı OCR'da 'aaoooth part' olarak bozuk; 1/10000 (on binde bir) okunuşu benimsendi, 1/20000 olma olasılığı var.",
+   "§ 182a'daki yıldız kümesi adlandırmaları (34 Persei, 103 Cassiopeiae, 32 Cygni, 13 Herculis, 2 Aquarii) OCR'dan aktarıldı; yalnız 'Cassiopeia' ve 'Aquarei' yazımları düzeltildi, numaralar doğrulanamadı.",
+   "Üçüncü dipnotta anılan 'page 1 78' → 178 olarak okundu."
+  ]
+ },
+ {
+  "unit": "p2-ch24",
+  "title": "Bölüm XXIV · Özet ve Sonuç",
+  "href": "/bilinebilir/ozet-ve-sonuc/",
+  "issues": [
+   "Kaynak OCR'da § 191'den sonra doğrudan § 193 geliyor; § 192 işareti düşmüş. 'Let no one suppose that any such implied degree of trustworthiness...' paragrafı, sıraya ve 6. baskının bilinen kesim düzenine göre § 192 olarak numaralandırıldı.",
+   "Kaynağın sonundaki 'THE END' satırı ve ⟦PAGE pdf528–530⟧ / 'APPENDICES' artıkları bölüm gövdesine ait sayılmayıp çevrilmedi."
+  ]
+ },
+ {
+  "unit": "app-a",
+  "title": "Ek A · XVII. ve XIX. Bölümlere Not",
+  "href": "/ekler/ek-a-xvii-ve-xix-bolumlere-not/",
+  "issues": [
+   "İkinci paragraftaki “to the organic and the super-organic as well as the organic” ifadesinde ilk “organic” büyük olasılıkla “inorganic” olmalıdır (dizgi/OCR hatası); bağlama göre “inorganik” diye çevrildi.",
+   "“nortare they implied” → “nor are they implied” olarak düzeltildi.",
+   "“there must go on a continual lapse into a more heterogeneous state, such as we had seen does go on” cümlesindeki kesik OCR bağlamdan tamamlandı."
+  ]
+ },
+ {
+  "unit": "app-d",
+  "title": "Ek D · Gaz Bulutsularının Oluşumu",
+  "href": "/ekler/ek-d-gaz-bulutsularinin-olusumu/",
+  "issues": [
+   "Ana kaynakta ağır bozuk olan üçüncü Proctor alıntısı (“As the tree-like forms in the great Orion Nebula…”) ve hemen ardından gelen “Here, then, comes in the significance of the hypothesis…” / “The first collisions of stars, such as Sir John Herschel inferred must happen in a concentrating cluster…” cümleleri, aynı metnin ikinci (1937 Watts baskısı) taramasıyla (chapters/app-d-alt-scan.txt) doğrulanarak birebir yeniden çevrildi; alıntının sayfa numarası (Pp. 737–8) bu kaynaktan eklendi.",
+   "Basılı 537. sayfa sınırı ikinci taramadan belirlendi ve ⟦537⟧ işareti Eros cümlesine (“…ve ⟦537⟧ Aethra gibi Mars'ın yörüngesine giren…”) kondu; ana kaynaktaki “⟦PAGE pdf565⟧ 537” ve sondaki “⟦PAGE pdf568⟧” pdf işaretleri atlandı.",
+   "İkinci taramayla karşılaştırmada ayrıca “It is, however, to be regarded only as a speculation, purposely excluded…” cümlesinde ana kaynaktaki “l purposely” okumasının fazladan harf olduğu görüldü; cümle buna göre düzeltildi.",
+   "“§§ 182, 182^” → “§§ 182, 182a” (ikinci taramayla doğrulandı); “^thra” / “iEthra” → Mars yörüngesini kesen küçük gezegen “Aethra”; “Caignard” (Cagniard de la Tour) kaynaktaki yazımıyla korundu; ikinci taramadaki “Gibers” → “Olbers”, “Herschers” → “Herschel's”, “Joto” → “John”.",
+   "“gastous” → “gaseous”, “kirfd” → “kind”, “argunient” → “argument”, “r&eg^ited” → “relegated”, “haya^hought” → “have thought”, “starclusters” → “star-clusters”, “the most' recent” → “the most recent” olarak düzeltildi."
+  ]
+ }
+]

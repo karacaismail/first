@@ -1,0 +1,262 @@
+{
+  "unit": "p2-ch10",
+  "description": "Spencer, rüzgârdan gelgite, gezegen yörüngelerinden kalp atışına ve fiyatlara dek her hareketin ritmik olduğunu gösterir; ritmi kuvvetin kalıcılığından türetir.",
+  "summary": "Spencer, dalgalanan flamadan top güllesinin yörüngesine, bulutsulardan Dünya'nın 21.000 yıllık iklim döngüsüne, sindirimden duyguların nöbetlerine ve ticaretin arz-talep salınımlarına kadar her hareket biçiminin ritmik olduğunu örneklerle gösterir. Ritmin, dengede olmayan karşıt kuvvetlerin çatışmasından zorunlu olarak doğduğunu ve hiçbir zaman önceki duruma tam dönüş sağlamadığını açıklar. Son kesimde diyapazon ve kuyruklu yıldız örnekleriyle ritmin kuvvetin kalıcılığının bir doğal sonucu olduğunu kanıtlar ve iki çekince koyar.",
+  "sections": [
+    82,
+    88
+  ],
+  "ocr_issues": [],
+  "terms": [
+    {
+      "key": "undulation",
+      "tr": "dalgalanma",
+      "explanation": "Bir ortam ya da cisim boyunca ilerleyen dalga biçimli hareket; Spencer'ın ritim için kullandığı temel örüntülerden biri."
+    },
+    {
+      "key": "vibration",
+      "tr": "titreşim",
+      "explanation": "Bir cismin denge konumu çevresinde hızlı ve küçük genlikli ileri geri hareketi."
+    },
+    {
+      "key": "oscillation",
+      "tr": "salınım",
+      "explanation": "İki uç durum arasında düzenli olarak gidip gelme; Spencer'da ritmin genel biçimi."
+    },
+    {
+      "key": "aurora",
+      "tr": "kutup ışığı",
+      "explanation": "Kutup bölgelerinde gökyüzünde görülen, elektrik kökenli ışıma (aurora borealis)."
+    },
+    {
+      "key": "electric discharge",
+      "tr": "elektrik boşalması",
+      "explanation": "Elektrik yükünün bir ortam (burada boşluk) içinden geçerek boşalması; 19. yüzyılda katmanlı görünümüyle incelenirdi."
+    },
+    {
+      "key": "parabola",
+      "tr": "parabol",
+      "explanation": "Konik kesitlerden biri; yerçekimi altında atılan cismin yaklaşık yörüngesi olarak kabul edilen açık eğri."
+    },
+    {
+      "key": "focus",
+      "tr": "odak",
+      "explanation": "Elipsin iki özel noktasından biri; Kepler yasalarına göre çeken cisim yörünge elipsinin bir odağında bulunur."
+    },
+    {
+      "key": "eccentricity",
+      "tr": "dış merkezlilik",
+      "explanation": "Bir elipsin daireden ne kadar saptığını gösteren ölçü; yörüngelerin basıklığı."
+    },
+    {
+      "key": "ellipse",
+      "tr": "elips",
+      "explanation": "Kapalı oval eğri; gezegenlerin ve kuyruklu yıldızların yörünge biçimi."
+    },
+    {
+      "key": "beats",
+      "tr": "vuru",
+      "explanation": "Frekansları birbirine yakın iki sesin birleşmesiyle oluşan dönemsel şiddet artış ve azalışları (akustik)."
+    },
+    {
+      "key": "interference of light",
+      "tr": "ışığın girişimi",
+      "explanation": "Işık dalgalarının üst üste binerek birbirini güçlendirmesi ya da söndürmesi; ışığın dalga doğasının kanıtı sayılır."
+    },
+    {
+      "key": "compound rhythm",
+      "tr": "bileşik ritim",
+      "explanation": "Farklı hızlardaki birincil ritimlerin çakışıp karşıtlaşmasıyla doğan ikincil, üçüncül ritimler; gelgit ve dalga örnekleri."
+    },
+    {
+      "key": "equilibrium",
+      "tr": "denge",
+      "explanation": "Karşıt kuvvetlerin birbirini tam olarak dengelediği durağan durum; Spencer'a göre bu durumda hareket ve ritim olmaz."
+    },
+    {
+      "key": "hyperbola",
+      "tr": "hiperbol",
+      "explanation": "Açık konik kesit; bir çekim merkezine yeterince hızlı yaklaşan cismin geri dönüşsüz yörüngesi."
+    },
+    {
+      "key": "nebula",
+      "tr": "bulutsu",
+      "explanation": "Gökyüzünde bulut gibi görünen yaygın madde kümesi; Spencer sarmal yapılarını dolanımın başlangıcı sayar."
+    },
+    {
+      "key": "double stars",
+      "tr": "çift yıldızlar",
+      "explanation": "Ortak kütle merkezi çevresinde dolanan iki yıldızdan oluşan sistem."
+    },
+    {
+      "key": "Sidereal System",
+      "tr": "Yıldız Sistemi",
+      "explanation": "19. yüzyıl astronomisinde Samanyolu'nu oluşturan yıldızların bütünü için kullanılan ad."
+    },
+    {
+      "key": "nodes",
+      "tr": "düğümler",
+      "explanation": "Bir yörünge düzleminin referans düzlemini (ör. ekliptik) kestiği iki nokta; bunların konumu zamanla yavaşça döner."
+    },
+    {
+      "key": "line of apsides",
+      "tr": "apsis çizgisi",
+      "explanation": "Yörüngenin çeken cisme en yakın ve en uzak noktalarını birleştiren çizgi; zamanla gökyüzünde döner."
+    },
+    {
+      "key": "nutation",
+      "tr": "nütasyon",
+      "explanation": "Dünya'nın dönme ekseninin, presesyon hareketi üzerine binen küçük dönemsel sallanması."
+    },
+    {
+      "key": "precession of the equinoxes",
+      "tr": "ekinoksların presesyonu",
+      "explanation": "Dünya ekseninin yaklaşık 26.000 yılda bir tam dönüş yapan yavaş topaç hareketi; ekinoks noktalarının gökyüzünde gerilemesi."
+    },
+    {
+      "key": "secular acceleration",
+      "tr": "seküler ivmelenme",
+      "explanation": "Ay'ın ortalama hareketinde yüzyıllar boyunca biriken ve Dünya yörüngesinin dış merkezlilik değişimine bağlanan yavaş hızlanma."
+    },
+    {
+      "key": "perihelion",
+      "tr": "günberi",
+      "explanation": "Bir gezegenin ya da kuyruklu yıldızın yörüngesinde Güneş'e en yakın olduğu nokta."
+    },
+    {
+      "key": "aphelion",
+      "tr": "günöte",
+      "explanation": "Bir gezegenin ya da kuyruklu yıldızın yörüngesinde Güneş'e en uzak olduğu nokta."
+    },
+    {
+      "key": "magnetic variations",
+      "tr": "manyetik değişimler",
+      "explanation": "Yer manyetik alanının günlük, yıllık ve yaklaşık on yıllık dönemlerle değişmesi; güneş lekesi döngüsüyle ilişkilidir."
+    },
+    {
+      "key": "solar spots",
+      "tr": "güneş lekeleri",
+      "explanation": "Güneş yüzeyindeki görece soğuk, koyu bölgeler; sayıları yaklaşık on bir yıllık bir döngüyle artıp azalır."
+    },
+    {
+      "key": "evaporation",
+      "tr": "buharlaşma",
+      "explanation": "Suyun sıvı hâlden gaz hâline geçmesi."
+    },
+    {
+      "key": "condensation",
+      "tr": "yoğunlaşma",
+      "explanation": "Su buharının soğuyarak sıvı hâle geçmesi; bu sırada ısı açığa çıkar."
+    },
+    {
+      "key": "radiation",
+      "tr": "ışınım",
+      "explanation": "Isının ya da ışığın bir cisimden dalgalar hâlinde yayılması."
+    },
+    {
+      "key": "strata",
+      "tr": "tabakalar",
+      "explanation": "Tortul kayaçların üst üste birikmiş katmanları (tekili: stratum)."
+    },
+    {
+      "key": "denudation",
+      "tr": "aşınma",
+      "explanation": "Yer yüzeyinin su, rüzgâr, don gibi etkenlerle aşınıp alçalması."
+    },
+    {
+      "key": "sedimentary deposits",
+      "tr": "tortul çökeller",
+      "explanation": "Su ya da rüzgârın taşıdığı malzemenin birikmesiyle oluşan tortu katmanları."
+    },
+    {
+      "key": "igneous action",
+      "tr": "volkanik etkinlik",
+      "explanation": "Yer içindeki ısı ve magmanın yol açtığı yanardağ ve deprem gibi etkinlikler."
+    },
+    {
+      "key": "conformable strata",
+      "tr": "uyumlu tabakalar",
+      "explanation": "Aralarında kesinti ya da aşınma izi olmaksızın birbiri üzerine sürekli biçimde çökelmiş tabaka grupları."
+    },
+    {
+      "key": "peristaltic motion",
+      "tr": "peristaltik hareket",
+      "explanation": "Bağırsak gibi boru biçimli organlarda içeriği ileten dalga biçimli kas kasılması."
+    },
+    {
+      "key": "cilia",
+      "tr": "siller",
+      "explanation": "Tek hücreli ve küçük canlıların yüzeyindeki, titreşerek hareket sağlayan kirpiksi uzantılar."
+    },
+    {
+      "key": "assimilation",
+      "tr": "özümleme",
+      "explanation": "Besinlerin organizmanın kendi dokusuna dönüştürülmesi; yıpranmanın karşıtı."
+    },
+    {
+      "key": "palaeontology",
+      "tr": "paleontoloji",
+      "explanation": "Fosiller aracılığıyla geçmiş çağların canlılarını inceleyen bilim."
+    },
+    {
+      "key": "Genus",
+      "tr": "cins",
+      "explanation": "Biyolojik sınıflandırmada birbirine yakın türleri içeren birim (çoğulu: genera)."
+    },
+    {
+      "key": "Order",
+      "tr": "takım",
+      "explanation": "Biyolojik sınıflandırmada familyaları içeren, sınıftan küçük birim."
+    },
+    {
+      "key": "carboniferous",
+      "tr": "Karbonifer",
+      "explanation": "Yaklaşık 359–299 milyon yıl önceki jeolojik dönem; kömür yataklarının oluştuğu çağ."
+    },
+    {
+      "key": "Crinoidea",
+      "tr": "Crinoidea (deniz zambakları)",
+      "explanation": "Derisidikenliler şubesinden, çoğu sapla zemine tutunan deniz canlıları sınıfı; fosil kayıtlarında çok bol, günümüzde seyrektir."
+    },
+    {
+      "key": "Brachiopoda",
+      "tr": "Brachiopoda (kolsu ayaklılar)",
+      "explanation": "İki kabuklu deniz omurgasızları şubesi; Paleozoik çağda çok yaygınken bugün az sayıda türle temsil edilir."
+    },
+    {
+      "key": "Cephalopods",
+      "tr": "kafadan bacaklılar",
+      "explanation": "Ahtapot, mürekkep balığı ve nautilusu içeren yumuşakça sınıfı; kabuklu biçimleri (ammonitler) geçmişte okyanuslara egemendi."
+    },
+    {
+      "key": "consols",
+      "tr": "konsol tahvilleri",
+      "explanation": "İngiliz devletinin vadesiz, sabit faizli borç senetleri (consolidated annuities); fiyatları piyasa göstergesi olarak izlenirdi."
+    },
+    {
+      "key": "tension",
+      "tr": "gerilim",
+      "explanation": "Bir cismin parçacıkları arasında, biçim değişikliğine direnen esnek kuvvet."
+    },
+    {
+      "key": "momentum",
+      "tr": "momentum",
+      "explanation": "Hareket eden cismin kütlesi ile hızının çarpımı; 19. yüzyılda 'hareket miktarı' olarak da anılırdı."
+    },
+    {
+      "key": "cohesion",
+      "tr": "kohezyon",
+      "explanation": "Bir cismin parçacıklarını bir arada tutan çekim kuvveti."
+    },
+    {
+      "key": "closed system",
+      "tr": "kapalı sistem",
+      "explanation": "Dışarıdan önemli bir etki almayan, üyeleri birbirine çekimle bağlı cisimler topluluğu (ör. Güneş Sistemi)."
+    },
+    {
+      "key": "proper motion",
+      "tr": "öz hareket",
+      "explanation": "Bir gök cisminin çekim merkezine doğru olmayan, kendine ait yanal hareketi."
+    }
+  ]
+}

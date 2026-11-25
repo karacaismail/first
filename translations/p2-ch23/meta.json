@@ -1,0 +1,92 @@
+{
+  "unit": "p2-ch23",
+  "description": "Spencer, Çözülme bölümünde evrimin tersi olan süreci toplum, organizma, inorganik kütle, Yeryüzü ve yıldız sistemlerinde inceler; evrensel ölümü tartışır.",
+  "summary": "Spencer, evrimin karşıtı olan Çözülme'yi dışarıdan alınan hareket fazlasının yol açtığı madde parçalanması olarak tanımlar ve bunu en karmaşıktan en yalına doğru toplumlar, organizmalar, inorganik kütleler, Yeryüzü ve Güneş Sistemi örnekleriyle gösterir. Bölümün sonunda, evrimin evrensel bir ölümle sonuçlanması gerektiği vargısına karşı, yıldız kümeleri ve bulutsulardaki değişimlerden hareketle Yıldız Sistemi'nde evrim ile çözülmenin almaşarak yinelendiği spekülatif karşı savını geliştirir.",
+  "sections": [
+    177,
+    182
+  ],
+  "ocr_issues": [
+    "Kaynaktaki ⟦PAGE 407⟧ işareti sıra gereği 467 olmalıdır; çeviride ⟦467⟧ olarak yazıldı.",
+    "§ 182'de Sirius'un yoldaşının ışık oranı OCR'da 'aaoooth part' olarak bozuk; 1/10000 (on binde bir) okunuşu benimsendi, 1/20000 olma olasılığı var.",
+    "§ 182a'daki yıldız kümesi adlandırmaları (34 Persei, 103 Cassiopeiae, 32 Cygni, 13 Herculis, 2 Aquarii) OCR'dan aktarıldı; yalnız 'Cassiopeia' ve 'Aquarei' yazımları düzeltildi, numaralar doğrulanamadı.",
+    "Üçüncü dipnotta anılan 'page 1 78' → 178 olarak okundu."
+  ],
+  "terms": [
+    {
+      "key": "aggregate",
+      "tr": "yığın",
+      "explanation": "Spencer'ın evrim ve çözülme süreçlerine tabi her türlü bütünü (bir kristal, bir organizma, bir toplum, bir yıldız sistemi) adlandırdığı genel terim; madde ve hareketin bir arada toplanmış bir birimi."
+    },
+    {
+      "key": "Disintegration",
+      "tr": "parçalanma",
+      "explanation": "Bütünleşmenin tersi: bir yığının parçalarının birbirinden ayrılıp uzaklaşması; Spencer'a göre çözülmenin maddi yönü."
+    },
+    {
+      "key": "Equilibrium",
+      "tr": "denge",
+      "explanation": "Zıt kuvvetlerin birbirini karşılamasıyla değişimin sona erdiği durum; dengelenme sürecinin vardığı sonuç."
+    },
+    {
+      "key": "Decomposition",
+      "tr": "bozunma",
+      "explanation": "Karmaşık kimyasal bileşiklerin daha basit bileşenlerine ayrılması; organik maddenin çürümesinde moleküllerin gaz hâline geçmesi."
+    },
+    {
+      "key": "Solution",
+      "tr": "çözünme",
+      "explanation": "Katı bir maddenin moleküllerinin bir sıvının molekülleri arasına dağılması (ör. tuzun suda çözünmesi); Spencer bunu hareket soğuran bir çözülme örneği olarak kullanır."
+    },
+    {
+      "key": "elective affinity",
+      "tr": "seçici ilgi",
+      "explanation": "19. yüzyıl kimyasında bir maddenin başka bir maddeyle öncelikli olarak bileşik oluşturma eğilimi; Spencer, çözünmenin ısı soğurduğu kuralını bu tür kimyasal etkilerin bulunmadığı durumlarla sınırlar."
+    },
+    {
+      "key": "stratum",
+      "tr": "katman",
+      "explanation": "Jeolojide tortul kayaçların üst üste birikmiş tabakalarından her biri (çoğulu: strata)."
+    },
+    {
+      "key": "conglomerate",
+      "tr": "konglomera",
+      "explanation": "Çakıl ve kaya parçalarının doğal bir çimentoyla birbirine bağlanmasından oluşan tortul kayaç; Spencer'da çözülmenin geçici olarak durup yeniden başlamasının örneği."
+    },
+    {
+      "key": "thermal equivalent",
+      "tr": "ısıl eşdeğer",
+      "explanation": "Belirli bir miktar mekanik hareketin ya da işin dönüştüğünde ürettiği ısı miktarı; Joule'ün ölçtüğü mekanik ısı eşdeğeri."
+    },
+    {
+      "key": "Solar System",
+      "tr": "Güneş Sistemi",
+      "explanation": "Güneş ile çevresinde dolanan gezegenler ve diğer cisimlerin oluşturduğu sistem; Spencer'da genel bütünleşmesi henüz tamamlanmamış bir yığın."
+    },
+    {
+      "key": "Sidereal System",
+      "tr": "Yıldız Sistemi",
+      "explanation": "Spencer'ın Samanyolu'nu da içeren görünür yıldızlar bütünü (galaksimiz) için kullandığı terim; evrim ve çözülme yasasına tabi bir yığın olup olmadığı tartışılır."
+    },
+    {
+      "key": "star-cluster",
+      "tr": "yıldız kümesi",
+      "explanation": "Karşılıklı kütle çekimiyle bir arada tutulan yıldızlar topluluğu; Spencer bunların yoğunlaşıp çarpışarak bulutsu maddeye dağıldığını ileri sürer."
+    },
+    {
+      "key": "nebula",
+      "tr": "bulutsu",
+      "explanation": "Gökyüzünde bulut görünümlü, yayılmış seyrek madde kütlesi; 19. yüzyılda yıldız sistemlerinin doğduğu ya da dağılmış yıldızlardan arta kalan madde sayılırdı."
+    },
+    {
+      "key": "resisting medium",
+      "tr": "dirençli ortam",
+      "explanation": "İçinden geçen cisimlerin hızını azaltan seyrek madde ortamı; Spencer bunu yıldız kümelerinin çarpışmasıyla oluşan bulutsu madde için kullanır."
+    },
+    {
+      "key": "proper motion",
+      "tr": "öz hareket",
+      "explanation": "Astronomide bir yıldızın gökyüzünde komşularına göre gösterdiği gerçek açısal yer değişimi; sabit sayılan yıldızların da hareket ettiğinin kanıtı."
+    }
+  ]
+}

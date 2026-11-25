@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { BOOK, PARTS, CHAPTERS, chapterPath } from '../../data/book';
+
+export function getStaticPaths() {
+  return PARTS.map((p) => ({ params: { kisim: p.slug }, props: { part: p } }));
+}
+const { part } = Astro.props;
+const entries = (await getCollection('bolumler')).filter((e) => e.data.part === part.slug).sort((a, b) => a.data.order - b.data.order);
+const defs = CHAPTERS.filter((c) => c.part === part.slug);
+const heading = part.label !== part.title ? `${part.label}: ${part.title}` : part.title;
+---
+<Base title={heading} description={`${BOOK.author}, ${BOOK.title} — ${heading}. ${part.intro}`} current={`/${part.slug}/`}>
+  <div class="page">
+    <nav aria-label="Konum"><ol class="crumbs"><li><a href="/">{BOOK.title}</a></li><li aria-hidden="true">›</li><li aria-current="page">{heading}</li></ol></nav>
+    <p class="eyebrow">{part.label}</p>
+    <h1 class="title">{part.title} <span class="sr">({part.titleEn})</span></h1>
+    <p class="subtitle" lang="en">{part.titleEn}</p>
+    <p style="max-width: var(--measure)">{part.intro}</p>
+    <ul class="toc" style="max-width: var(--measure)">
+      {defs.map((d) => {
+        const e = entries.find((x) => x.data.unit === d.unit);
+        return (
+          <li>
+            {e ? (
+              <a href={chapterPath(d)}>
+                <span class="num">{d.number || '—'}</span>
+                <span><span>{d.title}</span><span class="en" lang="en">{d.titleEn}</span><span class="en">{e.data.summary}</span></span>
+              </a>
+            ) : (
+              <span style="display:flex;gap:var(--sp-3);padding:var(--sp-3) var(--sp-2);color:var(--c-ink-3)"><span class="num">{d.number || '—'}</span><span>{d.title} <small>(çeviri hazırlanıyor)</small></span></span>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</Base>

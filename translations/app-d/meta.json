@@ -1,0 +1,55 @@
+{
+  "unit": "app-d",
+  "description": "Spencer, gezegen çekirdeklerinin sıvı yoğunluğunda gaz olduğu hipotezini yıldız kümelerindeki çarpışmalara uygulayıp gaz bulutsularını dev patlamalarla açıklar.",
+  "summary": "Spencer, 1858 tarihli makalesinde ileri sürdüğü, gezegen çekirdeklerinin basınçla sıvı yoğunluğuna indirgenmiş gazlardan oluştuğu görüşünü Andrews'un kritik nokta keşfiyle destekler. Bu yapıyı yoğunlaşan yıldız kümelerine uygulayarak, çarpışan yıldızların akıl almaz büyüklükte patlamalarla gaz maddesi saçtığını ve Orion ile Yay bölgesindeki yaygın bulutsuların böyle açıklanabileceğini öne sürer. Bu düşünceyi yalnızca bir spekülasyon olarak sunduğunu özellikle belirtir.",
+  "sections": [],
+  "ocr_issues": [
+    "Ana kaynakta ağır bozuk olan üçüncü Proctor alıntısı (“As the tree-like forms in the great Orion Nebula…”) ve hemen ardından gelen “Here, then, comes in the significance of the hypothesis…” / “The first collisions of stars, such as Sir John Herschel inferred must happen in a concentrating cluster…” cümleleri, aynı metnin ikinci (1937 Watts baskısı) taramasıyla (chapters/app-d-alt-scan.txt) doğrulanarak birebir yeniden çevrildi; alıntının sayfa numarası (Pp. 737–8) bu kaynaktan eklendi.",
+    "Basılı 537. sayfa sınırı ikinci taramadan belirlendi ve ⟦537⟧ işareti Eros cümlesine (“…ve ⟦537⟧ Aethra gibi Mars'ın yörüngesine giren…”) kondu; ana kaynaktaki “⟦PAGE pdf565⟧ 537” ve sondaki “⟦PAGE pdf568⟧” pdf işaretleri atlandı.",
+    "İkinci taramayla karşılaştırmada ayrıca “It is, however, to be regarded only as a speculation, purposely excluded…” cümlesinde ana kaynaktaki “l purposely” okumasının fazladan harf olduğu görüldü; cümle buna göre düzeltildi.",
+    "“§§ 182, 182^” → “§§ 182, 182a” (ikinci taramayla doğrulandı); “^thra” / “iEthra” → Mars yörüngesini kesen küçük gezegen “Aethra”; “Caignard” (Cagniard de la Tour) kaynaktaki yazımıyla korundu; ikinci taramadaki “Gibers” → “Olbers”, “Herschers” → “Herschel's”, “Joto” → “John”.",
+    "“gastous” → “gaseous”, “kirfd” → “kind”, “argunient” → “argument”, “r&eg^ited” → “relegated”, “haya^hought” → “have thought”, “starclusters” → “star-clusters”, “the most' recent” → “the most recent” olarak düzeltildi."
+  ],
+  "terms": [
+    {
+      "key": "critical point",
+      "tr": "kritik nokta",
+      "explanation": "Andrews'un bulduğu, her gaza özgü sıcaklık: bunun üstünde gaz hiçbir basınçla sıvılaştırılamaz, altında ise sıvılaştırılabilir."
+    },
+    {
+      "key": "stable equilibrium",
+      "tr": "kararlı denge",
+      "explanation": "Küçük bir sarsıntıdan sonra sistemin kendiliğinden eski durumuna döndüğü denge; Spencer gezegen çekirdeği yapısının bu türden olduğunu savunur."
+    },
+    {
+      "key": "Planetoid",
+      "tr": "gezegencik",
+      "explanation": "Mars ile Jüpiter arasında dolanan küçük gezegenler (asteroitler); Olbers bunların patlamış bir gezegenin parçaları olduğunu ileri sürmüştü."
+    },
+    {
+      "key": "star-cluster",
+      "tr": "yıldız kümesi",
+      "explanation": "Kütle çekimiyle bir arada tutulan ve ortak bir merkez çevresinde dolanan yıldızlar topluluğu; Spencer bunların yoğunlaşarak çarpışmalara yol açacağını öngörür."
+    },
+    {
+      "key": "Concentration",
+      "tr": "yoğunlaşma",
+      "explanation": "Dağınık maddenin ya da bir kümenin üyelerinin kütle çekimiyle ortak merkeze doğru toplanıp sıkışması; Spencer'da evrimin bütünleşme yönü."
+    },
+    {
+      "key": "Nebula",
+      "tr": "bulutsu",
+      "explanation": "Gökyüzünde bulut görünümünde, yaygın gaz ya da toz kütlesi (nebula); 19. yüzyılda yıldız sistemlerinin hem başlangıcı hem de olası sonu sayılırdı."
+    },
+    {
+      "key": "resisting medium",
+      "tr": "direnç gösteren ortam",
+      "explanation": "Yıldızlararası uzayı dolduran ve içinden geçen maddenin hareketini yavaşlatıp saptıran varsayımsal seyrek madde."
+    },
+    {
+      "key": "motion of translation",
+      "tr": "öteleme hareketi",
+      "explanation": "Bir cismin bütün olarak bir yerden başka bir yere yer değiştirmesi; dönme hareketinin karşıtı."
+    }
+  ]
+}

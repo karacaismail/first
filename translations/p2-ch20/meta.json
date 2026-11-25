@@ -1,0 +1,36 @@
+{
+  "unit": "p2-ch20",
+  "description": "Spencer, tek bir nedenin birçok etki doğurduğunu ve heterojenliğin geometrik dizi hâlinde arttığını kozmik, jeolojik, organik ve toplumsal örneklerle gösterir.",
+  "summary": "Bu bölümde Spencer, homojenlikten heterojenliğe geçişin ikinci nedeni olarak etkilerin çoğalmasını ortaya koyar: tekbiçimli bir kuvvet, farklı koşullardaki parçalara çarptığında kendisi de çokbiçimli bir kuvvetler grubuna ayrışır ve her yeni farklılaşma yeni farklılaşmaların merkezi olur. İlke, bulutsu ve gezegen pertürbasyonlarından Yer'in soğuması ve aşınmasına, embriyo gelişimi ve türlerin ayrışmasından zihinsel yaşama, iş bölümüne ve demiryollarının toplumsal etkilerine dek izlenir. Son kesimde bu çoğalmanın kuvvetin kalıcılığından tümdengelimle çıkarılabileceği gösterilir.",
+  "sections": [156, 162],
+  "ocr_issues": [
+    "Görev tanımında anılan Darwin dipnotu cümlesi (“...would not suffice to account for all the facts without that special cause disclosed by Mr. Darwin”) kaynak OCR metninde yer almıyor; 6. baskıdaki dipnot “Had this paragraph, first published in the Westminster Review in April, 1857...” biçimindedir ve [^2] olarak bu metin çevrildi.",
+    "§ 161'de ⟦PAGE pdf436⟧, ⟦PAGE pdf438⟧, ⟦PAGE pdf440⟧ ve § 162'de ⟦PAGE pdf442⟧ işaretleri (basılı 408, 410, 412, 414) yönerge gereği atlandı; bu sayfaların OCR'a karışan koşu başlıkları (“4o8 THE MULTIPLICATION OF EFFECTS” vb.) çıkarıldı.",
+    "§ 159'da OCR “The modifications would effect” yazıyor; bağlama göre “affect” okunup “etkilerdi” diye çevrildi."
+  ],
+  "terms": [
+    {"key": "momentum", "tr": "momentum", "explanation": "Bir cismin kütlesi ile hızının çarpımı; hareket miktarı. Çarpışmada tek bir momentum, miktar ve yönce farklı birçok momentuma dağılır."},
+    {"key": "refraction", "tr": "kırılma", "explanation": "Işığın bir ortamdan ötekine geçerken yön değiştirmesi; Spencer'da gelen kuvvetin tekbiçimliliğini bozan değişimlerden biri."},
+    {"key": "oblateness", "tr": "basıklık", "explanation": "Dönen bir kürenin kutuplardan basılıp ekvatordan şişmesi; Yer'in ve yoğunlaşan bulutsunun dönme sonucu aldığı biçim."},
+    {"key": "nutation", "tr": "nütasyon", "explanation": "Yer ekseninin, Ay ve Güneş'in çekimiyle presesyon hareketi üzerine binen küçük, dönemsel sallanması."},
+    {"key": "precession of the equinoxes", "tr": "ekinoksların presesyonu", "explanation": "Yer ekseninin yaklaşık 26.000 yılda bir koni çizmesi sonucu ılım noktalarının yörünge üzerinde yavaşça geriye kayması."},
+    {"key": "perturbation", "tr": "pertürbasyon", "explanation": "Bir gök cisminin yörüngesinin, Güneş dışındaki cisimlerin çekimiyle uğradığı küçük sapma (tedirginlik)."},
+    {"key": "incandescence", "tr": "akkorluk", "explanation": "Bir cismin yüksek sıcaklıkta ışık saçacak kadar kızması; Yer'in başlangıçtaki erimiş, ışıyan durumu."},
+    {"key": "igneous", "tr": "volkanik", "explanation": "Jeolojide ateşle, yani Yer'in iç ısısıyla ilgili etken ya da kayaç (püskürük); sulu ve atmosferik etkenlerin karşıtı."},
+    {"key": "denudation", "tr": "aşındırma", "explanation": "Hava, su, buz gibi etkenlerin yer yüzeyini aşındırıp malzemeyi taşıması; 19. yüzyıl jeolojisinin temel terimi."},
+    {"key": "feldspar", "tr": "feldispat", "explanation": "Granitin başlıca bileşenlerinden olan ve ayrışarak kil oluşturan silikat minerali."},
+    {"key": "sedimentary", "tr": "tortul", "explanation": "Su ya da rüzgârla taşınan malzemenin çökelip katmanlaşmasıyla oluşan kayaç ya da oluşum."},
+    {"key": "isothermal lines", "tr": "izoterm çizgileri", "explanation": "Harita üzerinde aynı ortalama sıcaklığa sahip yerleri birleştiren çizgiler."},
+    {"key": "heredity", "tr": "kalıtım", "explanation": "Özelliklerin ana babadan yavruya aktarılması; Spencer'a göre organik evrimde tek nedenin etkilerini izlemeyi güçleştiren etken."},
+    {"key": "syncope", "tr": "senkop", "explanation": "Beyne giden kan akışının geçici azalmasıyla ortaya çıkan ani bilinç kaybı, bayılma."},
+    {"key": "embryo", "tr": "embriyo", "explanation": "Gelişimin erken evresindeki organizma; Spencer'da etkilerin çoğalmasının gelişim sırasında da işlediği yapı."},
+    {"key": "germ", "tr": "tohum", "explanation": "Bir organizmanın geliştiği ilk hücre ya da başlangıç yapısı (döllenmiş yumurta, tohum hücresi); 19. yüzyıl biyolojisinin terimi."},
+    {"key": "Flora", "tr": "Flora", "explanation": "Bir bölgenin ya da dönemin bitki topluluğunun bütünü."},
+    {"key": "Fauna", "tr": "Fauna", "explanation": "Bir bölgenin ya da dönemin hayvan topluluğunun bütünü."},
+    {"key": "Palaeontology", "tr": "Paleontoloji", "explanation": "Fosiller aracılığıyla geçmiş jeolojik dönemlerin canlılarını inceleyen bilim."},
+    {"key": "archetype", "tr": "arketip", "explanation": "Bir canlı grubunun bütün üyelerinin kendisinden türediği varsayılan ideal temel yapı planı (Owen'ın karşılaştırmalı anatomi kavramı)."},
+    {"key": "comparative anatomy", "tr": "karşılaştırmalı anatomi", "explanation": "Farklı canlı türlerinin yapılarını karşılaştırarak akrabalık ve gelişim ilişkilerini inceleyen bilim dalı."},
+    {"key": "homology", "tr": "homoloji", "explanation": "Farklı türlerdeki organların ortak kökene dayanan yapısal karşılıklılığı (ör. insan kolu ile kuş kanadı)."},
+    {"key": "caoutchouc", "tr": "kauçuk", "explanation": "Tropik ağaçların özsuyundan elde edilen doğal lastik; 19. yüzyılda sanayide çok sayıda yeni kullanım alanı bulan madde."}
+  ]
+}

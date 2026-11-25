@@ -1,0 +1,22 @@
+{
+  "unit": "p2-ch04",
+  "description": "Spencer maddenin yok edilemezliğini ele alır: deneysel kanıtlar, zorunlu doğruların zihinsel evrimle tanınması ve madde kalıcılığının kuvvet kalıcılığı olduğu.",
+  "summary": "Spencer, maddenin yok edilemezliği ilkesinin ilkel çağlarda reddedildiğini, ancak nicel kimyayla kesinleştiğini anlatır. Zorunlu doğruların tanınmasının gelişmiş bir zihinsel yapı gerektirdiğini gösterip maddenin yokluğa geçişinin düşünülemez olduğunu, çünkü hiçin bilinç nesnesi olamayacağını savunur. Sonuçta maddenin yok edilemezliğiyle gerçekte, maddenin bizi etkilediği kuvvetin yok edilemezliğinin kastedildiğini ortaya koyar.",
+  "sections": [52, 54],
+  "ocr_issues": [
+    "⟦PAGE pdf178⟧ işareti yönerge gereği atlandı; koşu başlığına ('I5o THE INDESTRUCTIBILITY OF MATTER') göre basılı 150. sayfadır. Koşu başlığı metinden çıkarıldı.",
+    "Düzeltilen bariz OCR hataları: '7 and 5 are n' → '11' (iki yerde); 'o£ which' → 'of which'; 'selfevident', 'nonrecognition', 'neverceasing', 'moredeveloped', 'bankclerk' bitişik yazımları; 'assertion,,' çift virgül; dipnottaki 'freight 1' → 'freight!'; dipnot içindeki 'folded up tightly*' yıldızı gürültü sayıldı.",
+    "Shakespeare alıntısı OCR'da 'leave not a wrack behind' biçimindedir (Fırtına'daki 'rack'); anlam korunarak çevrildi.",
+    "Başlıkta '§ 52–55 civarı' deniyor; kaynak metin § 54'ün sonundaki dipnotla bitiyor, § 55 bu birimde yok (Bölüm V'in ilk kesimi olmalı)."
+  ],
+  "terms": [
+    {"key": "quantitative chemistry", "tr": "nicel kimya", "explanation": "Tözlerin yalnızca hangi bileşikleri oluşturduğunu değil, hangi ağırlık oranlarında birleştiğini ölçen kimya; Spencer'a göre maddenin korunumunu kesinleştiren bilim."},
+    {"key": "logical necessity", "tr": "mantıksal zorunluluk", "explanation": "Bir sonucun, açıkça ifade edilmiş öncüllerde örtük olarak içerilmesi; bu zorunluluğun bilinci ancak gelişmiş bir zihinde doğar."},
+    {"key": "necessary truth", "tr": "zorunlu doğru", "explanation": "Karşıtı düşünülemeyen doğru. Spencer bunu deneyimden bağımsız saymaz; bireyin ve atalarının birikmiş deneyimleriyle organik hâle gelmiş bilgi olarak anlar."},
+    {"key": "physical axioms", "tr": "fiziksel aksiyomlar", "explanation": "Her etkinin uygun bir nedeni olduğu, maddenin yok olmadığı gibi fiziğin temel, kendiliğinden açık doğruları; kavranmaları disiplinli bir zekâ gerektirir."},
+    {"key": "introspection", "tr": "içebakış", "explanation": "Zihnin kendi işleyişini gözlemlemesi; Spencer'a göre maddeyi düşüncede yok etmeye çalışınca ne olduğunu ancak içebakış açığa çıkarır."},
+    {"key": "nervous structure", "tr": "sinirsel yapı", "explanation": "Sinir sisteminin örgütlenmiş yapısı; Spencer'da deneyimle dış şeylere uygun biçimde kalıplanıp zorunlu düşünce ilişkilerini üreten fizyolojik temel."},
+    {"key": "incompressibility of Matter", "tr": "Madde'nin sıkıştırılamazlığı", "explanation": "Bir madde parçasının ne denli küçültülürse küçültülsün hiçliğe indirgenemeyeceği; Spencer bunu kabul edilmiş bir düşünce yasası sayar."},
+    {"key": "law of thought", "tr": "düşünce yasası", "explanation": "Düşüncenin doğasından kaynaklanan, aşılamayan zorunluluk; örneğin ilişkili terimlerden biri bilinçte yokken düşüncenin kurulamaması."}
+  ]
+}

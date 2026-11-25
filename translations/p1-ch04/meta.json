@@ -1,0 +1,134 @@
+{
+  "unit": "p1-ch04",
+  "description": "Spencer, düşüncenin ürünü ve süreci ile Yaşam'ın tanımından yola çıkarak bütün bilginin göreli olduğunu, Mutlak'ın ise belirsizce kavrandığını savunur.",
+  "summary": "Spencer, nihai dinî ve bilimsel fikirlerin gerçeğin simgelerinden ibaret olduğu sonucunu ussal olarak temellendirir: bilimsel açıklama sonunda açıklanamaz olana dayanır; Hamilton ve Mansel'in gösterdiği gibi düşünce ilişki, ayrım ve benzerlik gerektirdiğinden Koşulsuz üç kat düşünülemezdir; Yaşam'ın iç ilişkilerin dış ilişkilere uyarlanması olarak tanımı da bilginin göreliliğini içerir. Bununla birlikte Spencer, Hamilton ve Mansel'e karşı, Mutlak'ın salt bir olumsuzlama olmadığını, düşüncenin ham maddesi olarak belirsiz ama olumlu ve yok edilemez bir bilincinin her düşüncede kaldığını savunur.",
+  "sections": [
+    22,
+    26
+  ],
+  "ocr_issues": [
+    "s. 77 sonundaki ağır OCR kaybı ('...we cannot expel the entire contents of consci remains behind an element which ... Though not directly •e ever $') aynı baskının ikinci (temiz) taramasıyla (chapters/p1-ch04-alt-p77.txt) doğrulandı. Eksik iki paragraf ('there ever remains behind an element which passes into new shapes...' ve 'And here we come face to face with the ultimate difficulty...') bu metne göre birebir çevrildi; ilk taramadan bağlamla tamamlanan metin ikinci taramayla örtüştü, yalnız 'its conditions' ifadesi ('kendi koşullarının') düzeltildi ve ⟦78⟧ işareti 'conditions' sözcüğünün önüne alındı.",
+    "s. 78 piyano örneğindeki OCR bozuklukları ('idgas QI its reiftote'side', 'tfop pedals', 'Nfofcr as in this case we ioijri', 'teafistfence', 'limjfs', '^s') ikinci taramayla doğrulandı: 'ideas of its remote side and of its solid substance', 'the pedals', 'Now as in this case we form a definite concept of a special existence', 'limits and conditions in successive acts'. 'remote side' karşılığı 'öteki yanı' olarak düzeltildi.",
+    "⟦PAGE pdf110⟧ işareti yönerge gereği atlandı; ardındaki '8o THE RELATIVITY OF ALL KNOWLEDGE' sayfa başlığı, 'which persists at all times' ifadesinden itibaren basılı 80. sayfanın başladığını gösterir, ancak sayı okunamadığı için ⟦80⟧ eklenmedi.",
+    "s. 57 'comprehension\"*' ve s. 63 'constituted.'*' içindeki yıldızlar dipnot işareti değil, kapanış tırnağının OCR artığıdır; bölümde dipnot yoktur.",
+    "s. 55 'philsopher', 'reechoed', 'gaming ground', 'St. Augustm', 'hi themselves', 'Augustm' gibi küçük OCR hataları bağlamdan düzeltildi (philosopher, re-echoed, gaining ground, St. Augustin, in themselves).",
+    "Çeviri sözcük sayısı kaynağın %75'i: paragraf paragraf oran 0,70–0,80 arasında tekbiçimli olduğundan içerik eksiği değil, Türkçenin eklemeli yapısından kaynaklanan doğal kısalmadır."
+  ],
+  "terms": [
+    {
+      "key": "Ontology",
+      "tr": "ontoloji",
+      "explanation": "Varlığın kendisini, var olanın en genel yapısını inceleyen felsefe dalı (varlıkbilim). Spencer, nihai gerçekliği açıklama iddiasındaki kuramları 'ontolojik' diye adlandırır."
+    },
+    {
+      "key": "things in themselves",
+      "tr": "kendinde şeyler",
+      "explanation": "Kant'tan gelen ifade: bize göründükleri biçimleriyle değil, kendi başlarına oldukları hâliyle nesneler; Spencer'a göre bilgimizin asla erişemeyeceği alan."
+    },
+    {
+      "key": "galvanic current",
+      "tr": "galvanik akım",
+      "explanation": "19. yüzyılda pil (Volta pili) kaynaklı doğru akım için kullanılan ad; Galvani'nin deneylerinden türetilmiştir."
+    },
+    {
+      "key": "osmotic action",
+      "tr": "ozmotik etki",
+      "explanation": "Sıvıların yarı geçirgen bir zardan (ör. bağırsak duvarı) geçerek derişimleri dengeleme süreci; Spencer besin emilimini bu fiziksel olguya bağlar."
+    },
+    {
+      "key": "fluid equilibrium",
+      "tr": "akışkan dengesi",
+      "explanation": "Durgun bir akışkanda basıncın her yöne eşit dağılması ve kuvvetlerin dengelenmesi (hidrostatik denge); solunumda havanın göğüs boşluğuna akışını açıklayan ilke."
+    },
+    {
+      "key": "thermology",
+      "tr": "termoloji",
+      "explanation": "19. yüzyılda ısı olaylarını inceleyen fizik dalına verilen ad; bugünkü termodinamiğin öncüsü (ısı bilimi)."
+    },
+    {
+      "key": "principle of virtual velocities",
+      "tr": "virtüel hızlar ilkesi",
+      "explanation": "Mekanikte, dengedeki bir sistemde olası (virtüel) küçük yer değiştirmelerde kuvvetlerin yaptığı toplam işin sıfır olduğunu belirten ilke (virtüel iş ilkesi); kaldıraç ve akışkan dengesini tek bir yasa altında toplar."
+    },
+    {
+      "key": "the Unconditioned",
+      "tr": "Koşulsuz",
+      "explanation": "Hamilton'ın terimi: hiçbir koşula, sınıra ve ilişkiye bağlı olmayan varlık; Sonsuz ile Mutlak'ı kapsar. Spencer'a göre belirli olarak düşünülemez ama belirsiz bir bilinci vardır."
+    },
+    {
+      "key": "the Conditioned",
+      "tr": "koşullu",
+      "explanation": "Koşullar, sınırlar ve ilişkiler altında var olan ve bilinen her şey; Hamilton'a göre düşüncenin ve bilginin biricik olanaklı nesnesi."
+    },
+    {
+      "key": "Subject",
+      "tr": "özne",
+      "explanation": "Bilinçli olan, bilen taraf; Mansel'e göre bilinç ancak özne ile nesnenin ilişkisi içinde olanaklıdır."
+    },
+    {
+      "key": "Object",
+      "tr": "nesne",
+      "explanation": "Bilincin yöneldiği, bilinen şey; özne olmadan nesne, nesne olmadan özne düşünülemez."
+    },
+    {
+      "key": "Cognition",
+      "tr": "biliş",
+      "explanation": "Bir şeyin bilinmesi edimi ya da bilgi parçası; Spencer'a göre her biliş, ilişki ve ayrımın yanı sıra önceki hâllerle benzerliğin tanınmasını gerektirir."
+    },
+    {
+      "key": "Recognition",
+      "tr": "yeniden tanıma",
+      "explanation": "Bir izlenimin daha önce yaşanmış benzer izlenimlerle özdeşleştirilmesi; Spencer'a göre her gerçek biliş ancak buna eşlik eden bir yeniden tanımayla olanaklıdır."
+    },
+    {
+      "key": "Life",
+      "tr": "Yaşam",
+      "explanation": "Spencer'ın tanımıyla iç ilişkilerin dış ilişkilere sürekli uyarlanması; fiziksel yaşamı da zekâyı da kapsayan en soyut tanım."
+    },
+    {
+      "key": "stable equilibrium",
+      "tr": "kararlı denge",
+      "explanation": "Bir cismin küçük bir sarsıntıdan sonra eski durumuna döndüğü denge hâli; Spencer'a göre inorganik cisimlerin eğilimi, canlı cisimlerin ise sürekli karşı koyduğu durum."
+    },
+    {
+      "key": "Correspondence",
+      "tr": "uygunluk",
+      "explanation": "Organizmadaki iç eylem ve ilişkilerin, çevredeki dış eylem ve ilişkilerle örtüşmesi; Spencer'ın yaşam ve zekâ kuramının temel kavramı."
+    },
+    {
+      "key": "Intelligence",
+      "tr": "zekâ",
+      "explanation": "İç ilişkilerin, sayıca çok, karmaşık ve zaman ya da uzayca uzak dış ilişkilere uyarlanmasıyla ortaya çıkan düzenli bilinç; Spencer'a göre yaşamın yüksek bir biçimi."
+    },
+    {
+      "key": "co-existence and sequence",
+      "tr": "birlikte var oluş ve ardışıklık",
+      "explanation": "Görüngüler arasındaki iki temel ilişki türü: aynı anda bir arada bulunma ve birbirini izleme. Spencer'a göre bütün bilgi yalnızca bu ilişkilerden oluşur."
+    },
+    {
+      "key": "Correlatives",
+      "tr": "bağlılaşıklar",
+      "explanation": "Ancak birbirine göre tasavvur edilebilen karşılıklı kavram çiftleri (bütün–parça, eşit–eşit olmayan, göreli–mutlak gibi)."
+    },
+    {
+      "key": "Contradictories",
+      "tr": "çelişikler",
+      "explanation": "Biri ötekinin yadsınması olan kavram çiftleri (sınırlı–sınırsız gibi); Hamilton'a göre olumsuz olan yalnızca soyutlamadır, Spencer'a göre ise bilinçte olumlu bir kalıntı taşır."
+    },
+    {
+      "key": "Non-relative",
+      "tr": "Göreli-olmayan",
+      "explanation": "Hiçbir ilişki içinde olmayan varlık, yani Mutlak; Spencer, Göreli'nin ancak bunun karşıtı olarak düşünülebildiğini ve dolayısıyla onun olumlu bir bilincinin bulunduğunu savunur."
+    },
+    {
+      "key": "nascent consciousness",
+      "tr": "doğmakta olan bilinç",
+      "explanation": "Belirli bir sınır ya da neden düşünüldüğünde kendiliğinden beliren, ötesindeki uzay ya da nedene ilişkin biçimsiz ama gerçek bilinç."
+    },
+    {
+      "key": "self-consciousness",
+      "tr": "öz bilinç",
+      "explanation": "Zihnin kendi hâllerinin farkında olması; Spencer'a göre mutlak varoluş bilinci bunun ters yüzüdür, çünkü her düşüncede yeniden koşullanan değişmez bilinç tözüne dayanır."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+---
+import Base from '../../layouts/Base.astro';
+import notes from '../../data/notes.json';
+import { BOOK } from '../../data/book';
+const noteList = notes as { unit: string; title: string; href: string; issues: string[] }[];
+---
+<Base title="Bu Çeviri Hakkında" description="Herbert Spencer'ın First Principles kitabının Türkçe çevirisi: kaynak baskı, çeviri yaklaşımı, terim ve kısaltma kuralları, atlanan bölümler ve bilinen OCR sorunları." current="/hakkinda/">
+  <div class="page">
+    <nav aria-label="Konum"><ol class="crumbs"><li><a href="/">{BOOK.title}</a></li><li aria-hidden="true">›</li><li aria-current="page">Bu Çeviri Hakkında</li></ol></nav>
+    <article class="prose">
+      <h1 class="title">Bu çeviri hakkında</h1>
+      <h2>Kaynak</h2>
+      <p>Çeviri, Herbert Spencer’ın <em lang="en">First Principles</em> kitabının yazar tarafından gözden geçirilmiş altıncı ve son baskısına (Brighton, 1900) dayanır. Kullanılan nüsha, Watts &amp; Co.’nun <em>Thinker’s Library</em> dizisindeki 62 numaralı basımıdır (1937; 1946 üçüncü baskı) ve <a href={BOOK.sourceUrl} rel="noopener">Internet Archive</a>’da taranmış hâliyle bulunur. Spencer 1903’te öldüğünden özgün metin dünyanın her yerinde kamu malıdır.</p>
+      <h2>Neler çevrildi, neler atlandı</h2>
+      <p>Spencer’ın üç önsözü, Kısım I (Bilinemez) ve son notu, Kısım II (Bilinebilir) ve dört ek tam olarak çevrildi. 1937 basımına eklenen, Herbert Spencer Vakfı sekreterinin imzasız giriş yazısı Spencer’a ait olmadığı ve telif durumu belirsiz olduğu için alınmadı. Basılı kitabın sonundaki alfabetik dizin yerine, metne bağlı bir <a href="/sozluk/">terimler sözlüğü</a> ve tam metin arama sunulur.</p>
+      <h2>Çeviri yaklaşımı</h2>
+      <p>Amaç, Spencer’ın on dokuzuncu yüzyıl bilimsel-felsefi üslubuna ve cümle yapısına sadık, bütünlüklü bir Türkçe metindir. Cümleler atlanmadı, özetlenmedi, yorum eklenmedi. Spencer’ın <strong>§</strong> ile numaraladığı kesimler korunmuş ve her kesime doğrudan bağlantı verilmiştir (örneğin <code>#paragraf-12</code>). Özgün baskının sayfa numaraları metin içinde küçük etiketler olarak durur; böylece basılı baskıya atıf yapılabilir.</p>
+      <h2>Teknik terimler</h2>
+      <p>Teknik terimler Türkçe felsefe ve bilim literatüründeki karşılıklarıyla verilir; her bölümde ilk geçişte özgün İngilizce terim parantez içinde eklenir. Metin içinde noktalı altı çizili terimlere dokunarak ya da tıklayarak özgün terimi ve kısa açıklamasını görebilirsiniz; aynı açıklamalar <a href="/sozluk/">sözlükte</a> toplu olarak bulunur.</p>
+      <h2>Kısaltmalar</h2>
+      <p>Çeviride korunan kısaltmaların (Prof., Dr., M., F.R.S., M.A. gibi) açılımı, her bölümde ilk geçişte özgün dilinde parantez içinde verilir. Latince üslup kısaltmaları (<span lang="la">i.e.</span>, <span lang="la">e.g.</span>, <span lang="la">viz.</span>) Türkçeye çevrilmiştir.</p>
+      <h2>Bilinen kaynak sorunları</h2>
+      <p>Kaynak, optik karakter tanıma (OCR) ile okunmuş bir taramadır. Bariz okuma hataları bağlamdan düzeltildi. Taramada eksik olan basılı 140–141. sayfalar ile ağır bozuk okunan pasajlar, aynı 1937 Watts basımının Internet Archive’daki ikinci bir taramasından (<a href="https://archive.org/details/dli.ernet.236217" rel="noopener">dli.ernet.236217</a>) tamamlandı ve karşılaştırıldı. Aşağıda bölüm bölüm kalan notlar listelenir.</p>
+      <h2>Terim tutarlılığı</h2>
+      <p>Bazı terimler bağlama göre farklı bölümlerde farklı Türkçe karşılıklarla verilmiştir (örneğin <em lang="en">aggregate</em> için “küme” ve “yığın”). Her bölümdeki açıklama kutusu o bölümde kullanılan karşılığı gösterir; sözlükte diğer karşılıklar ayrıca belirtilir.</p>
+      {noteList.length === 0 ? <p>Kaydedilmiş sorun yok.</p> : (
+        <ul>
+          {noteList.map((n) => (
+            <li><a href={n.href}>{n.title}</a>
+              <ul>{n.issues.map((i) => <li>{i}</li>)}</ul>
+            </li>
+          ))}
+        </ul>
+      )}
+    </article>
+  </div>
+</Base>

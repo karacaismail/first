@@ -1,0 +1,38 @@
+{
+  "unit": "p2-ch17",
+  "description": "Spencer, evrim formülünü alıkonan hareketin yeniden dağılımıyla tamamlar: gök cisimleri, yerküre, organizma, zihin ve toplumda hareketin bütünleşmesi.",
+  "summary": "Spencer, önceki bölümlerde yalnızca maddenin yeniden dağılımına bakıldığını, oysa yığının alıkoyduğu hareketin de koşut biçimde bütünleşip farklılaştığını ve belirlilik kazandığını gösterir. Güneş Sistemi'nin dönme ve dolanımlarından atmosfer ve okyanus akıntılarına, sindirim ve dolaşım işlevlerinden çocuğun konuşma gelişimine ve ordu, hükûmet, ticaret gibi toplumsal etkinliklere uzanan örneklerle bu tezi işler. Bölüm, Evrim formülünün nihai biçimini ve baskı sırasında eklenen, tanıma 'göreli olarak' sözcüğünün katılması gerektiğini bildiren notu içerir.",
+  "sections": [139, 145],
+  "ocr_issues": [
+    "İkinci kesim başlığı OCR'da '§ 1390.' görünüyor; sıraya göre (139 ile 140 arasında) '§ 139a.' olarak düzeltildi.",
+    "§ 140 başlangıcı: 'from many points at ir^ *-v distances with many degrees of indirectness, mumble nry into the nebulous mass' bozuk; ikinci taramayla doğrulandı: 'at many distances ... must carry into', çeviri buna göre düzeltildi.",
+    "§ 141 sonu: 'the change: Arihe Earth's crust itself, have presented an analcejous p^oigress' bozuk; ikinci taramayla doğrulandı: 'the changes in the Earth's crust itself, have presented an analogous progress'. Bağlamdan yapılan yorum birebir doğru çıktı; çeviri değişmedi.",
+    "§ 144: 'increased in precision;1' ifadesindeki '1' ikinci taramayla doğrulandı: temiz metin 'increased in precision; so that in battle' biçiminde, dipnot işareti yok. OCR artığı olduğu kesinleşti; dipnot eklenmedi.",
+    "Bölüm sonundaki editör notunda OCR, '§ 116 (page 295)' göndermesini ayrı paragrafa bölmüştü; notun içindeki cümleyle birleştirildi."
+  ],
+  "terms": [
+    {"key": "retained motion", "tr": "alıkonan hareket", "explanation": "Evrim sırasında dağılıp kaçmayan, yığının bir süre için içinde tuttuğu hareket; Spencer'a göre bu hareket de madde gibi bütünleşir, farklılaşır ve belirlilik kazanır."},
+    {"key": "dissipation of Motion", "tr": "hareketin dağılması", "explanation": "Maddenin yoğunlaşmasına eşlik eden, hareketin (çoğunlukla ısı olarak) yığından çevreye kaçıp yayılması; Evrim formülünün ikinci bileşeni."},
+    {"key": "sensible motion", "tr": "duyulur hareket", "explanation": "Duyularla algılanabilen, görünür kütlelerin yer değiştirmesi biçimindeki hareket; duyulmaz (moleküler) hareketin karşıtı."},
+    {"key": "insensible motion", "tr": "duyulmaz hareket", "explanation": "Doğrudan algılanamayan, moleküller ve parçacıklar arasındaki titreşim ve yer değiştirmelerden oluşan hareket (ısı, ışık, sinirsel boşalım gibi)."},
+    {"key": "militant", "tr": "savaşçı", "explanation": "Spencer'ın toplum tipolojisinde zorlayıcı iş birliğine ve savaşa dayalı toplumsal yaşam biçimi; karşıtı endüstriyel yaşamdır."},
+    {"key": "industrial", "tr": "endüstriyel", "explanation": "Spencer'ın toplum tipolojisinde gönüllü iş birliğine, üretim ve ticarete dayalı toplumsal yaşam biçimi; savaşçı (militant) yaşamın karşıtı."},
+    {"key": "radiant heat", "tr": "ışınımsal ısı", "explanation": "Bir cisimden dalgalar hâlinde yayılan ısı; 19. yüzyıl fiziğinde ışıkla aynı türden bir ışınım sayılırdı."},
+    {"key": "momentum", "tr": "momentum", "explanation": "Hareket eden bir cismin kütlesi ile hızının çarpımı; mekanikte hareket miktarı."},
+    {"key": "angular velocity", "tr": "açısal hız", "explanation": "Dönen bir cismin birim zamanda taradığı açı; Spencer bunu bulutsu kütlenin dönmesinin bütünleşmesini anlatmak için kullanır."},
+    {"key": "secular variation", "tr": "seküler değişim", "explanation": "Astronomide gezegen hareketlerinde çok uzun zaman dilimlerinde birikerek ortaya çıkan, dönemsel olmayan yavaş değişim."},
+    {"key": "precession", "tr": "presesyon", "explanation": "Dönen bir cismin (ör. Dünya'nın) ekseninin yavaşça bir koni çizerek yön değiştirmesi; ekinoksların gerilemesine yol açan astronomik hareket."},
+    {"key": "perturbation", "tr": "pertürbasyon", "explanation": "Bir gök cisminin yörüngesinin, başka cisimlerin çekim etkisiyle ideal yörüngeden sapması."},
+    {"key": "trade-winds", "tr": "alize rüzgârları", "explanation": "Tropikal bölgelerde yıl boyu düzenli esen, ekvatora doğru yönelen kalıcı rüzgârlar."},
+    {"key": "vascular system", "tr": "damar sistemi", "explanation": "Kan ya da besleyici sıvıyı organizma içinde taşıyan damarlar ve kalpten oluşan dolaşım aygıtı."},
+    {"key": "efferent", "tr": "götürücü", "explanation": "Merkezden (kalpten ya da sinir merkezinden) çevreye doğru taşıyan damar ya da sinir; getiricinin (afferent) karşıtı."},
+    {"key": "afferent", "tr": "getirici", "explanation": "Çevreden merkeze (kalbe ya da sinir merkezine) doğru taşıyan damar ya da sinir; götürücünün (efferent) karşıtı."},
+    {"key": "alimentary canal", "tr": "sindirim kanalı", "explanation": "Ağızdan anüse uzanan, besinin sindirildiği ve emildiği boru biçimindeki organ dizisi."},
+    {"key": "nervo-muscular", "tr": "sinir-kas", "explanation": "Sinir sistemi ile kasların birlikte oluşturduğu, uyarıyı harekete çeviren işlevsel bütün."},
+    {"key": "cilia", "tr": "siller", "explanation": "Hücre yüzeyinden çıkan, salınarak hareket ya da sıvı akımı sağlayan kirpiksi ince uzantılar."},
+    {"key": "Turbellaria", "tr": "Turbellaria", "explanation": "Yassı solucanların serbest yaşayan, vücut yüzeyi sillerle kaplı sınıfı (kirpikli solucanlar)."},
+    {"key": "Arthropoda", "tr": "Arthropoda", "explanation": "Eklem bacaklılar; böcekler, kabuklular ve örümcekler gibi dış iskeletli ve eklemli uzuvlu hayvanları kapsayan şube."},
+    {"key": "association of ideas", "tr": "fikir çağrışımı", "explanation": "Bir zihin içeriğinin, daha önce birlikte deneyimlenmiş başka bir içeriği kendiliğinden akla getirmesi; İngiliz çağrışımcı psikolojisinin temel ilkesi."},
+    {"key": "Philosophy", "tr": "Felsefe", "explanation": "Spencer'ın tanımıyla bütünüyle birleştirilmiş bilgi; bilimlerin tek tek ulaştığı genellemelerin tek bir ilke altında sentezlenmesi."}
+  ]
+}

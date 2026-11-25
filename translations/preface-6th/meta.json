@@ -1,0 +1,14 @@
+{
+  "unit": "preface-6th",
+  "description": "Spencer'ın 1900 tarihli Altıncı Baskıya Önsözü: kırk yıllık eserin düzeltme tarihçesi, son baskıdaki içerik ve üslup değişiklikleri, kısaltılan metin.",
+  "summary": "Spencer, eserin ilk satırlarının yazılmasından bu yana geçen kırk yılda yapılan değişiklikleri özetler: 1867'deki yeniden düzenleme, 1875'teki bölüm düzeltmeleri ve bu baskıdaki başlıca düzeltmeler. Sonraki eserlerinin genel ilkelere olan inancını güçlendirdiğini belirtir ve gereksiz sözcüklerin ayıklanmasıyla eserin elli sayfa kısaldığını söyler.",
+  "sections": [],
+  "ocr_issues": [
+    "'§§ 710-71^' → '§§ 71a–71b', '§§ 182-3 •' → '§§ 182–3', 'in' → '111', '1390' → '139a' olarak bağlamdan düzeltildi.",
+    "Kaynak dosyada önsöz imzasından sonra İÇİNDEKİLER tablosu (⟦PAGE pdf29⟧–⟦PAGE pdf32⟧ arası, OCR'ı bozuk sayfa numaralarıyla) ve 'PART I THE UNKNOWABLE' kısım başlığı yer alıyor; bunlar önsözün parçası olmadığından çevrilmedi. İstenirse ayrı birim olarak çevrilebilir.",
+    "⟦PAGE 541⟧ işareti İçindekiler bloğunun içinde ve bariz hatalı (önsöz Roma rakamlı sayfalardadır); İçindekiler çevrilmediği için bu işaret de çeviriye alınmadı. ⟦PAGE pdf28⟧ yönerge gereği atlandı."
+  ],
+  "terms": [
+    {"key": "Ethics", "tr": "etik", "explanation": "Ahlak felsefesi; Spencer'ın Sentetik Felsefe dizisinin son bölümünü oluşturan Etiğin İlkeleri bu alana aittir."}
+  ]
+}

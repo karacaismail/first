@@ -1,0 +1,91 @@
+/* Semantik tasarım tokenları — İlk İlkeler
+   Kimlik: 19. yüzyıl felsefi bir inceleme için sakin, kâğıt dokulu bir okuma yüzeyi;
+   mürekkep lacivert metin, derin deniz mavisi vurgu, terimler için aşı boyası. */
+:root {
+  /* yüzeyler */
+  --c-bg: #f6f2ea;
+  --c-surface: #fdfbf7;
+  --c-surface-2: #efe9dd;
+  --c-ink: #1e2230;
+  --c-ink-2: #4b5160;
+  --c-ink-3: #767c8a;
+  --c-line: #d9d2c4;
+  --c-accent: #1d5b6b;
+  --c-accent-ink: #ffffff;
+  --c-accent-soft: #dcebee;
+  --c-term: #8a5a1f;
+  --c-term-soft: #f3e6cf;
+  --c-focus: #1d5b6b;
+  --c-focus-bg: #e3f0f3;
+  --c-selection: #f0dcb4;
+  --c-invalid: #9b2c2c;
+  --c-accent-hover: #164b58;
+  --c-overlay: rgb(30 34 48 / 0.35);
+  --c-mark: #f0dcb4;
+
+  /* tipografi (kök boyut tarayıcıya aittir; hiçbir metin 14 CSS px altına inmez) */
+  --fs-min: 0.875rem;   /* 14px */
+  --fs-small: 0.9375rem;/* 15px */
+  --fs-body: 1.0625rem; /* 17px */
+  --fs-lead: 1.1875rem;
+  --fs-h3: 1.25rem;
+  --fs-h2: 1.5rem;
+  --fs-h1: clamp(1.75rem, 1.3rem + 2.4vw, 2.5rem);
+  --lh-body: 1.7;
+  --lh-tight: 1.25;
+  --measure: 40rem;
+  --font: 'Outfit Variable', 'Outfit', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+
+  /* boşluk */
+  --sp-1: 0.25rem; --sp-2: 0.5rem; --sp-3: 0.75rem; --sp-4: 1rem; --sp-5: 1.5rem; --sp-6: 2rem; --sp-7: 3rem; --sp-8: 4rem;
+  --gutter: 1rem;          /* 320px'te 16px kenar boşluğu */
+  --hit-min: 2.75rem;      /* dokunma hedefi 44px */
+
+  /* yerleşim */
+  --header-h: 3.5rem;
+  --nav-w: 18.75rem;
+  --page-max: 72rem;
+  --popover-w: min(20rem, calc(100vw - 2rem));
+  --scroll-offset: 5rem;
+
+  /* köşe, gölge, kenarlık */
+  --r-sm: 0.25rem; --r-md: 0.5rem; --r-lg: 0.875rem;
+  --shadow-1: 0 1px 2px rgb(30 34 48 / 0.06), 0 4px 14px rgb(30 34 48 / 0.06);
+  --shadow-2: 0 6px 24px rgb(30 34 48 / 0.14);
+  --line-w: 1px;
+
+  /* hareket — zorunlu simetrik easeInOut cubic */
+  --motion-ease: cubic-bezier(0.65, 0, 0.35, 1);
+  --motion-fast: 140ms;
+  --motion-base: 220ms;
+  --motion-slow: 320ms;
+}
+
+:root[data-mantine-color-scheme='dark'] {
+  --c-bg: #15181f;
+  --c-surface: #1b1f28;
+  --c-surface-2: #232834;
+  --c-ink: #e9e5dc;
+  --c-ink-2: #b9b6ad;
+  --c-ink-3: #8f8e8a;
+  --c-line: #333945;
+  --c-accent: #7dc3d0;
+  --c-accent-ink: #10242a;
+  --c-accent-soft: #1f343b;
+  --c-term: #dcae63;
+  --c-term-soft: #352b1b;
+  --c-focus: #7dc3d0;
+  --c-focus-bg: #1f343b;
+  --c-selection: #4a3b1d;
+  --c-invalid: #e08585;
+  --c-accent-hover: #9bd3dd;
+  --c-overlay: rgb(0 0 0 / 0.55);
+  --c-mark: #5a4720;
+  --shadow-1: 0 1px 2px rgb(0 0 0 / 0.4), 0 4px 14px rgb(0 0 0 / 0.35);
+  --shadow-2: 0 6px 24px rgb(0 0 0 / 0.5);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --motion-fast: 0ms; --motion-base: 0ms; --motion-slow: 0ms; }
+}

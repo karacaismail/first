@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import glossary from '../../data/glossary.json';
+import usage from '../../data/term-usage.json';
+import { BOOK } from '../../data/book';
+type Term = { key: string; tr: string; explanation: string; slug: string; variants?: string[] };
+export function getStaticPaths() {
+  return (glossary as Term[]).map((t) => ({ params: { terim: t.slug }, props: { term: t } }));
+}
+const { term } = Astro.props;
+const where = (usage as Record<string, { unit: string; href: string; title: string }[]>)[term.key] ?? [];
+const site = Astro.site!.href.replace(/\/$/, '');
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: term.tr,
+  alternateName: term.key,
+  description: term.explanation,
+  inLanguage: 'tr',
+  url: `${site}/sozluk/${term.slug}/`,
+  inDefinedTermSet: { '@type': 'DefinedTermSet', name: `${BOOK.title} — Terimler Sözlüğü`, url: `${site}/sozluk/` },
+}];
+---
+<Base title={`${term.tr} (${term.key})`} description={`${term.tr} — ${term.key}: ${term.explanation}`} current="/sozluk/" jsonLd={jsonLd}>
+  <div class="page">
+    <nav aria-label="Konum"><ol class="crumbs"><li><a href="/">{BOOK.title}</a></li><li aria-hidden="true">›</li><li><a href="/sozluk/">Terimler Sözlüğü</a></li><li aria-hidden="true">›</li><li aria-current="page">{term.tr}</li></ol></nav>
+    <article data-pagefind-body data-pagefind-filter="tur:Sözlük" data-pagefind-meta="kisim:Sözlük" style="max-width: var(--measure)">
+      <p class="eyebrow">Terim</p>
+      <h1 class="title">{term.tr}</h1>
+      <p class="subtitle" lang="en">{term.key}</p>
+      <p style="font-size: var(--fs-lead)">{term.explanation}</p>
+      {term.variants?.length ? <p class="meta">Bazı bölümlerde şu karşılıkla da geçer: {term.variants.join(', ')}</p> : null}
+      {where.length > 0 && (
+        <section>
+          <h2 style="font-size: var(--fs-h3)">Geçtiği bölümler</h2>
+          <ul class="toc">{where.map((u) => <li><a href={u.href}><span>{u.title}</span></a></li>)}</ul>
+        </section>
+      )}
+    </article>
+  </div>
+</Base>

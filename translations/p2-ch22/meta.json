@@ -1,0 +1,157 @@
+{
+  "unit": "p2-ch22",
+  "description": "Spencer'ın İlk İlkeler'inde Dengelenme bölümü: hareketin dağılması, hareketli denge ve Güneş Sistemi'nden organizma, zihin ve topluma dengeye yöneliş.",
+  "summary": "Spencer, her hareketin direnç altında olduğu için sürekli eksilip sonunda dengeye vardığını, bileşik hareketleri olan kümelenmelerde önce hareketli dengenin, ardından tam dengenin kurulduğunu gösterir. Bu yasayı Güneş Sistemi'nin ve Yer'in evriminde, Güneş'in ısı kaybında, organizmaların işlev ve uyumunda, zihinsel ve ahlaki uyumda ve toplumların nüfus, sanayi ve yönetim dengelerinde izler. Bölüm, kuvvetin kalıcılığından çıkarsanan bu dengelenme yasasının her türden evrimi en sonunda durgunlukla bitirmek zorunda olduğu sonucuyla kapanır.",
+  "sections": [
+    170,
+    176
+  ],
+  "ocr_issues": [
+    "§ 171 Helmholtz tahminindeki kesirler OCR'da bozuk ('-4B-4th', 'T^.VOTT*', '-^uinT.W?', '^'); 'more than 2000 years' ve 'next million years' ifadeleriyle aritmetik tutarlılığa göre 1/454, 1/10.000, 1/20.000.000 ve 1/20 olarak yeniden kuruldu; basılı nüshayla doğrulanmalı.",
+    "§ 171 'Meanwrj^e, each of these simple perturbations, as well as ea/ g^-jf the complex ones resulting from their combinatio,' ^^inibits' bölümü bağlamdan 'Meanwhile, each of ... as well as each of the complex ones resulting from their combination, exhibits' olarak okundu.",
+    "§ 170 Fransız matematikçilere atfedilen 'equilibrium mobile' kaynakta bu biçimde basılıdır (muhtemelen 'équilibre mobile'); olduğu gibi korundu. § 173 'vis medicatrix natura' → 'vis medicatrix naturae' düzeltildi.",
+    "Basılı sayfa 460'ın işareti kaynakta yalnızca '⟦PAGE pdf488⟧' olarak geldiği ve ardından '46o EQUILIBRATION' sayfa başlığı OCR'a karıştığı için ⟦460⟧ işareti konmadı, sayfa başlığı atıldı. Sayfa 456 öncesindeki 'Q' forma işareti atıldı."
+  ],
+  "terms": [
+    {
+      "key": "aggregate",
+      "tr": "kümelenme",
+      "explanation": "Spencer'ın, parçaları bir arada tutulan herhangi bir madde bütünü (bir taş, gezegen, organizma ya da toplum) için kullandığı genel terim; evrim bu kümelenmelerde gerçekleşir."
+    },
+    {
+      "key": "complete equilibrium",
+      "tr": "tam denge",
+      "explanation": "Bir kümelenmenin bütün duyulur hareketlerinin dağılıp bittiği, artık hiçbir değişimin kalmadığı son durum; hareketli dengenin sonunda düştüğü durgunluk."
+    },
+    {
+      "key": "dependent moving equilibrium",
+      "tr": "bağımlı hareketli denge",
+      "explanation": "Harcadığı enerjiyi dışarıdan sürekli yenileyen kümelenmelerdeki denge; buharlı makine, yeryüzü dolaşımları, canlı organizma ve toplumun sınai işlevleri bu üçüncü düzen dengenin örnekleridir."
+    },
+    {
+      "key": "independent moving equilibrium",
+      "tr": "bağımsız hareketli denge",
+      "explanation": "Dışarıdan enerji almaksızın, yalnızca ihmal edilebilir bir dirençle karşılaşarak kendi hareketlerini süresiz dengede tutan kümelenmenin durumu; Spencer'ın dördüncü düzen ya da kusursuz hareketli denge dediği, Güneş Sistemi'nde görülen denge."
+    },
+    {
+      "key": "sensible motion",
+      "tr": "duyulur hareket",
+      "explanation": "Görünür kütlelerin algılanabilen yer değiştirmesi; Spencer'da evrim sırasında yavaş yavaş duyulmaz (moleküler) harekete dönüşerek dağılan hareket türü."
+    },
+    {
+      "key": "insensible motion",
+      "tr": "duyulmaz hareket",
+      "explanation": "Doğrudan algılanamayan moleküler titreşim ve ısı biçimindeki hareket; duyulur hareketin dağılırken dönüştüğü biçim."
+    },
+    {
+      "key": "momentum",
+      "tr": "momentum",
+      "explanation": "Hareket eden bir cismin kütlesiyle hızının çarpımı olan hareket miktarı; çarpışmalarda başka cisimlere aktarılarak azalır."
+    },
+    {
+      "key": "centrifugal force",
+      "tr": "merkezkaç kuvveti",
+      "explanation": "Dönen bir kütlenin parçalarını dönme ekseninden dışarı doğru iten kuvvet; bulutsu hipotezinde halkaların kopmasını ve Yer'in basıklığını açıklar."
+    },
+    {
+      "key": "centre of gravity",
+      "tr": "ağırlık merkezi",
+      "explanation": "Bir cismin bütün ağırlığının toplanmış sayılabileceği nokta; Güneş'in ve Yer'in tözlerinin bu merkeze doğru yoğunlaşması Spencer'da ısı ve hareketin kaynağıdır."
+    },
+    {
+      "key": "oblate spheroid",
+      "tr": "basık küremsi",
+      "explanation": "Kutuplarından basılmış, ekvatorunda şişkin küre biçimi; dönen akışkan bir kütlenin denge biçimi olup Yer de bu biçimdedir."
+    },
+    {
+      "key": "aphelion",
+      "tr": "günöte",
+      "explanation": "Bir gezegen ya da kuyruklu yıldızın yörüngesinde Güneş'e en uzak olduğu nokta."
+    },
+    {
+      "key": "perihelion",
+      "tr": "günberi",
+      "explanation": "Bir gezegen ya da kuyruklu yıldızın yörüngesinde Güneş'e en yakın olduğu nokta."
+    },
+    {
+      "key": "eccentricity",
+      "tr": "dışmerkezlilik",
+      "explanation": "Bir yörüngenin daireden ne ölçüde saptığını gösteren ölçü; gezegen yörüngelerinin dışmerkezliliği dönemsel olarak değişir."
+    },
+    {
+      "key": "perturbation",
+      "tr": "tedirginlik",
+      "explanation": "Bir gök cisminin düzenli yörünge hareketinde başka cisimlerin çekiminden kaynaklanan küçük sapmalar (pertürbasyon); Spencer bunları telafi edici salınımlar olarak yorumlar."
+    },
+    {
+      "key": "tidal friction",
+      "tr": "gelgit sürtünmesi",
+      "explanation": "Gelgit dalgasının Yer'in dönüşüne karşı yarattığı sürtünme; 19. yüzyıl fizikçilerine göre Yer'in dönüşünü çok yavaş biçimde azaltan etken."
+    },
+    {
+      "key": "lunation",
+      "tr": "kavuşum ayı",
+      "explanation": "Ay'ın iki yeni ay arasındaki yaklaşık 29,5 günlük dolanım dönemi; gelgit sürtünmesinin nihai etkisi Yer gününü bu uzunluğa getirmek olurdu."
+    },
+    {
+      "key": "thermal undulations",
+      "tr": "ısıl dalgalanmalar",
+      "explanation": "Isının esir içinde dalga biçiminde yayıldığı varsayılan ışıma; dağılan her hareketin sonunda uzaya kaçtığı biçim."
+    },
+    {
+      "key": "denudation",
+      "tr": "aşındırma",
+      "explanation": "Yeryüzünün su, rüzgâr ve buz etkisiyle aşınıp yüzey malzemesinin taşınması (denüdasyon); jeolojide biriktirmenin karşıtı."
+    },
+    {
+      "key": "gyroscope",
+      "tr": "jiroskop",
+      "explanation": "Hızla dönen bir diskin dönme düzlemini korumaya çalıştığını gösteren aygıt; eksenel momentumun yön değişimine direncini sergiler."
+    },
+    {
+      "key": "equilibrium mobile",
+      "tr": "equilibrium mobile",
+      "explanation": "Fransız matematikçilerin, parçaları hareket hâlindeyken bütünün kararlı kaldığı durum için kullandıkları terim; Spencer'ın 'hareketli denge' kavramının kaynağı."
+    },
+    {
+      "key": "systole",
+      "tr": "sistol",
+      "explanation": "Kalbin kasılarak kanı damarlara pompaladığı evre."
+    },
+    {
+      "key": "diastole",
+      "tr": "diyastol",
+      "explanation": "Kalbin gevşeyerek kanla dolduğu evre; sistolün karşıtı."
+    },
+    {
+      "key": "vis medicatrix naturae",
+      "tr": "vis medicatrix naturae",
+      "explanation": "Latince 'doğanın iyileştirici gücü': organizmanın bozulan dengesini kendiliğinden yeniden kurma eğilimi için hekimlerin kullandığı deyim."
+    },
+    {
+      "key": "latent energy",
+      "tr": "gizil enerji",
+      "explanation": "Besinde depolanmış, henüz harekete dönüşmemiş enerji; organizma bunu soğurarak edimsel enerjiye çevirir."
+    },
+    {
+      "key": "actual energy",
+      "tr": "edimsel enerji",
+      "explanation": "Harcanmakta olan, harekete dönüşmüş enerji; gizil enerjinin karşıtı."
+    },
+    {
+      "key": "nerve force",
+      "tr": "sinir kuvveti",
+      "explanation": "Sinir sisteminde ritmik darbeler hâlinde üretilip bedensel ve zihinsel değişimlere dönüşen kuvvet; Spencer'ın 19. yüzyıl fizyolojisinden aldığı kavram."
+    },
+    {
+      "key": "stationary state",
+      "tr": "durağan durum",
+      "explanation": "John Stuart Mill'in, nüfusun ve sermayenin artışının durduğu, üretim ile tüketimin dengelendiği varsayımsal ekonomik son durum için kullandığı terim."
+    },
+    {
+      "key": "petitio principii",
+      "tr": "petitio principii",
+      "explanation": "Latince mantık terimi: kanıtlanması gereken şeyi öncül olarak varsayma yanlışı (döngüsel kanıt)."
+    }
+  ]
+}

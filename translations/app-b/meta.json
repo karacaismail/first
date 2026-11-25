@@ -1,0 +1,124 @@
+{
+  "unit": "app-b",
+  "description": "Spencer, Tait, Kirkman, Matthew Arnold ve Cliffe Leslie'nin evrim formülüne itirazlarını yanıtlar; soyut terimlerin gerekliliğini ve bütünleşmeyi savunur.",
+  "summary": "Spencer, Profesör Tait'in ve matematikçi Kirkman'ın evrim formülünü gülünç bir 'düz İngilizce' çevirisiyle anlamsız gösterme çabasını, Tait'in kendi kuvvet tanımlarındaki tutarsızlıkları sergileyerek ve yüksek soyutluktaki doğruların ancak soyut sözcüklerle dile getirilebileceğini göstererek yanıtlar. Ardından North American Review yazarı ile Matthew Arnold'ın benzer tutumunu analitik ve edebî eğitimin somut bilimlere yabancılığına bağlar. Son olarak Cliffe Leslie'nin dil, moda, ticaret, siyaset ve hukuk alanlarından getirdiği homojenleşme örneklerini, bütünleşmenin evrimin birincil süreci olduğu ve yığınların bütünlüğü içinde heterojenliğin arttığı gerekçesiyle çürütür.",
+  "sections": [],
+  "ocr_issues": [],
+  "terms": [
+    {
+      "key": "experimental method",
+      "tr": "deneysel yöntem",
+      "explanation": "Bilimsel bilgiyi denetimli deney ve gözlemle elde etme yöntemi; Tait'e göre fiziksel bilginin tek kaynağı."
+    },
+    {
+      "key": "principle of Continuity",
+      "tr": "süreklilik ilkesi",
+      "explanation": "Doğada ani sıçramalar olmadığı, görüngülerin kesintisiz bir biçimde birbirine bağlandığı ilkesi; Tait ve Balfour-Stewart bunu görünmez evrene de uygular."
+    },
+    {
+      "key": "laws of motion",
+      "tr": "hareket yasaları",
+      "explanation": "Newton'un üç hareket yasası; ilki, bir cismin dış kuvvet etkimedikçe durgunluk ya da düzgün doğrusal hareket durumunu koruduğunu söyler."
+    },
+    {
+      "key": "work",
+      "tr": "iş",
+      "explanation": "Fizikte bir kuvvetin bir cismi yol boyunca hareket ettirmesiyle aktarılan enerji; Tait kuvveti birim uzunluk başına yapılan iş oranı olarak tanımlar."
+    },
+    {
+      "key": "celestial mechanics",
+      "tr": "gök mekaniği",
+      "explanation": "Gök cisimlerinin hareketlerini kütle çekimi yasalarıyla inceleyen astronomi dalı."
+    },
+    {
+      "key": "Abstract Sciences",
+      "tr": "Soyut Bilimler",
+      "explanation": "Spencer'ın bilim sınıflandırmasında görüngülerin yalnızca biçimlerini inceleyen bilimler: mantık ve matematik."
+    },
+    {
+      "key": "Abstract-Concrete Sciences",
+      "tr": "Soyut-Somut Bilimler",
+      "explanation": "Spencer'ın sınıflandırmasında görüngülerin etkenlerini soyutlayarak inceleyen bilimler: mekanik, fizik, kimya."
+    },
+    {
+      "key": "Concrete Sciences",
+      "tr": "Somut Bilimler",
+      "explanation": "Spencer'ın sınıflandırmasında görüngüleri bütünlükleri içinde inceleyen bilimler: astronomi, jeoloji, biyoloji, psikoloji, sosyoloji."
+    },
+    {
+      "key": "aggregate",
+      "tr": "yığın",
+      "explanation": "Spencer'ın birimlerin bir araya gelmesiyle oluşan her türlü bütün için kullandığı genel terim; evrim yasası yığınların dönüşümünü dile getirir."
+    },
+    {
+      "key": "Heptarchy",
+      "tr": "Heptarşi",
+      "explanation": "Erken Orta Çağ'da İngiltere'nin bölündüğü yedi Anglosakson krallığına verilen ad; Leslie bunu Avrupa'nın yedi büyük devlete pekişmesine benzetir."
+    },
+    {
+      "key": "Joint Stock Company",
+      "tr": "anonim şirket",
+      "explanation": "Sermayesi hisselere bölünmüş, çok sayıda hissedarın ortak olduğu ticari şirket; 19. yüzyılda bankacılık ve demiryollarında yaygınlaşmıştır."
+    },
+    {
+      "key": "division of labour",
+      "tr": "iş bölümü",
+      "explanation": "Üretim sürecinin uzmanlaşmış görevlere ayrılması; Adam Smith'ten beri iktisadın temel kavramı, Spencer'da toplumsal farklılaşmanın örneği."
+    },
+    {
+      "key": "metamorphosis",
+      "tr": "başkalaşım",
+      "explanation": "Bir hayvanın (ör. kurbağa, kelebek) gelişimi sırasında yapısının köklü biçimde değişmesi; Spencer bunu toplumsal tip değişimine benzetir."
+    },
+    {
+      "key": "militant type",
+      "tr": "militan tip",
+      "explanation": "Spencer'ın sosyolojisinde savaş ve zorlayıcı iş birliği etrafında örgütlenmiş, merkezî ve hiyerarşik toplum tipi."
+    },
+    {
+      "key": "industrial type",
+      "tr": "endüstriyel tip",
+      "explanation": "Spencer'ın sosyolojisinde barışçıl üretim ve gönüllü iş birliği etrafında örgütlenmiş, bireysel özgürlüğe dayanan toplum tipi."
+    },
+    {
+      "key": "regulative organization",
+      "tr": "düzenleyici örgütlenme",
+      "explanation": "Bir toplumun etkinliklerini denetleyen ve eşgüdümleyen yönetsel yapı; militan ve endüstriyel tiplerde farklı biçimler alır."
+    },
+    {
+      "key": "nervous system",
+      "tr": "sinir sistemi",
+      "explanation": "Bir organizmanın uyarıları ileten ve eylemlerini eşgüdümleyen sinir hücreleri ve merkezlerinden oluşan sistem."
+    },
+    {
+      "key": "ganglion",
+      "tr": "gangliyon",
+      "explanation": "Sinir hücresi gövdelerinin oluşturduğu küçük sinir düğümü; basit hayvanlarda sinir sisteminin temel merkezi."
+    },
+    {
+      "key": "Mollusca",
+      "tr": "Yumuşakçalar",
+      "explanation": "Salyangoz, midye ve mürekkep balığını kapsayan omurgasız hayvan şubesi."
+    },
+    {
+      "key": "Vertebrata",
+      "tr": "Omurgalılar",
+      "explanation": "Balık, kurbağa, sürüngen, kuş ve memelileri kapsayan, omurgaya sahip hayvanlar alt şubesi."
+    },
+    {
+      "key": "cephalopods",
+      "tr": "kafadanbacaklılar",
+      "explanation": "Mürekkep balığı ve ahtapot gibi, gelişmiş sinir merkezleri ve gözleri olan en yüksek yumuşakçalar sınıfı."
+    },
+    {
+      "key": "Articulata",
+      "tr": "Eklemliler",
+      "explanation": "Cuvier'nin sınıflandırmasında böcek, örümcek, kabuklu ve halkalı solucanları kapsayan, eklemli vücutlu hayvanlar grubu."
+    },
+    {
+      "key": "vascular system",
+      "tr": "damar sistemi",
+      "explanation": "Kan ya da besin sıvısını vücutta dolaştıran damar ve kalp gibi organların bütünü (dolaşım sistemi)."
+    }
+  ]
+}

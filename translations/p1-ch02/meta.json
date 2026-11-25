@@ -1,0 +1,107 @@
+{
+  "unit": "p1-ch02",
+  "description": "Spencer, evrenin kökenine ilişkin ateizm, panteizm ve teizm hipotezlerinin tasavvur edilemez olduğunu gösterir; dinlerin ortak özü evrenin gizemidir.",
+  "summary": "Spencer, Dünya gibi büyük nesnelere ilişkin bilgimizin yalnızca simgesel tasavvurlardan oluştuğunu ve bunların gerçek tasavvurlarla karıştırılmasının yanılgı doğurduğunu gösterir. Evrenin kökenine ilişkin üç hipotezin (kendi kendine var olma, kendini yaratma, dış bir etkenle yaratılış) ve İlk Neden'in Sonsuz ve Mutlak olması gerektiği çıkarımının, Mansel'in kanıtlamasıyla da desteklenerek, düşünülemez olduğunu ortaya koyar. Yine de bütün dinlerin ortak ve giderek belirginleşen özünün, evrenin varoluşunun yorum bekleyen bir gizem olduğu kanısı olduğu sonucuna varır.",
+  "sections": [
+    9,
+    14
+  ],
+  "ocr_issues": [],
+  "terms": [
+    {
+      "key": "antipodes",
+      "tr": "antipod",
+      "explanation": "Yerkürenin üzerinde bulunulan noktanın tam karşısına düşen, çapın öteki ucundaki nokta ya da bölge."
+    },
+    {
+      "key": "Mammalia",
+      "tr": "memeliler",
+      "explanation": "Yavrularını sütle besleyen omurgalı hayvanlar sınıfı; dönemin doğa tarihi sınıflandırmasındaki Latince adı."
+    },
+    {
+      "key": "Vertebrata",
+      "tr": "omurgalılar",
+      "explanation": "Omurgası olan hayvanların (balıklar, sürüngenler, kuşlar, memeliler vb.) oluşturduğu büyük hayvan bölümü."
+    },
+    {
+      "key": "Solar System",
+      "tr": "Güneş Sistemi",
+      "explanation": "Güneş ile onun çevresinde dolanan gezegenler, uydular ve öteki gök cisimlerinin oluşturduğu bütün; Spencer'da simgesel tasavvurun doğrulanabilir örneği."
+    },
+    {
+      "key": "double",
+      "tr": "eş-benlik",
+      "explanation": "İlkel insanın rüya deneyiminden türettiği, bedenden ayrılıp dolaşabilen ikinci benlik; Spencer'ın hayalet ve ruh inançlarının kökeni saydığı tasavvur."
+    },
+    {
+      "key": "potential existence",
+      "tr": "potansiyel varoluş",
+      "explanation": "Henüz gerçekleşmemiş, yalnızca olanak hâlinde bulunan varoluş; panteist kendini yaratma hipotezinin dayandığı, Spencer'a göre tasavvur edilemeyen kavram."
+    },
+    {
+      "key": "actual existence",
+      "tr": "edimsel varoluş",
+      "explanation": "Olanak hâlinde değil, fiilen gerçekleşmiş olan varoluş; potansiyel varoluşun karşıtı."
+    },
+    {
+      "key": "cosmogony",
+      "tr": "kozmogoni",
+      "explanation": "Evrenin kökenini ve oluşumunu açıklayan kuram ya da anlatı; dinî yaratılış öğretileri de bu kapsama girer."
+    },
+    {
+      "key": "pseud-idea",
+      "tr": "sahte fikir",
+      "explanation": "Spencer'ın terimi: sözcükleri bir araya getirilebilen ama bilinçte gerçek bir düşünce olarak kurulamayan sözde fikir (ör. kare bir sıvı)."
+    },
+    {
+      "key": "finite",
+      "tr": "sonlu",
+      "explanation": "Sınırı olan, ölçülebilir; sonsuzun karşıtı. Spencer İlk Neden'in sonlu düşünülemeyeceğini göstermek için kullanır."
+    },
+    {
+      "key": "Causation",
+      "tr": "nedensellik",
+      "explanation": "Her olayın bir nedenden doğduğu ve nedenlerin etkiler ürettiği ilkesi; neden-etki ilişkisinin kendisi."
+    },
+    {
+      "key": "Theology",
+      "tr": "teoloji",
+      "explanation": "Tanrı'nın doğasını ve dinî öğretileri sistemli biçimde inceleyen disiplin (ilahiyat)."
+    },
+    {
+      "key": "free-will",
+      "tr": "özgür irade",
+      "explanation": "Bir varlığın eylemlerini dış zorunluluk olmaksızın kendi seçimiyle belirleme gücü; Mansel'e göre Mutlak'ın neden olabilmesinin koşulu."
+    },
+    {
+      "key": "subject",
+      "tr": "özne",
+      "explanation": "Bilen, bilincinde olan taraf; felsefede nesnenin karşıtı olarak bilinç ilişkisinin bir ucu."
+    },
+    {
+      "key": "object",
+      "tr": "nesne",
+      "explanation": "Bilincin yöneldiği, bilinen şey; öznenin karşıtı olarak bilinç ilişkisinin öteki ucu."
+    },
+    {
+      "key": "Rational Theology",
+      "tr": "Rasyonel Teoloji",
+      "explanation": "Vahye değil yalnızca akla dayanarak Tanrı'nın varlığını ve niteliklerini kanıtlamaya çalışan teoloji; Mansel'in çelişkilerini gösterdiği alan."
+    },
+    {
+      "key": "Ghost-theory",
+      "tr": "Hayalet kuramı",
+      "explanation": "Spencer'ın, dinin kökenine ilişkin görüşü: ilkel insanın olağandışı her olayın ardında ölülerin hayaletleri gibi insani bir kişilik varsayması."
+    },
+    {
+      "key": "Polytheism",
+      "tr": "politeizm",
+      "explanation": "Birden çok tanrıya inanma (çoktanrıcılık); Spencer'da hayalet kuramından monoteizme giden gelişimin ara evresi."
+    },
+    {
+      "key": "Monotheism",
+      "tr": "monoteizm",
+      "explanation": "Tek bir Tanrı'ya inanma (tektanrıcılık); Spencer'da görünmez etkenlerin bütünüyle genelleştirildiği evre."
+    }
+  ]
+}

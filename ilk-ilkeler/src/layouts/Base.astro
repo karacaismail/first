@@ -1,0 +1,65 @@
+---
+import '@mantine/core/styles.css';
+import '@fontsource-variable/outfit';
+import '../styles/global.css';
+import { ColorSchemeScript } from '@mantine/core';
+import Shell from '../components/Shell';
+import { BOOK, PARTS, CHAPTERS, chapterPath } from '../data/book';
+
+interface Props {
+  title: string;
+  description: string;
+  current?: string;
+  type?: 'website' | 'article';
+  jsonLd?: unknown[];
+  noindex?: boolean;
+  titleSuffix?: boolean;
+}
+const { title, description, current, type = 'website', jsonLd = [], noindex = false, titleSuffix = true } = Astro.props;
+const fullTitle = titleSuffix ? `${title} · ${BOOK.title} (${BOOK.author})` : title;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const navParts = PARTS.map((p) => ({ slug: p.slug, title: p.title, label: p.label, href: `/${p.slug}/` }));
+const navItems = CHAPTERS.map((c) => ({ part: c.part, href: chapterPath(c), title: c.title, number: c.number }));
+---
+<!doctype html>
+<html lang="tr" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:site_name" content={`${BOOK.title} — ${BOOK.author}`} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f6f2ea" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#15181f" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <ColorSchemeScript defaultColorScheme="auto" />
+    <script is:inline>
+      // Görünür klavye odağı yalnız Tab/Shift+Tab ile açılır; işaretçi/dokunma kapatır.
+      (function () {
+        var d = document.documentElement;
+        addEventListener('keydown', function (e) { if (e.key === 'Tab') d.setAttribute('data-kb-focus', ''); }, true);
+        addEventListener('pointerdown', function () { d.removeAttribute('data-kb-focus'); }, true);
+        addEventListener('touchstart', function () { d.removeAttribute('data-kb-focus'); }, { capture: true, passive: true });
+      })();
+    </script>
+    {jsonLd.map((obj) => <script type="application/ld+json" set:html={JSON.stringify(obj).replace(/</g, '\\u003c')} />)}
+  </head>
+  <body>
+    <Shell client:load parts={navParts} items={navItems} current={current}>
+      <slot />
+      <footer class="site">
+        <p>{BOOK.author}, <em>{BOOK.titleEn}</em> — {BOOK.edition}. Özgün metin kamu malıdır; <a href={BOOK.sourceUrl} rel="noopener">Internet Archive</a> nüshasından çevrilmiştir.</p>
+        <p><a href="/hakkinda/">Bu çeviri hakkında</a> · <a href="/sozluk/">Terimler sözlüğü</a> · <a href="/arama/">Ara</a></p>
+      </footer>
+    </Shell>
+  </body>
+</html>

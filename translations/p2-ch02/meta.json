@@ -1,0 +1,157 @@
+{
+  "unit": "p2-ch02",
+  "description": "Spencer, Felsefenin verisini arar: bilincin benzerlik yargısını ve canlı ile sönük tezahürler arasındaki özne–nesne ayrımını temel postulat olarak kurar.",
+  "summary": "Bu bölümde Spencer, hiçbir düşüncenin yalıtılamayacağını ve her felsefenin bazı temel sezgileri geçici olarak varsaymak zorunda olduğunu gösterir; bunların haklılandırılması, bütün öteki bilinç hükümleriyle uygunluklarının kanıtlanmasıdır. Ardından Bilinemez'in tezahürlerini canlı ve sönük olmak üzere iki düzene ayırır, bunları yedi ayırt edici karakterle karşılaştırır ve bu bölünmenin özne ile nesne, ben ile ben-olmayan ayrımına karşılık geldiğini savunarak Felsefenin verisini bu temel inançta bulur.",
+  "sections": [
+    39,
+    45
+  ],
+  "ocr_issues": [],
+  "terms": [
+    {
+      "key": "Manifestation",
+      "tr": "tezahür",
+      "explanation": "Bilinemez olan nihai gerçekliğin bilince görünen, deneyimlenen biçimi; Spencer'ın izlenim, ide, duyum gibi kuram yüklü terimlerden kaçınmak için bütün bilinç içeriklerine verdiği tarafsız ad."
+    },
+    {
+      "key": "Correlative",
+      "tr": "bağlılaşık",
+      "explanation": "Bir şeyin ancak kendisiyle birlikte düşünülebildiği karşılık terimi (ör. birlik ile çokluk, benzerlik ile farklılık); Spencer'a göre hiçbir düşünce bağlılaşıklarından koparılamaz."
+    },
+    {
+      "key": "Cognition",
+      "tr": "biliş",
+      "explanation": "Bir bilme edimi ya da bu edimin ürünü olan tek bir bilgi; Spencer'da bilişler örgütlü bir yapı oluşturur ve tek tek yalıtılamaz."
+    },
+    {
+      "key": "Philosophy",
+      "tr": "Felsefe",
+      "explanation": "Spencer'ın tanımıyla bütünüyle birleştirilmiş, en yüksek genellikteki bilgi; bu bölümde bu bilginin dayanmak zorunda olduğu veriler araştırılır."
+    },
+    {
+      "key": "Science",
+      "tr": "Bilim",
+      "explanation": "Görüngüler arasındaki ilişkileri genellemeler hâlinde düzenleyen, kısmen birleştirilmiş bilgi; Spencer'a göre her adımında benlik ile benlik-olmayan ayrımını verili kabul eder."
+    },
+    {
+      "key": "extensive",
+      "tr": "uzamsal",
+      "explanation": "Hamilton'ın nicelik ayrımında uzayda yer kaplamaya ilişkin nicelik; süremsel ve yoğunluksal nicelikle birlikte üç nicelik türünden biri."
+    },
+    {
+      "key": "protensive",
+      "tr": "süremsel",
+      "explanation": "Hamilton'ın terimi: zamanda sürmeye, süreye ilişkin nicelik; uzamsal (uzay) ve yoğunluksal (derece) nicelikten ayrılır."
+    },
+    {
+      "key": "intensive",
+      "tr": "yoğunluksal",
+      "explanation": "Derece ya da şiddete ilişkin nicelik (ör. bir duyumun kuvveti); uzamsal ve süremsel nicelikten ayrılır."
+    },
+    {
+      "key": "Intuition",
+      "tr": "sezgi",
+      "explanation": "Akıl yürütmeyle türetilmeyen, düşünmenin kendisine dayandığı dolaysız temel biliş; Spencer bu temel sezgileri geçici olarak sorgulanamaz kabul eder."
+    },
+    {
+      "key": "Representation",
+      "tr": "temsil",
+      "explanation": "Daha önce sunulmuş bir izlenimin bellek ya da imgelemde yeniden canlandırılması; Spencer'da sönük tezahürlere karşılık gelir ve 'ideal' olanı oluşturur."
+    },
+    {
+      "key": "Presentation",
+      "tr": "sunum",
+      "explanation": "Bir şeyin bilince dolaysızca, algı yoluyla verilmesi; Spencer'da canlı tezahürlere karşılık gelir ve 'gerçek' olanı oluşturur."
+    },
+    {
+      "key": "specific gravity",
+      "tr": "özgül ağırlık",
+      "explanation": "Bir maddenin yoğunluğunun suyun yoğunluğuna oranı; altının yüksek özgül ağırlığı onu tanımanın ölçütlerinden biridir."
+    },
+    {
+      "key": "malleability",
+      "tr": "dövülebilirlik",
+      "explanation": "Bir metalin kırılmadan dövülerek ince levha hâline getirilebilme özelliği; altında en yüksek derecededir."
+    },
+    {
+      "key": "Reflection",
+      "tr": "düşünüm",
+      "explanation": "Locke'tan gelen terim: zihnin kendi işlemleri üzerine yönelmesi; dış algıdan ayrı olarak iç deneyim kaynağı."
+    },
+    {
+      "key": "Impression",
+      "tr": "izlenim",
+      "explanation": "Hume'un terimi: duyu yoluyla bilince gelen canlı algı; Spencer bu terimin psikolojik imalarından kaçınmak için 'canlı tezahür' demeyi yeğler."
+    },
+    {
+      "key": "Idea",
+      "tr": "ide",
+      "explanation": "Hume'un terimi: izlenimin bellek ya da imgelemdeki sönük kopyası; Spencer bunun yerine 'sönük tezahür' der."
+    },
+    {
+      "key": "Imagination",
+      "tr": "imgelem",
+      "explanation": "Zihnin, duyulara şimdi verilmeyen şeyleri canlandırma ya da yeni biçimlerde birleştirme yetisi (hayal gücü)."
+    },
+    {
+      "key": "Ideation",
+      "tr": "tasarımlama",
+      "explanation": "Zihinde ideler oluşturma süreci; algıdan bağımsız olarak düşünce içeriklerinin üretilmesi."
+    },
+    {
+      "key": "vivid manifestations",
+      "tr": "canlı tezahürler",
+      "explanation": "Spencer'ın 'izlenim' ya da 'duyum' yerine kullandığı tarafsız terim: algı koşulları altında ortaya çıkan, belirgin, birbirine çözülmez biçimde bağlı ve koşulları çoğu kez denetim dışında olan tezahürler; nesne ve ben-olmayan bunlardan oluşur."
+    },
+    {
+      "key": "faint manifestations",
+      "tr": "sönük tezahürler",
+      "explanation": "Spencer'ın 'ide' yerine kullandığı tarafsız terim: bellek, imgelem ve düşünüm koşulları altında ortaya çıkan, daha az belirgin, kolayca yeniden düzenlenebilen ve koşulları her zaman kendi aralarında bulunan tezahürler; özne ve ben bunlardan oluşur."
+    },
+    {
+      "key": "cohesion",
+      "tr": "bağlılık",
+      "explanation": "Tezahürlerin birbirine tutunup ayrılmaz biçimde bir arada kalması; Spencer bunun boylamasına (ardışıklık) ve enlemesine (birlikte var oluş) türlerini ayırt eder."
+    },
+    {
+      "key": "Object",
+      "tr": "nesne",
+      "explanation": "Bilincin karşısında duran, bilinen şey; Spencer'da canlı tezahürlerin oluşturduğu birleşik bütün."
+    },
+    {
+      "key": "Subject",
+      "tr": "özne",
+      "explanation": "Bilen, bilinç taşıyan taraf; Spencer'da sönük tezahürlerin oluşturduğu birleşik bütün."
+    },
+    {
+      "key": "Self",
+      "tr": "benlik",
+      "explanation": "Kişinin kendisi olarak tanıdığı tezahürler bütünü; sönük tezahürlerin öbeğine verilen ad."
+    },
+    {
+      "key": "Not-self",
+      "tr": "benlik-olmayan",
+      "explanation": "Kendisinden ayrı, dış dünya olarak tanınan tezahürler bütünü; canlı tezahürlerin öbeğine verilen ad."
+    },
+    {
+      "key": "Ego",
+      "tr": "ben",
+      "explanation": "Kendini sönük tezahürler biçiminde gösteren güç; Spencer bunu görüngüsel ben olarak da adlandırır."
+    },
+    {
+      "key": "Non-ego",
+      "tr": "ben-olmayan",
+      "explanation": "Kendini canlı tezahürler biçiminde gösteren ve canlı tezahürler akıntısının ötesine uzanan güç; dış dünyanın karşılığı."
+    },
+    {
+      "key": "Common Sense",
+      "tr": "sağduyu",
+      "explanation": "Sıradan insanın sorgulamadan kabul ettiği temel inançlar bütünü; İskoç sağduyu felsefesinin de dayanağı olan ortak kanı."
+    },
+    {
+      "key": "Natural Realism",
+      "tr": "doğal realizm",
+      "explanation": "Hamilton'ın görüşü: dış dünyanın varlığının dolaysız ve açıklanamaz bir sezgiyle bilindiği öğretisi; Spencer bunun yerine ayrımı bilincin işleyişinden türetir."
+    }
+  ]
+}

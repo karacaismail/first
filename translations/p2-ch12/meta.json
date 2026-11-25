@@ -1,0 +1,23 @@
+{
+  "unit": "p2-ch12",
+  "description": "Spencer, evrimi maddenin bütünleşmesi ve hareketin dağılması, çözülmeyi ise tersi olarak tanımlar; her varoluş bu iki karşıt süreç arasında sürekli değişir.",
+  "summary": "Spencer, herhangi bir şeyin eksiksiz tarihinin onun algılanamaz olandan ortaya çıkışını ve yeniden algılanamaz olana dönüşünü kapsaması gerektiğini, felsefenin bu geçişi ancak bir ideal olarak formüle edebileceğini savunur. Bu geçişin iki karşıt sürecini, yani maddenin bütünleşmesiyle hareketin dağılmasını ve hareketin soğurulmasıyla maddenin parçalanmasını açıklar; her yığının her an bunlardan birine doğru ilerlediğini gösterir. Bölüm, bu süreçlere Evrim ve Çözülme adlarının verilmesi ve 'evrim' sözcüğünün yol açtığı anlam karışıklığının tartışılmasıyla biter.",
+  "sections": [93, 97],
+  "ocr_issues": [
+    "Kaynakta 'analogy helps us hade' ifadesi 'back' olarak düzeltilerek çevrildi.",
+    "Kaynakta 'will be affected under guidance' ifadesi bağlam gereği 'effected' (gerçekleştirilecek) olarak çevrildi.",
+    "Kaynakta 'the wails' ifadesi 'the walls' (duvarlar) olarak düzeltildi; 'centuries ago. they formed' içindeki fazla nokta yok sayıldı."
+  ],
+  "terms": [
+    {"key": "imperceptible", "tr": "algılanamaz", "explanation": "Duyularla kavranamayacak kadar yayılmış ya da seyrelmiş olan durum; Spencer'a göre her duyulur varoluş bu durumdan doğar ve yeniden ona döner."},
+    {"key": "sensible existence", "tr": "duyulur varoluş", "explanation": "Duyular üzerinde etki edecek biçimde somut, algılanabilir bir biçim almış olan her şey; Spencer'ın evrim ve çözülme süreçlerinin öznesi olarak kullandığı genel ad."},
+    {"key": "Aggregate", "tr": "yığın", "explanation": "Spencer'ın teknik terimi: ayrık birimlerin bir araya toplanmasıyla oluşan ve bir bütün olarak ele alınan her madde kütlesi (bir kristalden bir organizmaya, bir buluttan Güneş Sistemi'ne kadar)."},
+    {"key": "Disintegration", "tr": "parçalanma", "explanation": "Bütünleşmenin karşıtı: bir yığının bileşenlerinin, iç hareket kazanmaları sonucu birbirinden ayrılıp daha yayılmış bir duruma geçmesi; Çözülme'nin madde tarafı."},
+    {"key": "Involution", "tr": "içe katlanma", "explanation": "'Evolution' (açılma, dışa doğru gelişme) sözcüğünün karşıtı olan sözcük; Spencer, maddenin yoğunlaşıp büzülmesini anlattığı için kendi evrim kavramını bu sözcüğün daha doğru karşılayacağını, ancak yerleşik kullanım nedeniyle 'Evrim'i korumak zorunda kaldığını belirtir."},
+    {"key": "Inference", "tr": "çıkarım", "explanation": "Doğrudan gözlemlenemeyen olguların, bilinen olgulardan akıl yürütmeyle türetilmesi; Spencer'a göre nesnelerin uzak geçmiş ve geleceğine ilişkin bilgi büyük ölçüde çıkarıma dayanır."},
+    {"key": "Analogy", "tr": "analoji", "explanation": "Benzer durumlar arasındaki koşutluktan yararlanarak bilinmeyen bir durum hakkında sonuç çıkarma; gözlemin yetmediği yerde bilgiyi genişleten akıl yürütme biçimi."},
+    {"key": "Stratum", "tr": "katman", "explanation": "Jeolojide, tortuların üst üste birikmesiyle oluşmuş kaya tabakası; Spencer, yapı taşlarının geçmişini bu katmanlara kadar geriye izler."},
+    {"key": "Germ", "tr": "tohum", "explanation": "19. yüzyıl biyolojisinde canlının geliştiği ilk, mikroskobik başlangıç hücresi ya da embriyo taslağı; insanın rahim içi yaşam öyküsünün başlangıç noktası."},
+    {"key": "Solar System", "tr": "Güneş Sistemi", "explanation": "Güneş ile çevresinde dolanan gezegenler ve öteki gök cisimlerinden oluşan sistem; Spencer'a göre bunun da bir zamanlar yayılmış bir durumdan yoğunlaşarak oluştuğu ve ileride yeniden dağılacağı ancak çıkarımla bilinebilir."}
+  ]
+}

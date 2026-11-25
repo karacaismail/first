@@ -1,0 +1,74 @@
+{
+  "unit": "app-c",
+  "description": "Spencer, Prof. Ward'ın homojen olanın kararsızlığı öğretisine itirazlarını yanıtlar; mutlak homojenlik varsaymadığını ve üç yanılgıyı gösterir.",
+  "summary": "Spencer, James Ward'ın Naturalism and Agnosticism adlı yapıtındaki eleştirilerini ele alır. Ward'ın kendisine yüklediği sonsuz ve mutlak bir başlangıç homojenliği varsayımını reddettiğini, sonsuz parabol benzetmesiyle gösterir ve göreli anlamda kullandığı terimlerin çarpıtıldığını belirtir. Kimyasal bakımdan basit bileşiklerin daha kararlı olmasının öğretiyle çeliştiği itirazına ise basit ve bileşik evrim ayrımı, iç ve dış kararsızlık farkı ve heterojen olanın kararlı olduğunu hiç ileri sürmemiş olması gerekçeleriyle üç yönlü bir yanıt verir.",
+  "sections": [],
+  "ocr_issues": [],
+  "terms": [
+    {
+      "key": "Idea",
+      "tr": "İdea",
+      "explanation": "Lotze'nin felsefesinde dünyanın işleyişine yön veren ve kendini gerçekleştiren tinsel ilke; Spencer'ın sabit kuvvet miktarı anlayışıyla çelişir."
+    },
+    {
+      "key": "unstable equilibrium",
+      "tr": "kararsız denge",
+      "explanation": "Küçük bir bozulmanın sistemi dengeden giderek uzaklaştırdığı denge durumu; Spencer homojenliği böyle bir durum sayar."
+    },
+    {
+      "key": "primordial medium",
+      "tr": "ilksel ortam",
+      "explanation": "Lord Kelvin'in girdap-atom kuramında maddenin içinde oluştuğu varsayılan, başlangıçta tamamen türdeş olan sürekli akışkan."
+    },
+    {
+      "key": "breach of continuity",
+      "tr": "süreklilik kesintisi",
+      "explanation": "Bir sürecin doğal yasalarla açıklanamayan bir sıçrama ya da dış müdahale gerektirmesi; Ward bunu Spencer'ın evriminin ilk adımına yükler."
+    },
+    {
+      "key": "aggregate",
+      "tr": "yığın",
+      "explanation": "Spencer'ın birimlerin bir araya gelmesiyle oluşan her türlü bütün için kullandığı genel terim; evrim yasası sonlu yığınların dönüşümünü dile getirir."
+    },
+    {
+      "key": "parabola",
+      "tr": "parabol",
+      "explanation": "Bir koninin bir doğurana paralel düzlemle kesilmesiyle elde edilen, iki kolu sonsuza uzanan açık eğri."
+    },
+    {
+      "key": "nebulous matter",
+      "tr": "bulutsu madde",
+      "explanation": "Yıldız ve gezegenlerin kendisinden yoğunlaştığı varsayılan, uzaya yayılmış seyrek gaz ve toz kütlesi (bkz. Bulutsu Hipotezi)."
+    },
+    {
+      "key": "Sidereal System",
+      "tr": "Yıldız Sistemi",
+      "explanation": "19. yüzyıl astronomisinde Güneş'in de içinde bulunduğu yıldızlar topluluğu; bugünkü Samanyolu galaksisi."
+    },
+    {
+      "key": "conservative system",
+      "tr": "korunumlu sistem",
+      "explanation": "Mekanikte toplam enerjisi sabit kalan, sürtünme gibi kayıpların olmadığı sistem."
+    },
+    {
+      "key": "mass-points",
+      "tr": "kütle noktaları",
+      "explanation": "Mekanikte boyutu ihmal edilip bütün kütlesi tek bir noktada toplanmış sayılan idealleştirilmiş cisimler (nokta kütleler)."
+    },
+    {
+      "key": "chemical stability",
+      "tr": "kimyasal kararlılık",
+      "explanation": "Bir bileşiğin ısı gibi dış etkiler altında ayrışmaya direnme derecesi; genellikle basit bileşikler karmaşık olanlardan daha kararlıdır."
+    },
+    {
+      "key": "molecule",
+      "tr": "molekül",
+      "explanation": "Bir maddenin kimyasal özelliklerini taşıyan en küçük parçacığı; Spencer'a göre duyulur yığınların tersine bileşik evrim sergileyemez."
+    },
+    {
+      "key": "crystal",
+      "tr": "kristal",
+      "explanation": "Atomları düzenli bir örgü hâlinde dizilmiş katı; Spencer'da yalnızca bütünleşmeyle sınırlı basit evrimin örneği."
+    }
+  ]
+}

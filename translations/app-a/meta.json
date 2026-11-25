@@ -1,0 +1,38 @@
+{
+  "unit": "app-a",
+  "description": "Spencer, evrim formülündeki homojenliğin mutlak değil göreli anlaşılması gerektiğini ve Homojen Olanın Kararsızlığı başlığının niçin yanıltıcı olduğunu açıklar.",
+  "summary": "Spencer bu notta, evrim formülündeki “homojen” sözcüğünün von Baer'den alınırken mutlaklık imasını da beraberinde getirdiğini, oysa kastedilenin daima göreli homojenlik olduğunu belirtir. Karşıtlık ve konumun dikkati nasıl yönlendirdiğini benzetmelerle göstererek “Homojen Olanın Kararsızlığı” başlığının yanıltıcı olabileceğini kabul eder. Homojen olanı özel bir kararsızlığın nitelendirmediğini, heterojenliğin sürekli artışının değişikliklerin üst üste binmesinin zorunlu sonucu olduğunu savunur.",
+  "sections": [],
+  "ocr_issues": [
+    "İkinci paragraftaki “to the organic and the super-organic as well as the organic” ifadesinde ilk “organic” büyük olasılıkla “inorganic” olmalıdır (dizgi/OCR hatası); bağlama göre “inorganik” diye çevrildi.",
+    "“nortare they implied” → “nor are they implied” olarak düzeltildi.",
+    "“there must go on a continual lapse into a more heterogeneous state, such as we had seen does go on” cümlesindeki kesik OCR bağlamdan tamamlandı."
+  ],
+  "terms": [
+    {
+      "key": "multiformity",
+      "tr": "çokbiçimlilik",
+      "explanation": "Bir bütünün parçalarının biçim bakımından çeşitlenmesi; Spencer'ın erken dönemde heterojenlik yerine kullandığı ifade."
+    },
+    {
+      "key": "division of labour",
+      "tr": "iş bölümü",
+      "explanation": "Organizmalarda ve toplumlarda farklı parçaların farklı işlevleri üstlenmesi; Spencer'ın Social Statics'te vurguladığı, evrim formülünün erken çekirdeği."
+    },
+    {
+      "key": "Aggregate",
+      "tr": "küme",
+      "explanation": "Spencer'ın terimi: bir arada bulunan birimlerden oluşan herhangi bir bütün; yıldız sisteminden mikroba, organizmadan topluma kadar evrim yasasının uygulandığı her nesne."
+    },
+    {
+      "key": "incident force",
+      "tr": "etkiyen kuvvet",
+      "explanation": "Bir kümeye dışarıdan, başka kümelerden gelip etki eden kuvvet; homojen olanın farklılaşmasının nedeni."
+    },
+    {
+      "key": "Cohesion",
+      "tr": "kohezyon",
+      "explanation": "Bir cismin parçacıklarını bir arada tutan çekim; gaz ve sıvı kütlelerde yetersiz olduğu için bunlarda kalıcı değişiklik oluşmaz."
+    }
+  ]
+}

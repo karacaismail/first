@@ -1,0 +1,13 @@
+{
+  "unit": "p2-ch07",
+  "description": "Spencer, kuvvetin kalıcılığından kuvvetler arası ilişkilerin kalıcılığını çıkarır; Yasanın Tekbiçimliliğinin tümevarım değil tümdengelim olduğunu gösterir.",
+  "summary": "Spencer, kuvvetin kalıcı olduğu nihai hakikatinden ilk tümdengelim olarak kuvvetler arasındaki ilişkilerin kalıcılığını çıkarır: aynı önceller aynı koşullarda aynı ardılları vermek zorundadır, yoksa bir kuvvetin yaratıldığı ya da yok edildiği düşünülmüş olur. Eşit enerjiyle fırlatılan iki mermi örneğiyle bunu ardışıklıklar, eşzamanlı değişimler ve birlikte-varoluşlar için gösterir. Böylece Yasanın Tekbiçimliliği, yalnızca tümevarımsal bir sonuç değil, bilincin nihai verisinden çıkarılan bir sonuçtur.",
+  "sections": [63, 65],
+  "ocr_issues": [],
+  "terms": [
+    {"key": "antecedent", "tr": "öncel", "explanation": "Bir olaydan ya da tezahürden önce gelen ve onun nedeni ya da koşulu sayılan şey; ardılın karşıtı."},
+    {"key": "consequent", "tr": "ardıl", "explanation": "Bir öncelin ardından gelen ve onun etkisi sayılan tezahür; öncelin karşıtı."},
+    {"key": "Energy", "tr": "enerji", "explanation": "Fizikçilerin, değişim üreten türden kuvvete verdiği ad; hareket, ısı, ses ve ışık gibi birbirine dönüşebilen kipleri vardır."},
+    {"key": "momentum", "tr": "momentum", "explanation": "Hareket eden bir cismin kütlesi ile hızının çarpımı; eşit enerjiyle fırlatılan eşit mermilerde başlangıçta aynıdır."}
+  ]
+}

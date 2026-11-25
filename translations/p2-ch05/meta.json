@@ -1,0 +1,32 @@
+{
+  "unit": "p2-ch05",
+  "description": "Spencer, hareketin hiçe karışmadığını, yer değiştirme dursa da etkinlik ilkesinin gerilim olarak sürdüğünü ve bunun enerji postulatına dayandığını gösterir.",
+  "summary": "Spencer, hareketin asla yok olmadığı ilkesini sarkaç, avize ve lastik ipe bağlı top örnekleriyle açıklar: uzayda yer değiştirme durduğunda hareketin taşıdığı etkinlik ilkesi gizil bir gerilim olarak varlığını sürdürür. Bu ilkenin aslında kas çabası terimleriyle, yani Kuvvet olarak bilindiğini ve Hareketin Sürekliliğinin bütün kanıtlarının enerji miktarının sabitliği postulatını içerdiğini gösterir. Bölümün sonundaki uzun dipnot, Spencer'ın fizikçilerin Kuvvet bilincini dışlayan yaklaşımına itirazını ve Dr. Croll'un benzer görüşünü aktarır.",
+  "sections": [55, 59],
+  "ocr_issues": [
+    "§ 55: ana taramada sütun kenarı kesik olan paragraf ('ment of certain facts having to inquiries which have provecl illusive ...') aynı baskının ikinci (temiz) taramasıyla (p2-ch05-alt-s55.txt) doğrulandı ve birebir yeniden çevrildi; 'To explain here all disappearances...' cümlesinin ayrı paragraf olduğu da bu taramayla doğrulandı.",
+    "§ 55 dipnotu (* Throughout this chapter I use this phrase, not with any metaphysical meaning, but merely to avoid foregone conclusions.) ikinci taramayla doğrulandı ve tam metinden çevrildi.",
+    "§ 56: Newton alıntısı ve izleyen iki cümle ağır biçimde bozuk ('fcody', '^uniform motio*^', 'diarige, tl^at', 'lUnditninished velocity', 'seionH'); hareketin birinci yasasının bilinen metnine göre düzeltildi.",
+    "§ 59: 'correrid with a certain calculated position which the Eet must occupy, supposing that no motion has been >st' — 'correspond', 'planet', 'lost' olarak okundu.",
+    "⟦PAGE pdf192⟧ sonrasındaki 'i64 THE CONTINUITY OF MOTION' sayfa başlığı atlandı; bu sayfadaki metin ikinci dipnotun devamı olarak birleştirildi."
+  ],
+  "terms": [
+    {"key": "principle of activity", "tr": "etkinlik ilkesi", "explanation": "Spencer'ın bu bölümde, hareket eden bir cismin sergilediği ve yer değiştirme dursa bile gerilim olarak varlığını sürdüren şey için kullandığı ad; metafizik bir anlam taşımaz."},
+    {"key": "friction", "tr": "sürtünme", "explanation": "Birbirine temas eden yüzeylerin bağıl hareketine karşı koyan direnç; görünür hareketin moleküler harekete (ısıya) dönüşmesinin başlıca yollarından biri."},
+    {"key": "first law of motion", "tr": "hareketin birinci yasası", "explanation": "Newton'un eylemsizlik yasası: bir cisim, dış kuvvet etki etmedikçe durgunluk ya da düzgün doğrusal hareket durumunu sürdürür."},
+    {"key": "orbit", "tr": "yörünge", "explanation": "Bir gök cisminin, çekim kuvvetiyle bağlı olduğu merkez çevresinde izlediği yol."},
+    {"key": "eccentricity", "tr": "dışmerkezlilik", "explanation": "Eliptik bir yörüngenin daireden ne kadar saptığının ölçüsü; büyük dışmerkezlilik yörüngedeki hız değişimini de büyütür."},
+    {"key": "pendulum", "tr": "sarkaç", "explanation": "Bir noktadan asılı olarak salınan cisim; Spencer'da hareketin iki uçta durup yeniden başlamasının örneği."},
+    {"key": "oscillation", "tr": "salınım", "explanation": "Bir denge noktasının iki yanı arasında gidip gelen düzenli hareket."},
+    {"key": "translation", "tr": "yer değiştirme", "explanation": "Bir cismin uzayda bir konumdan başka bir konuma geçmesi; Spencer'a göre hareketin görünür fakat sürekli olmayan öğesi."},
+    {"key": "isochronism", "tr": "eşsürelilik", "explanation": "Sarkaç salınımlarının, genlikten bağımsız olarak eşit sürede tamamlanması özelliği; Galileo'nun keşfi."},
+    {"key": "correlative", "tr": "bağlılaşık", "explanation": "Bir şeyin zorunlu karşılığı ya da eşleniği olan şey; Spencer'da öznel çaba duygusunun nesnel karşılığı olan kuvvet gibi."},
+    {"key": "latent activity", "tr": "gizil etkinlik", "explanation": "Algılanamayan fakat var olmaya devam eden etkinlik; gerilmiş ipte ya da yukarı atılan taşla Yer arasındaki gerilimde saklı olan güç (potansiyel enerji)."},
+    {"key": "perceptible activity", "tr": "algılanabilir etkinlik", "explanation": "Görünür hareket olarak kendini gösteren etkinlik (edimsel ya da kinetik enerji)."},
+    {"key": "strain", "tr": "gerilim", "explanation": "Bir cismin ya da kasın, hareket üretmeksizin de var olabilen zorlanma durumu; Spencer'da gizil etkinliğin bulunduğu biçim."},
+    {"key": "tension", "tr": "gerginlik", "explanation": "Gerilmiş bir ipin ya da kasın çekme durumu; direnç ile birlikte kuvvet fikrimizin kaynağı olan duyum."},
+    {"key": "Energy", "tr": "enerji", "explanation": "Fizikçilerin, maddenin biçimini koruyan edilgin kuvvetten ayrı olarak, etkinlik hâlindeki maddenin sahip olduğu kütlesel ya da moleküler kuvvete verdiği ad."},
+    {"key": "momentum", "tr": "momentum", "explanation": "Hareket eden bir cismin kütlesi ile hızının çarpımı; Spencer'da hareketin kuvvet-öğesi."},
+    {"key": "potential energy", "tr": "potansiyel enerji", "explanation": "Cisimlerin konumlarından ya da uzaydaki ilişkilerinden dolayı sahip oldukları, henüz hareket olarak görünmeyen enerji."}
+  ]
+}

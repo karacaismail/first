@@ -1,0 +1,35 @@
+{
+  "unit": "p2-ch03",
+  "description": "Spencer uzay, zaman, madde, hareket ve kuvvet tasavvurlarını çözümler; gerçekliği bilinçteki kalıcılık olarak tanımlar ve hepsini kuvvet deneyimine indirger.",
+  "summary": "Spencer, görüngü ve görünüş sözcüklerinin yarattığı yanılsamayı giderip gerçekliğin ölçütünün bilinçteki kalıcılık olduğunu gösterir; göreli gerçekliğin bizim için mutlak gerçeklik kadar gerçek olduğunu savunur. Ardından Uzay, Zaman, Madde ve Hareket tasavvurlarının kas gerilimi ve direnç deneyimlerinden, yani kuvvet deneyimlerinden kurulduğunu ya da soyutlandığını ortaya koyar. Sonuçta Kuvvet, nihailerin nihaisi olarak kalır; ama bildiğimiz kuvvet de Koşulsuz Neden'in yalnızca koşullu bir etkisidir.",
+  "sections": [46, 51],
+  "ocr_issues": [
+    "Basılı 140–141. sayfalar ana OCR'da yoktu; aynı baskının başka bir taramasından (p2-ch03-gap-140-141.txt) tamamlandı ve § 46'nın sonu ile § 47 bu parçadan çevrildi. Parçadaki koşu başlıkları ('…141', '142 SPACE, TIME…') metinden çıkarıldı.",
+    "§ 47'nin '*' dipnotu ikinci taramada 'the writer's Principles of Psychology,' ifadesinden sonra virgülle kesiliyor (muhtemelen cilt/kısım göndermesi eksik); dipnot [^1] eldeki metin kadar çevrildi. Dipnot işareti kaynakta '§ 47.*' biçiminde kesim numarasına bağlıdır; '§ 47. ' çapa biçimini bozmamak için [^1] ilk cümlenin sonuna kondu.",
+    "⟦PAGE pdf170⟧ ve ⟦PAGE pdf172⟧ işaretleri yönerge gereği atlandı; OCR'daki koşu başlıklarına ('I42 SPACE, TIME…', 'I44 …') göre bunlar basılı 142 ve 144. sayfalardır. Koşu başlıkları metinden çıkarıldı.",
+    "'§§ 5°» 51-' → '§§ 50, 51.' olarak düzeltildi; Spencer iki kesimi tek başlıkta birleştirmiş, çeviride de '§§ 50, 51. ' biçiminde korundu (tek-numara çapa isteniyorsa '§ 50. ' yapılabilir).",
+    "Düzeltilen bariz OCR hataları: 'aft our senses' → 'all our senses'; 'hi the genesis' → 'in the genesis'; 'cancelled* The comet' ve 'to* its original' içindeki yıldızlar noktalama gürültüsü sayıldı (dipnot yok)."
+  ],
+  "terms": [
+    {"key": "mode of consciousness", "tr": "bilinç kipi", "explanation": "Bilincin aldığı belirli bir durum ya da biçim; Spencer'a göre gerçeklik fikri de dahil her bilgi, bilincin kiplerinden biridir."},
+    {"key": "persistence", "tr": "kalıcılık", "explanation": "Bir bilinç durumunun bilinçten kovulamaması, sürmesi; Spencer gerçekliğin ölçütünü bu kalıcılıkta bulur. Kuvvetin Kalıcılığı ilkesindeki kalıcılıkla aynı terimdir."},
+    {"key": "relative reality", "tr": "göreli gerçeklik", "explanation": "Bilincimizin biçimleri altında, ilişkiler içinde bildiğimiz gerçeklik; mutlak gerçekliğin bizde yarattığı koşullu ama kalıcı etki."},
+    {"key": "absolute reality", "tr": "mutlak gerçeklik", "explanation": "Bütün ilişkileri aşan, bilinemeyen ama varlığı bilince zorunlu olarak sunulan gerçeklik; göreli gerçekliğin nedeni."},
+    {"key": "Unconditioned Being", "tr": "Koşulsuz Varlık", "explanation": "Düşüncenin biçimleriyle koşullanmamış, kendinde var olan varlık; Spencer'ın Bilinemez için kullandığı adlardan biri."},
+    {"key": "Unconditioned Cause", "tr": "Koşulsuz Neden", "explanation": "Bildiğimiz kuvvetin de ardında duran, kendisi koşullanmamış nihai neden; Mutlak Gerçeklik ile aynı şeye işaret eder."},
+    {"key": "Unknown Cause", "tr": "Bilinmeyen Neden", "explanation": "Bizde Madde, Uzay, Zaman ve Hareket denen etkileri üreten, doğası bilinemeyen neden."},
+    {"key": "Power", "tr": "Güç", "explanation": "Görüngüler yoluyla bize tezahür eden, doğası tasavvur edilemeyen etken; Spencer'ın Bilinemez için kullandığı bir başka ad."},
+    {"key": "co-existence", "tr": "bir arada var olma", "explanation": "Şeylerin ya da konumların aynı anda yan yana bulunması; Spencer'a göre Uzay, bütün bir arada var olma ilişkilerinin soyutudur."},
+    {"key": "resistance", "tr": "direnç", "explanation": "Bir nesnenin kas çabamıza karşı koyması; Spencer'da Madde fikrinin birincil, Uzay fikrinin ise türevsel kaynağı olan temel kuvvet deneyimi."},
+    {"key": "muscular tension", "tr": "kas gerilimi", "explanation": "Kasların kasılmasıyla bilinçte doğan gerilim duyumu; Spencer'a göre Uzay, Madde ve Hareket tasavvurlarının kendisinden türediği ilk kuvvet izlenimi."},
+    {"key": "Body", "tr": "Cisim", "explanation": "Direnç gösteren yüzeylerle sınırlı, baştan başa dirençli parçalardan oluşan dolu uzam; boş uzam olan Uzay'ın karşıtı."},
+    {"key": "extension", "tr": "uzam", "explanation": "Yer kaplama, uzayda yayılma niteliği; Spencer'da Madde'nin dirençten sonra gelen ikincil öğesi."},
+    {"key": "atomic hypothesis", "tr": "atom hipotezi", "explanation": "Maddenin bölünmez, uzamlı ve dirençli küçük parçacıklardan oluştuğu varsayımı; Spencer bunu deneyimlerimizin zorunlu bir uzantısı olarak meşru sayar."},
+    {"key": "sentient", "tr": "duyumlayan", "explanation": "Duyarlığı olan, duyum alabilen; henüz düşünme yetisi olmasa da kuvvet izlenimlerini alabilen varlık için kullanılır."},
+    {"key": "Absolute Being", "tr": "Mutlak Varlık", "explanation": "İlişki dışında, kendinde var olan varlık; Spencer'a göre bilinemez ve tasavvur edilemez, ama düşüncenin göreliliği onun belirsiz bir bilincini zorunlu kılar."},
+    {"key": "transcendentalists", "tr": "transandantalistler", "explanation": "Kant'ı izleyerek uzay ve zamanı deneyimden türemeyen, zihnin önsel sezgi biçimleri sayan filozoflar; Spencer bu görüşe karşı uzay ve zaman tasavvurlarının deneyimden üretildiğini savunur."},
+    {"key": "forms of thought", "tr": "düşünce biçimleri", "explanation": "Her düşünmenin içinde gerçekleştiği evrensel kalıplar; Spencer'a göre tek birincil biçim ilişkidir, uzay ve zaman ise ondan türetilmiş biçimlerdir."},
+    {"key": "intuition", "tr": "sezgi", "explanation": "Kant geleneğinde duyusal verinin dolaysız kavranışı; transandantalistlerin uzay ve zamanı biçimleri olarak gördüğü, düşüncenin nihai bileşeni sayılan yeti."},
+    {"key": "sequence", "tr": "ardışıklık", "explanation": "Bilinç durumlarının birbirini izlemesi ilişkisi; terimleri tersine çevrilemeyen ilişki. Spencer'a göre bilincin özgün ilişki türüdür ve bütün ardışıklıkların soyutu Zaman'dır."}
+  ]
+}

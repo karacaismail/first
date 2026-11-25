@@ -1,0 +1,30 @@
+{
+  "unit": "p1-ch01",
+  "description": "Spencer, yanlış inançlarda bile bir hakikat çekirdeği bulunduğunu gösterir ve Din ile Bilim karşıtlığının ortak, soyut bir temelde uzlaşabileceğini savunur.",
+  "summary": "Spencer, en yanlış görünen inançların bile bir hakikat ruhu taşıdığını hükümdarların tanrısallığına ilişkin siyasal inançların tarihi üzerinden gösterir ve karşıt görüşlerde ortak öğeyi bulma yöntemini ortaya koyar. Bu yöntemi Din ile Bilim arasındaki en eski ve en derin karşıtlığa uygulayarak, dinsel duygunun evrenselliğinden ve bilginin asla bilgisizliği tüketemeyeceğinden Dinin, bilimsel öngörünün yadsınamaz geçerliliğinden ise Bilimin haklı bir temeli olduğunu çıkarır. İkisinin ancak her ikisinin de içerdiği en soyut hakikatte, zihnimizdeki nihai olguda uzlaşabileceği sonucuna varır.",
+  "sections": [1, 8],
+  "ocr_issues": [
+    "§ 4, 'Regarding Science as a gradually increasing sphere, we may say that every addition to its surface does not bring it into wider contact with surrounding nescience': OCR'daki 'does not' bağlamla (sonraki cümledeki 'therefore') çelişir; 6. baskıdaki 'does but bring' okuması esas alınarak 'yalnızca daha geniş bir temasa soktuğunu' biçiminde çevrildi.",
+    "§ 4, 'derived out of human experiences,^ slowly accumulated': virgülden sonraki '^' işareti OCR artığı sayıldı; birimde buna karşılık gelen bir dipnot metni bulunmadığından dipnot olarak işlenmedi.",
+    "§ 1'deki ⟦PAGE 4⟧ işareti, basılı sayfa aralığı 4–17 olduğu hâlde bölümün ilk sayfasının ortasında yer alıyor (muhtemelen 5. sayfanın başlangıcını işaretliyor); kaynaktaki numara olduğu gibi (⟦4⟧) korundu.",
+    "Sayfa başlarındaki OCR koşu başlıkları ('S RELIGION AND SCIENCE', 'io RELIGION AND SCIENCE', 'RELIGION AND SCIENCE u', 'I4 RELIGION AND SCIENCE', '1 8 RELIGION AND SCIENCE') ve ⟦PAGE pdf38/pdf40/pdf41/pdf44/pdf48⟧ işaretleri atlandı; 'teliefs', 'hi opinions', 'pur knowledge', 'conclusion i showing', 'to. take', '§ i.' bağlamdan düzeltildi."
+  ],
+  "terms": [
+    {"key": "divine right", "tr": "tanrısal hak", "explanation": "Hükümdarın yönetme yetkisini doğrudan Tanrı'dan aldığını savunan Orta Çağ ve erken modern dönem siyasal öğretisi; Spencer'a göre tanrısal köken inancının yumuşatılmış ardılı."},
+    {"key": "religious sentiment", "tr": "dinsel duygu", "explanation": "Spencer'ın, dinsel fikirlere karşılık veren ve insan doğasının bir bileşeni saydığı duygulanım; ister yaratılmış ister evrimle gelişmiş olsun, saygıyla ele alınması gerektiğini savunur."},
+    {"key": "nescience", "tr": "bilgisizlik", "explanation": "Spencer'ın bilimin (science) karşıtı olarak kullandığı terim: pozitif bilginin hiçbir zaman dolduramayacağı, görüngülerin ötesinde kalan bilinmeyen alan; dinin konusunu oluşturur."},
+    {"key": "special creation", "tr": "özel yaratma", "explanation": "Her türün ve her insan yetisinin bir yaratıcı tarafından ayrı ayrı ve doğrudan yaratıldığını savunan, evrim kuramının karşısındaki 19. yüzyıl öğretisi."},
+    {"key": "faculty", "tr": "yeti", "explanation": "Zihnin ya da organizmanın belirli bir işi yapabilme gücü (ör. algı, bellek, dinsel duygu); 19. yüzyıl psikolojisinde zihinsel yeteneklerin temel birimi."},
+    {"key": "environment", "tr": "çevre", "explanation": "Spencer'ın temel terimi: organizmayı kuşatan ve onunla karşılıklı etkileşim içinde yetilerinin gelişimini belirleyen dış koşulların bütünü."},
+    {"key": "prevision", "tr": "öngörü", "explanation": "Olacakları önceden görme; Spencer'a göre bütün bilimin özü, yasaların bilgisi sayesinde sonuçları önceden kestirip davranışa yol göstermektir."},
+    {"key": "cognition", "tr": "biliş", "explanation": "Bilme edimi ya da bilgi hâli; en basit gündelik gözlemden en karmaşık bilimsel bilgiye kadar uzanan zihinsel kavrayış."},
+    {"key": "Astronomy", "tr": "astronomi", "explanation": "Gök cisimlerini ve göklerin düzenini inceleyen bilim; Spencer'a göre gündelik gözlemlerin örgütlenmiş ve incelikli biçimi."},
+    {"key": "Chemistry", "tr": "kimya", "explanation": "Tözlerin bileşimini ve verili koşullarda geçirdikleri değişimleri inceleyen bilim."},
+    {"key": "Physics", "tr": "fizik", "explanation": "Madde, hareket ve kuvvetin genel yasalarını inceleyen bilim; Spencer'a göre sınai süreçler ve ulaşım yoluyla toplumsal yaşamı düzenler."},
+    {"key": "Mathematics", "tr": "matematik", "explanation": "Sayı, nicelik ve uzamsal ilişkilerin bilimi; Spencer'ın bilimin en eski ve en sağlam yerleşmiş bölümleri arasında saydığı alan."},
+    {"key": "Manichean", "tr": "Maniheist", "explanation": "İyilik ile kötülüğün birbirine denk iki ebedî ilke olduğunu savunan Mani dinine (Maniheizm) ilişkin; Spencer, din ile bilimin mutlak karşıtlığını ancak böyle bir ikici varsayımın tasavvur ettirebileceğini söyler."},
+    {"key": "Trinitarian", "tr": "Teslisçi", "explanation": "Tanrı'nın Baba, Oğul ve Kutsal Ruh olarak üç kişide tek olduğunu (Teslis) savunan Hristiyan öğretisine bağlı olan."},
+    {"key": "Unitarian", "tr": "Üniteryen", "explanation": "Teslisi reddedip Tanrı'nın tek kişi olduğunu savunan Hristiyan mezhebine bağlı olan."},
+    {"key": "propitiation", "tr": "kefaret", "explanation": "Tanrısal öfkeyi kurban, adak ya da bağışlanma yoluyla yatıştırma fikri; Spencer'a göre bütün dinlerde ortak olsa da bilimin tanıyabileceği bir inanç değildir."}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "unit": "preface-4th",
+  "description": "Spencer'ın 1880 tarihli Dördüncü Baskıya Önsözü: evrim kuramının Darwin'in Türlerin Kökeni'nden bağımsız ve daha önce doğduğunu belgeleyen açıklama.",
+  "summary": "Spencer, eserinin Darwin'in Türlerin Kökeni'nden kaynaklandığı yolundaki yaygın yanlış anlamayı düzeltir: 1857 tarihli denemeleri ve 1855 tarihli Psikolojinin İlkeleri'nin, Darwin'in 1859'daki kitabından önce evrim kuramını içerdiğini gösterir. Eserin Darwin'in öğretisine yalnız § 159'daki bir notta değindiğini belirtir ve bu baskıya eleştirilere yanıt veren bir Ek eklediğini söyler.",
+  "sections": [],
+  "ocr_issues": [
+    "Kaynakta yalnız ⟦PAGE pdf26⟧ işareti var; yönerge gereği atlandı, çeviride sayfa işareti yok.",
+    "'^ *s manifest' → 'it is manifest', 'XVIL' → 'XVII.' olarak bağlamdan düzeltildi."
+  ],
+  "terms": []
+}

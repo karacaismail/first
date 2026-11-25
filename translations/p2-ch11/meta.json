@@ -1,0 +1,47 @@
+{
+  "unit": "p2-ch11",
+  "description": "Spencer önceki bölümlerin evrensel doğrularını özetler, bunların analitik kaldığını gösterir ve madde ile hareketin yeniden dağılım yasasını aramaya girişir.",
+  "summary": "Spencer, maddenin yok edilemezliği, hareketin sürekliliği, kuvvetin kalıcılığı, kuvvetlerin dönüşümü, hareketin yönü ve ritmi gibi önceki bölümlerde kurulan doğruların bütün bilim dallarını aşan evrensel doğrular olduğunu özetler. Ancak bunların hepsinin analitik olduğunu, ayrı ayrı ya da birlikte Kozmos'un bütünleşmiş bir tasavvurunu vermediğini; kimyacı, jeolog ve biyoloğun özel sentezlerini kapsayan evrensel bir sentezin gerektiğini savunur. Böylece aranacak şeyin, madde ve hareketin sürekli yeniden dağılımını ifade eden dinamik bir yasa olduğunu ortaya koyar.",
+  "sections": [
+    89,
+    92
+  ],
+  "ocr_issues": [],
+  "terms": [
+    {
+      "key": "Philosophy",
+      "tr": "Felsefe",
+      "explanation": "Spencer'ın özel anlamıyla: bilimlerin en geniş genellemelerini de kapsayıp birleştiren, tamamen bütünleşmiş bilgi; yalnızca kısmen birleşmiş bilgi olan Bilim'den bu yönüyle ayrılır."
+    },
+    {
+      "key": "Persistence of Relations among Forces",
+      "tr": "Kuvvetler Arasındaki İlişkilerin Kalıcılığı",
+      "explanation": "Kuvvetin kalıcılığının doğal sonucu: aynı koşullar altında aynı kuvvetlerin daima aynı ilişkileri ve sonuçları üretmesi; doğa yasalarının tekbiçimliliğinin Spencer'daki temeli."
+    },
+    {
+      "key": "thermology",
+      "tr": "termoloji",
+      "explanation": "19. yüzyılda ısı olaylarını inceleyen fizik dalı için kullanılan ad (bugünkü termodinamiğin öncülü)."
+    },
+    {
+      "key": "magnetism",
+      "tr": "manyetizma",
+      "explanation": "Mıknatıslık olaylarını inceleyen fizik dalı; 19. yüzyılda elektrikten ayrı bir kuvvet biçimi olarak sınıflandırılırdı."
+    },
+    {
+      "key": "combustion",
+      "tr": "yanma",
+      "explanation": "Bir maddenin oksijenle hızla birleşerek ısı ve ışık açığa çıkarması; Spencer'da moleküler harekete indirgenen kimyasal süreç örneği."
+    },
+    {
+      "key": "universal synthesis",
+      "tr": "evrensel sentez",
+      "explanation": "Spencer'a göre Felsefe'nin hedefi: tek tek bilimlerin özel sentezlerini kapsayıp birleştiren, bütün somut süreçlerin ortak öğesini ifade eden en genel açıklama."
+    },
+    {
+      "key": "law of composition of phenomena",
+      "tr": "görüngülerin bileşimi yasası",
+      "explanation": "Etkenlerin tek tek yasalarının yanında, bunların birlikte işleyişinden doğan karmaşık görüngülerin ortak seyrini ifade eden yasa; Spencer bunu Evrim Yasası'nda bulacaktır."
+    }
+  ]
+}

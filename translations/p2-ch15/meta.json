@@ -1,0 +1,331 @@
+{
+  "unit": "p2-ch15",
+  "description": "Spencer, evrimin ikinci yönünü, homojenden heterojene farklılaşmayı yıldızlardan Dünya'ya, canlılardan topluma, dile ve sanatlara dek örneklerle gösterir.",
+  "summary": "Spencer bu bölümde bütünleşmeye eşlik eden ikincil yeniden dağılımları, yani homojenden heterojene geçişi ele alır. Yıldız Sistemi, Güneş Sistemi, Dünya'nın jeolojik ve iklimsel tarihi, bitki ve hayvan embriyoları, fosil kayıtları, insan ırkları, toplumsal örgütlenme, dil, yazı, resim, heykel, dans, şiir ve müzik üzerinden farklılaşmanın evrenselliğini gösterir. Sonunda evrimi tutarsız homojenlikten tutarlı heterojenliğe, hareketin dağılması ve maddenin bütünleşmesine eşlik eden değişim olarak yeniden tanımlar.",
+  "sections": [
+    116,
+    127
+  ],
+  "ocr_issues": [
+    "§ 127: Kaynak OCR'da 'Along with a passage from the coherent to the incoherent' yazıyor; bağlam ve bölümün sonucu tersini gerektirdiğinden 'tutarsızdan tutarlıya' olarak çevrildi (baskı ya da OCR hatası olabilir).",
+    "§ 122 (s. 309): 'obeisances made* before the monarch' ifadesindeki yıldız OCR artığı sayıldı; kesimin tek dipnotu 'the due of all.*' noktasına bağlandı.",
+    "§ 119 (s. 300): 'Of o^ same general character are the transformations unc^ tbne by' → 'Of the same general character are the transformations undergone by' olarak okundu.",
+    "§ 121 (s. 306): 'relatively larger siztPt>f the bones' → 'relatively larger size of the bones' olarak okundu.",
+    "§ 123: 'Max Midler' → Max Müller; 'phSolegists' → philologists; § 125: '^Eolian' → Aeolian, 'i8th' → 18th; § 124: 'anvi' → and, 'an£' → and, 'we' see' → we see, 'all Jin some sort' → all in some sort; § 125: 'So, top,' → So, too; dipnot 3: 'that tune' → that time, 'ana cautious' → and cautious, 'uj>on' → upon, 'increase m heterogeneity' → in heterogeneity.",
+    "§ 120 (s. 304): Huxley alıntılarındaki tırnak işaretleri OCR'da bozuk ('Persistent Types —', 'fossil/'', 'creation ''); alıntı sınırları bağlama göre belirlendi.",
+    "§ 125: 'danced and sung \" at the inauguration of the golden calf...' alıntısının açılış tırnağı OCR'da kaymış; alıntı 'at the inauguration' ile başlatıldı.",
+    "Sayfa 304, 310 ve 318 işaretleri kaynakta yalnız pdf numarasıyla (pdf332, pdf338, pdf346) verildiği için atlandı; 'L' forma işareti ve sayfa üstü başlıklar çıkarıldı."
+  ],
+  "terms": [
+    {
+      "key": "Sidereal System",
+      "tr": "Yıldız Sistemi",
+      "explanation": "Güneş Sistemi'nin ötesindeki yıldızlar, yıldız kümeleri ve bulutsuların tümü; 19. yüzyıl astronomisinde gökadamız için kullanılan ad."
+    },
+    {
+      "key": "nebula",
+      "tr": "bulutsu",
+      "explanation": "Gökyüzünde bulanık, ışıklı leke olarak görülen gaz ve toz kütlesi; Spencer'da yıldızların ve sistemlerin yoğunlaştığı dağınık madde."
+    },
+    {
+      "key": "globular cluster",
+      "tr": "küresel küme",
+      "explanation": "Binlerce yıldızın kütle çekimiyle sıkıca bir araya toplandığı küre biçimli yıldız kümesi."
+    },
+    {
+      "key": "spectrum",
+      "tr": "tayf",
+      "explanation": "Bir yıldızın ışığının prizmayla renklerine ayrılmasıyla elde edilen ve fiziksel-kimyasal durumunu gösteren görüntü."
+    },
+    {
+      "key": "spheroid",
+      "tr": "küremsi",
+      "explanation": "Küreye yakın, basıklaşmış biçim; Bulutsu Hipotezi'nde dönen ve yoğunlaşan gaz kütlesinin biçimi."
+    },
+    {
+      "key": "specific gravity",
+      "tr": "özgül ağırlık",
+      "explanation": "Bir cismin yoğunluğunun suyun yoğunluğuna oranı; gezegenlerin birbirinden farklılığının ölçülerinden biri."
+    },
+    {
+      "key": "Geology",
+      "tr": "jeoloji",
+      "explanation": "Dünya'nın yapısını, katmanlarını ve tarihini inceleyen bilim (yer bilimi)."
+    },
+    {
+      "key": "detritus",
+      "tr": "kırıntı",
+      "explanation": "Eski kayaların aşınmasıyla oluşan ve yeni tortul katmanları meydana getiren parçalanmış malzeme."
+    },
+    {
+      "key": "Nucleus",
+      "tr": "çekirdek",
+      "explanation": "Dünya'nın sıcak iç bölümü; kabuk (örtü) üzerindeki etkileriyle magmatik kayaları ve kıvrımları üretir."
+    },
+    {
+      "key": "igneous rock",
+      "tr": "magmatik kaya",
+      "explanation": "Erimiş maddenin (magmanın) soğuyup katılaşmasıyla oluşan kaya türü; tortul kayanın karşıtı."
+    },
+    {
+      "key": "sedimentary strata",
+      "tr": "tortul katmanlar",
+      "explanation": "Su ya da rüzgârla taşınan malzemenin birikip katılaşmasıyla oluşan yer katmanları; fosilleri barındıran kayaçlar."
+    },
+    {
+      "key": "fault",
+      "tr": "fay",
+      "explanation": "Yer kabuğunda katmanların kırılıp birbirine göre kaydığı kırık hattı."
+    },
+    {
+      "key": "metallic vein",
+      "tr": "maden damarı",
+      "explanation": "Kaya çatlaklarını dolduran maden içerikli mineral damarı."
+    },
+    {
+      "key": "germ",
+      "tr": "tohum",
+      "explanation": "Bir bitki ya da hayvanın geliştiği başlangıç hücresi veya embriyonal taslak; Spencer'da gelişimin homojen başlangıç noktası."
+    },
+    {
+      "key": "chlorophyll",
+      "tr": "klorofil",
+      "explanation": "Bitkilere yeşil rengini veren ve ışıkla besin üretimini sağlayan madde."
+    },
+    {
+      "key": "cellulose",
+      "tr": "selüloz",
+      "explanation": "Bitki hücre duvarlarını oluşturan temel karbonhidrat; odun ve mantarın hammaddesi."
+    },
+    {
+      "key": "isomeric",
+      "tr": "izomer",
+      "explanation": "Aynı kimyasal bileşime sahip olup atomlarının düzenlenişi ve özellikleri farklı olan (ör. nişasta, şeker, zamk)."
+    },
+    {
+      "key": "ovum",
+      "tr": "yumurta",
+      "explanation": "Dişi üreme hücresi; döllenince embriyoya dönüşen hücre."
+    },
+    {
+      "key": "hematine",
+      "tr": "hematin",
+      "explanation": "Kanın kırmızı rengini veren demirli pigment (hematin); 19. yüzyıl fizyolojisinde kan oluşumunun belirtisi sayılırdı."
+    },
+    {
+      "key": "tissue",
+      "tr": "doku",
+      "explanation": "Benzer hücrelerin birleşerek oluşturduğu ve belirli bir işlevi yerine getiren yapı (sinir dokusu, kas dokusu vb.)."
+    },
+    {
+      "key": "cartilage",
+      "tr": "kıkırdak",
+      "explanation": "Esnek bağ dokusu; embriyoda kemiğin öncülü olarak oluşur."
+    },
+    {
+      "key": "Arthropoda",
+      "tr": "Eklembacaklılar",
+      "explanation": "Böcekler, kabuklular ve örümcekleri kapsayan, eklemli bacaklı ve dış iskeletli hayvanlar şubesi."
+    },
+    {
+      "key": "Flora and Fauna",
+      "tr": "Flora ve Fauna",
+      "explanation": "Belirli bir bölgenin ya da dönemin bitki örtüsü (flora) ve hayvan varlığı (fauna)."
+    },
+    {
+      "key": "metamorphosis",
+      "tr": "başkalaşım",
+      "explanation": "Jeolojide tortul kayaların ısı ve basınçla yapı değiştirmesi; içerdikleri fosilleri silebilir."
+    },
+    {
+      "key": "progressionist",
+      "tr": "ilerlemeci",
+      "explanation": "Jeolojik çağlar boyunca canlıların basitten karmaşığa doğru ilerlediğini savunan 19. yüzyıl görüşünün yanlısı."
+    },
+    {
+      "key": "Vertebrata",
+      "tr": "Omurgalılar",
+      "explanation": "Omurgası olan hayvanlar: balıklar, sürüngenler, kuşlar ve memeliler."
+    },
+    {
+      "key": "Palaeozoic",
+      "tr": "Paleozoik",
+      "explanation": "Jeolojik zamanın, kayıtlarında başlıca balıkların bulunduğu eski dönemi (Birinci Zaman)."
+    },
+    {
+      "key": "uniformitarian",
+      "tr": "tekbiçimci",
+      "explanation": "Jeolojik değişimlerin geçmişte de bugünkü hızda ve türde işlediğini savunan görüşün (Lyell) yanlısı; ilerlemeciliğin karşıtı."
+    },
+    {
+      "key": "development hypothesis",
+      "tr": "gelişim hipotezi",
+      "explanation": "Türlerin birbirinden evrilerek türediği görüşünün Darwin öncesi dönemdeki adı; Spencer bu terimi erken yazılarında kullanmıştır."
+    },
+    {
+      "key": "Persistent Types",
+      "tr": "Kalıcı Tipler",
+      "explanation": "Huxley'nin 1859 tarihli dersinin konusu: jeolojik çağlar boyunca neredeyse değişmeden kalan canlı biçimleri."
+    },
+    {
+      "key": "Silurian",
+      "tr": "Silüriyen",
+      "explanation": "Paleozoik zamanın erken dönemlerinden biri; 19. yüzyılda bilinen en eski fosilli katmanlar bu döneme aitti."
+    },
+    {
+      "key": "tertiary",
+      "tr": "Tersiyer",
+      "explanation": "Memelilerin yaygınlaştığı, günümüze görece yakın jeolojik dönem (Üçüncü Zaman)."
+    },
+    {
+      "key": "placental mammalia",
+      "tr": "plasentalı memeliler",
+      "explanation": "Yavrularını plasenta aracılığıyla ana rahminde besleyen memeliler; insanın dâhil olduğu grup."
+    },
+    {
+      "key": "cerebrum",
+      "tr": "beyin",
+      "explanation": "Beynin düşünme ve istemli hareketle ilgili büyük üst bölümü (büyük beyin)."
+    },
+    {
+      "key": "ganglia",
+      "tr": "gangliyonlar",
+      "explanation": "Sinir hücrelerinin oluşturduğu düğümler; burada beynin altındaki daha aşağı sinir merkezleri."
+    },
+    {
+      "key": "frontal sinus",
+      "tr": "alın sinüsü",
+      "explanation": "Alın kemiği içindeki hava boşluğu; bebeklerde bulunmaz, erişkinlikte gelişir."
+    },
+    {
+      "key": "Ethnology",
+      "tr": "etnoloji",
+      "explanation": "İnsan ırklarını ve halklarını, kökenlerini ve ayrımlarını inceleyen bilim (budun bilimi)."
+    },
+    {
+      "key": "division of labour",
+      "tr": "iş bölümü",
+      "explanation": "Üretimin farklı kişi, sınıf ya da bölgeler arasında uzmanlaşarak paylaşılması; Adam Smith'in ekonomi politiğinin temel kavramı."
+    },
+    {
+      "key": "political economist",
+      "tr": "ekonomi politikçi",
+      "explanation": "19. yüzyılda iktisat biliminin (ekonomi politik) temsilcisi; Smith, Ricardo, Mill gibi yazarlar."
+    },
+    {
+      "key": "parts of speech",
+      "tr": "sözcük türleri",
+      "explanation": "Dilbilgisinde sözcüklerin ad, eylem, sıfat, zarf gibi sınıflara ayrılması."
+    },
+    {
+      "key": "Philology",
+      "tr": "filoloji",
+      "explanation": "Dillerin tarihini, kökenlerini ve akrabalıklarını inceleyen bilim (dil bilimi)."
+    },
+    {
+      "key": "theocratic",
+      "tr": "teokratik",
+      "explanation": "Yönetimin dinî otoriteye dayandığı, hükümdarın tanrısal sayıldığı yönetim biçimine ilişkin."
+    },
+    {
+      "key": "picture-writing",
+      "tr": "resim yazısı",
+      "explanation": "Nesneleri ve olayları doğrudan resimlerle kaydeden en eski yazı biçimi; hiyerogliflerin öncülü."
+    },
+    {
+      "key": "hieroglyphics",
+      "tr": "hiyeroglifler",
+      "explanation": "Eski Mısır'ın resimlerden türemiş simgesel yazı sistemi."
+    },
+    {
+      "key": "ideographic",
+      "tr": "ideografik",
+      "explanation": "Sesleri değil doğrudan fikirleri ya da nesneleri gösteren yazı işaretlerine ilişkin."
+    },
+    {
+      "key": "kuriological",
+      "tr": "kuriolojik",
+      "explanation": "Hiyeroglif sınıflamasında bir nesneyi doğrudan resmiyle gösteren (taklitçi) işaret türü."
+    },
+    {
+      "key": "tropical",
+      "tr": "tropik",
+      "explanation": "Hiyeroglif sınıflamasında bir nesneyi mecazi ya da simgesel yoldan gösteren işaret türü; kuriolojik olanın karşıtı."
+    },
+    {
+      "key": "hieratic",
+      "tr": "hiyeratik",
+      "explanation": "Hiyerogliflerin rahiplerce kullanılan, el yazısına uyarlanmış basitleştirilmiş biçimi."
+    },
+    {
+      "key": "epistolographic",
+      "tr": "epistolografik",
+      "explanation": "Eski Mısır'da günlük yazışmalarda kullanılan, hiyeratikten daha da sadeleşmiş yazı biçimi (demotik yazının eski adı)."
+    },
+    {
+      "key": "enchorial",
+      "tr": "enkorial",
+      "explanation": "Mısır'ın halk yazısı; demotik yazının 19. yüzyıl literatüründeki adı, epistolografik ile eşanlamlı."
+    },
+    {
+      "key": "phonetic",
+      "tr": "fonetik",
+      "explanation": "Fikirleri değil sesleri temsil eden yazı işaretlerine ilişkin; alfabetik yazının temeli."
+    },
+    {
+      "key": "intaglio",
+      "tr": "oyma baskı",
+      "explanation": "Figürün yüzeyin içine oyulduğu, kabartmanın tersi olan işleme tekniği."
+    },
+    {
+      "key": "bas-relief",
+      "tr": "alçak kabartma",
+      "explanation": "Figürlerin zemin düzleminden hafifçe yükseltildiği heykel tekniği."
+    },
+    {
+      "key": "frieze",
+      "tr": "friz",
+      "explanation": "Yunan tapınaklarında sütun başlıklarının üstünde uzanan, kabartmalarla süslü yatay şerit."
+    },
+    {
+      "key": "pediment",
+      "tr": "alınlık",
+      "explanation": "Tapınak cephesinde çatının altındaki üçgen bölüm; heykel gruplarıyla süslenirdi."
+    },
+    {
+      "key": "tympanum",
+      "tr": "timpanon",
+      "explanation": "Alınlığın içindeki, heykellerin yerleştirildiği üçgen yüzey."
+    },
+    {
+      "key": "tetrachord",
+      "tr": "tetrakord",
+      "explanation": "Eski Yunan müziğinde dört notadan oluşan temel dizi; dört telli lirin karşılığı."
+    },
+    {
+      "key": "recitative",
+      "tr": "resitatif",
+      "explanation": "Konuşmaya yakın, sözün ritmini izleyen ezgisel okuma biçimi."
+    },
+    {
+      "key": "mode",
+      "tr": "mod",
+      "explanation": "Eski Yunan müziğinde belirli bir aralık düzenine sahip ses dizisi (Dor, Frig, Lidya vb.); modern tonların öncülü."
+    },
+    {
+      "key": "harmony",
+      "tr": "armoni",
+      "explanation": "Birden çok sesin aynı anda tınlayarak uyumlu birleşmesi; çok sesli müziğin temeli."
+    },
+    {
+      "key": "fugue",
+      "tr": "füg",
+      "explanation": "Bir temanın farklı seslerde birbirini izleyerek taklit edildiği çok sesli müzik biçimi."
+    },
+    {
+      "key": "Miocene",
+      "tr": "Miyosen",
+      "explanation": "Tersiyer dönemin, atın üç parmaklı atalarının yaşadığı orta evresi."
+    }
+  ]
+}

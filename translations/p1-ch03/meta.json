@@ -1,0 +1,42 @@
+{
+  "unit": "p1-ch03",
+  "description": "Spencer, uzay, zaman, madde, hareket, kuvvet ve bilinç gibi nihai bilimsel fikirlerin analiz edildiğinde kavranamaz çelişkilere vardığını gösterir.",
+  "summary": "Spencer bu bölümde bilimin dayandığı temel kavramları (uzay, zaman, madde, hareket, kuvvet, bilincin süresi ve tözü) tek tek inceler ve her birinin, ister nesnel ister öznel sayılsın, düşüncede karşıt saçmalıklar arasında bir seçime indirgendiğini gösterir. Kant'ın uzay-zaman öğretisi, atomculuk, Boscovich'in kuvvet merkezleri, esir ve kütle çekimi, Mansel'in benlik bilgisi gibi kuramlar aynı sınava tabi tutulur. Sonuç: bilim adamı, kendi alanında her ilerlemede nihai doğası bakımından hiçbir şeyin bilinemeyeceğini daha açık görür.",
+  "sections": [15, 21],
+  "ocr_issues": [
+    "Görev başlığında § 15–23 deniyor; kaynak dosyada ise bölüm § 21 ile (basılı s. 54) bitiyor. Dosyadaki § 15–21 eksiksiz çevrildi; § 22–23 kaynakta yok.",
+    "Basılı 53. sayfa işareti yalnızca ⟦PAGE pdf83⟧ olarak ve '.ULTIMATE SCIENTIFIC IDEAS 53' sayfa başlığı artığıyla geldi; yönerge gereği pdf işareti atlandı ve başlık artığı metinden çıkarıldı (sayfa 53 çeviride işaretsiz).",
+    "Bariz OCR bozuklukları bağlamdan düzeltildi: 'aie' → 'are', 'hi its' → 'in its', 'outr side' → 'outside', 'nothing out empty extension' → 'nothing but', 'real egol' → 'real ego?', 'imples' → 'implies', 'annihilation ol both' → 'of both', 'force/'' → 'force,\"'. Çözülemeyen yer kalmadı."
+  ],
+  "terms": [
+    {"key": "Entity", "tr": "varlık", "explanation": "Kendi başına var olan, niteliklerin taşıyıcısı olan şey; Spencer uzay ve zamanın ne varlık ne de varlık-olmayan olarak düşünülebildiğini gösterir."},
+    {"key": "Attribute", "tr": "nitelik", "explanation": "Bir varlığa ait olan ve ancak onunla birlikte var olabilen özellik; bir şeyin tasavvur edilebilmesi için ona nitelikler yüklenmesi gerekir."},
+    {"key": "Extension", "tr": "yer kaplama", "explanation": "Uzayda yer tutma özelliği; Spencer'a göre uzayın tek düşünülebilir niteliğidir, ama bu nitelik uzayın kendisiyle özdeş olduğundan açıklama sağlamaz."},
+    {"key": "pseud-idea", "tr": "sahte fikir", "explanation": "Spencer'ın terimi: sözcük olarak anlaşılır görünen ama zihinde gerçek bir tasavvura dönüştürülemeyen, yalnızca bir fikrin yerini tutan ifade."},
+    {"key": "Ego", "tr": "ben", "explanation": "Bilen özne, kendilik; felsefede bilincin kendisine ait sayılan taraf. Kant'ta uzay ve zaman ben'e ait öznel biçimlerdir."},
+    {"key": "Non-ego", "tr": "ben-olmayan", "explanation": "Öznenin dışında kalan her şey, dış dünya; ben'in karşıtı olarak nesnel gerçeklik."},
+    {"key": "forms of intuition", "tr": "sezginin biçimleri", "explanation": "Kant'ın öğretisi: uzay ve zaman, duyu verilerinin zihin tarafından düzenlenmesini sağlayan, deneyimden önce gelen a priori sezgi biçimleridir."},
+    {"key": "divisibility of Matter", "tr": "maddenin bölünebilirliği", "explanation": "Maddenin sonsuza dek bölünüp bölünemeyeceği sorunu; Spencer'a göre her iki yanıt da tasavvur edilemez."},
+    {"key": "Cohesion", "tr": "kohezyon", "explanation": "Bir cismin parçalarını bir arada tutan çekim kuvveti; 19. yüzyıl fiziğinde moleküller arası bağlanma kuvveti."},
+    {"key": "Substance", "tr": "töz", "explanation": "Niteliklerin ve değişimlerin altında yatan, kendi başına var olan temel şey; hem madde hem de düşünen zihin için kullanılır."},
+    {"key": "Compressibility", "tr": "sıkıştırılabilirlik", "explanation": "Bir cismin hacminin basınç altında küçülebilmesi; Spencer bunun parçalar arasında boş uzay bulunmasını gerektirdiğini söyler."},
+    {"key": "Atom", "tr": "atom", "explanation": "Maddenin daha fazla bölünemeyen en küçük birimi olduğu varsayılan parçacık; Newtoncu görüşte birbirine temas etmeyen katı birimler."},
+    {"key": "Monad", "tr": "monad", "explanation": "Leibniz'in terimi: yer kaplamayan, bölünmez, basit töz; evrenin nihai bileşenleri olarak düşünülen metafizik noktalar."},
+    {"key": "centres of force", "tr": "kuvvet merkezleri", "explanation": "Boscovich'in kuramında maddenin bileşenleri: boyutsuz, yalnızca konumu olan ve birbirini çekip iten noktalar."},
+    {"key": "law of definite proportions", "tr": "sabit oranlar yasası", "explanation": "Kimyada bir bileşiğin daima aynı elementleri aynı kütle oranlarında içerdiği yasası (Proust); atom kuramının başlıca kanıtlarından biri."},
+    {"key": "Equivalent", "tr": "eşdeğer", "explanation": "19. yüzyıl kimyasında bir elementin başka bir elementle birleşirken kullanılan sabit ağırlık miktarı (eşdeğer ağırlık); atom varsayımından kaçınmak için kullanılan terim."},
+    {"key": "Molecule", "tr": "molekül", "explanation": "Kimyasal bir maddenin özelliklerini taşıyan en küçük parçacık; Spencer'ın döneminde atomla çoğu zaman birbirinin yerine kullanılırdı."},
+    {"key": "Solar System", "tr": "Güneş Sistemi", "explanation": "Güneş ile çevresinde dolanan gezegenlerin ve öteki gök cisimlerinin oluşturduğu sistem; bir bütün olarak uzayda hareket eder."},
+    {"key": "Ecliptic", "tr": "Ekliptik", "explanation": "Dünya'nın Güneş çevresindeki yörünge düzlemi; gök küresinde Güneş'in yıl boyunca izlediği görünür yol (tutulum düzlemi)."},
+    {"key": "Sidereal System", "tr": "Yıldız Sistemi", "explanation": "Güneş'in de içinde bulunduğu yıldızlar topluluğu (bugünkü anlamıyla galaksi); 19. yüzyılda yapısı tam bilinmiyordu."},
+    {"key": "absolute motion", "tr": "mutlak hareket", "explanation": "Hiçbir başka cisme göre değil, kendi başına var olduğu varsayılan hareket; Spencer'a göre düşünülmesi zorunlu ama tasavvuru imkânsız."},
+    {"key": "Rest", "tr": "durgunluk", "explanation": "Hareketsizlik, sıfır hız durumu; Spencer en küçük hareketle durgunluk arasında aşılmaz bir uçurum bulunduğunu savunur."},
+    {"key": "infinitesimal", "tr": "sonsuz küçük", "explanation": "Sıfıra sınırsızca yaklaşan ama sıfır olmayan nicelik; matematikten alınmış terim."},
+    {"key": "luminiferous ether", "tr": "ışık taşıyan esir", "explanation": "19. yüzyıl fiziğinde ışık dalgalarının içinde yayıldığı varsayılan, uzayı dolduran görünmez ortam."},
+    {"key": "imponderable", "tr": "tartılamaz", "explanation": "Ağırlığı olmayan, teraziyle ölçülemeyen; dönemin fiziğinde esir, ısı ve ışık gibi 'tartılamaz akışkanlar' için kullanılan sıfat."},
+    {"key": "Cognition", "tr": "bilgi (bilme edimi)", "explanation": "Bir şeyi bilme edimi ya da bu edimin ürünü; Spencer'a göre benliğin gerçek anlamda bilinmesi özne-nesne ayrımını ortadan kaldıracağından imkânsızdır."},
+    {"key": "subject and object", "tr": "özne ile nesne", "explanation": "Bilen ile bilinen arasındaki ayrım; Hamilton ve Mansel'e göre her bilincin temel koşulu olan ilksel ikilik."},
+    {"key": "vortex-atoms", "tr": "girdap atomları", "explanation": "Lord Kelvin'in hipotezi: atomların, sürtünmesiz ve sıkıştırılamaz bir akışkan içindeki kararlı girdap halkaları olduğu görüşü."},
+    {"key": "Viscosity", "tr": "viskozite", "explanation": "Bir akışkanın akmaya karşı gösterdiği iç direnç (ağdalılık); kusursuz akışkanın viskozitesi yoktur."}
+  ]
+}

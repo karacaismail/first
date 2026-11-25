@@ -1,0 +1,4218 @@
+[
+ {
+  "key": "a posteriori",
+  "tr": "a posteriori",
+  "explanation": "Deneyimden sonra, deneyime dayanarak bilinen (Latince 'sonrakinden').",
+  "slug": "a-posteriori-a-posteriori"
+ },
+ {
+  "key": "a priori",
+  "tr": "a priori",
+  "explanation": "Deneyimden önce, deneyime dayanmaksızın bilinen (Latince 'öncekinden').",
+  "slug": "a-priori-a-priori"
+ },
+ {
+  "key": "Absolute Being",
+  "tr": "Mutlak Varlık",
+  "explanation": "İlişki dışında, kendinde var olan varlık; Spencer'a göre bilinemez ve tasavvur edilemez, ama düşüncenin göreliliği onun belirsiz bir bilincini zorunlu kılar.",
+  "slug": "mutlak-varlik-absolute-being"
+ },
+ {
+  "key": "absolute motion",
+  "tr": "mutlak hareket",
+  "explanation": "Hiçbir başka cisme göre değil, kendi başına var olduğu varsayılan hareket; Spencer'a göre düşünülmesi zorunlu ama tasavvuru imkânsız.",
+  "slug": "mutlak-hareket-absolute-motion"
+ },
+ {
+  "key": "absolute reality",
+  "tr": "mutlak gerçeklik",
+  "explanation": "Bütün ilişkileri aşan, bilinemeyen ama varlığı bilince zorunlu olarak sunulan gerçeklik; göreli gerçekliğin nedeni.",
+  "slug": "mutlak-gerceklik-absolute-reality"
+ },
+ {
+  "key": "Abstract Sciences",
+  "tr": "Soyut Bilimler",
+  "explanation": "Spencer'ın bilim sınıflandırmasında görüngülerin yalnızca biçimlerini inceleyen bilimler: mantık ve matematik.",
+  "slug": "soyut-bilimler-abstract-sciences"
+ },
+ {
+  "key": "Abstract-Concrete Sciences",
+  "tr": "Soyut-Somut Bilimler",
+  "explanation": "Spencer'ın sınıflandırmasında görüngülerin etkenlerini soyutlayarak inceleyen bilimler: mekanik, fizik, kimya.",
+  "slug": "soyut-somut-bilimler-abstract-concrete-sciences"
+ },
+ {
+  "key": "accelerating force",
+  "tr": "ivmelendirici kuvvet",
+  "explanation": "Bir cismin hızını değiştiren kuvvet; Whewell'e göre Kepler döneminde karışık, sonraki yüzyılda (Newton ile) açık biçimde kavranmıştır.",
+  "slug": "ivmelendirici-kuvvet-accelerating-force"
+ },
+ {
+  "key": "accumulator",
+  "tr": "akümülatör",
+  "explanation": "Elektrik enerjisini kimyasal biçimde depolayıp yeniden veren pil (depo pili).",
+  "slug": "akumulator-accumulator"
+ },
+ {
+  "key": "actual energy",
+  "tr": "edimsel enerji",
+  "explanation": "19. yüzyıl fiziğinde hareket hâlindeki cismin sahip olduğu enerji için kullanılan ad (bugünkü kinetik enerji); potansiyel enerjinin karşıtı.",
+  "slug": "edimsel-enerji-actual-energy"
+ },
+ {
+  "key": "actual existence",
+  "tr": "edimsel varoluş",
+  "explanation": "Olanak hâlinde değil, fiilen gerçekleşmiş olan varoluş; potansiyel varoluşun karşıtı.",
+  "slug": "edimsel-varolus-actual-existence"
+ },
+ {
+  "key": "Adaptation",
+  "tr": "uyum",
+  "explanation": "Bir organizmanın ya da yapının çevre koşullarına uygun hâle gelmesi (adaptasyon).",
+  "slug": "uyum-adaptation"
+ },
+ {
+  "key": "afferent",
+  "tr": "getirici",
+  "explanation": "Çevreden merkeze (kalbe ya da sinir merkezine) doğru taşıyan damar ya da sinir; götürücünün (efferent) karşıtı.",
+  "slug": "getirici-afferent"
+ },
+ {
+  "key": "agglutinate",
+  "tr": "eklemeli",
+  "explanation": "Çekim parçalarının başlangıçtaki ayrı sözcük kökeninin hâlâ izlenebildiği diller.",
+  "slug": "eklemeli-agglutinate"
+ },
+ {
+  "key": "agglutination",
+  "tr": "eklemleme",
+  "explanation": "Dilbilimde sözcüklerin ya da eklerin anlamlı birimler hâlinde birbirine eklenmesiyle bileşik sözcük oluşturma (aglütinasyon).",
+  "slug": "eklemleme-agglutination"
+ },
+ {
+  "key": "Aggregate",
+  "tr": "yığın",
+  "explanation": "Spencer'ın teknik terimi: ayrık birimlerin bir araya toplanmasıyla oluşan ve bir bütün olarak ele alınan her madde kütlesi (bir kristalden bir organizmaya, bir buluttan Güneş Sistemi'ne kadar).",
+  "variants": [
+   "küme",
+   "kümelenme"
+  ],
+  "slug": "yigin-aggregate"
+ },
+ {
+  "key": "aggregation",
+  "tr": "kümelenme",
+  "explanation": "Dağınık birimlerin ortak bir merkeze doğru toplanıp bir küme oluşturması; bütünleşmenin ilk biçimi.",
+  "slug": "kumelenme-aggregation"
+ },
+ {
+  "key": "Agnosticism",
+  "tr": "agnostisizm",
+  "explanation": "Nihai gerçekliğin bilinemeyeceğini savunan görüş; terim Huxley'nindir ama Spencer'ın felsefesiyle özdeşleştirilir (bilinemezcilik).",
+  "slug": "agnostisizm-agnosticism"
+ },
+ {
+  "key": "Albumen",
+  "tr": "albümin",
+  "explanation": "Yumurta akında ve canlı dokularda bulunan, karmaşık yapılı ve ısıyla kolayca ayrışan protein; 19. yüzyılda organik maddenin örneği.",
+  "slug": "albumin-albumen"
+ },
+ {
+  "key": "alimentary canal",
+  "tr": "sindirim kanalı",
+  "explanation": "Ağızdan anüse uzanan, besinlerin sindirilip emildiği boru biçimli organ sistemi.",
+  "slug": "sindirim-kanali-alimentary-canal"
+ },
+ {
+  "key": "alkaline phosphates",
+  "tr": "alkali fosfatlar",
+  "explanation": "Böbreklerle atılan fosfor bileşikleri; 19. yüzyılda beyin etkinliğinin kimyasal göstergesi sayılırdı.",
+  "slug": "alkali-fosfatlar-alkaline-phosphates"
+ },
+ {
+  "key": "amalgamate",
+  "tr": "kaynaşık",
+  "explanation": "Çekim eklerinin kökle öylesine kaynaştığı diller ki eklerin ayrı sözcük kökeni artık izlenemez (ör. Latince).",
+  "slug": "kaynasik-amalgamate"
+ },
+ {
+  "key": "Analogy",
+  "tr": "analoji",
+  "explanation": "Benzer durumlar arasındaki koşutluktan yararlanarak bilinmeyen bir durum hakkında sonuç çıkarma; gözlemin yetmediği yerde bilgiyi genişleten akıl yürütme biçimi.",
+  "slug": "analoji-analogy"
+ },
+ {
+  "key": "Analysis",
+  "tr": "analiz",
+  "explanation": "Bir bütünün öğelerine ayrılarak incelenmesi; sentezin karşıtı.",
+  "slug": "analiz-analysis"
+ },
+ {
+  "key": "anaptotic",
+  "tr": "çekimini yitirmiş",
+  "explanation": "Latham'ın terimi: çekim eklerini büyük ölçüde yitirip ilişkileri ayrı sözcüklerle anlatan diller (ör. İngilizce).",
+  "slug": "cekimini-yitirmis-anaptotic"
+ },
+ {
+  "key": "angular momentum",
+  "tr": "açısal momentum",
+  "explanation": "Dönen bir kütlenin dönme miktarının ölçüsü; yoğunlaşan bulutsunun hareketlerinin ortalamalanmasıyla ortaya çıkan ve dönmeyi doğuran nicelik.",
+  "slug": "acisal-momentum-angular-momentum"
+ },
+ {
+  "key": "angular velocity",
+  "tr": "açısal hız",
+  "explanation": "Dönen bir cismin birim zamanda taradığı açı; Spencer bunu bulutsu kütlenin dönmesinin bütünleşmesini anlatmak için kullanır.",
+  "slug": "acisal-hiz-angular-velocity"
+ },
+ {
+  "key": "annealing",
+  "tr": "tavlama",
+  "explanation": "Cam ya da metalin iç gerilimlerini gidermek için ısıtılıp yavaşça soğutulması; moleküllerin yeniden düzenlenmesine olanak verir.",
+  "slug": "tavlama-annealing"
+ },
+ {
+  "key": "Annulosa",
+  "tr": "Annulosa",
+  "explanation": "Spencer'ın döneminde halkalı solucanlar ile eklem bacaklıları birlikte kapsayan, bedeni halkalardan (bölütlerden) oluşan hayvanlar alt âlemi.",
+  "slug": "annulosa-annulosa"
+ },
+ {
+  "key": "antecedent",
+  "tr": "öncel",
+  "explanation": "Bir olaydan ya da tezahürden önce gelen ve onun nedeni ya da koşulu sayılan şey; ardılın karşıtı.",
+  "slug": "oncel-antecedent"
+ },
+ {
+  "key": "anthropomorphous",
+  "tr": "insanbiçimli",
+  "explanation": "İnsan biçiminde ya da insana özgü niteliklerle düşünülen; tanrısal gücün insan benzeri tasarlanması (antropomorfizm).",
+  "slug": "insanbicimli-anthropomorphous"
+ },
+ {
+  "key": "Antinomy",
+  "tr": "antinomi",
+  "explanation": "Aynı ölçüde geçerli görünen iki önermenin birbiriyle çelişmesi; Kant'ın terimi.",
+  "slug": "antinomi-antinomy"
+ },
+ {
+  "key": "antipodes",
+  "tr": "antipod",
+  "explanation": "Yerkürenin üzerinde bulunulan noktanın tam karşısına düşen, çapın öteki ucundaki nokta ya da bölge.",
+  "slug": "antipod-antipodes"
+ },
+ {
+  "key": "aphelion",
+  "tr": "günöte",
+  "explanation": "Bir gezegenin ya da kuyruklu yıldızın yörüngesinde Güneş'e en uzak olduğu nokta.",
+  "slug": "gunote-aphelion"
+ },
+ {
+  "key": "Appearance",
+  "tr": "Görünüş",
+  "explanation": "Bilince göründüğü biçimiyle şeyler; Spencer'da görüngüler dünyası, ardında yatan Gerçeklik'ten (Reality) ayrı tutulur.",
+  "slug": "gorunus-appearance"
+ },
+ {
+  "key": "aptotic",
+  "tr": "çekimsiz",
+  "explanation": "Latham'ın terimi: sözcükleri hiç çekim eki almayan diller (ör. Çince).",
+  "slug": "cekimsiz-aptotic"
+ },
+ {
+  "key": "aqueous",
+  "tr": "su kökenli",
+  "explanation": "Yağmur, nehir, dalga ve akıntı gibi suyun etkisiyle gerçekleşen jeolojik süreçler.",
+  "slug": "su-kokenli-aqueous"
+ },
+ {
+  "key": "archetype",
+  "tr": "arketip",
+  "explanation": "Bir canlı grubunun bütün üyelerinin kendisinden türediği varsayılan ideal temel yapı planı (Owen'ın karşılaştırmalı anatomi kavramı).",
+  "slug": "arketip-archetype"
+ },
+ {
+  "key": "Arthropoda",
+  "tr": "Eklembacaklılar",
+  "explanation": "Böcekler, kabuklular ve örümcekleri kapsayan, eklemli bacaklı ve dış iskeletli hayvanlar şubesi.",
+  "variants": [
+   "Arthropoda"
+  ],
+  "slug": "eklembacaklilar-arthropoda"
+ },
+ {
+  "key": "Articulata",
+  "tr": "Eklemliler",
+  "explanation": "Cuvier'nin sınıflandırmasında böcek, örümcek, kabuklu ve halkalı solucanları kapsayan, eklemli vücutlu hayvanlar grubu.",
+  "slug": "eklemliler-articulata"
+ },
+ {
+  "key": "asphyxia",
+  "tr": "boğulma",
+  "explanation": "Kanın yeterince oksijen alamaması sonucu bilinç ve yaşamsal işlevlerin durması.",
+  "slug": "bogulma-asphyxia"
+ },
+ {
+  "key": "assimilation",
+  "tr": "özümleme",
+  "explanation": "Besinlerin organizmanın kendi dokusuna dönüştürülmesi; yıpranmanın karşıtı.",
+  "slug": "ozumleme-assimilation"
+ },
+ {
+  "key": "association",
+  "tr": "çağrışım",
+  "explanation": "Birlikte deneyimlenen düşünce, izlenim ve hareketlerin zihinde birbirine bağlanması ve birinin diğerini uyandırması (çağrışımcı psikoloji).",
+  "slug": "cagrisim-association"
+ },
+ {
+  "key": "association of ideas",
+  "tr": "fikir çağrışımı",
+  "explanation": "Bir zihin içeriğinin, daha önce birlikte deneyimlenmiş başka bir içeriği kendiliğinden akla getirmesi; İngiliz çağrışımcı psikolojisinin temel ilkesi.",
+  "slug": "fikir-cagrisimi-association-of-ideas"
+ },
+ {
+  "key": "Astronomy",
+  "tr": "astronomi",
+  "explanation": "Gök cisimlerini ve göklerin düzenini inceleyen bilim; Spencer'a göre gündelik gözlemlerin örgütlenmiş ve incelikli biçimi.",
+  "slug": "astronomi-astronomy"
+ },
+ {
+  "key": "Atheism",
+  "tr": "ateizm",
+  "explanation": "Tanrı'nın varlığını reddeden görüş (tanrıtanımazlık).",
+  "slug": "ateizm-atheism"
+ },
+ {
+  "key": "Atom",
+  "tr": "atom",
+  "explanation": "Maddenin daha fazla bölünemeyen en küçük birimi olduğu varsayılan parçacık; Newtoncu görüşte birbirine temas etmeyen katı birimler.",
+  "slug": "atom-atom"
+ },
+ {
+  "key": "atomic hypothesis",
+  "tr": "atom hipotezi",
+  "explanation": "Maddenin bölünmez, uzamlı ve dirençli küçük parçacıklardan oluştuğu varsayımı; Spencer bunu deneyimlerimizin zorunlu bir uzantısı olarak meşru sayar.",
+  "slug": "atom-hipotezi-atomic-hypothesis"
+ },
+ {
+  "key": "Attribute",
+  "tr": "nitelik",
+  "explanation": "Bir varlığa ait olan ve ancak onunla birlikte var olabilen özellik; bir şeyin tasavvur edilebilmesi için ona nitelikler yüklenmesi gerekir.",
+  "slug": "nitelik-attribute"
+ },
+ {
+  "key": "aurora",
+  "tr": "kutup ışığı",
+  "explanation": "Kutup bölgelerinde gökyüzünde görülen, elektrik kökenli ışıma (aurora borealis).",
+  "slug": "kutup-isigi-aurora"
+ },
+ {
+  "key": "automatism",
+  "tr": "otomatizm",
+  "explanation": "Huxley'nin öğretisi: hayvan ve insan edimlerinin bilinç olmaksızın, mekanik biçimde gerçekleşebileceği görüşü.",
+  "slug": "otomatizm-automatism"
+ },
+ {
+  "key": "Axiom",
+  "tr": "aksiyom",
+  "explanation": "Kendiliğinden açık sayılan, kanıt gerektirmeyen temel doğru.",
+  "slug": "aksiyom-axiom"
+ },
+ {
+  "key": "bas-relief",
+  "tr": "alçak kabartma",
+  "explanation": "Figürlerin zemin düzleminden hafifçe yükseltildiği heykel tekniği.",
+  "slug": "alcak-kabartma-bas-relief"
+ },
+ {
+  "key": "beats",
+  "tr": "vuru",
+  "explanation": "Frekansları birbirine yakın iki sesin birleşmesiyle oluşan dönemsel şiddet artış ve azalışları (akustik).",
+  "slug": "vuru-beats"
+ },
+ {
+  "key": "Beneficence",
+  "tr": "iyilikseverlik",
+  "explanation": "Spencer'ın ahlakında adaletin ötesinde kalan davranış alanı: olumsuz iyilikseverlik başkalarının mutluluğunu dolaylı yoldan bozmaktan kaçınmayı, olumlu iyilikseverlik ise haz vermekten haz duymayı kapsar.",
+  "slug": "iyilikseverlik-beneficence"
+ },
+ {
+  "key": "Biology",
+  "tr": "biyoloji",
+  "explanation": "Yaşamı ve canlıları inceleyen bilim.",
+  "slug": "biyoloji-biology"
+ },
+ {
+  "key": "blastodermic vesicle",
+  "tr": "blastoderm kesesi",
+  "explanation": "Bölünen hücre kümesinin içi boşalarak oluşturduğu, duvarı tek tabaka hücreden kurulu kese (blastosist).",
+  "slug": "blastoderm-kesesi-blastodermic-vesicle"
+ },
+ {
+  "key": "blastula",
+  "tr": "blastula",
+  "explanation": "Embriyonun erken evresinde, tek hücre tabakasından oluşan içi boş küre.",
+  "slug": "blastula-blastula"
+ },
+ {
+  "key": "Body",
+  "tr": "Cisim",
+  "explanation": "Direnç gösteren yüzeylerle sınırlı, baştan başa dirençli parçalardan oluşan dolu uzam; boş uzam olan Uzay'ın karşıtı.",
+  "slug": "cisim-body"
+ },
+ {
+  "key": "Brachiopoda",
+  "tr": "Brachiopoda (kolsu ayaklılar)",
+  "explanation": "İki kabuklu deniz omurgasızları şubesi; Paleozoik çağda çok yaygınken bugün az sayıda türle temsil edilir.",
+  "slug": "brachiopoda-kolsu-ayaklilar-brachiopoda"
+ },
+ {
+  "key": "breach of continuity",
+  "tr": "süreklilik kesintisi",
+  "explanation": "Bir sürecin doğal yasalarla açıklanamayan bir sıçrama ya da dış müdahale gerektirmesi; Ward bunu Spencer'ın evriminin ilk adımına yükler.",
+  "slug": "sureklilik-kesintisi-breach-of-continuity"
+ },
+ {
+  "key": "cadence",
+  "tr": "kadans",
+  "explanation": "Müzikte bir ezgi parçasını bitiren kısa nota dizisi; en basit melodik birim.",
+  "slug": "kadans-cadence"
+ },
+ {
+  "key": "cannon bone",
+  "tr": "kanon kemiği",
+  "explanation": "At ve sığır gibi toynaklı hayvanlarda, metakarp ya da metatars kemiklerinin kaynaşıp büyümesiyle oluşan tek uzun bacak kemiği.",
+  "slug": "kanon-kemigi-cannon-bone"
+ },
+ {
+  "key": "caoutchouc",
+  "tr": "kauçuk",
+  "explanation": "Tropik ağaçların özsuyundan elde edilen doğal lastik; 19. yüzyılda sanayide çok sayıda yeni kullanım alanı bulan madde.",
+  "slug": "kaucuk-caoutchouc"
+ },
+ {
+  "key": "capillaries",
+  "tr": "kılcal damarlar",
+  "explanation": "Atardamar ile toplardamarları birleştiren, duvarlarından sıvı ve maddelerin geçtiği en ince kan damarları.",
+  "slug": "kilcal-damarlar-capillaries"
+ },
+ {
+  "key": "carboniferous",
+  "tr": "Karbonifer",
+  "explanation": "Yaklaşık 359–299 milyon yıl önceki jeolojik dönem; kömür yataklarının oluştuğu çağ.",
+  "slug": "karbonifer-carboniferous"
+ },
+ {
+  "key": "cartilage",
+  "tr": "kıkırdak",
+  "explanation": "Esnek bağ dokusu; embriyoda kemiğin öncülü olarak oluşur.",
+  "slug": "kikirdak-cartilage"
+ },
+ {
+  "key": "caste",
+  "tr": "kast",
+  "explanation": "Toplumda doğumla belirlenen, kapalı ve kalıtsal toplumsal sınıf.",
+  "slug": "kast-caste"
+ },
+ {
+  "key": "Causation",
+  "tr": "nedensellik",
+  "explanation": "Her olayın bir nedenden doğduğu ve nedenlerin etkiler ürettiği ilkesi; neden-etki ilişkisinin kendisi.",
+  "slug": "nedensellik-causation"
+ },
+ {
+  "key": "celestial dynamics",
+  "tr": "gök dinamiği",
+  "explanation": "Gök cisimlerinin kuvvetler etkisindeki hareketlerini inceleyen gökbilim dalı; her problemi bir kuvvet birimi varsayımına dayanır.",
+  "slug": "gok-dinamigi-celestial-dynamics"
+ },
+ {
+  "key": "celestial mechanics",
+  "tr": "gök mekaniği",
+  "explanation": "Gök cisimlerinin hareketlerini kütle çekimi yasalarıyla inceleyen astronomi dalı.",
+  "slug": "gok-mekanigi-celestial-mechanics"
+ },
+ {
+  "key": "cell-membrane",
+  "tr": "hücre zarı",
+  "explanation": "Hücreyi dıştan çevreleyen ve içeriğini çevreden ayıran ince tabaka; Spencer'da iç-dış karşıtlığının ilk örneği.",
+  "slug": "hucre-zari-cell-membrane"
+ },
+ {
+  "key": "cellulose",
+  "tr": "selüloz",
+  "explanation": "Bitki hücre duvarlarını oluşturan temel karbonhidrat; odun ve mantarın hammaddesi.",
+  "slug": "seluloz-cellulose"
+ },
+ {
+  "key": "celt",
+  "tr": "kelt",
+  "explanation": "Tarih öncesi insanların yaptığı, keski ya da balta biçiminde taş veya tunç alet (keltik ile ilgisi yoktur).",
+  "slug": "kelt-celt"
+ },
+ {
+  "key": "centre of force",
+  "tr": "kuvvet merkezi",
+  "explanation": "Etkisi çevreye yayılan kuvvetin kaynağı sayılan nokta ya da cisim; Spencer Güneş'i Yer için başlıca dış kuvvet merkezi sayar.",
+  "slug": "kuvvet-merkezi-centre-of-force"
+ },
+ {
+  "key": "centre of gravity",
+  "tr": "ağırlık merkezi",
+  "explanation": "Bir cismin bütün ağırlığının toplanmış sayılabileceği nokta; Güneş'in ve Yer'in tözlerinin bu merkeze doğru yoğunlaşması Spencer'da ısı ve hareketin kaynağıdır.",
+  "slug": "agirlik-merkezi-centre-of-gravity"
+ },
+ {
+  "key": "centres of force",
+  "tr": "kuvvet merkezleri",
+  "explanation": "Boscovich'in kuramında maddenin bileşenleri: boyutsuz, yalnızca konumu olan ve birbirini çekip iten noktalar.",
+  "slug": "kuvvet-merkezleri-centres-of-force"
+ },
+ {
+  "key": "centrifugal force",
+  "tr": "merkezkaç kuvveti",
+  "explanation": "Dönen bir cismin parçalarını dönme merkezinden uzaklaştırmaya yönelen kuvvet.",
+  "slug": "merkezkac-kuvveti-centrifugal-force"
+ },
+ {
+  "key": "centripetal force",
+  "tr": "merkezcil kuvvet",
+  "explanation": "Yörüngedeki bir cismi merkeze doğru çeken kuvvet; gezegenlerde Güneş'in kütle çekimi.",
+  "slug": "merkezcil-kuvvet-centripetal-force"
+ },
+ {
+  "key": "Cephalopods",
+  "tr": "kafadan bacaklılar",
+  "explanation": "Ahtapot, mürekkep balığı ve nautilusu içeren yumuşakça sınıfı; kabuklu biçimleri (ammonitler) geçmişte okyanuslara egemendi.",
+  "variants": [
+   "kafadanbacaklılar"
+  ],
+  "slug": "kafadan-bacaklilar-cephalopods"
+ },
+ {
+  "key": "cerebro-spinal axis",
+  "tr": "beyin-omurilik ekseni",
+  "explanation": "Omurgalılarda beyin ile omuriliğin oluşturduğu merkezî sinir sistemi ekseni.",
+  "slug": "beyin-omurilik-ekseni-cerebro-spinal-axis"
+ },
+ {
+  "key": "cerebrum",
+  "tr": "beyin yarıküresi",
+  "explanation": "Beynin üst ve en büyük bölümü; bilinçli düşüncenin ve istemli hareketlerin merkezi sayılır.",
+  "variants": [
+   "beyin"
+  ],
+  "slug": "beyin-yarikuresi-cerebrum"
+ },
+ {
+  "key": "Chemical Action",
+  "tr": "kimyasal etki",
+  "explanation": "Elementlerin birleşme ve ayrışma süreci; ısı, ışık, hareket ve elektrik üreten kuvvet kipi.",
+  "slug": "kimyasal-etki-chemical-action"
+ },
+ {
+  "key": "Chemical Affinity",
+  "tr": "kimyasal ilgi",
+  "explanation": "Elementlerin birbiriyle bileşik oluşturma eğilimi; 19. yüzyıl kimyasında kuvvet biçimlerinden biri sayılırdı.",
+  "slug": "kimyasal-ilgi-chemical-affinity"
+ },
+ {
+  "key": "chemical composition and decomposition",
+  "tr": "kimyasal bileşme ve ayrışma",
+  "explanation": "Elementlerin bileşik oluşturması ve bileşiklerin öğelerine ayrılması; Spencer'a göre moleküler düzeydeki duyulmaz yer değiştirmelerin başlıca biçimi.",
+  "slug": "kimyasal-bilesme-ve-ayrisma-chemical-composition-and-decomposition"
+ },
+ {
+  "key": "chemical equivalent",
+  "tr": "eşdeğer",
+  "explanation": "19. yüzyıl kimyasında bir elementin başka bir elementle birleşen göreli miktarını gösteren birim; atom kavramının yerine ya da yanında kullanılırdı.",
+  "slug": "esdeger-chemical-equivalent"
+ },
+ {
+  "key": "chemical stability",
+  "tr": "kimyasal kararlılık",
+  "explanation": "Bir bileşiğin ısı ya da başka etkiler altında bozunmaya karşı gösterdiği direnç; Spencer'a göre içerilen moleküler hareket arttıkça azalır.",
+  "slug": "kimyasal-kararlilik-chemical-stability"
+ },
+ {
+  "key": "Chemistry",
+  "tr": "kimya",
+  "explanation": "Maddelerin bileşimini ve dönüşümlerini inceleyen bilim; biyolojinin dayandığı fiziksel bilimlerden biri.",
+  "slug": "kimya-chemistry"
+ },
+ {
+  "key": "chlorophyll",
+  "tr": "klorofil",
+  "explanation": "Bitkilere yeşil rengini veren ve ışıkla besin üretimini sağlayan madde.",
+  "slug": "klorofil-chlorophyll"
+ },
+ {
+  "key": "cilia",
+  "tr": "siller",
+  "explanation": "Tek hücreli ve küçük canlıların yüzeyindeki, titreşerek hareket sağlayan kirpiksi uzantılar.",
+  "variants": [
+   "sil"
+  ],
+  "slug": "siller-cilia"
+ },
+ {
+  "key": "classification",
+  "tr": "sınıflandırma",
+  "explanation": "Şeylerin benzerliklerine göre gruplara (takım, cins, tür) ayrılması; Spencer bunu zihinsel bir ayrışma süreci olarak yorumlar.",
+  "slug": "siniflandirma-classification"
+ },
+ {
+  "key": "cleavage cavity",
+  "tr": "yarıklanma boşluğu",
+  "explanation": "Döllenmiş yumurtanın art arda bölünmesiyle oluşan hücre kümesinin ortasındaki içi boş alan (blastosöl).",
+  "slug": "yariklanma-boslugu-cleavage-cavity"
+ },
+ {
+  "key": "closed system",
+  "tr": "kapalı sistem",
+  "explanation": "Dışarıdan önemli bir etki almayan, üyeleri birbirine çekimle bağlı cisimler topluluğu (ör. Güneş Sistemi).",
+  "slug": "kapali-sistem-closed-system"
+ },
+ {
+  "key": "co-existence",
+  "tr": "bir arada var olma",
+  "explanation": "Şeylerin ya da konumların aynı anda yan yana bulunması; Spencer'a göre Uzay, bütün bir arada var olma ilişkilerinin soyutudur.",
+  "slug": "bir-arada-var-olma-co-existence"
+ },
+ {
+  "key": "co-existence and sequence",
+  "tr": "birlikte var oluş ve ardışıklık",
+  "explanation": "Görüngüler arasındaki iki temel ilişki türü: aynı anda bir arada bulunma ve birbirini izleme. Spencer'a göre bütün bilgi yalnızca bu ilişkilerden oluşur.",
+  "slug": "birlikte-var-olus-ve-ardisiklik-co-existence-and-sequence"
+ },
+ {
+  "key": "coccyx",
+  "tr": "kuyruk sokumu",
+  "explanation": "Omurganın en alt ucunda kaynaşmış küçük omurlardan oluşan kemik (os coccygis).",
+  "slug": "kuyruk-sokumu-coccyx"
+ },
+ {
+  "key": "Coelenterata",
+  "tr": "Sölenterler",
+  "explanation": "Denizanası, mercan ve hidra gibi tek vücut boşluklu basit hayvanlar; eski adıyla boşluklu hayvanlar.",
+  "slug": "solenterler-coelenterata"
+ },
+ {
+  "key": "cognition",
+  "tr": "biliş",
+  "explanation": "Bilme edimi ya da bilgi hâli; en basit gündelik gözlemden en karmaşık bilimsel bilgiye kadar uzanan zihinsel kavrayış.",
+  "variants": [
+   "bilgi (bilme edimi)"
+  ],
+  "slug": "bilis-cognition"
+ },
+ {
+  "key": "coherence",
+  "tr": "tutarlılık",
+  "explanation": "Parçaların birbirine sıkıca bağlı, bir arada tutulmuş olması; evrimde bütünleşmenin ölçüsü. Karşıtı: tutarsızlık (incoherence).",
+  "slug": "tutarlilik-coherence"
+ },
+ {
+  "key": "Cohesion",
+  "tr": "kohezyon",
+  "explanation": "Bir cismin parçalarını bir arada tutan çekim kuvveti; 19. yüzyıl fiziğinde moleküller arası bağlanma kuvveti.",
+  "variants": [
+   "bağlılık"
+  ],
+  "slug": "kohezyon-cohesion"
+ },
+ {
+  "key": "Colligation",
+  "tr": "derleme",
+  "explanation": "Whewell'in terimi: dağınık gözlemlerin bir kavram altında bir araya getirilmesi; Spencer'a göre bilginin en alt, tümevarımsal aşaması.",
+  "variants": [
+   "bir araya bağlama"
+  ],
+  "slug": "derleme-colligation"
+ },
+ {
+  "key": "colloid",
+  "tr": "kolloid",
+  "explanation": "Kristalleşmeyen, zarlardan geçmeyen, jölemsi maddeler; molekül öbeklerinin birleşmesiyle oluşan kararsız katı hâl. Organik madde bu düzenleniştedir.",
+  "slug": "kolloid-colloid"
+ },
+ {
+  "key": "colony",
+  "tr": "koloni",
+  "explanation": "Tek hücreli canlıların birbirine bağlı olarak oluşturduğu topluluk; çok hücreli organizmaya geçişin ara biçimi.",
+  "slug": "koloni-colony"
+ },
+ {
+  "key": "combining equivalents",
+  "tr": "birleşme eşdeğerleri",
+  "explanation": "19. yüzyıl kimyasında elementlerin birbiriyle birleşirken uyduğu sabit ağırlık oranları (eşdeğer ağırlıklar).",
+  "slug": "birlesme-esdegerleri-combining-equivalents"
+ },
+ {
+  "key": "combustion",
+  "tr": "yanma",
+  "explanation": "Bir maddenin oksijenle hızla birleşerek ısı ve ışık açığa çıkarması; Spencer'da moleküler harekete indirgenen kimyasal süreç örneği.",
+  "slug": "yanma-combustion"
+ },
+ {
+  "key": "Common Sense",
+  "tr": "sağduyu",
+  "explanation": "Sıradan insanın sorgulamadan kabul ettiği temel inançlar bütünü; İskoç sağduyu felsefesinin de dayanağı olan ortak kanı.",
+  "slug": "sagduyu-common-sense"
+ },
+ {
+  "key": "Comparative Anatomy",
+  "tr": "karşılaştırmalı anatomi",
+  "explanation": "Farklı canlı türlerinin yapılarını karşılaştırarak inceleyen bilim dalı; biyolojinin tümevarımlarının başlıca kaynaklarından biri.",
+  "slug": "karsilastirmali-anatomi-comparative-anatomy"
+ },
+ {
+  "key": "complete equilibrium",
+  "tr": "tam denge",
+  "explanation": "Bir kümelenmenin bütün duyulur hareketlerinin dağılıp bittiği, artık hiçbir değişimin kalmadığı son durum; hareketli dengenin sonunda düştüğü durgunluk.",
+  "slug": "tam-denge-complete-equilibrium"
+ },
+ {
+  "key": "composition of forces",
+  "tr": "kuvvetlerin bileşimi",
+  "explanation": "Mekanikte birden çok kuvvetin, aynı etkiyi üreten tek bir bileşke kuvvete indirgenmesi yöntemi (paralelkenar kuralı).",
+  "slug": "kuvvetlerin-bilesimi-composition-of-forces"
+ },
+ {
+  "key": "compound evolution",
+  "tr": "bileşik evrim",
+  "explanation": "Yalnızca bütünleşmeyle sınırlı kalmayıp parçaların farklılaşmasını da içeren evrim; canlılarda ve toplumlarda görülen tür.",
+  "slug": "bilesik-evrim-compound-evolution"
+ },
+ {
+  "key": "compound rhythm",
+  "tr": "bileşik ritim",
+  "explanation": "Farklı hızlardaki birincil ritimlerin çakışıp karşıtlaşmasıyla doğan ikincil, üçüncül ritimler; gelgit ve dalga örnekleri.",
+  "slug": "bilesik-ritim-compound-rhythm"
+ },
+ {
+  "key": "Compressibility",
+  "tr": "sıkıştırılabilirlik",
+  "explanation": "Bir cismin hacminin basınç altında küçülebilmesi; Spencer bunun parçalar arasında boş uzay bulunmasını gerektirdiğini söyler.",
+  "slug": "sikistirilabilirlik-compressibility"
+ },
+ {
+  "key": "concentration",
+  "tr": "yoğunlaşma",
+  "explanation": "Maddenin daha küçük bir hacimde toplanması, kümenin sıkışıp yoğunluğunun artması; evrimin birincil yeniden dağılımının madde yönü.",
+  "slug": "yogunlasma-concentration"
+ },
+ {
+  "key": "Conception",
+  "tr": "tasavvur",
+  "explanation": "Zihinde bir şeyin bütün olarak kurulması, kavranması; Spencer için bir şeyin düşünülebilir olmasının ölçütü.",
+  "slug": "tasavvur-conception"
+ },
+ {
+  "key": "concomitant",
+  "tr": "eşlikçi",
+  "explanation": "Huxley'nin terimi: bilincin sinirsel süreçlerin bir nedeni ya da halkası değil, yalnızca onlara eşlik eden bir yan ürün olduğu düşüncesi.",
+  "slug": "eslikci-concomitant"
+ },
+ {
+  "key": "Concrete Sciences",
+  "tr": "Somut Bilimler",
+  "explanation": "Spencer'ın sınıflandırmasında görüngüleri bütünlükleri içinde inceleyen bilimler: astronomi, jeoloji, biyoloji, psikoloji, sosyoloji.",
+  "slug": "somut-bilimler-concrete-sciences"
+ },
+ {
+  "key": "concretion",
+  "tr": "konkresyon",
+  "explanation": "Tortul kayaç içinde, belirli bir merkez çevresinde mineral birikmesiyle oluşan yumru biçimli sert kütle.",
+  "slug": "konkresyon-concretion"
+ },
+ {
+  "key": "condensation",
+  "tr": "yoğunlaşma",
+  "explanation": "Gaz hâlindeki buharın soğuyarak sıvı hâline geçmesi; Spencer bunu parçacıklar arasındaki karşılıklı basıncın azalması olarak yorumlar.",
+  "slug": "yogunlasma-condensation"
+ },
+ {
+  "key": "conformable strata",
+  "tr": "uyumlu tabakalar",
+  "explanation": "Aralarında kesinti ya da aşınma izi olmaksızın birbiri üzerine sürekli biçimde çökelmiş tabaka grupları.",
+  "slug": "uyumlu-tabakalar-conformable-strata"
+ },
+ {
+  "key": "conglomerate",
+  "tr": "konglomera",
+  "explanation": "Çakıl ve kaya parçalarının doğal bir çimentoyla birbirine bağlanmasından oluşan tortul kayaç; Spencer'da çözülmenin geçici olarak durup yeniden başlamasının örneği.",
+  "slug": "konglomera-conglomerate"
+ },
+ {
+  "key": "Consciousness",
+  "tr": "bilinç",
+  "explanation": "Farkında olma durumu; Spencer'da birbirini izleyen ve birbirinden ayırt edilen zihin hâllerinin akışı.",
+  "slug": "bilinc-consciousness"
+ },
+ {
+  "key": "Consensus",
+  "tr": "konsensüs",
+  "explanation": "Spencer'ın fizyolojiden aldığı terim: bir toplum tipindeki yapılar ile işlevlerin zorunlu karşılıklı bağımlılığı ve birbirine uygunluğu.",
+  "slug": "konsensus-consensus"
+ },
+ {
+  "key": "consequent",
+  "tr": "ardıl",
+  "explanation": "Bir öncelin ardından gelen ve onun etkisi sayılan tezahür; öncelin karşıtı.",
+  "slug": "ardil-consequent"
+ },
+ {
+  "key": "Conservation of Energy",
+  "tr": "enerjinin korunumu",
+  "explanation": "Enerjinin yaratılıp yok edilemeyeceği, yalnızca dönüştüğü fizik ilkesi; Spencer bu ad yerine 'kuvvetin kalıcılığı' demeyi tercih eder.",
+  "slug": "enerjinin-korunumu-conservation-of-energy"
+ },
+ {
+  "key": "Conservation of Force",
+  "tr": "Kuvvetin Korunumu",
+  "explanation": "19. yüzyıl ortasında enerjinin korunumu ilkesine verilen yaygın ad; Spencer bunu daha sonra 'Kuvvetin Kalıcılığı' olarak yeniden adlandırır.",
+  "slug": "kuvvetin-korunumu-conservation-of-force"
+ },
+ {
+  "key": "conservative system",
+  "tr": "korunumlu sistem",
+  "explanation": "Mekanikte toplam enerjisi sabit kalan, sürtünme gibi kayıpların olmadığı sistem.",
+  "slug": "korunumlu-sistem-conservative-system"
+ },
+ {
+  "key": "consolidation",
+  "tr": "pekişme",
+  "explanation": "Bir kümenin parçalarının daha sıkı ve yoğun biçimde birbirine bağlanması; bütünleşmenin ileri aşaması.",
+  "slug": "pekisme-consolidation"
+ },
+ {
+  "key": "consols",
+  "tr": "konsol tahvilleri",
+  "explanation": "İngiliz devletinin vadesiz, sabit faizli borç senetleri (consolidated annuities); fiyatları piyasa göstergesi olarak izlenirdi.",
+  "slug": "konsol-tahvilleri-consols"
+ },
+ {
+  "key": "Continuity of Motion",
+  "tr": "Hareketin Sürekliliği",
+  "explanation": "Hareketin asla yok olmadığı, yalnızca biçim değiştirerek (ör. ısıya dönüşerek) sürdüğü ilkesi.",
+  "slug": "hareketin-surekliligi-continuity-of-motion"
+ },
+ {
+  "key": "Contradictories",
+  "tr": "çelişikler",
+  "explanation": "Biri ötekinin yadsınması olan kavram çiftleri (sınırlı–sınırsız gibi); Hamilton'a göre olumsuz olan yalnızca soyutlamadır, Spencer'a göre ise bilinçte olumlu bir kalıntı taşır.",
+  "slug": "celisikler-contradictories"
+ },
+ {
+  "key": "Corollaries",
+  "tr": "sonuç önermeleri",
+  "explanation": "Kanıtlanmış ilkelerden doğrudan türetilen ikincil önermeler; Spencer, Psikolojinin İlkeleri'nin son kısmında sosyolojiye giriş oluşturan bu tür türetilmiş ilkeleri toplar.",
+  "slug": "sonuc-onermeleri-corollaries"
+ },
+ {
+  "key": "Correlation of Forces",
+  "tr": "Kuvvetlerin Bağlılaşımı",
+  "explanation": "Isı, ışık, elektrik, kimyasal ilgi gibi kuvvet biçimlerinin birbirine dönüşebildiği ve eşdeğer olduğu öğretisi (Grove).",
+  "slug": "kuvvetlerin-baglilasimi-correlation-of-forces"
+ },
+ {
+  "key": "Correlative",
+  "tr": "bağlılaşık",
+  "explanation": "Bir şeyin ancak kendisiyle birlikte düşünülebildiği karşılık terimi (ör. birlik ile çokluk, benzerlik ile farklılık); Spencer'a göre hiçbir düşünce bağlılaşıklarından koparılamaz.",
+  "slug": "baglilasik-correlative"
+ },
+ {
+  "key": "Correlatives",
+  "tr": "bağlılaşıklar",
+  "explanation": "Ancak birbirine göre tasavvur edilebilen karşılıklı kavram çiftleri (bütün–parça, eşit–eşit olmayan, göreli–mutlak gibi).",
+  "slug": "baglilasiklar-correlatives"
+ },
+ {
+  "key": "Correspondence",
+  "tr": "uygunluk",
+  "explanation": "Organizmadaki iç eylem ve ilişkilerin, çevredeki dış eylem ve ilişkilerle örtüşmesi; Spencer'ın yaşam ve zekâ kuramının temel kavramı.",
+  "slug": "uygunluk-correspondence"
+ },
+ {
+  "key": "cosmogony",
+  "tr": "kozmogoni",
+  "explanation": "Evrenin kökenini ve oluşumunu açıklayan kuram ya da anlatı; dinî yaratılış öğretileri de bu kapsama girer.",
+  "slug": "kozmogoni-cosmogony"
+ },
+ {
+  "key": "Cosmos",
+  "tr": "kozmos",
+  "explanation": "Düzenli bir bütün olarak evren.",
+  "slug": "kozmos-cosmos"
+ },
+ {
+  "key": "Creation by external agency",
+  "tr": "dış bir etkenle yaratılış",
+  "explanation": "Evrenin dışarıdan bir güç tarafından yaratılması düşüncesi (teizmin biçimi); Spencer'a göre yine tasavvur edilemez.",
+  "slug": "dis-bir-etkenle-yaratilis-creation-by-external-agency"
+ },
+ {
+  "key": "Creative Power",
+  "tr": "Yaratıcı Güç",
+  "explanation": "Evreni var eden güç; Spencer bu ifadeyi teolojik 'Yaratıcı' kavramının yerine, nitelik yüklemekten kaçınarak kullanır.",
+  "slug": "yaratici-guc-creative-power"
+ },
+ {
+  "key": "Crinoidea",
+  "tr": "Crinoidea (deniz zambakları)",
+  "explanation": "Derisidikenliler şubesinden, çoğu sapla zemine tutunan deniz canlıları sınıfı; fosil kayıtlarında çok bol, günümüzde seyrektir.",
+  "slug": "crinoidea-deniz-zambaklari-crinoidea"
+ },
+ {
+  "key": "critical point",
+  "tr": "kritik nokta",
+  "explanation": "Bir maddenin, basınç ne olursa olsun artık sıvılaşamayıp gaz hâlinde kaldığı sıcaklık eşiği; Spencer, Dünya'nın çekirdeğindeki gazların bu eşiğin üstünde olduğunu varsayar.",
+  "slug": "kritik-nokta-critical-point"
+ },
+ {
+  "key": "crystal",
+  "tr": "kristal",
+  "explanation": "Atomları düzenli bir örgü hâlinde dizilmiş katı; Spencer'da yalnızca bütünleşmeyle sınırlı basit evrimin örneği.",
+  "slug": "kristal-crystal"
+ },
+ {
+  "key": "crystallization",
+  "tr": "kristalleşme",
+  "explanation": "Çözeltideki ya da erimiş hâldeki bir maddenin düzenli, geometrik katı yapılar (kristaller) hâlinde çökmesi.",
+  "slug": "kristallesme-crystallization"
+ },
+ {
+  "key": "crystalloid",
+  "tr": "kristaloid",
+  "explanation": "Graham'ın ayrımıyla, çözeltide kristalleşebilen ve zarlardan kolayca geçen maddeler; tek tek moleküllerin düzenli birleşmesiyle oluşan kararlı katı hâl.",
+  "slug": "kristaloid-crystalloid"
+ },
+ {
+  "key": "cyst",
+  "tr": "kist",
+  "explanation": "Tek hücreli canlının dinlenme evresinde çevresine salgıladığı koruyucu kılıf.",
+  "slug": "kist-cyst"
+ },
+ {
+  "key": "daguerreotype",
+  "tr": "dagerreyotipi",
+  "explanation": "Gümüş kaplı bakır levha üzerine görüntü kaydeden ilk fotoğraf yöntemi (Daguerre, 1839).",
+  "slug": "dagerreyotipi-daguerreotype"
+ },
+ {
+  "key": "Datum",
+  "tr": "veri",
+  "explanation": "Akıl yürütmenin dayandığı, doğrudan verili sayılan temel olgu ya da ilke (çoğulu: data).",
+  "slug": "veri-datum"
+ },
+ {
+  "key": "de-oxidation",
+  "tr": "oksijen giderme",
+  "explanation": "Bir bileşikten oksijenin ayrılması; bitkilerin karbondioksit ve suyu ayrıştırma süreci (indirgenme).",
+  "slug": "oksijen-giderme-de-oxidation"
+ },
+ {
+  "key": "decomposition",
+  "tr": "bozunma",
+  "explanation": "Bir kimyasal bileşiğin bileşenlerine ayrılması; Spencer bunu maddenin yeniden dağılımının bir biçimi olarak görür.",
+  "slug": "bozunma-decomposition"
+ },
+ {
+  "key": "Deduction",
+  "tr": "tümdengelim",
+  "explanation": "Genel ilkelerden tek tek sonuçlara ulaşma yöntemi.",
+  "slug": "tumdengelim-deduction"
+ },
+ {
+  "key": "definiteness",
+  "tr": "belirlilik",
+  "explanation": "Parçaların ve sınırların kesin, ayırt edilebilir olması; evrimde artan niteliklerden biri. Karşıtı: belirsizlik (indefiniteness).",
+  "slug": "belirlilik-definiteness"
+ },
+ {
+  "key": "denudation",
+  "tr": "aşındırma",
+  "explanation": "Yağmur, nehir ve rüzgârın yeryüzünü aşındırıp tortuyu taşıması.",
+  "variants": [
+   "aşınma"
+  ],
+  "slug": "asindirma-denudation"
+ },
+ {
+  "key": "dependent moving equilibrium",
+  "tr": "bağımlı hareketli denge",
+  "explanation": "Harcadığı enerjiyi dışarıdan sürekli yenileyen kümelenmelerdeki denge; buharlı makine, yeryüzü dolaşımları, canlı organizma ve toplumun sınai işlevleri bu üçüncü düzen dengenin örnekleridir.",
+  "slug": "bagimli-hareketli-denge-dependent-moving-equilibrium"
+ },
+ {
+  "key": "desynonymization",
+  "tr": "eşanlamsızlaşma",
+  "explanation": "Coleridge'in terimi: başlangıçta eşanlamlı olan sözcüklerin zamanla farklı anlamlar kazanması.",
+  "slug": "esanlamsizlasma-desynonymization"
+ },
+ {
+  "key": "detritus",
+  "tr": "kırıntı",
+  "explanation": "Eski kayaların aşınmasıyla oluşan ve yeni tortul katmanları meydana getiren parçalanmış malzeme.",
+  "slug": "kirinti-detritus"
+ },
+ {
+  "key": "Development Hypothesis",
+  "tr": "Gelişim Hipotezi",
+  "explanation": "Darwin öncesi dönemde türlerin sabit olmayıp birbirinden geliştiğini savunan görüşe verilen ad; Spencer bu adı evrim kuramının erken adı olarak kullanır.",
+  "slug": "gelisim-hipotezi-development-hypothesis"
+ },
+ {
+  "key": "diastole",
+  "tr": "diyastol",
+  "explanation": "Kalbin gevşeyerek kanla dolduğu evre; sistolün karşıtı.",
+  "slug": "diyastol-diastole"
+ },
+ {
+  "key": "differential force",
+  "tr": "ayrımsal kuvvet",
+  "explanation": "İki kuvvet ya da iki birim arasındaki farkı oluşturan, birinde bulunup ötekinde bulunmayan kuvvet payı; ayrışmayı üreten etkin fark.",
+  "slug": "ayrimsal-kuvvet-differential-force"
+ },
+ {
+  "key": "Differentiation",
+  "tr": "farklılaşma",
+  "explanation": "Bir bütünün parçalarının yapı ve işlev bakımından birbirinden ayrılması; homojenlikten heterojenliğe geçiş.",
+  "slug": "farklilasma-differentiation"
+ },
+ {
+  "key": "diffusion",
+  "tr": "yayılma",
+  "explanation": "Kümelenmenin karşıtı: bir kümenin parçalarının ortak merkezden uzaklaşıp dağılması.",
+  "slug": "yayilma-diffusion"
+ },
+ {
+  "key": "Direction of Motion",
+  "tr": "Hareketin Yönü",
+  "explanation": "Hareketin daima en büyük çekim ve en küçük direnç çizgisini izlediği ilkesi.",
+  "slug": "hareketin-yonu-direction-of-motion"
+ },
+ {
+  "key": "discharge",
+  "tr": "boşalım",
+  "explanation": "Sinir merkezlerinde birikmiş kuvvetin sinir yolları boyunca kaslara ya da başka merkezlere aktarılması; Spencer'ın sinir fizyolojisinde temel terim.",
+  "slug": "bosalim-discharge"
+ },
+ {
+  "key": "Disintegration",
+  "tr": "parçalanma",
+  "explanation": "Bütünleşmenin karşıtı: bir yığının bileşenlerinin, iç hareket kazanmaları sonucu birbirinden ayrılıp daha yayılmış bir duruma geçmesi; Çözülme'nin madde tarafı.",
+  "slug": "parcalanma-disintegration"
+ },
+ {
+  "key": "dispersion",
+  "tr": "dağılma",
+  "explanation": "Beyaz ışığın kırılırken farklı dalga boylarındaki bileşenlerine (tayf renklerine) ayrılması.",
+  "slug": "dagilma-dispersion"
+ },
+ {
+  "key": "dissipation of Motion",
+  "tr": "hareketin dağılması",
+  "explanation": "Evrim sırasında kümenin içerdiği hareketin dışarıya verilip yitirilmesi; maddenin bütünleşmesine eşlik eden zorunlu süreç.",
+  "slug": "hareketin-dagilmasi-dissipation-of-motion"
+ },
+ {
+  "key": "Dissolution",
+  "tr": "çözülme",
+  "explanation": "Evrimin tersi: hareketin soğurulup maddenin dağılması, bütünleşmiş bir şeyin parçalarına ayrılması.",
+  "slug": "cozulme-dissolution"
+ },
+ {
+  "key": "distillation",
+  "tr": "damıtma",
+  "explanation": "Bir sıvı karışımının ısıtılıp buharının yoğunlaştırılmasıyla, kaynama noktaları farklı bileşenlerin birbirinden ayrılması.",
+  "slug": "damitma-distillation"
+ },
+ {
+  "key": "divergence of character",
+  "tr": "karakter ıraksaması",
+  "explanation": "Darwin'in ilkesi: doğal seçilim altında bir türün varyetelerinin birbirinden gittikçe daha çok farklılaşması.",
+  "slug": "karakter-iraksamasi-divergence-of-character"
+ },
+ {
+  "key": "dividing-engine",
+  "tr": "bölme makinesi",
+  "explanation": "Ölçü aletlerinin cetvel ve çemberlerine son derece eşit aralıklı bölmeler çizen hassas makine; Troughton'ın 18. yüzyıl sonundaki yapımı ünlüdür.",
+  "slug": "bolme-makinesi-dividing-engine"
+ },
+ {
+  "key": "divine right",
+  "tr": "tanrısal hak",
+  "explanation": "Hükümdarın yönetme yetkisini doğrudan Tanrı'dan aldığını savunan Orta Çağ ve erken modern dönem siyasal öğretisi; Spencer'a göre tanrısal köken inancının yumuşatılmış ardılı.",
+  "slug": "tanrisal-hak-divine-right"
+ },
+ {
+  "key": "divisibility of Matter",
+  "tr": "maddenin bölünebilirliği",
+  "explanation": "Maddenin sonsuza dek bölünüp bölünemeyeceği sorunu; Spencer'a göre her iki yanıt da tasavvur edilemez.",
+  "slug": "maddenin-bolunebilirligi-divisibility-of-matter"
+ },
+ {
+  "key": "division of labour",
+  "tr": "iş bölümü",
+  "explanation": "Üretimin farklı kişi, sınıf ya da bölgeler arasında uzmanlaşarak paylaşılması; Adam Smith'in ekonomi politiğinin temel kavramı.",
+  "slug": "is-bolumu-division-of-labour"
+ },
+ {
+  "key": "double",
+  "tr": "eş-benlik",
+  "explanation": "İlkel insanın rüya deneyiminden türettiği, bedenden ayrılıp dolaşabilen ikinci benlik; Spencer'ın hayalet ve ruh inançlarının kökeni saydığı tasavvur.",
+  "slug": "es-benlik-double"
+ },
+ {
+  "key": "double decomposition",
+  "tr": "çifte bozunma",
+  "explanation": "İki bileşiğin bileşenlerini karşılıklı değiştirerek iki yeni bileşik oluşturduğu tepkime (AB + CD → AC + BD).",
+  "slug": "cifte-bozunma-double-decomposition"
+ },
+ {
+  "key": "double salt",
+  "tr": "çift tuz",
+  "explanation": "İki farklı tuzun birleşmesiyle oluşan, daha karmaşık ve daha az kararlı bileşik.",
+  "slug": "cift-tuz-double-salt"
+ },
+ {
+  "key": "double stars",
+  "tr": "çift yıldızlar",
+  "explanation": "Ortak kütle merkezi çevresinde dolanan iki yıldızdan oluşan sistem.",
+  "slug": "cift-yildizlar-double-stars"
+ },
+ {
+  "key": "dropsy",
+  "tr": "hidropsi",
+  "explanation": "Vücut dokularında ya da boşluklarında aşırı sıvı birikmesi; 19. yüzyıl tıbbında ödem için kullanılan ad.",
+  "slug": "hidropsi-dropsy"
+ },
+ {
+  "key": "Dynamics",
+  "tr": "dinamik",
+  "explanation": "Mekaniğin, cisimlerin hareketini bunlara etki eden kuvvetlerle birlikte inceleyen dalı.",
+  "slug": "dinamik-dynamics"
+ },
+ {
+  "key": "dynamometer",
+  "tr": "dinamometre",
+  "explanation": "Kuvveti ölçen alet.",
+  "slug": "dinamometre-dynamometer"
+ },
+ {
+  "key": "eccentricity",
+  "tr": "dışmerkezlilik",
+  "explanation": "Eliptik bir yörüngenin daireden ne kadar saptığının ölçüsü; büyük dışmerkezlilik yörüngedeki hız değişimini de büyütür.",
+  "variants": [
+   "dış merkezlilik"
+  ],
+  "slug": "dismerkezlilik-eccentricity"
+ },
+ {
+  "key": "Ecliptic",
+  "tr": "Ekliptik",
+  "explanation": "Dünya'nın Güneş çevresindeki yörünge düzlemi; gök küresinde Güneş'in yıl boyunca izlediği görünür yol (tutulum düzlemi).",
+  "slug": "ekliptik-ecliptic"
+ },
+ {
+  "key": "ectoderm",
+  "tr": "ektoderm",
+  "explanation": "Embriyonun dış hücre tabakası; deri ve sinir sistemini oluşturur.",
+  "slug": "ektoderm-ectoderm"
+ },
+ {
+  "key": "effective force",
+  "tr": "etkili kuvvet",
+  "explanation": "Gelen kuvvetin, yığında gerçekten değişim üreten kısmı; yansıyan ya da çarpan cisimde kalan etkisiz kısmın karşıtı.",
+  "slug": "etkili-kuvvet-effective-force"
+ },
+ {
+  "key": "efferent",
+  "tr": "götürücü",
+  "explanation": "Merkezden (kalpten ya da sinir merkezinden) çevreye doğru taşıyan damar ya da sinir; getiricinin (afferent) karşıtı.",
+  "slug": "goturucu-efferent"
+ },
+ {
+  "key": "Ego",
+  "tr": "ben",
+  "explanation": "Bilen özne, kendilik; felsefede bilincin kendisine ait sayılan taraf. Kant'ta uzay ve zaman ben'e ait öznel biçimlerdir.",
+  "slug": "ben-ego"
+ },
+ {
+  "key": "elective affinity",
+  "tr": "seçici ilgi",
+  "explanation": "19. yüzyıl kimyasında bir maddenin başka bir maddeyle öncelikli olarak bileşik oluşturma eğilimi; Spencer, çözünmenin ısı soğurduğu kuralını bu tür kimyasal etkilerin bulunmadığı durumlarla sınırlar.",
+  "slug": "secici-ilgi-elective-affinity"
+ },
+ {
+  "key": "electric discharge",
+  "tr": "elektrik boşalması",
+  "explanation": "Elektrik yükünün bir ortam (burada boşluk) içinden geçerek boşalması; 19. yüzyılda katmanlı görünümüyle incelenirdi.",
+  "slug": "elektrik-bosalmasi-electric-discharge"
+ },
+ {
+  "key": "Electricity",
+  "tr": "elektrik",
+  "explanation": "Sürtünme, kimyasal etki ya da manyetizmayla üretilebilen ve ısıya, ışığa, harekete dönüşebilen kuvvet kipi.",
+  "slug": "elektrik-electricity"
+ },
+ {
+  "key": "ellipse",
+  "tr": "elips",
+  "explanation": "Kapalı oval eğri; gezegenlerin ve kuyruklu yıldızların yörünge biçimi.",
+  "slug": "elips-ellipse"
+ },
+ {
+  "key": "embryo",
+  "tr": "embriyo",
+  "explanation": "Döllenmiş yumurtadan gelişen, henüz doğmamış ya da yumurtadan çıkmamış canlı taslağı.",
+  "slug": "embriyo-embryo"
+ },
+ {
+  "key": "embryonic area",
+  "tr": "embriyonik alan",
+  "explanation": "Blastoderm üzerinde embriyonun kendisinin oluşacağı, mat ve dairesel görünüşlü bölge.",
+  "slug": "embriyonik-alan-embryonic-area"
+ },
+ {
+  "key": "empirical generalization",
+  "tr": "deneysel genelleme",
+  "explanation": "Gözlemlerden tümevarımla çıkarılmış, ancak henüz daha temel bir ilkeden türetilmemiş genel önerme; Kepler yasaları bunun örneğidir.",
+  "slug": "deneysel-genelleme-empirical-generalization"
+ },
+ {
+  "key": "enchorial",
+  "tr": "enkorial",
+  "explanation": "Mısır'ın halk yazısı; demotik yazının 19. yüzyıl literatüründeki adı, epistolografik ile eşanlamlı.",
+  "slug": "enkorial-enchorial"
+ },
+ {
+  "key": "endoderm",
+  "tr": "endoderm",
+  "explanation": "Embriyonun iç hücre tabakası; sindirim sistemini oluşturur.",
+  "slug": "endoderm-endoderm"
+ },
+ {
+  "key": "Energy",
+  "tr": "enerji",
+  "explanation": "Fizikçilerin, maddenin biçimini koruyan edilgin kuvvetten ayrı olarak, etkinlik hâlindeki maddenin sahip olduğu kütlesel ya da moleküler kuvvete verdiği ad.",
+  "slug": "enerji-energy"
+ },
+ {
+  "key": "Entity",
+  "tr": "varlık",
+  "explanation": "Kendi başına var olan, niteliklerin taşıyıcısı olan şey; Spencer uzay ve zamanın ne varlık ne de varlık-olmayan olarak düşünülebildiğini gösterir.",
+  "slug": "varlik-entity"
+ },
+ {
+  "key": "environment",
+  "tr": "çevre",
+  "explanation": "Spencer'ın temel terimi: organizmayı kuşatan ve onunla karşılıklı etkileşim içinde yetilerinin gelişimini belirleyen dış koşulların bütünü.",
+  "slug": "cevre-environment"
+ },
+ {
+  "key": "epiblast",
+  "tr": "epiblast",
+  "explanation": "Erken embriyonun dış hücre tabakası; dönemin embriyolojisinde dış tabaka için kullanılan ad.",
+  "slug": "epiblast-epiblast"
+ },
+ {
+  "key": "epicycle",
+  "tr": "episikl",
+  "explanation": "Batlamyus astronomisinde gezegenin, merkezi daha büyük bir daire üzerinde dolaşan küçük bir daire boyunca döndüğü varsayımı.",
+  "slug": "episikl-epicycle"
+ },
+ {
+  "key": "epiphysis",
+  "tr": "epifiz",
+  "explanation": "Uzun kemiklerin, gövdeden ayrı kemikleşip sonradan ona kaynayan uç parçası.",
+  "slug": "epifiz-epiphysis"
+ },
+ {
+  "key": "epistolographic",
+  "tr": "epistolografik",
+  "explanation": "Eski Mısır'da günlük yazışmalarda kullanılan, hiyeratikten daha da sadeleşmiş yazı biçimi (demotik yazının eski adı).",
+  "slug": "epistolografik-epistolographic"
+ },
+ {
+  "key": "equality of action and reaction",
+  "tr": "etki ile tepkinin eşitliği",
+  "explanation": "Newton'un üçüncü yasası: her etkiye eşit ve karşıt bir tepki karşılık gelir; Spencer'a göre bu, kuvvetin kalıcılığını ileri sürmekle aynı şeydir.",
+  "slug": "etki-ile-tepkinin-esitligi-equality-of-action-and-reaction"
+ },
+ {
+  "key": "Equilibration",
+  "tr": "dengelenme",
+  "explanation": "Zıt kuvvetlerin birbirini dengelemesiyle hareketin azalıp sonunda durağan ya da hareketli bir dengeye ulaşılması süreci; her evrimin yöneldiği son.",
+  "slug": "dengelenme-equilibration"
+ },
+ {
+  "key": "Equilibrium",
+  "tr": "denge",
+  "explanation": "Zıt kuvvetlerin birbirini karşıladığı durum; Spencer ahlaki ideali bünye ile varoluş koşulları arasındaki denge olarak tanımlar.",
+  "slug": "denge-equilibrium"
+ },
+ {
+  "key": "equilibrium mobile",
+  "tr": "equilibrium mobile",
+  "explanation": "Fransız matematikçilerin, parçaları hareket hâlindeyken bütünün kararlı kaldığı durum için kullandıkları terim; Spencer'ın 'hareketli denge' kavramının kaynağı.",
+  "slug": "equilibrium-mobile-equilibrium-mobile"
+ },
+ {
+  "key": "Equivalence of Forces",
+  "tr": "kuvvetlerin eşdeğerliği",
+  "explanation": "Bir kuvvet biçiminin başka bir biçime dönüşürken miktarca eşit kaldığı ilkesi.",
+  "slug": "kuvvetlerin-esdegerligi-equivalence-of-forces"
+ },
+ {
+  "key": "Equivalent",
+  "tr": "eşdeğer",
+  "explanation": "19. yüzyıl kimyasında bir elementin başka bir elementle birleşirken kullanılan sabit ağırlık miktarı (eşdeğer ağırlık); atom varsayımından kaçınmak için kullanılan terim.",
+  "slug": "esdeger-equivalent"
+ },
+ {
+  "key": "Ether",
+  "tr": "esir",
+  "explanation": "19. yüzyıl fiziğinde ışığın içinde yayıldığı varsayılan, uzayı dolduran görünmez ortam (eter).",
+  "slug": "esir-ether"
+ },
+ {
+  "key": "Ethics",
+  "tr": "etik",
+  "explanation": "Ahlak felsefesi; Spencer'ın Sentetik Felsefe dizisinin son bölümünü oluşturan Etiğin İlkeleri bu alana aittir.",
+  "slug": "etik-ethics"
+ },
+ {
+  "key": "Ethnology",
+  "tr": "etnoloji",
+  "explanation": "İnsan ırklarını ve halklarını, kökenlerini ve ayrımlarını inceleyen bilim (budun bilimi).",
+  "slug": "etnoloji-ethnology"
+ },
+ {
+  "key": "evaporation",
+  "tr": "buharlaşma",
+  "explanation": "Sıvı yüzeyindeki parçacıkların gaz hâline geçip ortamdan ayrılması; Spencer'a göre en küçük direnç yönünde bir hareket.",
+  "slug": "buharlasma-evaporation"
+ },
+ {
+  "key": "Evolution",
+  "tr": "evrim",
+  "explanation": "Spencer'ın merkezî kavramı: maddenin bütünleşmesi ve buna eşlik eden hareketin dağılması; bu sırada madde belirsiz, tutarsız bir homojenlikten belirli, tutarlı bir heterojenliğe geçer. Darwin'in biyolojik evriminden daha geniş, evrensel bir süreçtir.",
+  "slug": "evrim-evolution"
+ },
+ {
+  "key": "expediency",
+  "tr": "yararlılık",
+  "explanation": "Eylemlerin sonuçlarına göre uygun ve yararlı sayılması; Spencer'a göre uygar ulusların ahlak kuralları bu tür deneysel genellemelerdir.",
+  "slug": "yararlilik-expediency"
+ },
+ {
+  "key": "experimental method",
+  "tr": "deneysel yöntem",
+  "explanation": "Bilimsel bilgiyi denetimli deney ve gözlemle elde etme yöntemi; Tait'e göre fiziksel bilginin tek kaynağı.",
+  "slug": "deneysel-yontem-experimental-method"
+ },
+ {
+  "key": "Extension",
+  "tr": "yer kaplama",
+  "explanation": "Uzayda yer tutma özelliği; Spencer'a göre uzayın tek düşünülebilir niteliğidir, ama bu nitelik uzayın kendisiyle özdeş olduğundan açıklama sağlamaz.",
+  "variants": [
+   "uzam"
+  ],
+  "slug": "yer-kaplama-extension"
+ },
+ {
+  "key": "extensive",
+  "tr": "uzamsal",
+  "explanation": "Hamilton'ın nicelik ayrımında uzayda yer kaplamaya ilişkin nicelik; süremsel ve yoğunluksal nicelikle birlikte üç nicelik türünden biri.",
+  "slug": "uzamsal-extensive"
+ },
+ {
+  "key": "extrinsic force",
+  "tr": "dışsal kuvvet",
+  "explanation": "Spencer'ın, maddenin başka maddelerle ilişkilerine bağlı olan, değişim üreten etkin kuvvete (enerjiye) verdiği ad.",
+  "slug": "dissal-kuvvet-extrinsic-force"
+ },
+ {
+  "key": "eye-spot",
+  "tr": "göz lekesi",
+  "explanation": "Bazı tek hücreli ve basit canlılarda bulunan, ışığa duyarlı kırmızı pigment beneği; gözün en ilkel öncüsü.",
+  "slug": "goz-lekesi-eye-spot"
+ },
+ {
+  "key": "faculty",
+  "tr": "yeti",
+  "explanation": "Zihnin ya da organizmanın belirli bir işi yapabilme gücü (ör. algı, bellek, dinsel duygu); 19. yüzyıl psikolojisinde zihinsel yeteneklerin temel birimi.",
+  "slug": "yeti-faculty"
+ },
+ {
+  "key": "faint manifestations",
+  "tr": "sönük tezahürler",
+  "explanation": "Spencer'ın 'ide' yerine kullandığı tarafsız terim: bellek, imgelem ve düşünüm koşulları altında ortaya çıkan, daha az belirgin, kolayca yeniden düzenlenebilen ve koşulları her zaman kendi aralarında bulunan tezahürler; özne ve ben bunlardan oluşur.",
+  "slug": "sonuk-tezahurler-faint-manifestations"
+ },
+ {
+  "key": "fault",
+  "tr": "fay",
+  "explanation": "Yer kabuğunda katmanların kırılıp birbirine göre kaydığı kırık hattı.",
+  "slug": "fay-fault"
+ },
+ {
+  "key": "Fauna",
+  "tr": "Fauna",
+  "explanation": "Bir bölgenin ya da dönemin hayvan topluluğunun bütünü.",
+  "slug": "fauna-fauna"
+ },
+ {
+  "key": "feldspar",
+  "tr": "feldispat",
+  "explanation": "Granitin başlıca bileşenlerinden olan ve ayrışarak kil oluşturan silikat minerali.",
+  "slug": "feldispat-feldspar"
+ },
+ {
+  "key": "final cause",
+  "tr": "ereksel neden",
+  "explanation": "Aristoteles'ten gelen terim: bir şeyin kendisi için var olduğu amaç.",
+  "slug": "ereksel-neden-final-cause"
+ },
+ {
+  "key": "finite",
+  "tr": "sonlu",
+  "explanation": "Sınırı olan, ölçülebilir; sonsuzun karşıtı. Spencer İlk Neden'in sonlu düşünülemeyeceğini göstermek için kullanır.",
+  "slug": "sonlu-finite"
+ },
+ {
+  "key": "First Cause",
+  "tr": "İlk Neden",
+  "explanation": "Her şeyin kaynağı olan, kendisi nedensiz neden; Spencer'a göre tasavvur edilemez ama varlığı zorunlu olarak kabul edilen kavram.",
+  "slug": "ilk-neden-first-cause"
+ },
+ {
+  "key": "first law of motion",
+  "tr": "hareketin birinci yasası",
+  "explanation": "Newton'un eylemsizlik yasası: bir cisim, dış kuvvet etki etmedikçe durgunluk ya da düzgün doğrusal hareket durumunu sürdürür.",
+  "slug": "hareketin-birinci-yasasi-first-law-of-motion"
+ },
+ {
+  "key": "flocculi",
+  "tr": "yumakçık",
+  "explanation": "Bulutsu maddesinin teleskopla güçlükle seçilen, seyreltik yumak biçimindeki toplulukları.",
+  "slug": "yumakcik-flocculi"
+ },
+ {
+  "key": "Flora",
+  "tr": "Flora",
+  "explanation": "Bir bölgenin ya da dönemin bitki topluluğunun bütünü.",
+  "slug": "flora-flora"
+ },
+ {
+  "key": "Flora and Fauna",
+  "tr": "Flora ve Fauna",
+  "explanation": "Belirli bir bölgenin ya da dönemin bitki örtüsü (flora) ve hayvan varlığı (fauna).",
+  "slug": "flora-ve-fauna-flora-and-fauna"
+ },
+ {
+  "key": "fluid equilibrium",
+  "tr": "akışkan dengesi",
+  "explanation": "Durgun bir akışkanda basıncın her yöne eşit dağılması ve kuvvetlerin dengelenmesi (hidrostatik denge); solunumda havanın göğüs boşluğuna akışını açıklayan ilke.",
+  "slug": "akiskan-dengesi-fluid-equilibrium"
+ },
+ {
+  "key": "focus",
+  "tr": "odak",
+  "explanation": "Elipsin iki özel noktasından biri; Kepler yasalarına göre çeken cisim yörünge elipsinin bir odağında bulunur.",
+  "slug": "odak-focus"
+ },
+ {
+  "key": "Force",
+  "tr": "kuvvet",
+  "explanation": "Spencer'da hem maddenin yer kaplamasını hem de her türlü değişimi üreten nihai etken; doğrudan bilinemeyen ama her görüngünün temelinde duran şey.",
+  "slug": "kuvvet-force"
+ },
+ {
+  "key": "forms of intuition",
+  "tr": "sezginin biçimleri",
+  "explanation": "Kant'ın öğretisi: uzay ve zaman, duyu verilerinin zihin tarafından düzenlenmesini sağlayan, deneyimden önce gelen a priori sezgi biçimleridir.",
+  "slug": "sezginin-bicimleri-forms-of-intuition"
+ },
+ {
+  "key": "forms of thought",
+  "tr": "düşünce biçimleri",
+  "explanation": "Her düşünmenin içinde gerçekleştiği evrensel kalıplar; Spencer'a göre tek birincil biçim ilişkidir, uzay ve zaman ise ondan türetilmiş biçimlerdir.",
+  "slug": "dusunce-bicimleri-forms-of-thought"
+ },
+ {
+  "key": "free-will",
+  "tr": "özgür irade",
+  "explanation": "Bir varlığın eylemlerini dış zorunluluk olmaksızın kendi seçimiyle belirleme gücü; Mansel'e göre Mutlak'ın neden olabilmesinin koşulu.",
+  "slug": "ozgur-irade-free-will"
+ },
+ {
+  "key": "friction",
+  "tr": "sürtünme",
+  "explanation": "Birbirine temas eden yüzeylerin bağıl hareketine karşı koyan direnç; görünür hareketin moleküler harekete (ısıya) dönüşmesinin başlıca yollarından biri.",
+  "slug": "surtunme-friction"
+ },
+ {
+  "key": "frieze",
+  "tr": "friz",
+  "explanation": "Yunan tapınaklarında sütun başlıklarının üstünde uzanan, kabartmalarla süslü yatay şerit.",
+  "slug": "friz-frieze"
+ },
+ {
+  "key": "frontal sinus",
+  "tr": "alın sinüsü",
+  "explanation": "Alın kemiği içindeki hava boşluğu; bebeklerde bulunmaz, erişkinlikte gelişir.",
+  "slug": "alin-sinusu-frontal-sinus"
+ },
+ {
+  "key": "fugue",
+  "tr": "füg",
+  "explanation": "Bir temanın farklı seslerde birbirini izleyerek taklit edildiği çok sesli müzik biçimi.",
+  "slug": "fug-fugue"
+ },
+ {
+  "key": "Function",
+  "tr": "işlev",
+  "explanation": "Bir yapının yerine getirdiği etkinlik; Spencer'da yapı ile işlev birlikte farklılaşır.",
+  "slug": "islev-function"
+ },
+ {
+  "key": "galactic circle",
+  "tr": "galaktik daire",
+  "explanation": "Samanyolu'nun gök küresi üzerindeki düzlemini izleyen büyük daire; bulutsular bu dairenin kutupları çevresinde yoğunlaşır.",
+  "slug": "galaktik-daire-galactic-circle"
+ },
+ {
+  "key": "galvanic battery",
+  "tr": "galvanik pil",
+  "explanation": "Kimyasal tepkimeyle elektrik akımı üreten pil; Volta ve Galvani'nin adlarıyla anılır.",
+  "slug": "galvanik-pil-galvanic-battery"
+ },
+ {
+  "key": "galvanic current",
+  "tr": "galvanik akım",
+  "explanation": "19. yüzyılda pil (Volta pili) kaynaklı doğru akım için kullanılan ad; Galvani'nin deneylerinden türetilmiştir.",
+  "slug": "galvanik-akim-galvanic-current"
+ },
+ {
+  "key": "ganglia",
+  "tr": "gangliyonlar",
+  "explanation": "Sinir hücrelerinin oluşturduğu düğümler; burada beynin altındaki daha aşağı sinir merkezleri.",
+  "slug": "gangliyonlar-ganglia"
+ },
+ {
+  "key": "ganglion",
+  "tr": "gangliyon",
+  "explanation": "Sinir hücrelerinin toplandığı düğüm; sinirsel uyarıların aktarılıp güçlendirildiği merkez.",
+  "slug": "gangliyon-ganglion"
+ },
+ {
+  "key": "gastrula",
+  "tr": "gastrula",
+  "explanation": "Blastulanın bir yanının içe çökmesiyle oluşan, iki hücre tabakalı embriyo evresi.",
+  "slug": "gastrula-gastrula"
+ },
+ {
+  "key": "gemma",
+  "tr": "gemma",
+  "explanation": "Bazı bitkilerde (ör. ciğer otu Marchantia) eşeysiz üremeye yarayan, ana bitkiden ayrılarak yeni bitki veren küçük tomurcuk.",
+  "slug": "gemma-gemma"
+ },
+ {
+  "key": "General Philosophy",
+  "tr": "Genel Felsefe",
+  "explanation": "Spencer'ın ayrımında evrensel doğruların kendilerini inceleme konusu yapan Felsefe; tikel doğrular yalnızca kanıt ve örnek olarak kullanılır. İlk İlkeler'in konusu budur.",
+  "slug": "genel-felsefe-general-philosophy"
+ },
+ {
+  "key": "generalization",
+  "tr": "genelleme",
+  "explanation": "Pek çok tekil olgudan ortak bir yasa ya da ilke çıkarma; Spencer'a göre bilimsel ilerlemenin özü.",
+  "slug": "genelleme-generalization"
+ },
+ {
+  "key": "Genus",
+  "tr": "cins",
+  "explanation": "Biyolojik sınıflandırmada birbirine yakın türleri içeren birim (çoğulu: genera).",
+  "slug": "cins-genus"
+ },
+ {
+  "key": "geodesy",
+  "tr": "jeodezi",
+  "explanation": "Yerin biçimini ve boyutlarını ölçen bilim dalı; standart uzunluk ölçüsünden türetilen ölçümlerin bir alanı.",
+  "slug": "jeodezi-geodesy"
+ },
+ {
+  "key": "Geology",
+  "tr": "jeoloji",
+  "explanation": "Dünya'nın yapısını, katmanlarını ve tarihini inceleyen bilim (yer bilimi).",
+  "slug": "jeoloji-geology"
+ },
+ {
+  "key": "Germ",
+  "tr": "tohum",
+  "explanation": "19. yüzyıl biyolojisinde canlının geliştiği ilk, mikroskobik başlangıç hücresi ya da embriyo taslağı; insanın rahim içi yaşam öyküsünün başlangıç noktası.",
+  "slug": "tohum-germ"
+ },
+ {
+  "key": "germ-cell",
+  "tr": "tohum hücresi",
+  "explanation": "Bir organizmanın bütün hücrelerinin kendisinden türediği başlangıç hücresi; döllenmiş yumurta.",
+  "slug": "tohum-hucresi-germ-cell"
+ },
+ {
+  "key": "germ-layer",
+  "tr": "tohum tabakası",
+  "explanation": "Embriyonun erken evresinde oluşan ve her biri belirli organ sistemlerini veren hücre tabakalarından (ektoderm, endoderm, mezoderm) her biri.",
+  "slug": "tohum-tabakasi-germ-layer"
+ },
+ {
+  "key": "Ghost-theory",
+  "tr": "Hayalet kuramı",
+  "explanation": "Spencer'ın, dinin kökenine ilişkin görüşü: ilkel insanın olağandışı her olayın ardında ölülerin hayaletleri gibi insani bir kişilik varsayması.",
+  "slug": "hayalet-kurami-ghost-theory"
+ },
+ {
+  "key": "globular cluster",
+  "tr": "küresel küme",
+  "explanation": "Binlerce yıldızın kütle çekimiyle sıkıca bir araya toplandığı küre biçimli yıldız kümesi.",
+  "slug": "kuresel-kume-globular-cluster"
+ },
+ {
+  "key": "Gravitation",
+  "tr": "kütle çekimi",
+  "explanation": "Kütlelerin birbirini çekmesi; Spencer'da evrensel dengelenmenin ve bütünleşmenin başlıca etkeni.",
+  "slug": "kutle-cekimi-gravitation"
+ },
+ {
+  "key": "gregarious",
+  "tr": "sürü hâlinde yaşama",
+  "explanation": "Hayvanların topluluklar hâlinde yaşama eğilimi.",
+  "slug": "suru-halinde-yasama-gregarious"
+ },
+ {
+  "key": "gyroscope",
+  "tr": "jiroskop",
+  "explanation": "Hızla dönen bir diskin dönme düzlemini korumaya çalıştığını gösteren aygıt; eksenel momentumun yön değişimine direncini sergiler.",
+  "slug": "jiroskop-gyroscope"
+ },
+ {
+  "key": "habitat",
+  "tr": "yaşam alanı",
+  "explanation": "Bir canlı türünün doğal olarak yaşadığı ortam.",
+  "slug": "yasam-alani-habitat"
+ },
+ {
+  "key": "harmony",
+  "tr": "armoni",
+  "explanation": "Birden çok sesin aynı anda tınlayarak uyumlu birleşmesi; çok sesli müziğin temeli.",
+  "slug": "armoni-harmony"
+ },
+ {
+  "key": "Heat",
+  "tr": "ısı",
+  "explanation": "Spencer'ın kuvvet kiplerinden biri; dönemin fiziğinde moleküllerin titreşim ve salınım hareketi olarak yorumlanır.",
+  "slug": "isi-heat"
+ },
+ {
+  "key": "heliocentric theory",
+  "tr": "güneş merkezli kuram",
+  "explanation": "Kopernik'in, Dünya'nın değil Güneş'in gezegen sisteminin merkezinde olduğunu savunan astronomi kuramı.",
+  "slug": "gunes-merkezli-kuram-heliocentric-theory"
+ },
+ {
+  "key": "hematine",
+  "tr": "hematin",
+  "explanation": "Kanın kırmızı rengini veren demirli pigment (hematin); 19. yüzyıl fizyolojisinde kan oluşumunun belirtisi sayılırdı.",
+  "slug": "hematin-hematine"
+ },
+ {
+  "key": "Heptarchy",
+  "tr": "Heptarşi",
+  "explanation": "Erken Orta Çağ'da İngiltere'nin bölündüğü yedi Anglosakson krallığına verilen ad; Leslie bunu Avrupa'nın yedi büyük devlete pekişmesine benzetir.",
+  "slug": "heptarsi-heptarchy"
+ },
+ {
+  "key": "heredity",
+  "tr": "kalıtım",
+  "explanation": "Özelliklerin ana babadan yavruya aktarılması; Spencer'a göre organik evrimde tek nedenin etkilerini izlemeyi güçleştiren etken.",
+  "slug": "kalitim-heredity"
+ },
+ {
+  "key": "heterogeneous",
+  "tr": "heterojen",
+  "explanation": "Çok türlü; parçaları birbirinden farklı olan. Spencer'da evrimin ilerlediği durum.",
+  "slug": "heterojen-heterogeneous"
+ },
+ {
+  "key": "hieratic",
+  "tr": "hiyeratik",
+  "explanation": "Hiyerogliflerin rahiplerce kullanılan, el yazısına uyarlanmış basitleştirilmiş biçimi.",
+  "slug": "hiyeratik-hieratic"
+ },
+ {
+  "key": "hieroglyphics",
+  "tr": "hiyeroglifler",
+  "explanation": "Eski Mısır'ın resimlerden türemiş simgesel yazı sistemi.",
+  "slug": "hiyeroglifler-hieroglyphics"
+ },
+ {
+  "key": "homogeneous",
+  "tr": "homojen",
+  "explanation": "Türdeş; bütün parçaları birbirine benzeyen. Spencer'da evrimin başlangıç durumu.",
+  "slug": "homojen-homogeneous"
+ },
+ {
+  "key": "homologous",
+  "tr": "homolog",
+  "explanation": "Farklı canlılarda köken ve yapı bakımından karşılıklı olan, aynı temel plandan türeyen.",
+  "slug": "homolog-homologous"
+ },
+ {
+  "key": "homology",
+  "tr": "homoloji",
+  "explanation": "Farklı türlerdeki organların ortak kökene dayanan yapısal karşılıklılığı (ör. insan kolu ile kuş kanadı).",
+  "slug": "homoloji-homology"
+ },
+ {
+  "key": "hydrated salt",
+  "tr": "hidratlı tuz",
+  "explanation": "Yapısında su molekülleri bulunan tuz; düşük sıcaklıkta suyunu yitirerek kısmen ayrışır.",
+  "slug": "hidratli-tuz-hydrated-salt"
+ },
+ {
+  "key": "hydroid polyp",
+  "tr": "hidroid polip",
+  "explanation": "Hidra gibi basit, torba biçimli, tek açıklıklı sucul hayvan; en basit çok hücreli hayvan tiplerinden biri.",
+  "slug": "hidroid-polip-hydroid-polyp"
+ },
+ {
+  "key": "hyperbola",
+  "tr": "hiperbol",
+  "explanation": "Açık konik kesit; bir çekim merkezine yeterince hızlı yaklaşan cismin geri dönüşsüz yörüngesi.",
+  "slug": "hiperbol-hyperbola"
+ },
+ {
+  "key": "hypoblast",
+  "tr": "hipoblast",
+  "explanation": "Erken embriyonun iç hücre tabakası; sindirim kanalı gibi iç yapıların kaynağı sayılan tabaka.",
+  "slug": "hipoblast-hypoblast"
+ },
+ {
+  "key": "Hypothesis",
+  "tr": "hipotez",
+  "explanation": "Olguları açıklamak için öne sürülen, henüz doğrulanmamış varsayım.",
+  "slug": "hipotez-hypothesis"
+ },
+ {
+  "key": "Idea",
+  "tr": "ide",
+  "explanation": "Hume'un terimi: izlenimin bellek ya da imgelemdeki sönük kopyası; Spencer bunun yerine 'sönük tezahür' der.",
+  "variants": [
+   "idea",
+   "İdea"
+  ],
+  "slug": "ide-idea"
+ },
+ {
+  "key": "Idealism",
+  "tr": "idealizm",
+  "explanation": "Gerçekliğin temelde zihinsel ya da düşünsel olduğunu savunan görüş.",
+  "slug": "idealizm-idealism"
+ },
+ {
+  "key": "Ideation",
+  "tr": "tasarımlama",
+  "explanation": "Zihinde ideler oluşturma süreci; algıdan bağımsız olarak düşünce içeriklerinin üretilmesi.",
+  "slug": "tasarimlama-ideation"
+ },
+ {
+  "key": "ideographic",
+  "tr": "ideografik",
+  "explanation": "Sesleri değil doğrudan fikirleri ya da nesneleri gösteren yazı işaretlerine ilişkin.",
+  "slug": "ideografik-ideographic"
+ },
+ {
+  "key": "igneous",
+  "tr": "ateş kökenli",
+  "explanation": "Yer'in iç ısısından kaynaklanan jeolojik süreçler ve kayaçlar (volkanik, magmatik).",
+  "variants": [
+   "magmatik",
+   "volkanik",
+   "mağmatik"
+  ],
+  "slug": "ates-kokenli-igneous"
+ },
+ {
+  "key": "igneous action",
+  "tr": "volkanik etkinlik",
+  "explanation": "Yer içindeki ısı ve magmanın yol açtığı yanardağ ve deprem gibi etkinlikler.",
+  "slug": "volkanik-etkinlik-igneous-action"
+ },
+ {
+  "key": "igneous rock",
+  "tr": "magmatik kaya",
+  "explanation": "Erimiş maddenin (magmanın) soğuyup katılaşmasıyla oluşan kaya türü; tortul kayanın karşıtı.",
+  "slug": "magmatik-kaya-igneous-rock"
+ },
+ {
+  "key": "Imagination",
+  "tr": "imgelem",
+  "explanation": "Zihnin, duyulara şimdi verilmeyen şeyleri canlandırma ya da yeni biçimlerde birleştirme yetisi (hayal gücü).",
+  "slug": "imgelem-imagination"
+ },
+ {
+  "key": "imago",
+  "tr": "ergin",
+  "explanation": "Böceğin başkalaşımını tamamlamış, üreme yeteneğine sahip son evresi.",
+  "slug": "ergin-imago"
+ },
+ {
+  "key": "immanence",
+  "tr": "içkinlik",
+  "explanation": "Tanrısal gücün evrenin dışında değil, içinde ve her yerinde mevcut olması; aşkınlığın (transcendence) karşıtı.",
+  "slug": "ickinlik-immanence"
+ },
+ {
+  "key": "imperceptible",
+  "tr": "algılanamaz",
+  "explanation": "Duyularla kavranamayacak kadar yayılmış ya da seyrelmiş olan durum; Spencer'a göre her duyulur varoluş bu durumdan doğar ve yeniden ona döner.",
+  "slug": "algilanamaz-imperceptible"
+ },
+ {
+  "key": "imponderable",
+  "tr": "tartılamaz",
+  "explanation": "Ağırlığı olmayan, teraziyle ölçülemeyen; dönemin fiziğinde esir, ısı ve ışık gibi 'tartılamaz akışkanlar' için kullanılan sıfat.",
+  "slug": "tartilamaz-imponderable"
+ },
+ {
+  "key": "imponderables",
+  "tr": "ağırlıksız maddeler",
+  "explanation": "19. yüzyıl başı fiziğinde ısı, ışık, manyetizma ve elektriğin kütlesi olmayan ayrı akışkanlar ya da tözler olduğu varsayımı; daha sonra bunların tek bir kuvvetin biçimleri olduğu görüşüne bırakılmıştır.",
+  "slug": "agirliksiz-maddeler-imponderables"
+ },
+ {
+  "key": "Impression",
+  "tr": "izlenim",
+  "explanation": "Hume'un terimi: duyu yoluyla bilince gelen canlı algı; Spencer bu terimin psikolojik imalarından kaçınmak için 'canlı tezahür' demeyi yeğler.",
+  "slug": "izlenim-impression"
+ },
+ {
+  "key": "incandescence",
+  "tr": "akkorluk",
+  "explanation": "Bir cismin yüksek sıcaklıkta ışık saçacak kadar kızması; Yer'in başlangıçtaki erimiş, ışıyan durumu.",
+  "slug": "akkorluk-incandescence"
+ },
+ {
+  "key": "incident force",
+  "tr": "etkiyen kuvvet",
+  "explanation": "Bir kümeye dışarıdan gelip etki eden kuvvet; kümenin içerdiği harekete bağlı olarak ya yalnızca soğurulur ya da parçaların yeniden düzenlenmesine yol açar.",
+  "slug": "etkiyen-kuvvet-incident-force"
+ },
+ {
+  "key": "incompressibility of Matter",
+  "tr": "Madde'nin sıkıştırılamazlığı",
+  "explanation": "Bir madde parçasının ne denli küçültülürse küçültülsün hiçliğe indirgenemeyeceği; Spencer bunu kabul edilmiş bir düşünce yasası sayar.",
+  "slug": "madde-nin-sikistirilamazligi-incompressibility-of-matter"
+ },
+ {
+  "key": "inconceivable",
+  "tr": "tasavvur edilemez",
+  "explanation": "Zihinde kurulamayan, düşünce nesnesi olarak biçimlendirilemeyen; Spencer'ın temel inanç ölçütü olan 'karşıtının tasavvur edilemezliği' ile ilgili.",
+  "slug": "tasavvur-edilemez-inconceivable"
+ },
+ {
+  "key": "incubation",
+  "tr": "kuluçka",
+  "explanation": "Yumurtanın ısıyla geliştirilip civciv çıkarılması süreci.",
+  "slug": "kulucka-incubation"
+ },
+ {
+  "key": "independent moving equilibrium",
+  "tr": "bağımsız hareketli denge",
+  "explanation": "Dışarıdan enerji almaksızın, yalnızca ihmal edilebilir bir dirençle karşılaşarak kendi hareketlerini süresiz dengede tutan kümelenmenin durumu; Spencer'ın dördüncü düzen ya da kusursuz hareketli denge dediği, Güneş Sistemi'nde görülen denge.",
+  "slug": "bagimsiz-hareketli-denge-independent-moving-equilibrium"
+ },
+ {
+  "key": "Indestructibility of Matter",
+  "tr": "Maddenin Yok Edilemezliği",
+  "explanation": "Maddenin yaratılamaz ve yok edilemez olduğu, yalnızca dağılıp yeniden toplanabildiği ilkesi (kütlenin korunumu).",
+  "slug": "maddenin-yok-edilemezligi-indestructibility-of-matter"
+ },
+ {
+  "key": "Induction",
+  "tr": "tümevarım",
+  "explanation": "Tek tek gözlemlerden genel ilkelere varma yöntemi.",
+  "slug": "tumevarim-induction"
+ },
+ {
+  "key": "industrial",
+  "tr": "endüstriyel",
+  "explanation": "Spencer'ın toplum tipolojisinde gönüllü iş birliğine, üretim ve ticarete dayalı toplumsal yaşam biçimi; savaşçı (militant) yaşamın karşıtı.",
+  "slug": "endustriyel-industrial"
+ },
+ {
+  "key": "industrial organization",
+  "tr": "sanayi örgütlenmesi",
+  "explanation": "Spencer'da bir toplumun üretim ve geçim işlerini yürüten yapılar bütünü; yönetsel (düzenleyici) örgütlenmenin karşıtı.",
+  "slug": "sanayi-orgutlenmesi-industrial-organization"
+ },
+ {
+  "key": "industrial type",
+  "tr": "endüstriyel tip",
+  "explanation": "Spencer'ın sosyolojisinde gönüllü iş birliğine, sözleşmeye ve üretime göre örgütlenmiş toplum tipi; askerî tipin karşıtı.",
+  "slug": "endustriyel-tip-industrial-type"
+ },
+ {
+  "key": "Inertia",
+  "tr": "eylemsizlik",
+  "explanation": "Maddenin hareket durumunu kendiliğinden değiştirememesi; kuvvetin bir tezahürü.",
+  "slug": "eylemsizlik-inertia"
+ },
+ {
+  "key": "Inference",
+  "tr": "çıkarım",
+  "explanation": "Doğrudan gözlemlenemeyen olguların, bilinen olgulardan akıl yürütmeyle türetilmesi; Spencer'a göre nesnelerin uzak geçmiş ve geleceğine ilişkin bilgi büyük ölçüde çıkarıma dayanır.",
+  "slug": "cikarim-inference"
+ },
+ {
+  "key": "Infinite",
+  "tr": "Sonsuz",
+  "explanation": "Sınırı olmayan; Spencer'a göre olumlu bir kavram olarak düşünülemeyen, yalnızca olumsuz biçimde anlaşılan nitelik.",
+  "slug": "sonsuz-infinite"
+ },
+ {
+  "key": "infinitesimal",
+  "tr": "sonsuz küçük",
+  "explanation": "Sıfıra sınırsızca yaklaşan ama sıfır olmayan nicelik; matematikten alınmış terim.",
+  "slug": "sonsuz-kucuk-infinitesimal"
+ },
+ {
+  "key": "infinitesimal calculus",
+  "tr": "sonsuz küçükler hesabı",
+  "explanation": "Sonsuz küçük değişimlere dayanan matematik dalı; bugünkü adıyla diferansiyel ve integral hesap (kalkülüs).",
+  "slug": "sonsuz-kucukler-hesabi-infinitesimal-calculus"
+ },
+ {
+  "key": "inflexion",
+  "tr": "çekim eki",
+  "explanation": "Sözcüğün dilbilgisel ilişkisini (çoğul, zaman, kip vb.) göstermek için aldığı ek ya da biçim değişikliği.",
+  "slug": "cekim-eki-inflexion"
+ },
+ {
+  "key": "inorganic",
+  "tr": "inorganik",
+  "explanation": "Cansız; yıldızlar, gezegenler, mineraller gibi canlı olmayan doğaya ait.",
+  "slug": "inorganik-inorganic"
+ },
+ {
+  "key": "insensible motion",
+  "tr": "duyulmaz hareket",
+  "explanation": "Doğrudan algılanamayan, moleküller ve parçacıklar arasındaki titreşim ve yer değiştirmelerden oluşan hareket (ısı, ışık, sinirsel boşalım gibi).",
+  "slug": "duyulmaz-hareket-insensible-motion"
+ },
+ {
+  "key": "Instability of the Homogeneous",
+  "tr": "Homojen Olanın Kararsızlığı",
+  "explanation": "Türdeş (homojen) bir kütlenin, parçaları farklı dış etkilere maruz kaldığı için kaçınılmaz olarak farklılaşmaya başladığı ilkesi.",
+  "slug": "homojen-olanin-kararsizligi-instability-of-the-homogeneous"
+ },
+ {
+  "key": "intaglio",
+  "tr": "oyma baskı",
+  "explanation": "Figürün yüzeyin içine oyulduğu, kabartmanın tersi olan işleme tekniği.",
+  "slug": "oyma-baski-intaglio"
+ },
+ {
+  "key": "Integration",
+  "tr": "bütünleşme",
+  "explanation": "Dağınık maddenin bir araya toplanması, birimlerin birbirine bağlanıp daha yoğun ve tutarlı bir bütün oluşturması.",
+  "slug": "butunlesme-integration"
+ },
+ {
+  "key": "Intelligence",
+  "tr": "zekâ",
+  "explanation": "İç ilişkilerin, sayıca çok, karmaşık ve zaman ya da uzayca uzak dış ilişkilere uyarlanmasıyla ortaya çıkan düzenli bilinç; Spencer'a göre yaşamın yüksek bir biçimi.",
+  "slug": "zeka-intelligence"
+ },
+ {
+  "key": "intensive",
+  "tr": "yoğunluksal",
+  "explanation": "Derece ya da şiddete ilişkin nicelik (ör. bir duyumun kuvveti); uzamsal ve süremsel nicelikten ayrılır.",
+  "slug": "yogunluksal-intensive"
+ },
+ {
+  "key": "interference of light",
+  "tr": "ışığın girişimi",
+  "explanation": "Işık dalgalarının üst üste binerek birbirini güçlendirmesi ya da söndürmesi; ışığın dalga doğasının kanıtı sayılır.",
+  "slug": "isigin-girisimi-interference-of-light"
+ },
+ {
+  "key": "intrinsic force",
+  "tr": "içsel kuvvet",
+  "explanation": "Spencer'ın, maddenin uzayda yer kaplamasını ve direnç göstermesini sağlayan, edilgin fakat bağımsız kuvvete verdiği ad.",
+  "slug": "icsel-kuvvet-intrinsic-force"
+ },
+ {
+  "key": "introspection",
+  "tr": "içebakış",
+  "explanation": "Zihnin kendi işleyişini gözlemlemesi; Spencer'a göre maddeyi düşüncede yok etmeye çalışınca ne olduğunu ancak içebakış açığa çıkarır.",
+  "slug": "icebakis-introspection"
+ },
+ {
+  "key": "Intuition",
+  "tr": "sezgi",
+  "explanation": "Akıl yürütmeyle türetilmeyen, düşünmenin kendisine dayandığı dolaysız temel biliş; Spencer bu temel sezgileri geçici olarak sorgulanamaz kabul eder.",
+  "slug": "sezgi-intuition"
+ },
+ {
+  "key": "Invertebrata",
+  "tr": "Omurgasızlar",
+  "explanation": "Omurgası bulunmayan hayvanların tümü; 19. yüzyıl sınıflandırmasının geniş bölümü.",
+  "slug": "omurgasizlar-invertebrata"
+ },
+ {
+  "key": "Involution",
+  "tr": "içe katlanma",
+  "explanation": "'Evolution' (açılma, dışa doğru gelişme) sözcüğünün karşıtı olan sözcük; Spencer, maddenin yoğunlaşıp büzülmesini anlattığı için kendi evrim kavramını bu sözcüğün daha doğru karşılayacağını, ancak yerleşik kullanım nedeniyle 'Evrim'i korumak zorunda kaldığını belirtir.",
+  "slug": "ice-katlanma-involution"
+ },
+ {
+  "key": "isochronism",
+  "tr": "eşsürelilik",
+  "explanation": "Sarkaç salınımlarının, genlikten bağımsız olarak eşit sürede tamamlanması özelliği; Galileo'nun keşfi.",
+  "slug": "essurelilik-isochronism"
+ },
+ {
+  "key": "isomeric",
+  "tr": "izomer",
+  "explanation": "Aynı kimyasal bileşime sahip olup atomlarının düzenlenişi ve özellikleri farklı olan (ör. nişasta, şeker, zamk).",
+  "slug": "izomer-isomeric"
+ },
+ {
+  "key": "isomorphous",
+  "tr": "izomorf",
+  "explanation": "Kimyasal bileşimleri farklı olduğu hâlde aynı kristal biçimini alan ve birlikte kristalleşen tuzlar için kullanılan terim (eşbiçimli).",
+  "slug": "izomorf-isomorphous"
+ },
+ {
+  "key": "isothermal lines",
+  "tr": "izoterm çizgileri",
+  "explanation": "Harita üzerinde aynı ortalama sıcaklığa sahip yerleri birleştiren çizgiler.",
+  "slug": "izoterm-cizgileri-isothermal-lines"
+ },
+ {
+  "key": "Joint Stock Company",
+  "tr": "anonim şirket",
+  "explanation": "Sermayesi hisselere bölünmüş, çok sayıda hissedarın ortak olduğu ticari şirket; 19. yüzyılda bankacılık ve demiryollarında yaygınlaşmıştır.",
+  "slug": "anonim-sirket-joint-stock-company"
+ },
+ {
+  "key": "Justice",
+  "tr": "adalet",
+  "explanation": "Spencer'ın ahlak sisteminde, insanların bir toplumun birimleri olarak bir arada yaşamasının zorunlu kıldığı karşılıklı eylem sınırlamaları.",
+  "slug": "adalet-justice"
+ },
+ {
+  "key": "kaolin",
+  "tr": "kaolin",
+  "explanation": "Porselen yapımında kullanılan beyaz, saf kil; arı kil minerali.",
+  "slug": "kaolin-kaolin"
+ },
+ {
+  "key": "kuriological",
+  "tr": "kuriolojik",
+  "explanation": "Hiyeroglif sınıflamasında bir nesneyi doğrudan resmiyle gösteren (taklitçi) işaret türü.",
+  "slug": "kuriolojik-kuriological"
+ },
+ {
+  "key": "latent activity",
+  "tr": "gizil etkinlik",
+  "explanation": "Algılanamayan fakat var olmaya devam eden etkinlik; gerilmiş ipte ya da yukarı atılan taşla Yer arasındaki gerilimde saklı olan güç (potansiyel enerji).",
+  "slug": "gizil-etkinlik-latent-activity"
+ },
+ {
+  "key": "latent energy",
+  "tr": "gizil enerji",
+  "explanation": "Besinde depolanmış, henüz harekete dönüşmemiş enerji; organizma bunu soğurarak edimsel enerjiye çevirir.",
+  "slug": "gizil-enerji-latent-energy"
+ },
+ {
+  "key": "law of composition of phenomena",
+  "tr": "görüngülerin bileşimi yasası",
+  "explanation": "Etkenlerin tek tek yasalarının yanında, bunların birlikte işleyişinden doğan karmaşık görüngülerin ortak seyrini ifade eden yasa; Spencer bunu Evrim Yasası'nda bulacaktır.",
+  "slug": "gorungulerin-bilesimi-yasasi-law-of-composition-of-phenomena"
+ },
+ {
+  "key": "law of definite proportions",
+  "tr": "sabit oranlar yasası",
+  "explanation": "Kimyada bir bileşiğin daima aynı elementleri aynı kütle oranlarında içerdiği yasası (Proust); atom kuramının başlıca kanıtlarından biri.",
+  "slug": "sabit-oranlar-yasasi-law-of-definite-proportions"
+ },
+ {
+  "key": "Law of Evolution",
+  "tr": "Evrim Yasası",
+  "explanation": "Spencer'ın formülü: evrim, maddenin bütünleşmesi ve hareketin dağılmasıdır; bu sırada madde belirsiz tutarsız homojenlikten belirli tutarlı heterojenliğe geçer ve hareket de buna koşut bir dönüşüm geçirir.",
+  "slug": "evrim-yasasi-law-of-evolution"
+ },
+ {
+  "key": "law of thought",
+  "tr": "düşünce yasası",
+  "explanation": "Düşüncenin doğasından kaynaklanan, aşılamayan zorunluluk; örneğin ilişkili terimlerden biri bilinçte yokken düşüncenin kurulamaması.",
+  "slug": "dusunce-yasasi-law-of-thought"
+ },
+ {
+  "key": "laws of motion",
+  "tr": "hareket yasaları",
+  "explanation": "Newton'un üç hareket yasası; ilki, bir cismin dış kuvvet etkimedikçe durgunluk ya da düzgün doğrusal hareket durumunu koruduğunu söyler.",
+  "slug": "hareket-yasalari-laws-of-motion"
+ },
+ {
+  "key": "Lepidosiren",
+  "tr": "Lepidosiren",
+  "explanation": "Güney Amerika akciğerli balığı; kuraklıkta çamura gömülüp yağmur mevsimine dek uyuşuk kalır. Spencer onu Afrika ırmaklarına yerleştirir; bu, Afrika akciğerli balığı Protopterus ile karıştırılmıştır.",
+  "slug": "lepidosiren-lepidosiren"
+ },
+ {
+  "key": "Life",
+  "tr": "Yaşam",
+  "explanation": "Spencer'ın tanımıyla iç ilişkilerin dış ilişkilere sürekli uyarlanması; fiziksel yaşamı da zekâyı da kapsayan en soyut tanım.",
+  "slug": "yasam-life"
+ },
+ {
+  "key": "Light",
+  "tr": "ışık",
+  "explanation": "Kuvvet kiplerinden biri; Spencer'a göre kimyasal, elektriksel ve mekanik etkiler üretebilen ışıma.",
+  "slug": "isik-light"
+ },
+ {
+  "key": "line of apsides",
+  "tr": "apsis çizgisi",
+  "explanation": "Yörüngenin çeken cisme en yakın ve en uzak noktalarını birleştiren çizgi; zamanla gökyüzünde döner.",
+  "slug": "apsis-cizgisi-line-of-apsides"
+ },
+ {
+  "key": "line of greatest traction",
+  "tr": "en büyük çekim çizgisi",
+  "explanation": "Yalnız çekici kuvvetlerin etkin olduğu durumda bunların bileşkesinin doğrultusu; en küçük direnç çizgisinin karşılığı olan Spencer terimi.",
+  "slug": "en-buyuk-cekim-cizgisi-line-of-greatest-traction"
+ },
+ {
+  "key": "line of least resistance",
+  "tr": "en küçük direnç çizgisi",
+  "explanation": "Hareketin, kendisine en az karşı koyan yol boyunca ilerlemesi.",
+  "slug": "en-kucuk-direnc-cizgisi-line-of-least-resistance"
+ },
+ {
+  "key": "logical necessity",
+  "tr": "mantıksal zorunluluk",
+  "explanation": "Bir sonucun, açıkça ifade edilmiş öncüllerde örtük olarak içerilmesi; bu zorunluluğun bilinci ancak gelişmiş bir zihinde doğar.",
+  "slug": "mantiksal-zorunluluk-logical-necessity"
+ },
+ {
+  "key": "luminiferous ether",
+  "tr": "ışık taşıyan esir",
+  "explanation": "19. yüzyıl fiziğinde ışık dalgalarının içinde yayıldığı varsayılan, uzayı dolduran görünmez ortam.",
+  "slug": "isik-tasiyan-esir-luminiferous-ether"
+ },
+ {
+  "key": "lunation",
+  "tr": "kavuşum ayı",
+  "explanation": "Ay'ın iki yeni ay arasındaki yaklaşık 29,5 günlük dolanım dönemi; gelgit sürtünmesinin nihai etkisi Yer gününü bu uzunluğa getirmek olurdu.",
+  "slug": "kavusum-ayi-lunation"
+ },
+ {
+  "key": "magma",
+  "tr": "magma",
+  "explanation": "Burada 19. yüzyıl anlamıyla: ince öğütülmüş katı maddelerin suyla karıştırılmasıyla elde edilen hamur ya da çamur kıvamındaki karışım.",
+  "slug": "magma-magma"
+ },
+ {
+  "key": "magnetic meridian",
+  "tr": "manyetik meridyen",
+  "explanation": "Bir yerdeki pusula iğnesinin gösterdiği doğrultudan geçen düşey düzlem; bu doğrultuda asılı çelik, vurulduğunda Dünya'nın manyetik alanıyla mıknatıslanır.",
+  "slug": "manyetik-meridyen-magnetic-meridian"
+ },
+ {
+  "key": "magnetic variations",
+  "tr": "manyetik değişimler",
+  "explanation": "Yer manyetik alanının günlük, yıllık ve yaklaşık on yıllık dönemlerle değişmesi; güneş lekesi döngüsüyle ilişkilidir.",
+  "slug": "manyetik-degisimler-magnetic-variations"
+ },
+ {
+  "key": "Magnetism",
+  "tr": "manyetizma",
+  "explanation": "Mıknatısların çekme ve itme etkisi; 19. yüzyıl fiziğinde elektrikle karşılıklı dönüşebilen kuvvet kipi.",
+  "slug": "manyetizma-magnetism"
+ },
+ {
+  "key": "magneto-electric machine",
+  "tr": "manyeto-elektrik makine",
+  "explanation": "Dönen bir mıknatısla elektrik akımı üreten erken dönem dinamo.",
+  "slug": "manyeto-elektrik-makine-magneto-electric-machine"
+ },
+ {
+  "key": "malleability",
+  "tr": "dövülebilirlik",
+  "explanation": "Bir metalin kırılmadan dövülerek ince levha hâline getirilebilme özelliği; altında en yüksek derecededir.",
+  "slug": "dovulebilirlik-malleability"
+ },
+ {
+  "key": "Mammalia",
+  "tr": "memeliler",
+  "explanation": "Yavrularını sütle besleyen omurgalı hayvanlar sınıfı; dönemin doğa tarihi sınıflandırmasındaki Latince adı.",
+  "slug": "memeliler-mammalia"
+ },
+ {
+  "key": "Manichean",
+  "tr": "Maniheist",
+  "explanation": "İyilik ile kötülüğün birbirine denk iki ebedî ilke olduğunu savunan Mani dinine (Maniheizm) ilişkin; Spencer, din ile bilimin mutlak karşıtlığını ancak böyle bir ikici varsayımın tasavvur ettirebileceğini söyler.",
+  "slug": "maniheist-manichean"
+ },
+ {
+  "key": "Manifestation",
+  "tr": "tezahür",
+  "explanation": "Bilinemez olan nihai gerçekliğin bilince görünen, deneyimlenen biçimi; Spencer'ın bütün bilinç içeriklerini, hiçbir metafizik varsayım taşımadan adlandırmak için seçtiği terim.",
+  "slug": "tezahur-manifestation"
+ },
+ {
+  "key": "Marsupialia",
+  "tr": "Keseliler",
+  "explanation": "Yavrularını doğumdan sonra kesede büyüten memeliler (kanguru, opossum vb.).",
+  "slug": "keseliler-marsupialia"
+ },
+ {
+  "key": "mass-points",
+  "tr": "kütle noktaları",
+  "explanation": "Mekanikte boyutu ihmal edilip bütün kütlesi tek bir noktada toplanmış sayılan idealleştirilmiş cisimler (nokta kütleler).",
+  "slug": "kutle-noktalari-mass-points"
+ },
+ {
+  "key": "Materialism",
+  "tr": "materyalizm",
+  "explanation": "Var olan her şeyin madde ve hareketten ibaret olduğunu savunan görüş (maddecilik).",
+  "slug": "materyalizm-materialism"
+ },
+ {
+  "key": "Mathematics",
+  "tr": "matematik",
+  "explanation": "Sayı, nicelik ve uzamsal ilişkilerin bilimi; Spencer'ın bilimin en eski ve en sağlam yerleşmiş bölümleri arasında saydığı alan.",
+  "slug": "matematik-mathematics"
+ },
+ {
+  "key": "Matter",
+  "tr": "madde",
+  "explanation": "Uzayda yer kaplayan ve direnç gösteren şey; Spencer'a göre kuvvetin bir tezahürü olarak bilinir.",
+  "slug": "madde-matter"
+ },
+ {
+  "key": "mechanical powers",
+  "tr": "basit makineler",
+  "explanation": "Klasik mekaniğin temel aygıtları: kaldıraç, çıkrık (tekerlek ve dingil), makara, eğik düzlem, kama ve vida.",
+  "slug": "basit-makineler-mechanical-powers"
+ },
+ {
+  "key": "mental forces",
+  "tr": "zihinsel kuvvetler",
+  "explanation": "Duyum, heyecan ve düşünce biçiminde ortaya çıkan ve Spencer'a göre fiziksel kuvvetlerle bağlılaşım içinde olan kuvvetler.",
+  "slug": "zihinsel-kuvvetler-mental-forces"
+ },
+ {
+  "key": "metacarpal",
+  "tr": "metakarp",
+  "explanation": "El bileği ile parmaklar arasında, avuç içini oluşturan uzun kemikler; dört ayaklılarda ön ayağın karşılık gelen kemikleri.",
+  "slug": "metakarp-metacarpal"
+ },
+ {
+  "key": "metallic vein",
+  "tr": "maden damarı",
+  "explanation": "Kaya çatlaklarını dolduran maden içerikli mineral damarı.",
+  "slug": "maden-damari-metallic-vein"
+ },
+ {
+  "key": "metamorphosis",
+  "tr": "başkalaşım",
+  "explanation": "Böceklerin yumurtadan larva, pupa ve ergin evrelerine geçerek biçim değiştirmesi.",
+  "slug": "baskalasim-metamorphosis"
+ },
+ {
+  "key": "Metaphysics",
+  "tr": "metafizik",
+  "explanation": "Varlığın nihai doğasını inceleyen felsefe dalı; Spencer, numen üzerine spekülasyonları bu ada bağlar.",
+  "slug": "metafizik-metaphysics"
+ },
+ {
+  "key": "metatarsus",
+  "tr": "metatars",
+  "explanation": "Ayak bileği ile ayak parmakları arasındaki uzun kemikler; metakarpların arka ayaktaki karşılığı.",
+  "slug": "metatars-metatarsus"
+ },
+ {
+  "key": "Metazoa",
+  "tr": "Metazoa",
+  "explanation": "Çok hücreli hayvanlar; tek hücreli Protozoa'nın karşıtı.",
+  "slug": "metazoa-metazoa"
+ },
+ {
+  "key": "meteoric matter",
+  "tr": "meteor maddesi",
+  "explanation": "Uzaydan gezegenlere ve Güneş'e sürekli düşen küçük kaya ve toz parçacıkları.",
+  "slug": "meteor-maddesi-meteoric-matter"
+ },
+ {
+  "key": "method of exhaustion",
+  "tr": "tüketme yöntemi",
+  "explanation": "Antik Yunan matematiğinde bir alanı, içine çizilen çokgenlerle adım adım yaklaşarak hesaplama yöntemi.",
+  "slug": "tuketme-yontemi-method-of-exhaustion"
+ },
+ {
+  "key": "method of indivisibles",
+  "tr": "bölünmezler yöntemi",
+  "explanation": "17. yüzyılda Cavalieri'nin geliştirdiği, bir şekli sonsuz sayıda bölünmez dilimden oluşmuş sayarak alan ve hacim hesaplama yöntemi.",
+  "slug": "bolunmezler-yontemi-method-of-indivisibles"
+ },
+ {
+  "key": "method of limits",
+  "tr": "limitler yöntemi",
+  "explanation": "Bir niceliğin sonsuz yaklaşmayla ulaştığı sınır değerine dayanan yöntem; diferansiyel ve integral hesabın temel fikri.",
+  "slug": "limitler-yontemi-method-of-limits"
+ },
+ {
+  "key": "micrometer",
+  "tr": "mikrometre",
+  "explanation": "Çok küçük uzunlukları yüksek kesinlikle ölçen aygıt; Whitworth'ün vidalı mikrometresi inçin milyonda birini ölçebiliyordu.",
+  "slug": "mikrometre-micrometer"
+ },
+ {
+  "key": "militant",
+  "tr": "savaşçı",
+  "explanation": "Spencer'ın toplum tipolojisinde zorlayıcı iş birliğine ve savaşa dayalı toplumsal yaşam biçimi; karşıtı endüstriyel yaşamdır.",
+  "slug": "savasci-militant"
+ },
+ {
+  "key": "militant type",
+  "tr": "militan tip",
+  "explanation": "Spencer'ın sosyolojisinde savaş ve zorlayıcı iş birliği etrafında örgütlenmiş, merkezî ve hiyerarşik toplum tipi.",
+  "slug": "militan-tip-militant-type"
+ },
+ {
+  "key": "military type",
+  "tr": "askerî tip",
+  "explanation": "Spencer'ın sosyolojisinde zorlayıcı iş birliğine, katı hiyerarşiye ve savaşa göre örgütlenmiş toplum tipi.",
+  "slug": "askeri-tip-military-type"
+ },
+ {
+  "key": "Mind",
+  "tr": "zihin",
+  "explanation": "Bilinç, duygu ve düşünce yetilerinin bütünü; Spencer'a göre nihai doğası Madde gibi bilinemez.",
+  "slug": "zihin-mind"
+ },
+ {
+  "key": "Miocene",
+  "tr": "Miyosen",
+  "explanation": "Tersiyer dönemin, atın üç parmaklı atalarının yaşadığı orta evresi.",
+  "slug": "miyosen-miocene"
+ },
+ {
+  "key": "mode",
+  "tr": "mod",
+  "explanation": "Eski Yunan müziğinde belirli bir aralık düzenine sahip ses dizisi (Dor, Frig, Lidya vb.); modern tonların öncülü.",
+  "slug": "mod-mode"
+ },
+ {
+  "key": "mode of consciousness",
+  "tr": "bilinç kipi",
+  "explanation": "Bilincin aldığı belirli bir durum ya da biçim; Spencer'a göre gerçeklik fikri de dahil her bilgi, bilincin kiplerinden biridir.",
+  "slug": "bilinc-kipi-mode-of-consciousness"
+ },
+ {
+  "key": "molar motion",
+  "tr": "kütlesel hareket",
+  "explanation": "Görünür kütlelerin bir bütün olarak yer değiştirmesi; moleküler hareketin karşıtı.",
+  "slug": "kutlesel-hareket-molar-motion"
+ },
+ {
+  "key": "molecular heat",
+  "tr": "moleküler ısı",
+  "explanation": "Bir bileşiğin bir molekül ağırlığının sıcaklığını bir derece yükseltmek için gereken ısı miktarı; karmaşıklıkla birlikte artar.",
+  "slug": "molekuler-isi-molecular-heat"
+ },
+ {
+  "key": "molecular mobility",
+  "tr": "moleküler devingenlik",
+  "explanation": "Moleküllerin birbirine göre kolayca yer değiştirebilmesi; sıvılarda yüksek, katılarda düşüktür.",
+  "slug": "molekuler-devingenlik-molecular-mobility"
+ },
+ {
+  "key": "molecular motion",
+  "tr": "moleküler hareket",
+  "explanation": "Görünmez parçacıkların (moleküllerin) titreşim ve hareketi; ısı, ışık gibi olguların temeli. Karşıtı: kütlesel (molar) hareket.",
+  "slug": "molekuler-hareket-molecular-motion"
+ },
+ {
+  "key": "molecular physics",
+  "tr": "moleküler fizik",
+  "explanation": "Maddeyi oluşturan görünmez parçacıkların hareket ve değişimlerini inceleyen fizik alanı; Spencer burada ısı ile moleküler değişim ilişkisini buna bağlar.",
+  "slug": "molekuler-fizik-molecular-physics"
+ },
+ {
+  "key": "Molecule",
+  "tr": "molekül",
+  "explanation": "Kimyasal bir maddenin özelliklerini taşıyan en küçük parçacık; Spencer'ın döneminde atomla çoğu zaman birbirinin yerine kullanılırdı.",
+  "slug": "molekul-molecule"
+ },
+ {
+  "key": "Mollusca",
+  "tr": "Yumuşakçalar",
+  "explanation": "Salyangoz, midye ve mürekkep balığını kapsayan omurgasız hayvan şubesi.",
+  "slug": "yumusakcalar-mollusca"
+ },
+ {
+  "key": "momentum",
+  "tr": "momentum",
+  "explanation": "Hareket eden bir cismin kütlesi ile hızının çarpımı; Spencer'da hareketin kuvvet-öğesi.",
+  "slug": "momentum-momentum"
+ },
+ {
+  "key": "Monad",
+  "tr": "monad",
+  "explanation": "Leibniz'in terimi: yer kaplamayan, bölünmez, basit töz; evrenin nihai bileşenleri olarak düşünülen metafizik noktalar.",
+  "slug": "monad-monad"
+ },
+ {
+  "key": "Monotheism",
+  "tr": "monoteizm",
+  "explanation": "Tek bir Tanrı'ya inanma (tektanrıcılık); Spencer'da görünmez etkenlerin bütünüyle genelleştirildiği evre.",
+  "variants": [
+   "tektanrıcılık"
+  ],
+  "slug": "monoteizm-monotheism"
+ },
+ {
+  "key": "Monotremata",
+  "tr": "Tekdelikliler",
+  "explanation": "Yumurtlayan en ilkel memeliler (ornitorenk, ekidne); üreme ve boşaltım tek bir açıklığa çıkar.",
+  "slug": "tekdelikliler-monotremata"
+ },
+ {
+  "key": "Moral Philosophy",
+  "tr": "Ahlak Felsefesi",
+  "explanation": "İnsan eylemlerini doğruluk ve yanlışlık bakımından genel ilkelerle ele alan felsefe dalı (etik).",
+  "slug": "ahlak-felsefesi-moral-philosophy"
+ },
+ {
+  "key": "Morphology",
+  "tr": "morfoloji",
+  "explanation": "Canlıların biçim ve yapısını inceleyen bilim dalı; Spencer organik biçimleri etkiyen kuvvetlerin birikimli sonucu olarak açıklamayı önerir.",
+  "slug": "morfoloji-morphology"
+ },
+ {
+  "key": "Motion",
+  "tr": "hareket",
+  "explanation": "Maddenin uzaydaki yer değiştirmesi; Spencer'da evrimin diğer bileşeni olarak maddeyle birlikte yeniden dağıtılan şey.",
+  "slug": "hareket-motion"
+ },
+ {
+  "key": "motion of translation",
+  "tr": "öteleme hareketi",
+  "explanation": "Bir cismin bütün olarak bir yerden başka bir yere yer değiştirmesi; dönme hareketinin karşıtı.",
+  "slug": "oteleme-hareketi-motion-of-translation"
+ },
+ {
+  "key": "moving equilibrium",
+  "tr": "hareketli denge",
+  "explanation": "Parçaları hareket etmeye devam ederken bütünün dengede kaldığı durum (ör. Güneş Sistemi ya da canlı bir organizma).",
+  "slug": "hareketli-denge-moving-equilibrium"
+ },
+ {
+  "key": "multicellular",
+  "tr": "çok hücreli",
+  "explanation": "Birden çok hücreden oluşan organizma; tek hücreli (unicellular) karşıtı.",
+  "slug": "cok-hucreli-multicellular"
+ },
+ {
+  "key": "multiformity",
+  "tr": "çokbiçimlilik",
+  "explanation": "Bir bütünün parçalarının biçim bakımından çeşitlenmesi; Spencer'ın erken dönemde heterojenlik yerine kullandığı ifade.",
+  "slug": "cokbicimlilik-multiformity"
+ },
+ {
+  "key": "Multiplication of Effects",
+  "tr": "Etkilerin Çoğalması",
+  "explanation": "Tek bir nedenin, farklılaşmış bir bütüne etki ettiğinde çok sayıda farklı sonuç üretmesi; heterojenliğin artış nedenlerinden biri.",
+  "slug": "etkilerin-cogalmasi-multiplication-of-effects"
+ },
+ {
+  "key": "muscular tension",
+  "tr": "kas gerilimi",
+  "explanation": "Kasların kasılmasıyla bilinçte doğan gerilim duyumu; Spencer'a göre Uzay, Madde ve Hareket tasavvurlarının kendisinden türediği ilk kuvvet izlenimi.",
+  "slug": "kas-gerilimi-muscular-tension"
+ },
+ {
+  "key": "mutual dependence",
+  "tr": "karşılıklı bağımlılık",
+  "explanation": "Parçaların ya da bireylerin birbirine fiziksel olarak bağlı olmadan işlevce birbirine muhtaç olması; Spencer'da bütünleşmenin ileri biçimi.",
+  "slug": "karsilikli-bagimlilik-mutual-dependence"
+ },
+ {
+  "key": "mystery play",
+  "tr": "gizem oyunu",
+  "explanation": "Ortaçağ Avrupası'nda Kitab-ı Mukaddes öykülerini sahneleyen dinsel tiyatro türü.",
+  "slug": "gizem-oyunu-mystery-play"
+ },
+ {
+  "key": "nascent consciousness",
+  "tr": "doğmakta olan bilinç",
+  "explanation": "Belirli bir sınır ya da neden düşünüldüğünde kendiliğinden beliren, ötesindeki uzay ya da nedene ilişkin biçimsiz ama gerçek bilinç.",
+  "slug": "dogmakta-olan-bilinc-nascent-consciousness"
+ },
+ {
+  "key": "Natural Philosophy",
+  "tr": "Doğa Felsefesi",
+  "explanation": "İngiltere'de fizik ve doğa bilimlerinin geleneksel adı; Spencer bunu görece düzensiz bir bilgi bütünü sayar.",
+  "slug": "doga-felsefesi-natural-philosophy"
+ },
+ {
+  "key": "Natural Realism",
+  "tr": "doğal realizm",
+  "explanation": "Hamilton'ın görüşü: dış dünyanın varlığının dolaysız ve açıklanamaz bir sezgiyle bilindiği öğretisi; Spencer bunun yerine ayrımı bilincin işleyişinden türetir.",
+  "slug": "dogal-realizm-natural-realism"
+ },
+ {
+  "key": "Natural Selection",
+  "tr": "doğal seçilim",
+  "explanation": "Darwin'in kuramı: ortama daha iyi uyum sağlayan bireylerin hayatta kalıp çoğalması. Spencer bunun için 'en uygun olanın hayatta kalması' ifadesini önermiştir.",
+  "slug": "dogal-secilim-natural-selection"
+ },
+ {
+  "key": "nebula",
+  "tr": "bulutsu",
+  "explanation": "Uzayda yoğunlaşarak yıldız ve gezegen sistemlerini oluşturduğu düşünülen gaz ve toz bulutu; Bulutsu Hipotezi'nin konusu.",
+  "slug": "bulutsu-nebula"
+ },
+ {
+  "key": "Nebular Hypothesis",
+  "tr": "Bulutsu Hipotezi",
+  "explanation": "Güneş Sistemi'nin dönen bir gaz bulutunun (nebula) yoğunlaşmasıyla oluştuğunu savunan Kant–Laplace kuramı.",
+  "slug": "bulutsu-hipotezi-nebular-hypothesis"
+ },
+ {
+  "key": "nebulous matter",
+  "tr": "bulutsu madde",
+  "explanation": "Yıldız ve gezegenlerin kendisinden yoğunlaştığı varsayılan, uzaya yayılmış seyrek gaz ve toz kütlesi (bkz. Bulutsu Hipotezi).",
+  "slug": "bulutsu-madde-nebulous-matter"
+ },
+ {
+  "key": "necessary truth",
+  "tr": "zorunlu doğru",
+  "explanation": "Karşıtı düşünülemeyen doğru. Spencer bunu deneyimden bağımsız saymaz; bireyin ve atalarının birikmiş deneyimleriyle organik hâle gelmiş bilgi olarak anlar.",
+  "slug": "zorunlu-dogru-necessary-truth"
+ },
+ {
+  "key": "nerve force",
+  "tr": "sinir kuvveti",
+  "explanation": "Sinir sisteminde ritmik darbeler hâlinde üretilip bedensel ve zihinsel değişimlere dönüşen kuvvet; Spencer'ın 19. yüzyıl fizyolojisinden aldığı kavram.",
+  "slug": "sinir-kuvveti-nerve-force"
+ },
+ {
+  "key": "nerve-centres",
+  "tr": "sinir merkezleri",
+  "explanation": "Sinir sisteminde duyusal uyarıların toplandığı ve işlendiği düğüm noktaları; Spencer'ın psikolojisinde zihinsel bağlantıların fiziksel taşıyıcıları.",
+  "slug": "sinir-merkezleri-nerve-centres"
+ },
+ {
+  "key": "nervo-muscular",
+  "tr": "sinir-kas",
+  "explanation": "Sinir sistemi ile kasların birlikte oluşturduğu, uyarıyı harekete çeviren işlevsel bütün.",
+  "slug": "sinir-kas-nervo-muscular"
+ },
+ {
+  "key": "nervous energy",
+  "tr": "sinirsel enerji",
+  "explanation": "Sinir sisteminde üretilen ve kas hareketine dönüşen enerji; Spencer'a göre organizma tarafından çoğaltılır.",
+  "slug": "sinirsel-enerji-nervous-energy"
+ },
+ {
+  "key": "nervous structure",
+  "tr": "sinirsel yapı",
+  "explanation": "Sinir sisteminin örgütlenmiş yapısı; Spencer'da deneyimle dış şeylere uygun biçimde kalıplanıp zorunlu düşünce ilişkilerini üreten fizyolojik temel.",
+  "slug": "sinirsel-yapi-nervous-structure"
+ },
+ {
+  "key": "nervous system",
+  "tr": "sinir sistemi",
+  "explanation": "Beyin, omurilik ve sinirlerden oluşan, zihinsel süreçlerin ve bedensel eşgüdümün dayandığı organ sistemi.",
+  "slug": "sinir-sistemi-nervous-system"
+ },
+ {
+  "key": "nescience",
+  "tr": "bilgisizlik",
+  "explanation": "Spencer'ın bilimin (science) karşıtı olarak kullandığı terim: pozitif bilginin hiçbir zaman dolduramayacağı, görüngülerin ötesinde kalan bilinmeyen alan; dinin konusunu oluşturur.",
+  "slug": "bilgisizlik-nescience"
+ },
+ {
+  "key": "nodes",
+  "tr": "düğümler",
+  "explanation": "Bir yörünge düzleminin referans düzlemini (ör. ekliptik) kestiği iki nokta; bunların konumu zamanla yavaşça döner.",
+  "slug": "dugumler-nodes"
+ },
+ {
+  "key": "non-effective force",
+  "tr": "etkisiz kuvvet",
+  "explanation": "Gelen kuvvetin yığında değişim üretmeyen, yansıtılan ya da kaynağında kalan kısmı.",
+  "slug": "etkisiz-kuvvet-non-effective-force"
+ },
+ {
+  "key": "Non-ego",
+  "tr": "ben-olmayan",
+  "explanation": "Öznenin dışında kalan her şey, dış dünya; ben'in karşıtı olarak nesnel gerçeklik.",
+  "slug": "ben-olmayan-non-ego"
+ },
+ {
+  "key": "Non-relative",
+  "tr": "Göreli-olmayan",
+  "explanation": "Hiçbir ilişki içinde olmayan varlık, yani Mutlak; Spencer, Göreli'nin ancak bunun karşıtı olarak düşünülebildiğini ve dolayısıyla onun olumlu bir bilincinin bulunduğunu savunur.",
+  "slug": "goreli-olmayan-non-relative"
+ },
+ {
+  "key": "Not-self",
+  "tr": "benlik-olmayan",
+  "explanation": "Kendisinden ayrı, dış dünya olarak tanınan tezahürler bütünü; canlı tezahürlerin öbeğine verilen ad.",
+  "slug": "benlik-olmayan-not-self"
+ },
+ {
+  "key": "Noumenon",
+  "tr": "numen",
+  "explanation": "Kant'tan gelen terim: görüngülerin ardındaki, kendinde şey; duyularla değil yalnızca düşünceyle varsayılan gerçeklik.",
+  "slug": "numen-noumenon"
+ },
+ {
+  "key": "nubeculae",
+  "tr": "nubeculae",
+  "explanation": "Latince 'küçük bulutlar': güney gökyüzündeki Büyük ve Küçük Macellan Bulutları'nın eski adı.",
+  "slug": "nubeculae-nubeculae"
+ },
+ {
+  "key": "Nucleus",
+  "tr": "çekirdek",
+  "explanation": "Dünya'nın sıcak iç bölümü; kabuk (örtü) üzerindeki etkileriyle magmatik kayaları ve kıvrımları üretir.",
+  "slug": "cekirdek-nucleus"
+ },
+ {
+  "key": "nutation",
+  "tr": "nütasyon",
+  "explanation": "Dünya'nın dönme ekseninin, presesyon hareketi üzerine binen küçük dönemsel sallanması.",
+  "slug": "nutasyon-nutation"
+ },
+ {
+  "key": "object",
+  "tr": "nesne",
+  "explanation": "Bilincin yöneldiği, bilinen şey; öznenin karşıtı olarak bilinç ilişkisinin öteki ucu.",
+  "slug": "nesne-object"
+ },
+ {
+  "key": "oblate spheroid",
+  "tr": "basık küremsi",
+  "explanation": "Kutuplarından basılmış, ekvatorundan şişkin küre benzeri cisim; dönen akışkan kütlelerin aldığı biçim.",
+  "slug": "basik-kuremsi-oblate-spheroid"
+ },
+ {
+  "key": "oblateness",
+  "tr": "basıklık",
+  "explanation": "Dönen bir kürenin kutuplardan basılıp ekvatordan şişmesi; Yer'in ve yoğunlaşan bulutsunun dönme sonucu aldığı biçim.",
+  "slug": "basiklik-oblateness"
+ },
+ {
+  "key": "Omnipresence",
+  "tr": "her yerde hazır bulunma",
+  "explanation": "Tanrısal Güç'ün aynı anda her yerde mevcut olması niteliği. Spencer'a göre olumlu olarak düşünülemez; yalnızca görüngülerin yayılımına sınır koyamayışımızdan türetilen olumsuz bir kavramdır.",
+  "slug": "her-yerde-hazir-bulunma-omnipresence"
+ },
+ {
+  "key": "ontological order",
+  "tr": "ontolojik düzen",
+  "explanation": "Şeylerin kendilerinde, bilincimizden bağımsız olarak var olma düzeni; görüngüsel (fenomenal) düzenin karşıtı ve Spencer'a göre sonsuza dek kavranamaz.",
+  "slug": "ontolojik-duzen-ontological-order"
+ },
+ {
+  "key": "Ontology",
+  "tr": "ontoloji",
+  "explanation": "Varlığın kendisini, var olanın en genel yapısını inceleyen felsefe dalı (varlıkbilim). Spencer, nihai gerçekliği açıklama iddiasındaki kuramları 'ontolojik' diye adlandırır.",
+  "slug": "ontoloji-ontology"
+ },
+ {
+  "key": "operative",
+  "tr": "işleyici",
+  "explanation": "Spencer'da toplumun üretim ve geçim işlerini yürüten, endüstriyel örgütlenmeyi oluşturan kesim.",
+  "slug": "isleyici-operative"
+ },
+ {
+  "key": "optic axis",
+  "tr": "optik eksen",
+  "explanation": "Gözün merkezinden geçen bakış doğrultusu; iki gözün eksenlerinin ayarlanması uzaklık kestirimini sağlar.",
+  "slug": "optik-eksen-optic-axis"
+ },
+ {
+  "key": "orbit",
+  "tr": "yörünge",
+  "explanation": "Bir gök cisminin, çekim kuvvetiyle bağlı olduğu merkez çevresinde izlediği yol.",
+  "slug": "yorunge-orbit"
+ },
+ {
+  "key": "Order",
+  "tr": "takım",
+  "explanation": "Biyolojik sınıflandırmada familyaları içeren, sınıftan küçük birim.",
+  "slug": "takim-order"
+ },
+ {
+  "key": "organic",
+  "tr": "organik",
+  "explanation": "Canlılara ait; bitki ve hayvanların dünyası.",
+  "slug": "organik-organic"
+ },
+ {
+  "key": "Organism",
+  "tr": "organizma",
+  "explanation": "Canlı varlık; parçaları karşılıklı bağımlı, bütün olarak işleyen yapı.",
+  "slug": "organizma-organism"
+ },
+ {
+  "key": "oscillation",
+  "tr": "salınım",
+  "explanation": "Bir denge noktasının iki yanı arasında gidip gelen düzenli hareket.",
+  "slug": "salinim-oscillation"
+ },
+ {
+  "key": "osmotic action",
+  "tr": "ozmotik etki",
+  "explanation": "Sıvıların yarı geçirgen bir zardan (ör. bağırsak duvarı) geçerek derişimleri dengeleme süreci; Spencer besin emilimini bu fiziksel olguya bağlar.",
+  "slug": "ozmotik-etki-osmotic-action"
+ },
+ {
+  "key": "oviduct",
+  "tr": "yumurta kanalı",
+  "explanation": "Yumurtayı yumurtalıktan rahme ya da dışarıya taşıyan kanal.",
+  "slug": "yumurta-kanali-oviduct"
+ },
+ {
+  "key": "ovum",
+  "tr": "yumurta",
+  "explanation": "Dişi üreme hücresi; döllenince embriyoyu oluşturur (çoğulu: ova).",
+  "variants": [
+   "yumurta hücresi"
+  ],
+  "slug": "yumurta-ovum"
+ },
+ {
+  "key": "oxidation",
+  "tr": "oksitlenme",
+  "explanation": "Bir maddenin oksijenle birleşmesi; Spencer'a göre hayvan yaşamının başlıca kimyasal süreci.",
+  "slug": "oksitlenme-oxidation"
+ },
+ {
+  "key": "oxygenation",
+  "tr": "oksijenlenme",
+  "explanation": "Kanın solunum yoluyla oksijen alması; 19. yüzyıl fizyolojisinde hayvan sıcaklığını açıklamak için başvurulan süreç.",
+  "slug": "oksijenlenme-oxygenation"
+ },
+ {
+  "key": "Palaeolithic",
+  "tr": "Paleolitik",
+  "explanation": "Eski Taş Çağı; yontulmuş çakmaktaşı aletlerle nitelenen en eski insan kültürü dönemi.",
+  "slug": "paleolitik-palaeolithic"
+ },
+ {
+  "key": "palaeontology",
+  "tr": "paleontoloji",
+  "explanation": "Fosiller aracılığıyla geçmiş çağların canlılarını inceleyen bilim.",
+  "slug": "paleontoloji-palaeontology"
+ },
+ {
+  "key": "Palaeozoic",
+  "tr": "Paleozoik",
+  "explanation": "Jeolojik zamanın, kayıtlarında başlıca balıkların bulunduğu eski dönemi (Birinci Zaman).",
+  "slug": "paleozoik-palaeozoic"
+ },
+ {
+  "key": "Pantheism",
+  "tr": "panteizm",
+  "explanation": "Tanrı ile evreni özdeş sayan görüş (tümtanrıcılık).",
+  "slug": "panteizm-pantheism"
+ },
+ {
+  "key": "parabola",
+  "tr": "parabol",
+  "explanation": "Konik kesitlerden biri; yerçekimi altında atılan cismin yaklaşık yörüngesi olarak kabul edilen açık eğri.",
+  "slug": "parabol-parabola"
+ },
+ {
+  "key": "parts of speech",
+  "tr": "sözcük türleri",
+  "explanation": "Dilbilgisinde sözcüklerin ad, eylem, sıfat, zarf gibi sınıflara ayrılması.",
+  "slug": "sozcuk-turleri-parts-of-speech"
+ },
+ {
+  "key": "Pathology",
+  "tr": "patoloji",
+  "explanation": "Hastalıkların nedenlerini, gelişimini ve etkilerini inceleyen bilim.",
+  "slug": "patoloji-pathology"
+ },
+ {
+  "key": "pediment",
+  "tr": "alınlık",
+  "explanation": "Tapınak cephesinde çatının altındaki üçgen bölüm; heykel gruplarıyla süslenirdi.",
+  "slug": "alinlik-pediment"
+ },
+ {
+  "key": "pendulum",
+  "tr": "sarkaç",
+  "explanation": "Bir noktadan asılı olarak salınan cisim; Spencer'da hareketin iki uçta durup yeniden başlamasının örneği.",
+  "slug": "sarkac-pendulum"
+ },
+ {
+  "key": "perceptible activity",
+  "tr": "algılanabilir etkinlik",
+  "explanation": "Görünür hareket olarak kendini gösteren etkinlik (edimsel ya da kinetik enerji).",
+  "slug": "algilanabilir-etkinlik-perceptible-activity"
+ },
+ {
+  "key": "Perception",
+  "tr": "algı",
+  "explanation": "Duyumların birleştirilip nesne olarak tanınması; dış dünyaya ilişkin dolaysız bilgi.",
+  "slug": "algi-perception"
+ },
+ {
+  "key": "perihelion",
+  "tr": "günberi",
+  "explanation": "Bir gezegenin ya da kuyruklu yıldızın yörüngesinde Güneş'e en yakın olduğu nokta.",
+  "slug": "gunberi-perihelion"
+ },
+ {
+  "key": "peristaltic motion",
+  "tr": "peristaltik hareket",
+  "explanation": "Bağırsak gibi boru biçimli organlarda içeriği ileten dalga biçimli kas kasılması.",
+  "slug": "peristaltik-hareket-peristaltic-motion"
+ },
+ {
+  "key": "permanent gases",
+  "tr": "kalıcı gazlar",
+  "explanation": "19. yüzyılda o günün yöntemleriyle sıvılaştırılamayan gazlara (oksijen, hidrojen, azot vb.) verilen ad.",
+  "slug": "kalici-gazlar-permanent-gases"
+ },
+ {
+  "key": "peroxide",
+  "tr": "peroksit",
+  "explanation": "Bir elementin birden çok oksijen atomuyla oluşturduğu, ısıyla daha kolay ayrışan oksit.",
+  "slug": "peroksit-peroxide"
+ },
+ {
+  "key": "persistence",
+  "tr": "kalıcılık",
+  "explanation": "Bir bilinç durumunun bilinçten kovulamaması, sürmesi; Spencer gerçekliğin ölçütünü bu kalıcılıkta bulur. Kuvvetin Kalıcılığı ilkesindeki kalıcılıkla aynı terimdir.",
+  "slug": "kalicilik-persistence"
+ },
+ {
+  "key": "Persistence of Force",
+  "tr": "Kuvvetin Kalıcılığı",
+  "explanation": "Spencer'ın 'enerjinin korunumu' yerine tercih ettiği terim: kuvvet miktarının ne artıp ne azaldığı, yalnızca biçim değiştirdiği ilkesi. Felsefesinin en temel aksiyomudur.",
+  "slug": "kuvvetin-kaliciligi-persistence-of-force"
+ },
+ {
+  "key": "Persistence of Relations among Forces",
+  "tr": "Kuvvetler Arasındaki İlişkilerin Kalıcılığı",
+  "explanation": "Kuvvetin kalıcılığının doğal sonucu: aynı koşullar altında aynı kuvvetlerin daima aynı ilişkileri ve sonuçları üretmesi; doğa yasalarının tekbiçimliliğinin Spencer'daki temeli.",
+  "slug": "kuvvetler-arasindaki-iliskilerin-kaliciligi-persistence-of-relations-among-forces"
+ },
+ {
+  "key": "Persistent Types",
+  "tr": "Kalıcı Tipler",
+  "explanation": "Huxley'nin 1859 tarihli dersinin konusu: jeolojik çağlar boyunca neredeyse değişmeden kalan canlı biçimleri.",
+  "slug": "kalici-tipler-persistent-types"
+ },
+ {
+  "key": "perturbation",
+  "tr": "tedirginlik",
+  "explanation": "Astronomide bir gök cisminin, komşu cisimlerin çekimi yüzünden ideal daire ya da elips yörüngesinden gösterdiği küçük sapma.",
+  "variants": [
+   "pertürbasyon"
+  ],
+  "slug": "tedirginlik-perturbation"
+ },
+ {
+  "key": "petitio principii",
+  "tr": "petitio principii",
+  "explanation": "Latince mantık terimi: kanıtlanması gereken şeyi öncül olarak varsayma yanlışı (döngüsel kanıt).",
+  "slug": "petitio-principii-petitio-principii"
+ },
+ {
+  "key": "Phenomenon",
+  "tr": "görüngü",
+  "explanation": "Bilince görünen, deneyimlenen şey; bilimin inceleyebildiği tek alan (fenomen).",
+  "slug": "gorungu-phenomenon"
+ },
+ {
+  "key": "Philology",
+  "tr": "filoloji",
+  "explanation": "Dillerin tarihini, kökenlerini ve akrabalıklarını inceleyen bilim (dil bilimi).",
+  "slug": "filoloji-philology"
+ },
+ {
+  "key": "Philosophy",
+  "tr": "Felsefe",
+  "explanation": "Spencer'ın tanımıyla en yüksek genellik derecesindeki, bütünüyle birleştirilmiş bilgi; Bilimin en geniş genellemelerini tek bir nihai doğrunun sonuçları olarak kavrayan bilgi türü.",
+  "slug": "felsefe-philosophy"
+ },
+ {
+  "key": "phonetic",
+  "tr": "fonetik",
+  "explanation": "Fikirleri değil sesleri temsil eden yazı işaretlerine ilişkin; alfabetik yazının temeli.",
+  "slug": "fonetik-phonetic"
+ },
+ {
+  "key": "phosphuretted hydrogen",
+  "tr": "fosforlu hidrojen",
+  "explanation": "Fosfor ile hidrojenin kolayca tutuşan ve ayrışan bileşiği (fosfin); eski kimya adlandırması.",
+  "slug": "fosforlu-hidrojen-phosphuretted-hydrogen"
+ },
+ {
+  "key": "photometer",
+  "tr": "fotometre",
+  "explanation": "Işık şiddetini ölçen alet.",
+  "slug": "fotometre-photometer"
+ },
+ {
+  "key": "physical axioms",
+  "tr": "fiziksel aksiyomlar",
+  "explanation": "Her etkinin uygun bir nedeni olduğu, maddenin yok olmadığı gibi fiziğin temel, kendiliğinden açık doğruları; kavranmaları disiplinli bir zekâ gerektirir.",
+  "slug": "fiziksel-aksiyomlar-physical-axioms"
+ },
+ {
+  "key": "Physics",
+  "tr": "fizik",
+  "explanation": "Madde, hareket ve kuvvetin genel yasalarını inceleyen bilim; Spencer'a göre akılcı biyolojinin yola çıkması gereken temel doğruların kaynağı.",
+  "slug": "fizik-physics"
+ },
+ {
+  "key": "Physiology",
+  "tr": "fizyoloji",
+  "explanation": "Canlı organizmaların işlevlerini inceleyen bilim dalı; Spencer'da işlevlerin farklılaşmasını izleyen 'fizyolojik gelişim' bu alana aittir.",
+  "slug": "fizyoloji-physiology"
+ },
+ {
+  "key": "picture-writing",
+  "tr": "resim yazısı",
+  "explanation": "Nesneleri ve olayları doğrudan resimlerle kaydeden en eski yazı biçimi; hiyerogliflerin öncülü.",
+  "slug": "resim-yazisi-picture-writing"
+ },
+ {
+  "key": "placental mammalia",
+  "tr": "plasentalı memeliler",
+  "explanation": "Yavrularını plasenta aracılığıyla ana rahminde besleyen memeliler; insanın dâhil olduğu grup.",
+  "slug": "plasentali-memeliler-placental-mammalia"
+ },
+ {
+  "key": "Planetoid",
+  "tr": "gezegencik",
+  "explanation": "Mars ile Jüpiter arasında dolanan küçük gezegenler (asteroitler); Olbers bunların patlamış bir gezegenin parçaları olduğunu ileri sürmüştü.",
+  "slug": "gezegencik-planetoid"
+ },
+ {
+  "key": "planula",
+  "tr": "planula",
+  "explanation": "Mercan ve hidraların suda yüzen, silli, oval biçimli larva evresi.",
+  "slug": "planula-planula"
+ },
+ {
+  "key": "plastic",
+  "tr": "plastik",
+  "explanation": "Biçimlendirilebilir; kısmen sıvı, kısmen katı olup parçaları görece kolay yeniden düzenlenebilen yarı katı kıvam.",
+  "slug": "plastik-plastic"
+ },
+ {
+  "key": "Platonic Ideas",
+  "tr": "Platoncu İdealar",
+  "explanation": "Platon'un, duyulur şeylerin ardındaki değişmez ve kusursuz örnekler (idealar) öğretisi; Spencer bunu terk edilmiş eski kuramlar arasında sayar.",
+  "slug": "platoncu-idealar-platonic-ideas"
+ },
+ {
+  "key": "plenum",
+  "tr": "plenum",
+  "explanation": "Boşluk içermeyen, tamamen maddeyle dolu uzay tasarımı (Latince 'dolu'); evrensel basınç hipotezinin gerektirdiği varsayım.",
+  "slug": "plenum-plenum"
+ },
+ {
+  "key": "Polarity",
+  "tr": "kutupluluk",
+  "explanation": "Bir birimin zıt uçlara sahip olması (ör. mıknatıs, kristal); Spencer'da moleküllerin düzenli yapılar oluşturmasının nedeni.",
+  "slug": "kutupluluk-polarity"
+ },
+ {
+  "key": "polarized light",
+  "tr": "kutuplanmış ışık",
+  "explanation": "Titreşimleri tek bir düzlemle sınırlanmış ışık; cam ve manyetizma deneylerinde moleküler değişimi göstermek için kullanılırdı.",
+  "slug": "kutuplanmis-isik-polarized-light"
+ },
+ {
+  "key": "political economist",
+  "tr": "ekonomi politikçi",
+  "explanation": "19. yüzyılda iktisat biliminin (ekonomi politik) temsilcisi; Smith, Ricardo, Mill gibi yazarlar.",
+  "slug": "ekonomi-politikci-political-economist"
+ },
+ {
+  "key": "Political Economy",
+  "tr": "ekonomi politik",
+  "explanation": "19. yüzyılda iktisat biliminin adı; üretim, değişim ve fiyat olgularını genel yasalarla açıklamaya çalışan bilim dalı.",
+  "slug": "ekonomi-politik-political-economy"
+ },
+ {
+  "key": "Political Philosophy",
+  "tr": "Siyaset Felsefesi",
+  "explanation": "İnsanların kamusal ilişkilerindeki davranışını genel ilkeler düzeyinde inceleyen felsefe dalı.",
+  "slug": "siyaset-felsefesi-political-philosophy"
+ },
+ {
+  "key": "Polytheism",
+  "tr": "politeizm",
+  "explanation": "Birden çok tanrıya inanma (çoktanrıcılık); Spencer'da hayalet kuramından monoteizme giden gelişimin ara evresi.",
+  "variants": [
+   "çoktanrıcılık"
+  ],
+  "slug": "politeizm-polytheism"
+ },
+ {
+  "key": "Positive Philosophy",
+  "tr": "Pozitif Felsefe",
+  "explanation": "Auguste Comte'un bilimleri eşgüdümlü bir sistem içinde düzenleyen felsefesi; Spencer'a göre bu eşgüdüm sayesinde Felsefe adına daha haklı bir iddia taşır.",
+  "slug": "pozitif-felsefe-positive-philosophy"
+ },
+ {
+  "key": "Postulate",
+  "tr": "postulat",
+  "explanation": "Kanıtlanmadan doğru kabul edilen ve üzerine akıl yürütmenin kurulduğu temel önerme.",
+  "slug": "postulat-postulate"
+ },
+ {
+  "key": "potential energy",
+  "tr": "potansiyel enerji",
+  "explanation": "Cisimlerin konumlarından ya da uzaydaki ilişkilerinden dolayı sahip oldukları, henüz hareket olarak görünmeyen enerji.",
+  "slug": "potansiyel-enerji-potential-energy"
+ },
+ {
+  "key": "potential existence",
+  "tr": "potansiyel varoluş",
+  "explanation": "Henüz gerçekleşmemiş, yalnızca olanak hâlinde bulunan varoluş; panteist kendini yaratma hipotezinin dayandığı, Spencer'a göre tasavvur edilemeyen kavram.",
+  "slug": "potansiyel-varolus-potential-existence"
+ },
+ {
+  "key": "Power",
+  "tr": "Güç",
+  "explanation": "Görüngüler yoluyla bize tezahür eden, doğası tasavvur edilemeyen etken; Spencer'ın Bilinemez için kullandığı bir başka ad.",
+  "slug": "guc-power"
+ },
+ {
+  "key": "Pre-established Harmony",
+  "tr": "Önceden Kurulmuş Uyum",
+  "explanation": "Leibniz'in, ruh ile beden arasında doğrudan etkileşim olmaksızın Tanrı'nın baştan kurduğu bir uyum bulunduğu öğretisi.",
+  "slug": "onceden-kurulmus-uyum-pre-established-harmony"
+ },
+ {
+  "key": "precession",
+  "tr": "presesyon",
+  "explanation": "Dönen bir cismin ekseninin, dış çekimlerin etkisiyle yavaşça koni çizerek yön değiştirmesi (yalpalama); basık gezegenlerde daha belirgindir.",
+  "slug": "presesyon-precession"
+ },
+ {
+  "key": "precession of the equinoxes",
+  "tr": "ekinoksların presesyonu",
+  "explanation": "Yer ekseninin, Güneş ve Ay'ın çekimi nedeniyle yavaşça bir koni çizerek dönmesi; ilkbahar ve sonbahar noktalarının gökyüzünde geriye kayması.",
+  "slug": "ekinokslarin-presesyonu-precession-of-the-equinoxes"
+ },
+ {
+  "key": "precipitate",
+  "tr": "çökelti",
+  "explanation": "Bir çözeltide çözünmeden askıda kalan ya da kimyasal tepkimeyle oluşup dibe çöken katı parçacıklar.",
+  "slug": "cokelti-precipitate"
+ },
+ {
+  "key": "Presentation",
+  "tr": "sunum",
+  "explanation": "Bir şeyin bilince dolaysızca, algı yoluyla verilmesi; Spencer'da canlı tezahürlere karşılık gelir ve 'gerçek' olanı oluşturur.",
+  "slug": "sunum-presentation"
+ },
+ {
+  "key": "pressure",
+  "tr": "basınç",
+  "explanation": "İtici kuvvetin birim yüzeye uyguladığı etki; Spencer'da gerilimin karşıtı olan temel kuvvet biçimi.",
+  "slug": "basinc-pressure"
+ },
+ {
+  "key": "prevision",
+  "tr": "öngörü",
+  "explanation": "Olayların önceden kestirilmesi; Spencer'a göre bilgi, nitel öngörüden nicel (ölçülebilir) öngörüye doğru ilerler.",
+  "slug": "ongoru-prevision"
+ },
+ {
+  "key": "primary redistribution",
+  "tr": "birincil yeniden dağılım",
+  "explanation": "Evrimin özünü oluşturan maddenin bütünleşmesi ve hareketin dağılması süreci; ikincil yeniden dağılımlar buna eşlik eder.",
+  "slug": "birincil-yeniden-dagilim-primary-redistribution"
+ },
+ {
+  "key": "primitive streak",
+  "tr": "ilkel çizgi",
+  "explanation": "Embriyonik alanın ortasında beliren ve omurgalı ekseninin ilk kez kendini gösterdiği çizgisel kalınlaşma.",
+  "slug": "ilkel-cizgi-primitive-streak"
+ },
+ {
+  "key": "primordial medium",
+  "tr": "ilksel ortam",
+  "explanation": "Lord Kelvin'in girdap-atom kuramında maddenin içinde oluştuğu varsayılan, başlangıçta tamamen türdeş olan sürekli akışkan.",
+  "slug": "ilksel-ortam-primordial-medium"
+ },
+ {
+  "key": "principle of activity",
+  "tr": "etkinlik ilkesi",
+  "explanation": "Spencer'ın bu bölümde, hareket eden bir cismin sergilediği ve yer değiştirme dursa bile gerilim olarak varlığını sürdüren şey için kullandığı ad; metafizik bir anlam taşımaz.",
+  "slug": "etkinlik-ilkesi-principle-of-activity"
+ },
+ {
+  "key": "principle of Continuity",
+  "tr": "süreklilik ilkesi",
+  "explanation": "Doğada ani sıçramalar olmadığı, görüngülerin kesintisiz bir biçimde birbirine bağlandığı ilkesi; Tait ve Balfour-Stewart bunu görünmez evrene de uygular.",
+  "slug": "sureklilik-ilkesi-principle-of-continuity"
+ },
+ {
+  "key": "principle of virtual velocities",
+  "tr": "virtüel hızlar ilkesi",
+  "explanation": "Mekanikte, dengedeki bir sistemde olası (virtüel) küçük yer değiştirmelerde kuvvetlerin yaptığı toplam işin sıfır olduğunu belirten ilke (virtüel iş ilkesi); kaldıraç ve akışkan dengesini tek bir yasa altında toplar.",
+  "slug": "virtuel-hizlar-ilkesi-principle-of-virtual-velocities"
+ },
+ {
+  "key": "progressionist",
+  "tr": "ilerlemeci",
+  "explanation": "Jeolojik çağlar boyunca canlıların basitten karmaşığa doğru ilerlediğini savunan 19. yüzyıl görüşünün yanlısı.",
+  "slug": "ilerlemeci-progressionist"
+ },
+ {
+  "key": "proper motion",
+  "tr": "öz hareket",
+  "explanation": "Bir gök cisminin çekim merkezine doğru olmayan, kendine ait yanal hareketi.",
+  "slug": "oz-hareket-proper-motion"
+ },
+ {
+  "key": "propitiation",
+  "tr": "kefaret",
+  "explanation": "Tanrısal öfkeyi kurban, adak ya da bağışlanma yoluyla yatıştırma fikri; Spencer'a göre bütün dinlerde ortak olsa da bilimin tanıyabileceği bir inanç değildir.",
+  "slug": "kefaret-propitiation"
+ },
+ {
+  "key": "proteid",
+  "tr": "proteid",
+  "explanation": "19. yüzyılda protein ve protein benzeri azotlu bileşikler için kullanılan ad; organizmaların temel yapı maddesi.",
+  "slug": "proteid-proteid"
+ },
+ {
+  "key": "protensive",
+  "tr": "süremsel",
+  "explanation": "Hamilton'ın terimi: zamanda sürmeye, süreye ilişkin nicelik; uzamsal (uzay) ve yoğunluksal (derece) nicelikten ayrılır.",
+  "slug": "suremsel-protensive"
+ },
+ {
+  "key": "proto-vertebrae",
+  "tr": "ilk omurlar",
+  "explanation": "Embriyoda omur kanalının iki yanında beliren, sonradan omurları ve kasları oluşturacak ilkel dilimler (somitler).",
+  "slug": "ilk-omurlar-proto-vertebrae"
+ },
+ {
+  "key": "Protophyta",
+  "tr": "Protophyta",
+  "explanation": "Tek hücreli ya da en basit yapılı bitkiler; Protozoa'nın bitkiler âlemindeki karşılığı.",
+  "slug": "protophyta-protophyta"
+ },
+ {
+  "key": "Protoplasm",
+  "tr": "protoplazma",
+  "explanation": "Hücrenin canlı maddesi; 19. yüzyılda yaşamın fiziksel temeli sayılan jölemsi töz.",
+  "slug": "protoplazma-protoplasm"
+ },
+ {
+  "key": "protoxide",
+  "tr": "protoksit",
+  "explanation": "19. yüzyıl kimyasında bir elementin tek oksijen atomuyla oluşturduğu en basit oksit; en kararlı bileşik sınıfı sayılırdı.",
+  "slug": "protoksit-protoxide"
+ },
+ {
+  "key": "Protozoa",
+  "tr": "Protozoa",
+  "explanation": "Tek hücreli hayvanlar; 19. yüzyıl sınıflandırmasında hayvanlar âleminin en alt bölümü.",
+  "slug": "protozoa-protozoa"
+ },
+ {
+  "key": "pseud-idea",
+  "tr": "sahte fikir",
+  "explanation": "Spencer'ın terimi: sözcükleri bir araya getirilebilen ama bilinçte gerçek bir düşünce olarak kurulamayan sözde fikir (ör. kare bir sıvı).",
+  "slug": "sahte-fikir-pseud-idea"
+ },
+ {
+  "key": "pseudopodia",
+  "tr": "yalancı ayak",
+  "explanation": "Amip gibi tek hücreli canlıların hareket ve beslenme için protoplazmalarından geçici olarak dışarı uzattıkları uzantılar.",
+  "slug": "yalanci-ayak-pseudopodia"
+ },
+ {
+  "key": "Psychology",
+  "tr": "psikoloji",
+  "explanation": "Zihin olaylarını inceleyen bilim; Spencer bu alanı da evrim bakışıyla ele almıştır.",
+  "slug": "psikoloji-psychology"
+ },
+ {
+  "key": "pupa",
+  "tr": "pupa",
+  "explanation": "Böceklerde larva ile ergin arasındaki hareketsiz gelişim evresi.",
+  "slug": "pupa-pupa"
+ },
+ {
+  "key": "quantitative chemistry",
+  "tr": "nicel kimya",
+  "explanation": "Tözlerin yalnızca hangi bileşikleri oluşturduğunu değil, hangi ağırlık oranlarında birleştiğini ölçen kimya; Spencer'a göre maddenin korunumunu kesinleştiren bilim.",
+  "slug": "nicel-kimya-quantitative-chemistry"
+ },
+ {
+  "key": "radiant heat",
+  "tr": "ışınımsal ısı",
+  "explanation": "Bir cisimden dalgalar hâlinde yayılan ısı; 19. yüzyıl fiziğinde ışıkla aynı türden bir ışınım sayılırdı.",
+  "variants": [
+   "ışınım ısısı"
+  ],
+  "slug": "isinimsal-isi-radiant-heat"
+ },
+ {
+  "key": "radiated heat",
+  "tr": "ışınan ısı",
+  "explanation": "Bir cismin ışınım yoluyla uzaya yaydığı ısı; Spencer'a göre Güneş'in hareket kaybının biçimi.",
+  "slug": "isinan-isi-radiated-heat"
+ },
+ {
+  "key": "radiation",
+  "tr": "ışıma",
+  "explanation": "Isı ve ışığın bir cisimden çevreye dalga biçiminde yayılması.",
+  "variants": [
+   "ışınım"
+  ],
+  "slug": "isima-radiation"
+ },
+ {
+  "key": "Rational Theology",
+  "tr": "Rasyonel Teoloji",
+  "explanation": "Vahye değil yalnızca akla dayanarak Tanrı'nın varlığını ve niteliklerini kanıtlamaya çalışan teoloji; Mansel'in çelişkilerini gösterdiği alan.",
+  "slug": "rasyonel-teoloji-rational-theology"
+ },
+ {
+  "key": "Realism",
+  "tr": "realizm",
+  "explanation": "Dış dünyanın zihinden bağımsız olarak var olduğunu savunan görüş (gerçekçilik).",
+  "slug": "realizm-realism"
+ },
+ {
+  "key": "recitative",
+  "tr": "resitatif",
+  "explanation": "Konuşmaya yakın, sözün ritmini izleyen ezgisel okuma biçimi.",
+  "slug": "resitatif-recitative"
+ },
+ {
+  "key": "Recognition",
+  "tr": "yeniden tanıma",
+  "explanation": "Bir izlenimin daha önce yaşanmış benzer izlenimlerle özdeşleştirilmesi; Spencer'a göre her gerçek biliş ancak buna eşlik eden bir yeniden tanımayla olanaklıdır.",
+  "slug": "yeniden-tanima-recognition"
+ },
+ {
+  "key": "redistribution of Matter and Motion",
+  "tr": "madde ve hareketin yeniden dağılımı",
+  "explanation": "Spencer'a göre bütün değişimin özü: maddenin ve hareketin sürekli olarak yeniden düzenlenmesi.",
+  "slug": "madde-ve-hareketin-yeniden-dagilimi-redistribution-of-matter-and-motion"
+ },
+ {
+  "key": "Reflection",
+  "tr": "düşünüm",
+  "explanation": "Locke'tan gelen terim: zihnin kendi işlemleri üzerine yönelmesi; dış algıdan ayrı olarak iç deneyim kaynağı.",
+  "variants": [
+   "yansıma"
+  ],
+  "slug": "dusunum-reflection"
+ },
+ {
+  "key": "reflex",
+  "tr": "refleks",
+  "explanation": "Bir uyarının bilinçten geçmeden, omurilik yoluyla doğrudan kas hareketine dönüşmesi.",
+  "slug": "refleks-reflex"
+ },
+ {
+  "key": "refraction",
+  "tr": "kırılma",
+  "explanation": "Işık ya da ses dalgalarının bir ortamdan başka bir ortama geçerken yön değiştirmesi.",
+  "slug": "kirilma-refraction"
+ },
+ {
+  "key": "regulative",
+  "tr": "düzenleyici",
+  "explanation": "Spencer'ın toplumsal örgütlenmede yöneten, denetleyen sınıfları (hükûmet, ordu, kilise, hukuk) nitelemek için kullandığı terim.",
+  "slug": "duzenleyici-regulative"
+ },
+ {
+  "key": "regulative organization",
+  "tr": "düzenleyici örgütlenme",
+  "explanation": "Bir toplumun etkinliklerini denetleyen ve eşgüdümleyen yönetsel yapı; militan ve endüstriyel tiplerde farklı biçimler alır.",
+  "slug": "duzenleyici-orgutlenme-regulative-organization"
+ },
+ {
+  "key": "relationing",
+  "tr": "ilişkilendirmek",
+  "explanation": "Spencer'ın, düşünmenin özünü anlatan terimi: her düşünce iki terim arasında bir ilişki kurmaktır; ilişkinin bir terimi eksikse düşünce oluşamaz.",
+  "slug": "iliskilendirmek-relationing"
+ },
+ {
+  "key": "relative reality",
+  "tr": "göreli gerçeklik",
+  "explanation": "Bilincimizin biçimleri altında, ilişkiler içinde bildiğimiz gerçeklik; mutlak gerçekliğin bizde yarattığı koşullu ama kalıcı etki.",
+  "slug": "goreli-gerceklik-relative-reality"
+ },
+ {
+  "key": "Relativity of Knowledge",
+  "tr": "Bilginin Göreliliği",
+  "explanation": "Her bilginin ilişkiler, farklar ve benzerlikler üzerinden kurulduğu; dolayısıyla mutlak olanın asla bilinemeyeceği öğretisi.",
+  "slug": "bilginin-goreliligi-relativity-of-knowledge"
+ },
+ {
+  "key": "religious sentiment",
+  "tr": "dinsel duygu",
+  "explanation": "Spencer'ın, dinsel fikirlere karşılık veren ve insan doğasının bir bileşeni saydığı duygulanım; ister yaratılmış ister evrimle gelişmiş olsun, saygıyla ele alınması gerektiğini savunur.",
+  "slug": "dinsel-duygu-religious-sentiment"
+ },
+ {
+  "key": "Representation",
+  "tr": "temsil",
+  "explanation": "Daha önce sunulmuş bir izlenimin bellek ya da imgelemde yeniden canlandırılması; Spencer'da sönük tezahürlere karşılık gelir ve 'ideal' olanı oluşturur.",
+  "slug": "temsil-representation"
+ },
+ {
+  "key": "resistance",
+  "tr": "direnç",
+  "explanation": "Bir nesnenin kas çabamıza karşı koyması; Spencer'da Madde fikrinin birincil, Uzay fikrinin ise türevsel kaynağı olan temel kuvvet deneyimi.",
+  "slug": "direnc-resistance"
+ },
+ {
+  "key": "resisting medium",
+  "tr": "dirençli ortam",
+  "explanation": "İçinden geçen cisimlerin hızını azaltan seyrek madde ortamı; Spencer bunu yıldız kümelerinin çarpışmasıyla oluşan bulutsu madde için kullanır.",
+  "variants": [
+   "direnç gösteren ortam"
+  ],
+  "slug": "direncli-ortam-resisting-medium"
+ },
+ {
+  "key": "resolution of force",
+  "tr": "kuvvetin bileşenlere ayrılışı",
+  "explanation": "Bir yığına gelen kuvvetin, ürettiği farklı etkilere göre (etkili/etkisiz, geçici/kalıcı, duyulur/duyulmaz) kısımlara ayrılarak çözümlenmesi.",
+  "slug": "kuvvetin-bilesenlere-ayrilisi-resolution-of-force"
+ },
+ {
+  "key": "resolution of forces",
+  "tr": "kuvvetlerin bileşenlerine ayrılması",
+  "explanation": "Mekanikte bir kuvvetin, toplamı o kuvvete eşit olan birden çok bileşen kuvvete ayrıştırılması işlemi.",
+  "slug": "kuvvetlerin-bilesenlerine-ayrilmasi-resolution-of-forces"
+ },
+ {
+  "key": "Rest",
+  "tr": "durgunluk",
+  "explanation": "Hareketsizlik, sıfır hız durumu; Spencer en küçük hareketle durgunluk arasında aşılmaz bir uçurum bulunduğunu savunur.",
+  "slug": "durgunluk-rest"
+ },
+ {
+  "key": "resultant",
+  "tr": "bileşke",
+  "explanation": "Bir cisme etkiyen birden çok kuvvetin yerine geçebilen, aynı etkiyi üreten tek kuvvet; hareketin yönünü belirleyen büyüklük.",
+  "slug": "bileske-resultant"
+ },
+ {
+  "key": "resultant force",
+  "tr": "bileşke kuvvet",
+  "explanation": "Birden çok kuvvetin birleşmesiyle ortaya çıkan tek bir toplam kuvvet; mekanikte kuvvetlerin bileşimi.",
+  "slug": "bileske-kuvvet-resultant-force"
+ },
+ {
+  "key": "retained motion",
+  "tr": "alıkonan hareket",
+  "explanation": "Evrim sırasında dağılıp kaçmayan, yığının bir süre için içinde tuttuğu hareket; Spencer'a göre bu hareket de madde gibi bütünleşir, farklılaşır ve belirlilik kazanır.",
+  "slug": "alikonan-hareket-retained-motion"
+ },
+ {
+  "key": "retina",
+  "tr": "retina",
+  "explanation": "Gözün arka iç yüzeyinde ışığa duyarlı hücrelerden oluşan ağ tabaka.",
+  "slug": "retina-retina"
+ },
+ {
+  "key": "Rhizopoda",
+  "tr": "kökayaklılar",
+  "explanation": "Yalancı ayaklarla hareket eden tek hücreli canlılar (amipler ve akrabaları); biçimleri sürekli değişir.",
+  "slug": "kokayaklilar-rhizopoda"
+ },
+ {
+  "key": "Rhythm",
+  "tr": "ritim",
+  "explanation": "Zıt kuvvetlerin etkisiyle oluşan düzenli salınım ya da dönemsellik.",
+  "slug": "ritim-rhythm"
+ },
+ {
+  "key": "Rhythm of Motion",
+  "tr": "Hareketin Ritmi",
+  "explanation": "Her hareketin zıt kuvvetlerin çatışması sonucu salınımlı, dalgalı ya da dönemsel bir karakter taşıdığı ilkesi.",
+  "slug": "hareketin-ritmi-rhythm-of-motion"
+ },
+ {
+  "key": "Rotifera",
+  "tr": "Rotifera",
+  "explanation": "Tekerlekli hayvancıklar; kuruyunca cansız görünen, ıslanınca yeniden canlanan mikroskobik su hayvanları.",
+  "slug": "rotifera-rotifera"
+ },
+ {
+  "key": "sacrum",
+  "tr": "sakrum",
+  "explanation": "Omurganın alt kısmında, birkaç omurun kaynaşmasıyla oluşan kuyruk sokumu üstü kemik (kuyruk sokumu kemiğinin üstündeki sağrı kemiği).",
+  "slug": "sakrum-sacrum"
+ },
+ {
+  "key": "sal-ammoniac",
+  "tr": "nışadır",
+  "explanation": "Amonyum klorür; ısıtıldığında erimeden doğrudan gaza geçen (süblimleşen) uçucu katı.",
+  "slug": "nisadir-sal-ammoniac"
+ },
+ {
+  "key": "satellite",
+  "tr": "uydu",
+  "explanation": "Bir gezegenin çevresinde dolanan gök cismi.",
+  "slug": "uydu-satellite"
+ },
+ {
+  "key": "Scepticism",
+  "tr": "şüphecilik",
+  "explanation": "Kesin bilginin olanaklılığından kuşku duyan felsefi tutum.",
+  "slug": "suphecilik-scepticism"
+ },
+ {
+  "key": "Science",
+  "tr": "Bilim",
+  "explanation": "Görüngüler arasındaki birlikte var oluşları ve ardışıklıkları genellemeler hâlinde düzenleyen, kısmen birleştirilmiş bilgi; Spencer'a göre tek tek Bilimlerin toplamı.",
+  "slug": "bilim-science"
+ },
+ {
+  "key": "secondary redistribution",
+  "tr": "ikincil yeniden dağılım",
+  "explanation": "Birincil bütünleşme sürerken bir bütünün parçaları içinde gerçekleşen yapısal değişimler; bileşik evrimi oluşturan süreç.",
+  "slug": "ikincil-yeniden-dagilim-secondary-redistribution"
+ },
+ {
+  "key": "secular acceleration",
+  "tr": "seküler ivmelenme",
+  "explanation": "Ay'ın ortalama hareketinde yüzyıllar boyunca biriken ve Dünya yörüngesinin dış merkezlilik değişimine bağlanan yavaş hızlanma.",
+  "slug": "sekuler-ivmelenme-secular-acceleration"
+ },
+ {
+  "key": "secular variation",
+  "tr": "seküler değişim",
+  "explanation": "Astronomide gezegen hareketlerinde çok uzun zaman dilimlerinde birikerek ortaya çıkan, dönemsel olmayan yavaş değişim.",
+  "slug": "sekuler-degisim-secular-variation"
+ },
+ {
+  "key": "sedimentary",
+  "tr": "tortul",
+  "explanation": "Su ya da rüzgârla taşınan döküntünün çökerek birikmesiyle oluşan kaya ve katmanlara ilişkin.",
+  "slug": "tortul-sedimentary"
+ },
+ {
+  "key": "sedimentary deposits",
+  "tr": "tortul çökeltiler",
+  "explanation": "Su ya da rüzgârla taşınan maddelerin birikmesiyle oluşan katmanlar.",
+  "variants": [
+   "tortul çökeller"
+  ],
+  "slug": "tortul-cokeltiler-sedimentary-deposits"
+ },
+ {
+  "key": "sedimentary strata",
+  "tr": "tortul katmanlar",
+  "explanation": "Su ya da rüzgârla taşınan malzemenin birikip katılaşmasıyla oluşan yer katmanları; fosilleri barındıran kayaçlar.",
+  "slug": "tortul-katmanlar-sedimentary-strata"
+ },
+ {
+  "key": "segment",
+  "tr": "bölüt",
+  "explanation": "Halkalı hayvanların bedenini oluşturan, art arda dizili benzer halkalardan her biri.",
+  "slug": "bolut-segment"
+ },
+ {
+  "key": "segmentation",
+  "tr": "bölünme",
+  "explanation": "Döllenmiş yumurtanın art arda hücrelere bölünerek dut benzeri bir kütle oluşturması (segmentasyon, yarıklanma).",
+  "slug": "bolunme-segmentation"
+ },
+ {
+  "key": "Segregation",
+  "tr": "ayrışma",
+  "explanation": "Benzer birimlerin bir araya toplanıp benzemeyen birimlerden ayrılması; evrimde belirliliğin artmasını açıklayan süreç.",
+  "slug": "ayrisma-segregation"
+ },
+ {
+  "key": "Self",
+  "tr": "benlik",
+  "explanation": "Kişinin kendisi olarak tanıdığı tezahürler bütünü; sönük tezahürlerin öbeğine verilen ad.",
+  "slug": "benlik-self"
+ },
+ {
+  "key": "self-consciousness",
+  "tr": "öz bilinç",
+  "explanation": "Zihnin kendi hâllerinin farkında olması; Spencer'a göre mutlak varoluş bilinci bunun ters yüzüdür, çünkü her düşüncede yeniden koşullanan değişmez bilinç tözüne dayanır.",
+  "slug": "oz-bilinc-self-consciousness"
+ },
+ {
+  "key": "Self-creation",
+  "tr": "kendini yaratma",
+  "explanation": "Evrenin kendi kendini var etmesi düşüncesi (panteizmin biçimi); Spencer'a göre düşünülemez.",
+  "slug": "kendini-yaratma-self-creation"
+ },
+ {
+  "key": "Self-existence",
+  "tr": "kendi kendine var olma",
+  "explanation": "Bir şeyin başka hiçbir şeye bağlı olmadan, nedensiz var olması; Spencer'a göre tasavvur edilemez.",
+  "slug": "kendi-kendine-var-olma-self-existence"
+ },
+ {
+  "key": "Sensation",
+  "tr": "duyum",
+  "explanation": "Duyu organlarına gelen uyarının bilinçte yarattığı en basit etki.",
+  "slug": "duyum-sensation"
+ },
+ {
+  "key": "sensible existence",
+  "tr": "duyulur varoluş",
+  "explanation": "Duyular üzerinde etki edecek biçimde somut, algılanabilir bir biçim almış olan her şey; Spencer'ın evrim ve çözülme süreçlerinin öznesi olarak kullandığı genel ad.",
+  "slug": "duyulur-varolus-sensible-existence"
+ },
+ {
+  "key": "sensible motion",
+  "tr": "duyulur hareket",
+  "explanation": "Duyularla algılanabilen, görünür kütlelerin yer değiştirmesi biçimindeki hareket; duyulmaz (moleküler) hareketin karşıtı.",
+  "slug": "duyulur-hareket-sensible-motion"
+ },
+ {
+  "key": "sentient",
+  "tr": "duyumlayan",
+  "explanation": "Duyarlığı olan, duyum alabilen; henüz düşünme yetisi olmasa da kuvvet izlenimlerini alabilen varlık için kullanılır.",
+  "slug": "duyumlayan-sentient"
+ },
+ {
+  "key": "sequence",
+  "tr": "ardışıklık",
+  "explanation": "Bilinç durumlarının birbirini izlemesi ilişkisi; terimleri tersine çevrilemeyen ilişki. Spencer'a göre bilincin özgün ilişki türüdür ve bütün ardışıklıkların soyutu Zaman'dır.",
+  "slug": "ardisiklik-sequence"
+ },
+ {
+  "key": "Sidereal System",
+  "tr": "Yıldız Sistemi",
+  "explanation": "Güneş'in de içinde bulunduğu yıldızlar topluluğu (bugünkü anlamıyla galaksi); 19. yüzyılda yapısı tam bilinmiyordu.",
+  "slug": "yildiz-sistemi-sidereal-system"
+ },
+ {
+  "key": "silica",
+  "tr": "silika",
+  "explanation": "Silisyum dioksit; kum ve çakmaktaşının ana maddesi.",
+  "slug": "silika-silica"
+ },
+ {
+  "key": "Silurian",
+  "tr": "Silüriyen",
+  "explanation": "Paleozoik zamanın erken dönemlerinden biri; 19. yüzyılda bilinen en eski fosilli katmanlar bu döneme aitti.",
+  "slug": "siluriyen-silurian"
+ },
+ {
+  "key": "simple evolution",
+  "tr": "basit evrim",
+  "explanation": "Yalnızca maddenin toplanması ve hareketin dağılmasıyla sınırlı, ikincil değişimlerin eşlik etmediği evrim.",
+  "slug": "basit-evrim-simple-evolution"
+ },
+ {
+  "key": "social forces",
+  "tr": "toplumsal kuvvetler",
+  "explanation": "Ancak çok sayıda insanın iş birliğiyle ortaya çıkan ve bireysel çabalardan ayrı bir nitelik kazanan etkinlikler.",
+  "slug": "toplumsal-kuvvetler-social-forces"
+ },
+ {
+  "key": "Social Organism",
+  "tr": "toplumsal organizma",
+  "explanation": "Toplumun canlı bir organizma gibi bütünleşen, farklılaşan ve işlevleri uzmanlaşan bir yapı olduğu görüşü; Spencer'ın sosyolojisinin temel benzetmesi.",
+  "slug": "toplumsal-organizma-social-organism"
+ },
+ {
+  "key": "Sociology",
+  "tr": "sosyoloji",
+  "explanation": "Toplumların yapı ve gelişimini inceleyen bilim; Spencer bu alanın kurucularından sayılır.",
+  "slug": "sosyoloji-sociology"
+ },
+ {
+  "key": "solar spots",
+  "tr": "güneş lekeleri",
+  "explanation": "Güneş yüzeyindeki görece soğuk, koyu bölgeler; sayıları yaklaşık on bir yıllık bir döngüyle artıp azalır.",
+  "slug": "gunes-lekeleri-solar-spots"
+ },
+ {
+  "key": "Solar System",
+  "tr": "Güneş Sistemi",
+  "explanation": "Güneş ile onun çevresinde dolanan gezegenler, uydular ve öteki gök cisimlerinin oluşturduğu bütün; Spencer'da simgesel tasavvurun doğrulanabilir örneği.",
+  "slug": "gunes-sistemi-solar-system"
+ },
+ {
+  "key": "Solution",
+  "tr": "çözünme",
+  "explanation": "Katı bir maddenin moleküllerinin bir sıvının molekülleri arasına dağılması (ör. tuzun suda çözünmesi); Spencer bunu hareket soğuran bir çözülme örneği olarak kullanır.",
+  "slug": "cozunme-solution"
+ },
+ {
+  "key": "Space",
+  "tr": "uzay",
+  "explanation": "Şeylerin yan yana bulunma biçimi; Spencer'a göre ne tam anlamıyla nesnel ne de tamamen öznel olarak kavranabilen temel sezgi.",
+  "slug": "uzay-space"
+ },
+ {
+  "key": "special creation",
+  "tr": "özel yaratma",
+  "explanation": "Her türün ve her insan yetisinin bir yaratıcı tarafından ayrı ayrı ve doğrudan yaratıldığını savunan, evrim kuramının karşısındaki 19. yüzyıl öğretisi.",
+  "slug": "ozel-yaratma-special-creation"
+ },
+ {
+  "key": "Special Philosophy",
+  "tr": "Özel Felsefe",
+  "explanation": "Evrensel doğruları araç olarak kullanıp tikel görüngü alanlarını (biyoloji, psikoloji, sosyoloji vb.) yorumlayan Felsefe; Sentetik Felsefe'nin sonraki ciltlerinin konusu.",
+  "slug": "ozel-felsefe-special-philosophy"
+ },
+ {
+  "key": "Species",
+  "tr": "tür",
+  "explanation": "Birbirine benzeyen ve üreyebilen canlıların oluşturduğu sınıf.",
+  "slug": "tur-species"
+ },
+ {
+  "key": "specific gravity",
+  "tr": "özgül ağırlık",
+  "explanation": "Bir maddenin yoğunluğunun suyun yoğunluğuna oranı; altının yüksek özgül ağırlığı onu tanımanın ölçütlerinden biridir.",
+  "slug": "ozgul-agirlik-specific-gravity"
+ },
+ {
+  "key": "spectrum",
+  "tr": "tayf",
+  "explanation": "Bir yıldızın ışığının prizmayla renklerine ayrılmasıyla elde edilen ve fiziksel-kimyasal durumunu gösteren görüntü.",
+  "slug": "tayf-spectrum"
+ },
+ {
+  "key": "spheroid",
+  "tr": "küremsi",
+  "explanation": "Küreye yakın, basıklaşmış biçim; dönen gaz ya da sıvı kütlelerin aldığı şekil.",
+  "slug": "kuremsi-spheroid"
+ },
+ {
+  "key": "sphygmograph",
+  "tr": "sfigmograf",
+  "explanation": "Nabız atışlarını kaydeden 19. yüzyıl aygıtı; işlevlerin niceliksel ölçümüne örnek.",
+  "slug": "sfigmograf-sphygmograph"
+ },
+ {
+  "key": "Spiritualism",
+  "tr": "spiritüalizm",
+  "explanation": "Gerçekliğin temelinin madde değil tin ya da zihin olduğunu savunan görüş; Spencer öğretisinin ne materyalist ne de spiritüalist olduğunu vurgular.",
+  "slug": "spiritualizm-spiritualism"
+ },
+ {
+  "key": "spirometer",
+  "tr": "spirometre",
+  "explanation": "Akciğerlerin aldığı ve verdiği hava hacmini ölçen aygıt.",
+  "slug": "spirometre-spirometer"
+ },
+ {
+  "key": "spore",
+  "tr": "spor",
+  "explanation": "Bitki ve bazı tek hücrelilerde üremeye yarayan, tek başına yeni bir birey oluşturabilen hücre.",
+  "slug": "spor-spore"
+ },
+ {
+  "key": "stable equilibrium",
+  "tr": "kararlı denge",
+  "explanation": "Bir cismin küçük bir sarsıntıdan sonra eski durumuna döndüğü denge hâli; Spencer'a göre inorganik cisimlerin eğilimi, canlı cisimlerin ise sürekli karşı koyduğu durum.",
+  "slug": "kararli-denge-stable-equilibrium"
+ },
+ {
+  "key": "star-cluster",
+  "tr": "yıldız kümesi",
+  "explanation": "Karşılıklı kütle çekimiyle bir arada bulunan, ortak kökenli yıldız topluluğu.",
+  "slug": "yildiz-kumesi-star-cluster"
+ },
+ {
+  "key": "statical force",
+  "tr": "statik kuvvet",
+  "explanation": "Dengedeki cisimlere etki eden, hareket üretmeyen kuvvet; Arkhimedes'in kaldıraç ve denge çalışmalarında ilk kez açıkça kavranmıştır.",
+  "slug": "statik-kuvvet-statical-force"
+ },
+ {
+  "key": "stationary state",
+  "tr": "durağan durum",
+  "explanation": "John Stuart Mill'in, nüfusun ve sermayenin artışının durduğu, üretim ile tüketimin dengelendiği varsayımsal ekonomik son durum için kullandığı terim.",
+  "slug": "duragan-durum-stationary-state"
+ },
+ {
+  "key": "stimulation",
+  "tr": "uyarım",
+  "explanation": "Bir organizmanın bir bölümüne dışarıdan ya da içeriden kuvvet eklenmesi; sinir sisteminde tepkiyi başlatan etki.",
+  "slug": "uyarim-stimulation"
+ },
+ {
+  "key": "stomata",
+  "tr": "stoma",
+  "explanation": "Bitki yüzeyinde gaz alışverişini sağlayan küçük gözenekler.",
+  "slug": "stoma-stomata"
+ },
+ {
+  "key": "strain",
+  "tr": "gerilim",
+  "explanation": "Bir cismin ya da kasın, hareket üretmeksizin de var olabilen zorlanma durumu; Spencer'da gizil etkinliğin bulunduğu biçim.",
+  "variants": [
+   "gerinim"
+  ],
+  "slug": "gerilim-strain"
+ },
+ {
+  "key": "strata",
+  "tr": "katmanlar",
+  "explanation": "Yer kabuğunu oluşturan, üst üste yığılmış kayaç tabakaları.",
+  "variants": [
+   "tabakalar"
+  ],
+  "slug": "katmanlar-strata"
+ },
+ {
+  "key": "Stratum",
+  "tr": "katman",
+  "explanation": "Jeolojide, tortuların üst üste birikmesiyle oluşmuş kaya tabakası; Spencer, yapı taşlarının geçmişini bu katmanlara kadar geriye izler.",
+  "slug": "katman-stratum"
+ },
+ {
+  "key": "stroma",
+  "tr": "stroma",
+  "explanation": "Bir organın, işlevsel hücrelerini taşıyan destek dokusu; burada yumurtalığın bağ dokusu.",
+  "slug": "stroma-stroma"
+ },
+ {
+  "key": "Structure",
+  "tr": "yapı",
+  "explanation": "Bir bütünün parçalarının düzenlenişi; işlevle karşılıklı bağımlıdır.",
+  "slug": "yapi-structure"
+ },
+ {
+  "key": "subject",
+  "tr": "özne",
+  "explanation": "Bilen, bilincinde olan taraf; felsefede nesnenin karşıtı olarak bilinç ilişkisinin bir ucu.",
+  "slug": "ozne-subject"
+ },
+ {
+  "key": "subject and object",
+  "tr": "özne ile nesne",
+  "explanation": "Bilen ile bilinen arasındaki ayrım; Hamilton ve Mansel'e göre her bilincin temel koşulu olan ilksel ikilik.",
+  "slug": "ozne-ile-nesne-subject-and-object"
+ },
+ {
+  "key": "Substance",
+  "tr": "töz",
+  "explanation": "Niteliklerin ve değişimlerin altında yatan, kendi başına var olan temel şey; hem madde hem de düşünen zihin için kullanılır.",
+  "slug": "toz-substance"
+ },
+ {
+  "key": "super-organic",
+  "tr": "organizma-üstü",
+  "explanation": "Tek tek organizmaların ötesinde, toplumların ve kültürün oluşturduğu evrim düzeyi (toplumsal evrim).",
+  "slug": "organizma-ustu-super-organic"
+ },
+ {
+  "key": "survival of the fittest",
+  "tr": "en uygun olanın hayatta kalması",
+  "explanation": "Spencer'ın doğal seçilim için türettiği ifade; Darwin daha sonra bunu benimsemiştir.",
+  "slug": "en-uygun-olanin-hayatta-kalmasi-survival-of-the-fittest"
+ },
+ {
+  "key": "symbolic conception",
+  "tr": "simgesel tasavvur",
+  "explanation": "Zihinde tam olarak canlandırılamayan şeylerin (ör. Dünya'nın bütünü) yerine geçen kısaltılmış, dolaylı zihinsel temsil.",
+  "slug": "simgesel-tasavvur-symbolic-conception"
+ },
+ {
+  "key": "Sympathy",
+  "tr": "duygudaşlık",
+  "explanation": "Başkalarının duygularını paylaşma yetisi; Spencer edilgin duygudaşlığı olumsuz, etkin duygudaşlığı olumlu iyilikseverliğin kaynağı sayar.",
+  "slug": "duygudaslik-sympathy"
+ },
+ {
+  "key": "syncope",
+  "tr": "senkop",
+  "explanation": "Beyne giden kan akışının geçici azalmasıyla ortaya çıkan ani bilinç kaybı, bayılma.",
+  "slug": "senkop-syncope"
+ },
+ {
+  "key": "Synthesis",
+  "tr": "sentez",
+  "explanation": "Ayrı bilgilerin birleştirilip bir bütün hâline getirilmesi; Spencer'ın 'Sentetik Felsefe' adının kaynağı.",
+  "slug": "sentez-synthesis"
+ },
+ {
+  "key": "Synthetic Philosophy",
+  "tr": "Sentetik Felsefe",
+  "explanation": "Spencer'ın bütün bilimleri evrim ilkesi altında birleştirmeyi amaçlayan on ciltlik sistemi; İlk İlkeler bu sistemin ilk kitabıdır.",
+  "slug": "sentetik-felsefe-synthetic-philosophy"
+ },
+ {
+  "key": "systole",
+  "tr": "sistol",
+  "explanation": "Kalbin kasılarak kanı damarlara pompaladığı evre.",
+  "slug": "sistol-systole"
+ },
+ {
+  "key": "tangential force",
+  "tr": "teğetsel kuvvet",
+  "explanation": "Yörüngedeki bir cismi, yörüngeye teğet doğrultuda düz bir çizgi boyunca ileri götürme eğilimindeki kuvvet.",
+  "slug": "tegetsel-kuvvet-tangential-force"
+ },
+ {
+  "key": "teleological hypothesis",
+  "tr": "teleolojik hipotez",
+  "explanation": "Doğadaki düzenin önceden belirlenmiş bir amaca göre tasarlandığını varsayan açıklama.",
+  "slug": "teleolojik-hipotez-teleological-hypothesis"
+ },
+ {
+  "key": "tempering",
+  "tr": "menevişleme",
+  "explanation": "Sertleştirilmiş çeliğin belirli bir sıcaklığa kadar yeniden ısıtılıp yavaş soğutularak kırılganlığının giderilmesi işlemi.",
+  "slug": "menevisleme-tempering"
+ },
+ {
+  "key": "tension",
+  "tr": "gerginlik",
+  "explanation": "Gerilmiş bir ipin ya da kasın çekme durumu; direnç ile birlikte kuvvet fikrimizin kaynağı olan duyum.",
+  "variants": [
+   "gerilim"
+  ],
+  "slug": "gerginlik-tension"
+ },
+ {
+  "key": "tertiary",
+  "tr": "Tersiyer",
+  "explanation": "Memelilerin yaygınlaştığı, günümüze görece yakın jeolojik dönem (Üçüncü Zaman).",
+  "slug": "tersiyer-tertiary"
+ },
+ {
+  "key": "tetrachord",
+  "tr": "tetrakord",
+  "explanation": "Eski Yunan müziğinde dört notadan oluşan temel dizi; dört telli lirin karşılığı.",
+  "slug": "tetrakord-tetrachord"
+ },
+ {
+  "key": "the Absolute",
+  "tr": "Mutlak",
+  "explanation": "Hiçbir şeye bağlı ve göreli olmayan, koşulsuz varlık; Hamilton ve Mansel'in tartıştığı, Spencer'ın bilinemez saydığı nihai gerçeklik.",
+  "slug": "mutlak-the-absolute"
+ },
+ {
+  "key": "the Conditioned",
+  "tr": "koşullu",
+  "explanation": "Koşullar, sınırlar ve ilişkiler altında var olan ve bilinen her şey; Hamilton'a göre düşüncenin ve bilginin biricik olanaklı nesnesi.",
+  "slug": "kosullu-the-conditioned"
+ },
+ {
+  "key": "the Knowable",
+  "tr": "Bilinebilir",
+  "explanation": "Deneyimle ulaşılabilen, bilimin ve felsefenin inceleyebildiği görüngüler alanı.",
+  "slug": "bilinebilir-the-knowable"
+ },
+ {
+  "key": "the Relative",
+  "tr": "Göreli",
+  "explanation": "Başka şeylerle ilişkisi içinde var olan ve ancak o ilişkiler içinde bilinebilen şey; insan bilgisinin tamamı bu alandadır.",
+  "slug": "goreli-the-relative"
+ },
+ {
+  "key": "the Unconditioned",
+  "tr": "Koşulsuz",
+  "explanation": "Hamilton'ın terimi: hiçbir koşula, sınıra ve ilişkiye bağlı olmayan varlık; Sonsuz ile Mutlak'ı kapsar. Spencer'a göre belirli olarak düşünülemez ama belirsiz bir bilinci vardır.",
+  "slug": "kosulsuz-the-unconditioned"
+ },
+ {
+  "key": "the Unknowable",
+  "tr": "Bilinemez",
+  "explanation": "İnsan bilgisinin ve tasavvurunun ötesinde kalan nihai gerçeklik; Spencer'a göre din ile bilimin ortak olarak kabul ettiği mutlak gizem.",
+  "slug": "bilinemez-the-unknowable"
+ },
+ {
+  "key": "Theism",
+  "tr": "teizm",
+  "explanation": "Evreni yaratan ve yöneten kişisel bir Tanrı'ya inanç.",
+  "slug": "teizm-theism"
+ },
+ {
+  "key": "theocratic",
+  "tr": "teokratik",
+  "explanation": "Yönetimin dinî otoriteye dayandığı, hükümdarın tanrısal sayıldığı yönetim biçimine ilişkin.",
+  "slug": "teokratik-theocratic"
+ },
+ {
+  "key": "Theology",
+  "tr": "teoloji",
+  "explanation": "Tanrı'nın doğasını ve dinî öğretileri sistemli biçimde inceleyen disiplin (ilahiyat).",
+  "slug": "teoloji-theology"
+ },
+ {
+  "key": "thermal equivalent",
+  "tr": "ısıl eşdeğer",
+  "explanation": "Belirli bir miktar mekanik hareketin ya da işin dönüştüğünde ürettiği ısı miktarı; Joule'ün ölçtüğü mekanik ısı eşdeğeri.",
+  "slug": "isil-esdeger-thermal-equivalent"
+ },
+ {
+  "key": "thermal undulations",
+  "tr": "ısıl dalgalanmalar",
+  "explanation": "Isının esir içinde dalga biçiminde yayıldığı varsayılan ışıma; dağılan her hareketin sonunda uzaya kaçtığı biçim.",
+  "slug": "isil-dalgalanmalar-thermal-undulations"
+ },
+ {
+  "key": "thermology",
+  "tr": "termoloji",
+  "explanation": "19. yüzyılda ısı olaylarını inceleyen fizik dalına verilen ad; bugünkü termodinamiğin öncüsü (ısı bilimi).",
+  "slug": "termoloji-thermology"
+ },
+ {
+  "key": "things in themselves",
+  "tr": "kendinde şeyler",
+  "explanation": "Kant'tan gelen ifade: bize göründükleri biçimleriyle değil, kendi başlarına oldukları hâliyle nesneler; Spencer'a göre bilgimizin asla erişemeyeceği alan.",
+  "slug": "kendinde-seyler-things-in-themselves"
+ },
+ {
+  "key": "tidal friction",
+  "tr": "gelgit sürtünmesi",
+  "explanation": "Gelgit dalgasının Yer'in dönüşüne karşı yarattığı sürtünme; 19. yüzyıl fizikçilerine göre Yer'in dönüşünü çok yavaş biçimde azaltan etken.",
+  "slug": "gelgit-surtunmesi-tidal-friction"
+ },
+ {
+  "key": "Time",
+  "tr": "zaman",
+  "explanation": "Şeylerin ardışık olma biçimi; uzay gibi nihai doğası bilinemeyen temel sezgi.",
+  "slug": "zaman-time"
+ },
+ {
+  "key": "tissue",
+  "tr": "doku",
+  "explanation": "Benzer hücrelerin birleşerek oluşturduğu ve belirli bir işlevi yerine getiren yapı (sinir dokusu, kas dokusu vb.).",
+  "slug": "doku-tissue"
+ },
+ {
+  "key": "trade-winds",
+  "tr": "alize rüzgârları",
+  "explanation": "Tropikal bölgelerde yıl boyu düzenli esen, ekvatora doğru yönelen kalıcı rüzgârlar.",
+  "slug": "alize-ruzgarlari-trade-winds"
+ },
+ {
+  "key": "transcendentalists",
+  "tr": "transandantalistler",
+  "explanation": "Kant'ı izleyerek uzay ve zamanı deneyimden türemeyen, zihnin önsel sezgi biçimleri sayan filozoflar; Spencer bu görüşe karşı uzay ve zaman tasavvurlarının deneyimden üretildiğini savunur.",
+  "slug": "transandantalistler-transcendentalists"
+ },
+ {
+  "key": "Transfigured Realism",
+  "tr": "dönüşmüş realizm",
+  "explanation": "Spencer'ın kendi konumu: dış dünyanın varlığı kesindir ama bize göründüğü biçimiyle değil, bilinemeyen bir biçimde vardır.",
+  "slug": "donusmus-realizm-transfigured-realism"
+ },
+ {
+  "key": "Transformation of Forces",
+  "tr": "kuvvetlerin dönüşümü",
+  "explanation": "Hareketin ısıya, ısının elektriğe vb. dönüşmesi gibi kuvvet biçimlerinin birbirine geçişi.",
+  "slug": "kuvvetlerin-donusumu-transformation-of-forces"
+ },
+ {
+  "key": "translation",
+  "tr": "yer değiştirme",
+  "explanation": "Bir cismin uzayda bir konumdan başka bir konuma geçmesi; Spencer'a göre hareketin görünür fakat sürekli olmayan öğesi.",
+  "slug": "yer-degistirme-translation"
+ },
+ {
+  "key": "trap-rock",
+  "tr": "trap kayası",
+  "explanation": "Bazalt türünden koyu renkli, basamaklı kütleler oluşturan volkanik kaya; hava etkisiyle soğan kabuğu gibi katmanlar hâlinde ayrışır.",
+  "slug": "trap-kayasi-trap-rock"
+ },
+ {
+  "key": "Trinitarian",
+  "tr": "Teslisçi",
+  "explanation": "Tanrı'nın Baba, Oğul ve Kutsal Ruh olarak üç kişide tek olduğunu (Teslis) savunan Hristiyan öğretisine bağlı olan.",
+  "slug": "teslisci-trinitarian"
+ },
+ {
+  "key": "tropical",
+  "tr": "tropik",
+  "explanation": "Hiyeroglif sınıflamasında bir nesneyi mecazi ya da simgesel yoldan gösteren işaret türü; kuriolojik olanın karşıtı.",
+  "slug": "tropik-tropical"
+ },
+ {
+  "key": "Turbellaria",
+  "tr": "Turbellaria",
+  "explanation": "Yassı solucanların serbest yaşayan, vücut yüzeyi sillerle kaplı sınıfı (kirpikli solucanlar).",
+  "slug": "turbellaria-turbellaria"
+ },
+ {
+  "key": "tympanum",
+  "tr": "timpanon",
+  "explanation": "Alınlığın içindeki, heykellerin yerleştirildiği üçgen yüzey.",
+  "slug": "timpanon-tympanum"
+ },
+ {
+  "key": "Ultimate Cause",
+  "tr": "Nihai Neden",
+  "explanation": "Bütün görüngülerin ardındaki, bilinemez olan temel güç; dinin ve bilimin ortak sınırı.",
+  "slug": "nihai-neden-ultimate-cause"
+ },
+ {
+  "key": "Ultimate Religious Ideas",
+  "tr": "Nihai Dinî Fikirler",
+  "explanation": "Evrenin kökenine ilişkin dinlerin öne sürdüğü temel açıklamalar (ateizm, panteizm, teizm); Spencer'a göre hepsi tasavvur edilemez.",
+  "slug": "nihai-dini-fikirler-ultimate-religious-ideas"
+ },
+ {
+  "key": "Ultimate Scientific Ideas",
+  "tr": "Nihai Bilimsel Fikirler",
+  "explanation": "Uzay, zaman, madde, hareket, kuvvet gibi bilimin dayandığı ama kendileri açıklanamayan temel kavramlar.",
+  "slug": "nihai-bilimsel-fikirler-ultimate-scientific-ideas"
+ },
+ {
+  "key": "Unconditioned Being",
+  "tr": "Koşulsuz Varlık",
+  "explanation": "Düşüncenin biçimleriyle koşullanmamış, kendinde var olan varlık; Spencer'ın Bilinemez için kullandığı adlardan biri.",
+  "slug": "kosulsuz-varlik-unconditioned-being"
+ },
+ {
+  "key": "Unconditioned Cause",
+  "tr": "Koşulsuz Neden",
+  "explanation": "Bildiğimiz kuvvetin de ardında duran, kendisi koşullanmamış nihai neden; Mutlak Gerçeklik ile aynı şeye işaret eder.",
+  "slug": "kosulsuz-neden-unconditioned-cause"
+ },
+ {
+  "key": "Unconditioned Reality",
+  "tr": "Koşulsuz Gerçeklik",
+  "explanation": "Hiçbir koşula bağlı olmayan, başlangıcı ve sonu bulunmayan nihai gerçeklik; Spencer'a göre kuvvetin kalıcılığını ileri sürmek bunu ileri sürmektir.",
+  "slug": "kosulsuz-gerceklik-unconditioned-reality"
+ },
+ {
+  "key": "undulation",
+  "tr": "dalgalanma",
+  "explanation": "Bir ortam ya da cisim boyunca ilerleyen dalga biçimli hareket; Spencer'ın ritim için kullandığı temel örüntülerden biri.",
+  "slug": "dalgalanma-undulation"
+ },
+ {
+  "key": "uniform force",
+  "tr": "tekbiçimli kuvvet",
+  "explanation": "Bir kümenin bütün parçalarına aynı miktar ve yönde etki eden kuvvet (rüzgâr, akıntı, kütle çekimi gibi); benzemez birimleri farklı biçimde hareket ettirdiği için ayrışmanın başlıca nedenidir.",
+  "slug": "tekbicimli-kuvvet-uniform-force"
+ },
+ {
+  "key": "uniformitarian",
+  "tr": "tekbiçimci",
+  "explanation": "Jeolojik değişimlerin geçmişte de bugünkü hızda ve türde işlediğini savunan görüşün (Lyell) yanlısı; ilerlemeciliğin karşıtı.",
+  "slug": "tekbicimci-uniformitarian"
+ },
+ {
+  "key": "Uniformity of Law",
+  "tr": "Yasanın Tekbiçimliliği",
+  "explanation": "Doğa yasalarının her yerde ve her zaman aynı biçimde işlediği ilkesi.",
+  "slug": "yasanin-tekbicimliligi-uniformity-of-law"
+ },
+ {
+  "key": "unit",
+  "tr": "birim",
+  "explanation": "Spencer'ın bir kümeyi oluşturan en küçük parçalar için kullandığı genel terim: atomlar, moleküller, taneler, organizmalar ya da toplumun bireyleri bağlama göre birim sayılır.",
+  "slug": "birim-unit"
+ },
+ {
+  "key": "unit of force",
+  "tr": "kuvvet birimi",
+  "explanation": "Kuvvetleri ölçmek için sabit kabul edilen birim; Spencer'a göre sabitliği kuvvetin kalıcılığını varsayar.",
+  "slug": "kuvvet-birimi-unit-of-force"
+ },
+ {
+  "key": "Unitarian",
+  "tr": "Üniteryen",
+  "explanation": "Teslisi reddedip Tanrı'nın tek kişi olduğunu savunan Hristiyan mezhebine bağlı olan.",
+  "slug": "uniteryen-unitarian"
+ },
+ {
+  "key": "Units of Consciousness",
+  "tr": "bilinç birimleri",
+  "explanation": "Zihin yaşamının en küçük, bölünemez öğeleri olarak düşünülen duyumsal hâller.",
+  "slug": "bilinc-birimleri-units-of-consciousness"
+ },
+ {
+  "key": "universal synthesis",
+  "tr": "evrensel sentez",
+  "explanation": "Spencer'a göre Felsefe'nin hedefi: tek tek bilimlerin özel sentezlerini kapsayıp birleştiren, bütün somut süreçlerin ortak öğesini ifade eden en genel açıklama.",
+  "slug": "evrensel-sentez-universal-synthesis"
+ },
+ {
+  "key": "Unknown Cause",
+  "tr": "Bilinmeyen Neden",
+  "explanation": "Bütün görüngülerin ve insanın kendi inançlarının ardındaki, bilinemeyen nihai etken; Spencer'ın Bilinemez için kullandığı eşanlamlı adlandırmalardan biri.",
+  "slug": "bilinmeyen-neden-unknown-cause"
+ },
+ {
+  "key": "Unknown Reality",
+  "tr": "Bilinmeyen Gerçeklik",
+  "explanation": "Madde, Hareket ve Kuvvet simgelerinin ardında yatan, hem özne hem nesnenin temelinde bulunan ve asla bilinemeyen nihai gerçeklik; Bilinemez'in bu bölümdeki adı.",
+  "slug": "bilinmeyen-gerceklik-unknown-reality"
+ },
+ {
+  "key": "unstable equilibrium",
+  "tr": "kararsız denge",
+  "explanation": "Küçük bir etkiyle bozulabilen denge durumu; Spencer bitkilerin kurduğu enerji yüklü bileşikleri böyle nitelendirir.",
+  "slug": "kararsiz-denge-unstable-equilibrium"
+ },
+ {
+  "key": "uterus",
+  "tr": "rahim",
+  "explanation": "Memelilerde embriyonun geliştiği üreme organı (döl yatağı).",
+  "slug": "rahim-uterus"
+ },
+ {
+  "key": "variety",
+  "tr": "varyete",
+  "explanation": "Bir tür içinde, ortak tipten belirli özelliklerle ayrılan alt grup; Darwin'in terminolojisinde türün altındaki birim.",
+  "slug": "varyete-variety"
+ },
+ {
+  "key": "vascular system",
+  "tr": "damar sistemi",
+  "explanation": "Kan ya da besleyici sıvıyı organizma içinde taşıyan damarlar ve kalpten oluşan dolaşım aygıtı.",
+  "slug": "damar-sistemi-vascular-system"
+ },
+ {
+  "key": "vegeto-alkali",
+  "tr": "bitkisel alkali",
+  "explanation": "Bitkilerden elde edilen, zihinsel etkinliği değiştiren azotlu maddeler (alkaloitler): kafein, morfin vb.",
+  "slug": "bitkisel-alkali-vegeto-alkali"
+ },
+ {
+  "key": "vertebra",
+  "tr": "omur",
+  "explanation": "Omurgayı oluşturan kemiklerden her biri (çoğulu: vertebrae).",
+  "slug": "omur-vertebra"
+ },
+ {
+  "key": "vertebral canal",
+  "tr": "omur kanalı",
+  "explanation": "Omurgalı embriyosunda sinir oluğunun kapanmasıyla oluşan ve omuriliği barındıran tüp.",
+  "slug": "omur-kanali-vertebral-canal"
+ },
+ {
+  "key": "vertebral column",
+  "tr": "omurga sütunu",
+  "explanation": "Omurgalı hayvanlarda bedenin eksenini oluşturan, ardışık omurlardan yapılmış kemik ya da kıkırdak yapı.",
+  "slug": "omurga-sutunu-vertebral-column"
+ },
+ {
+  "key": "Vertebrata",
+  "tr": "omurgalılar",
+  "explanation": "Omurgası olan hayvanların (balıklar, sürüngenler, kuşlar, memeliler vb.) oluşturduğu büyük hayvan bölümü.",
+  "variants": [
+   "Vertebrata"
+  ],
+  "slug": "omurgalilar-vertebrata"
+ },
+ {
+  "key": "vibration",
+  "tr": "titreşim",
+  "explanation": "Bir cismin denge konumu çevresinde hızlı ve küçük genlikli ileri geri hareketi.",
+  "slug": "titresim-vibration"
+ },
+ {
+  "key": "vis medicatrix naturae",
+  "tr": "vis medicatrix naturae",
+  "explanation": "Latince 'doğanın iyileştirici gücü': organizmanın bozulan dengesini kendiliğinden yeniden kurma eğilimi için hekimlerin kullandığı deyim.",
+  "slug": "vis-medicatrix-naturae-vis-medicatrix-naturae"
+ },
+ {
+  "key": "Viscosity",
+  "tr": "viskozite",
+  "explanation": "Bir akışkanın akmaya karşı gösterdiği iç direnç (ağdalılık); kusursuz akışkanın viskozitesi yoktur.",
+  "slug": "viskozite-viscosity"
+ },
+ {
+  "key": "Vital Force",
+  "tr": "yaşam kuvveti",
+  "explanation": "Bitki ve hayvanların büyüme, hareket ve işlevlerinde sergilenen kuvvet; Spencer bunu fiziksel kuvvetlerin dönüşmüş biçimi sayar.",
+  "slug": "yasam-kuvveti-vital-force"
+ },
+ {
+  "key": "vital principle",
+  "tr": "yaşam ilkesi",
+  "explanation": "Yaşam olgularını açıklamak için 18.–19. yüzyılda varsayılan özel bir canlılık gücü (vitalizm). Spencer bunu, bilinmeyen bir şeye bilgi varsayan bilimdışı bir açıklama sayar.",
+  "slug": "yasam-ilkesi-vital-principle"
+ },
+ {
+  "key": "vivid manifestations",
+  "tr": "canlı tezahürler",
+  "explanation": "Spencer'ın 'izlenim' ya da 'duyum' yerine kullandığı tarafsız terim: algı koşulları altında ortaya çıkan, belirgin, birbirine çözülmez biçimde bağlı ve koşulları çoğu kez denetim dışında olan tezahürler; nesne ve ben-olmayan bunlardan oluşur.",
+  "slug": "canli-tezahurler-vivid-manifestations"
+ },
+ {
+  "key": "volition",
+  "tr": "istenç",
+  "explanation": "Bir eylemi yapmaya yönelik zihinsel karar ve yönelim; Spencer'a göre istenen hareketlerin temsiliyle başlayan bir sinirsel boşalım.",
+  "slug": "istenc-volition"
+ },
+ {
+  "key": "voltaic arc",
+  "tr": "volta arkı",
+  "explanation": "İki karbon elektrot arasında elektrik akımının oluşturduğu parlak ışık yayı.",
+  "slug": "volta-arki-voltaic-arc"
+ },
+ {
+  "key": "vortex-atoms",
+  "tr": "girdap atomları",
+  "explanation": "Lord Kelvin'in hipotezi: atomların, sürtünmesiz ve sıkıştırılamaz bir akışkan içindeki kararlı girdap halkaları olduğu görüşü.",
+  "slug": "girdap-atomlari-vortex-atoms"
+ },
+ {
+  "key": "work",
+  "tr": "iş",
+  "explanation": "Fizikte bir kuvvetin bir cismi yol boyunca hareket ettirmesiyle aktarılan enerji; Tait kuvveti birim uzunluk başına yapılan iş oranı olarak tanımlar.",
+  "slug": "is-work"
+ },
+ {
+  "key": "yolk-sac",
+  "tr": "vitellus kesesi",
+  "explanation": "Embriyonun besin maddesini (vitellus) taşıyan ve başlangıçta embriyonun üzerine yayılmış durduğu kese; Spencer'ın metninde 'yelk-sack' yazımıyla geçer.",
+  "slug": "vitellus-kesesi-yolk-sac"
+ },
+ {
+  "key": "Zoophyte",
+  "tr": "zoofit",
+  "explanation": "Bitkiye benzeyen hayvan: mercan, hidra gibi sabit yaşayan sucul hayvanlar için kullanılan eski terim.",
+  "slug": "zoofit-zoophyte"
+ },
+ {
+  "key": "zoospore",
+  "tr": "zoospor",
+  "explanation": "Kamçılarıyla suda hareket edebilen spor; alg ve mantarlarda görülür.",
+  "slug": "zoospor-zoospore"
+ }
+]

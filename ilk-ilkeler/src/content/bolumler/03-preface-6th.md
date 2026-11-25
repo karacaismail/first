@@ -1,0 +1,24 @@
+---
+unit: "preface-6th"
+part: "onsozler"
+order: 3
+number: ""
+slug: "altinci-baskiya-onsoz"
+title: "Altıncı Baskıya Önsöz"
+titleEn: "Preface to the Sixth Edition"
+description: "Spencer'ın 1900 tarihli Altıncı Baskıya Önsözü: kırk yıllık eserin düzeltme tarihçesi, son baskıdaki içerik ve üslup değişiklikleri, kısaltılan metin."
+summary: "Spencer, eserin ilk satırlarının yazılmasından bu yana geçen kırk yılda yapılan değişiklikleri özetler: 1867'deki yeniden düzenleme, 1875'teki bölüm düzeltmeleri ve bu baskıdaki başlıca düzeltmeler. Sonraki eserlerinin genel ilkelere olan inancını güçlendirdiğini belirtir ve gereksiz sözcüklerin ayıklanmasıyla eserin elli sayfa kısaldığını söyler."
+pages: [null,null]
+sections: []
+words: 331
+terms: ["Indestructibility of Matter","Continuity of Motion","Persistence of Force","Conception","Biology","Psychology","Sociology","Ethics"]
+termOverrides: {}
+---
+
+ON gün sonra, bu eserin ilk satırlarının yazılmasının üzerinden kırk yıl geçmiş olacak. 1867'ye kadar esere hiçbir şey yapılmadı; o yıl, ana düşüncesinin daha ileri bir gelişimi ikinci kısmın yeniden düzenlenmesini zorunlu kıldı. 1875'te “{{Maddenin Yok Edilemezliği|Indestructibility of Matter}} (The Indestructibility of Matter)”, “{{Hareketin Sürekliliği|Continuity of Motion}} (The Continuity of Motion)” ve “{{Kuvvetin Kalıcılığı|Persistence of Force}} (The Persistence of Force)” Bölümlerinde, buralarda ortaya konan görüşleri o sırada ulaşılan {{tasavvurlarla|Conception}} (conceptions) daha tam uyumlu kılan bazı değişiklikler yapıldı. O zamandan beri sözü edilmeye değer hiçbir değişiklik yapılmadı. Elbette, aradan geçen yıllarda bilginin pek çok yönde ilerlemesi, örnekleyici pasajlarda çeşitli düzeltmeleri gerekli kıldı. Eleştiriler de ifadede birkaç değişikliğe yol açtı. Buna ek olarak kendi düşüncelerimin daha ileri gelişmeleri, aralarında açıklayıcı “I. Kısma Son Söz”ün de sayılabileceği belirli iyileştirmeler önerdi. Küçük önemdeki değişiklikleri bir yana bırakırsam, başlıca düzeltmeler olarak §§ 71a–71b, § 93, § 150, § 152 ve §§ 182–3'tekileri; dikkate değer olanlar olarak da §§ 46, 54, 65, 72, 79, 88, 111, 120, 123, 132, 139a, 157, 159 ve 164'tekileri, A ve C Eklerini de katarak, sayabilirim. Bu arada ne başkalarının yönelttiği itirazlar ne de kendi daha ileri değerlendirmelerim, beni ortaya konan genel ilkelerden geri adım atmaya yöneltti. Tam tersine, {{Biyoloji|Biology}} (Biology), {{Psikoloji|Psychology}} (Psychology), {{Sosyoloji|Sociology}} (Sociology) ve {{Etik|Ethics}} (Ethics) üzerine sonraki eserleri yazarken, ele alınan olguların bu ilkelere sağladığı sayısız örnek ve yorum ararken bu ilkelerin sunduğu rehberlik, onların olguları doğru biçimde formüle ettiği inancını sürekli olarak güçlendirme eğiliminde oldu.
+
+Bu baskıdaki içerik değişiklikleri belli bir önem taşıyan iyileştirmeler oluştururken, biçim değişiklikleri daha büyük bir genel iyileştirme oluşturmaktadır. Düşüncelerin fazla kısa sunumu ile fazla genişletilmiş sunumu arasında sağduyulu ortayı bulmak güçtür. Şimdi, bu uzun aradan sonra, kendi açıklamamı sanki bir başkasından çıkmış gibi eleştirebildiğimde, epeyce fazlalık keşfediyorum — gereksiz sözcükler, yan cümleler, cümleler ve zaman zaman paragraflar. Bunların silinmesi, inanıyorum ki açıklığa katkıda bulunmakla birlikte, önemli bir kısaltmaya yol açtı; öyle ki pek çok ekleme yapılmasına rağmen eser şimdi elli sayfa azalmıştır. Hem içerik hem de üslup bakımından bu son düzeltmeleri yapma fırsatının doğmuş olması benim için büyük bir memnuniyet kaynağıdır.
+
+H. S.
+
+Brighton, 27 Nisan 1900.

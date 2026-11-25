@@ -1,0 +1,71 @@
+{
+  "unit": "p1-ch05",
+  "description": "Spencer, Din ile Bilim'in Bilinemez bir Güç'ün ortak kabulünde nasıl uzlaştığını, iki tarafın tarihsel kusurlarını ve hoşgörünün işlevini anlatır.",
+  "summary": "Spencer, önceki bölümlerin vardığı sonucu — her görüngünün kavranamaz bir Güç'ün tezahürü olduğu — Din ile Bilim'in uzlaşma zemini olarak sunar. Din'in tarih boyunca 'dinsiz' kalan yönlerini ve Bilim'in 'bilimdışı' yönlerini koşut olarak inceler; Mansel ve Martineau'nun Nihai Neden'e insani nitelikler yükleme çabasını eleştirir. Son kesimlerde, somut inançların göreli bir ölçüte göre iyi olduğunu, teolojik tutuculuğun bir işlevi bulunduğunu ve yine de en yüksek hakikati korkusuzca dile getirmenin gerekli olduğunu savunur.",
+  "sections": [
+    27,
+    34
+  ],
+  "ocr_issues": [
+    "§ 32, s. 97–98 arası: ilk taramada ağır biçimde bozuk olan pasaj ('Tn^^ clearly how a right or wrong act gg0£ra£e& …') aynı baskının ikinci, temiz taramasıyla (chapters/p1-ch05-alt-p97.txt) doğrulandı; çeviri bu metne göre birebir kontrol edildi, yalnız bir cümlede başlangıçtaki 'And' bağlacı eklendi.",
+    "§ 32 sonu, s. 98: 'During those early stages X v • \"' — satır sonundaki 'X v • \"' OCR gürültüsü olarak atıldı; 'the old1 belief' → 'the old belief' olarak okundu.",
+    "Basılı 90 ve 100. sayfaların işaretleri kaynakta yalnız pdf numarasıyla (pdf120, pdf130) verildiği için çeviriye konmadı."
+  ],
+  "terms": [
+    {
+      "key": "Omnipresence",
+      "tr": "her yerde hazır bulunma",
+      "explanation": "Tanrısal Güç'ün aynı anda her yerde mevcut olması niteliği. Spencer'a göre olumlu olarak düşünülemez; yalnızca görüngülerin yayılımına sınır koyamayışımızdan türetilen olumsuz bir kavramdır."
+    },
+    {
+      "key": "ghost-theory",
+      "tr": "hayalet kuramı",
+      "explanation": "Spencer'ın, dinin kökenini ölülerin ruhlarına (hayaletlere) duyulan ilkel inançta bulan kuramı; sosyolojisinde dinin en kaba başlangıç biçimi olarak ele alınır."
+    },
+    {
+      "key": "heliocentric theory",
+      "tr": "güneş merkezli kuram",
+      "explanation": "Kopernik'in, Dünya'nın değil Güneş'in gezegen sisteminin merkezinde olduğunu savunan astronomi kuramı."
+    },
+    {
+      "key": "vital principle",
+      "tr": "yaşam ilkesi",
+      "explanation": "Yaşam olgularını açıklamak için 18.–19. yüzyılda varsayılan özel bir canlılık gücü (vitalizm). Spencer bunu, bilinmeyen bir şeye bilgi varsayan bilimdışı bir açıklama sayar."
+    },
+    {
+      "key": "imponderables",
+      "tr": "ağırlıksız maddeler",
+      "explanation": "19. yüzyıl başı fiziğinde ısı, ışık, manyetizma ve elektriğin kütlesi olmayan ayrı akışkanlar ya da tözler olduğu varsayımı; daha sonra bunların tek bir kuvvetin biçimleri olduğu görüşüne bırakılmıştır."
+    },
+    {
+      "key": "nescience",
+      "tr": "bilgisizlik",
+      "explanation": "Bilginin yokluğu; Spencer'da Din'in meşru alanı olan, bilinemeyene ilişkin bilinçli bilmezlik durumu. Bilim (science) ile sözcük oyunu oluşturan karşıtlık."
+    },
+    {
+      "key": "the Conditioned",
+      "tr": "Koşullu",
+      "explanation": "Hamilton ve Mansel'in terimi: ilişkiler ve sınırlar içinde var olan, dolayısıyla düşünülebilen her şey; insan bilgisinin alanı."
+    },
+    {
+      "key": "the Unconditioned",
+      "tr": "Koşulsuz",
+      "explanation": "Hamilton ve Mansel'in terimi: hiçbir ilişki, sınır ya da koşula bağlı olmayan varlık (Mutlak ve Sonsuz); Spencer'a göre düşünce tarafından kavranamaz."
+    },
+    {
+      "key": "Creative Power",
+      "tr": "Yaratıcı Güç",
+      "explanation": "Evreni var eden güç; Spencer bu ifadeyi teolojik 'Yaratıcı' kavramının yerine, nitelik yüklemekten kaçınarak kullanır."
+    },
+    {
+      "key": "anthropomorphous",
+      "tr": "insanbiçimli",
+      "explanation": "İnsan biçiminde ya da insana özgü niteliklerle düşünülen; tanrısal gücün insan benzeri tasarlanması (antropomorfizm)."
+    },
+    {
+      "key": "Unknown Cause",
+      "tr": "Bilinmeyen Neden",
+      "explanation": "Bütün görüngülerin ve insanın kendi inançlarının ardındaki, bilinemeyen nihai etken; Spencer'ın Bilinemez için kullandığı eşanlamlı adlandırmalardan biri."
+    }
+  ]
+}

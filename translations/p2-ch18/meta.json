@@ -1,0 +1,18 @@
+{
+  "unit": "p2-ch18",
+  "description": "Spencer, evrim yasasının nihai mi türetilmiş mi olduğunu sorar ve onu Kuvvetin Kalıcılığı'ndan tümdengelimle çıkarma programını ve ön ilkelerini açıklar.",
+  "summary": "Spencer, önceki dört bölümün tümevarımla ulaştığı evrim yasasının daha derin bir ilkenin zorunlu sonucu olup olmadığını sorar; Kepler yasalarının kütle çekiminden türetilmesi gibi, evrimin de Kuvvetin Kalıcılığı'ndan tümdengelimle çıkarılması gerektiğini söyler. Bölüm, bu yorum için gereken ön ilkeleri koyar: gelen kuvvetin etkili ve etkisiz, etkili kuvvetin geçici ve kalıcı, kalıcı etkinin de duyulmaz (moleküler) ve duyulur (yapısal) kısımlara ayrılması ve bu kısımların birbirini tamamlayıcı olması.",
+  "sections": [146, 148],
+  "ocr_issues": [],
+  "terms": [
+    {"key": "empirical generalization", "tr": "deneysel genelleme", "explanation": "Gözlemlerden tümevarımla çıkarılmış, ancak henüz daha temel bir ilkeden türetilmemiş genel önerme; Kepler yasaları bunun örneğidir."},
+    {"key": "Philosophy", "tr": "Felsefe", "explanation": "Spencer'ın tanımıyla bütünüyle birleştirilmiş bilgi; bilimlerin tek tek ulaştığı genellemelerin tek bir ilke altında sentezlenmesi."},
+    {"key": "resolution of force", "tr": "kuvvetin bileşenlere ayrılışı", "explanation": "Bir yığına gelen kuvvetin, ürettiği farklı etkilere göre (etkili/etkisiz, geçici/kalıcı, duyulur/duyulmaz) kısımlara ayrılarak çözümlenmesi."},
+    {"key": "effective force", "tr": "etkili kuvvet", "explanation": "Gelen kuvvetin, yığında gerçekten değişim üreten kısmı; yansıyan ya da çarpan cisimde kalan etkisiz kısmın karşıtı."},
+    {"key": "non-effective force", "tr": "etkisiz kuvvet", "explanation": "Gelen kuvvetin yığında değişim üretmeyen, yansıtılan ya da kaynağında kalan kısmı."},
+    {"key": "momentum", "tr": "momentum", "explanation": "Hareket eden bir cismin kütlesi ile hızının çarpımı; mekanikte hareket miktarı."},
+    {"key": "sensible motion", "tr": "duyulur hareket", "explanation": "Duyularla algılanabilen, görünür kütlelerin yer değiştirmesi biçimindeki hareket; duyulmaz (moleküler) hareketin karşıtı."},
+    {"key": "insensible motion", "tr": "duyulmaz hareket", "explanation": "Doğrudan algılanamayan, moleküller ve parçacıklar arasındaki titreşim ve yer değiştirmelerden oluşan hareket."},
+    {"key": "chemical composition and decomposition", "tr": "kimyasal bileşme ve ayrışma", "explanation": "Elementlerin bileşik oluşturması ve bileşiklerin öğelerine ayrılması; Spencer'a göre moleküler düzeydeki duyulmaz yer değiştirmelerin başlıca biçimi."}
+  ]
+}

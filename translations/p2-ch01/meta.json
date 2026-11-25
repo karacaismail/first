@@ -1,0 +1,24 @@
+{
+  "unit": "p2-ch01",
+  "description": "Spencer, eski ve modern felsefe tasavvurlarının ortak öğesini arayarak Felsefeyi en yüksek genellikteki, bütünüyle birleştirilmiş bilgi olarak tanımlar.",
+  "summary": "Bu bölümde Spencer, Yunanlılardan modern Alman ve İngiliz okullarına kadar Felsefeye yüklenen farklı anlamları karşılaştırır ve hepsinde ortak olan öğenin, sıradan bilgiyi aşan en genel bilgi olduğunu bulur. Bilimin kısmen birleştirilmiş doğrularını bir aşama ileri götürerek Felsefeyi bütünüyle birleştirilmiş bilgi olarak tanımlar ve onu Genel Felsefe ile Özel Felsefe olarak ikiye ayırır.",
+  "sections": [35, 38],
+  "ocr_issues": [],
+  "terms": [
+    {"key": "Manifestation", "tr": "tezahür", "explanation": "Bilinemez olan nihai gerçekliğin bilince görünen, deneyimlenen biçimi; Spencer'ın bütün bilinç içeriklerini, hiçbir metafizik varsayım taşımadan adlandırmak için seçtiği terim."},
+    {"key": "Philosophy", "tr": "Felsefe", "explanation": "Spencer'ın tanımıyla en yüksek genellik derecesindeki, bütünüyle birleştirilmiş bilgi; Bilimin en geniş genellemelerini tek bir nihai doğrunun sonuçları olarak kavrayan bilgi türü."},
+    {"key": "Science", "tr": "Bilim", "explanation": "Görüngüler arasındaki birlikte var oluşları ve ardışıklıkları genellemeler hâlinde düzenleyen, kısmen birleştirilmiş bilgi; Spencer'a göre tek tek Bilimlerin toplamı."},
+    {"key": "Ontology", "tr": "ontoloji", "explanation": "Varlığın kendisini, görünüşten ayrı olarak inceleme iddiasındaki felsefe dalı (varlıkbilim); Spencer'a göre bilinç kendi ötesindekini kavrayamadığı için böyle bir felsefe yanlıştır."},
+    {"key": "Natural Philosophy", "tr": "Doğa Felsefesi", "explanation": "İngiltere'de fizik ve doğa bilimlerinin geleneksel adı; Spencer bunu görece düzensiz bir bilgi bütünü sayar."},
+    {"key": "Positive Philosophy", "tr": "Pozitif Felsefe", "explanation": "Auguste Comte'un bilimleri eşgüdümlü bir sistem içinde düzenleyen felsefesi; Spencer'a göre bu eşgüdüm sayesinde Felsefe adına daha haklı bir iddia taşır."},
+    {"key": "Moral Philosophy", "tr": "Ahlak Felsefesi", "explanation": "İnsan eylemlerini doğruluk ve yanlışlık bakımından genel ilkelerle ele alan felsefe dalı (etik)."},
+    {"key": "Political Philosophy", "tr": "Siyaset Felsefesi", "explanation": "İnsanların kamusal ilişkilerindeki davranışını genel ilkeler düzeyinde inceleyen felsefe dalı."},
+    {"key": "Dynamics", "tr": "dinamik", "explanation": "Mekaniğin, cisimlerin hareketini bunlara etki eden kuvvetlerle birlikte inceleyen dalı."},
+    {"key": "oxygenation", "tr": "oksijenlenme", "explanation": "Kanın solunum yoluyla oksijen alması; 19. yüzyıl fizyolojisinde hayvan sıcaklığını açıklamak için başvurulan süreç."},
+    {"key": "Political Economy", "tr": "ekonomi politik", "explanation": "19. yüzyılda iktisat biliminin adı; üretim, değişim ve fiyat olgularını genel yasalarla açıklamaya çalışan bilim dalı."},
+    {"key": "molecular physics", "tr": "moleküler fizik", "explanation": "Maddeyi oluşturan görünmez parçacıkların hareket ve değişimlerini inceleyen fizik alanı; Spencer burada ısı ile moleküler değişim ilişkisini buna bağlar."},
+    {"key": "Colligation", "tr": "derleme", "explanation": "Whewell'in terimi: dağınık gözlemlerin bir kavram altında bir araya getirilmesi; Spencer'a göre bilginin en alt, tümevarımsal aşaması."},
+    {"key": "General Philosophy", "tr": "Genel Felsefe", "explanation": "Spencer'ın ayrımında evrensel doğruların kendilerini inceleme konusu yapan Felsefe; tikel doğrular yalnızca kanıt ve örnek olarak kullanılır. İlk İlkeler'in konusu budur."},
+    {"key": "Special Philosophy", "tr": "Özel Felsefe", "explanation": "Evrensel doğruları araç olarak kullanıp tikel görüngü alanlarını (biyoloji, psikoloji, sosyoloji vb.) yorumlayan Felsefe; Sentetik Felsefe'nin sonraki ciltlerinin konusu."}
+  ]
+}

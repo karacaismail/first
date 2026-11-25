@@ -1,0 +1,251 @@
+{
+  "unit": "p2-ch08",
+  "description": "Spencer, kuvvetlerin dönüşümü ve eşdeğerliğini fizikten jeolojiye, canlılardan zihne ve topluma kadar izleyerek hepsini Güneş'e ve kuvvetin kalıcılığına bağlar.",
+  "summary": "Spencer, ısı, elektrik, manyetizma, ışık ve kimyasal etkinin birbirine dönüştüğünü ve miktarca eşdeğer kaldığını gösteren deneysel kanıtları özetler; ardından bu ilkeyi Güneş Sistemi'nin oluşumuna, jeolojik değişimlere, bitki ve hayvan yaşamına, zihinsel süreçlere ve toplumsal etkinliğe uygular. Zihin ile sinirsel değişimler arasındaki bağın nihai olarak anlaşılamaz kaldığını kabul eder, ancak bütün bu dönüşümlerin kuvvetin kalıcılığının zorunlu bir doğal sonucu olduğunu savunur.",
+  "sections": [
+    66,
+    73
+  ],
+  "ocr_issues": [
+    "Basılı numarası okunamayan ⟦PAGE pdf208⟧, pdf210, pdf212, pdf216, pdf218 işaretleri (çalışan başlıktan sırasıyla 180, 182, 184, 188, 190 olduğu çıkarsanabiliyor) yönerge gereği atlandı; bu sayfa sınırları çeviride işaretsizdir.",
+    "Harfli kesim numaraları OCR'da '§ 710', '§ 716', '§ 710' olarak bozulmuştu; sıraya göre § 71a, § 71b, § 71c olarak düzeltildi.",
+    "Grove alıntılarının kapanış tırnakları OCR'da '/1' olarak bozulmuştu; bağlama göre tırnak olarak kapatıldı. § 73'te ⟦PAGE 200⟧ öncesindeki 'H' matbaa forma işareti olarak değerlendirilip atlandı."
+  ],
+  "terms": [
+    {
+      "key": "Heat",
+      "tr": "ısı",
+      "explanation": "Spencer'ın kuvvet kiplerinden biri; dönemin fiziğinde moleküllerin titreşim ve salınım hareketi olarak yorumlanır."
+    },
+    {
+      "key": "Electricity",
+      "tr": "elektrik",
+      "explanation": "Sürtünme, kimyasal etki ya da manyetizmayla üretilebilen ve ısıya, ışığa, harekete dönüşebilen kuvvet kipi."
+    },
+    {
+      "key": "Magnetism",
+      "tr": "manyetizma",
+      "explanation": "Mıknatısların çekme ve itme etkisi; 19. yüzyıl fiziğinde elektrikle karşılıklı dönüşebilen kuvvet kipi."
+    },
+    {
+      "key": "Light",
+      "tr": "ışık",
+      "explanation": "Kuvvet kiplerinden biri; Spencer'a göre kimyasal, elektriksel ve mekanik etkiler üretebilen ışıma."
+    },
+    {
+      "key": "Chemical Action",
+      "tr": "kimyasal etki",
+      "explanation": "Elementlerin birleşme ve ayrışma süreci; ısı, ışık, hareket ve elektrik üreten kuvvet kipi."
+    },
+    {
+      "key": "Energy",
+      "tr": "enerji",
+      "explanation": "Fizikçilerin dönüşen ve korunan nicelik için kullandığı ad; Spencer bunu kendi 'kuvvet' terimiyle eş anlamlı kabul eder."
+    },
+    {
+      "key": "Mind",
+      "tr": "zihin",
+      "explanation": "Bilinç, duygu ve düşünce yetilerinin bütünü; Spencer'a göre nihai doğası Madde gibi bilinemez."
+    },
+    {
+      "key": "Vital Force",
+      "tr": "yaşam kuvveti",
+      "explanation": "Bitki ve hayvanların büyüme, hareket ve işlevlerinde sergilenen kuvvet; Spencer bunu fiziksel kuvvetlerin dönüşmüş biçimi sayar."
+    },
+    {
+      "key": "mental forces",
+      "tr": "zihinsel kuvvetler",
+      "explanation": "Duyum, heyecan ve düşünce biçiminde ortaya çıkan ve Spencer'a göre fiziksel kuvvetlerle bağlılaşım içinde olan kuvvetler."
+    },
+    {
+      "key": "social forces",
+      "tr": "toplumsal kuvvetler",
+      "explanation": "Ancak çok sayıda insanın iş birliğiyle ortaya çıkan ve bireysel çabalardan ayrı bir nitelik kazanan etkinlikler."
+    },
+    {
+      "key": "nervous energy",
+      "tr": "sinirsel enerji",
+      "explanation": "Sinir sisteminde üretilen ve kas hareketine dönüşen enerji; Spencer'a göre organizma tarafından çoğaltılır."
+    },
+    {
+      "key": "nervous system",
+      "tr": "sinir sistemi",
+      "explanation": "Beyin, omurilik ve sinirlerden oluşan, zihinsel süreçlerin ve bedensel eşgüdümün dayandığı organ sistemi."
+    },
+    {
+      "key": "ganglion",
+      "tr": "gangliyon",
+      "explanation": "Sinir hücrelerinin toplandığı düğüm; sinirsel uyarıların aktarılıp güçlendirildiği merkez."
+    },
+    {
+      "key": "cerebrum",
+      "tr": "beyin yarıküresi",
+      "explanation": "Beynin üst ve en büyük bölümü; bilinçli düşüncenin ve istemli hareketlerin merkezi sayılır."
+    },
+    {
+      "key": "reflex",
+      "tr": "refleks",
+      "explanation": "Bir uyarının bilinçten geçmeden, omurilik yoluyla doğrudan kas hareketine dönüşmesi."
+    },
+    {
+      "key": "automatism",
+      "tr": "otomatizm",
+      "explanation": "Huxley'nin öğretisi: hayvan ve insan edimlerinin bilinç olmaksızın, mekanik biçimde gerçekleşebileceği görüşü."
+    },
+    {
+      "key": "concomitant",
+      "tr": "eşlikçi",
+      "explanation": "Huxley'nin terimi: bilincin sinirsel süreçlerin bir nedeni ya da halkası değil, yalnızca onlara eşlik eden bir yan ürün olduğu düşüncesi."
+    },
+    {
+      "key": "momentum",
+      "tr": "momentum",
+      "explanation": "Bir cismin kütlesi ile hızının çarpımı; hareket miktarı."
+    },
+    {
+      "key": "specific gravity",
+      "tr": "özgül ağırlık",
+      "explanation": "Bir maddenin yoğunluğunun suyun yoğunluğuna oranı; düşük değeri gezegenlerin hâlâ sıcak ve genleşmiş olduğuna yorulurdu."
+    },
+    {
+      "key": "radiation",
+      "tr": "ışıma",
+      "explanation": "Isı ve ışığın bir cisimden çevreye dalga biçiminde yayılması."
+    },
+    {
+      "key": "polarized light",
+      "tr": "kutuplanmış ışık",
+      "explanation": "Titreşimleri tek bir düzlemle sınırlanmış ışık; cam ve manyetizma deneylerinde moleküler değişimi göstermek için kullanılırdı."
+    },
+    {
+      "key": "voltaic arc",
+      "tr": "volta arkı",
+      "explanation": "İki karbon elektrot arasında elektrik akımının oluşturduğu parlak ışık yayı."
+    },
+    {
+      "key": "galvanic battery",
+      "tr": "galvanik pil",
+      "explanation": "Kimyasal tepkimeyle elektrik akımı üreten pil; Volta ve Galvani'nin adlarıyla anılır."
+    },
+    {
+      "key": "magneto-electric machine",
+      "tr": "manyeto-elektrik makine",
+      "explanation": "Dönen bir mıknatısla elektrik akımı üreten erken dönem dinamo."
+    },
+    {
+      "key": "accumulator",
+      "tr": "akümülatör",
+      "explanation": "Elektrik enerjisini kimyasal biçimde depolayıp yeniden veren pil (depo pili)."
+    },
+    {
+      "key": "daguerreotype",
+      "tr": "dagerreyotipi",
+      "explanation": "Gümüş kaplı bakır levha üzerine görüntü kaydeden ilk fotoğraf yöntemi (Daguerre, 1839)."
+    },
+    {
+      "key": "dynamometer",
+      "tr": "dinamometre",
+      "explanation": "Kuvveti ölçen alet."
+    },
+    {
+      "key": "photometer",
+      "tr": "fotometre",
+      "explanation": "Işık şiddetini ölçen alet."
+    },
+    {
+      "key": "teleological hypothesis",
+      "tr": "teleolojik hipotez",
+      "explanation": "Doğadaki düzenin önceden belirlenmiş bir amaca göre tasarlandığını varsayan açıklama."
+    },
+    {
+      "key": "final cause",
+      "tr": "ereksel neden",
+      "explanation": "Aristoteles'ten gelen terim: bir şeyin kendisi için var olduğu amaç."
+    },
+    {
+      "key": "igneous",
+      "tr": "ateş kökenli",
+      "explanation": "Yer'in iç ısısından kaynaklanan jeolojik süreçler ve kayaçlar (volkanik, magmatik)."
+    },
+    {
+      "key": "aqueous",
+      "tr": "su kökenli",
+      "explanation": "Yağmur, nehir, dalga ve akıntı gibi suyun etkisiyle gerçekleşen jeolojik süreçler."
+    },
+    {
+      "key": "denudation",
+      "tr": "aşındırma",
+      "explanation": "Yağmur, nehir ve rüzgârın yeryüzünü aşındırıp tortuyu taşıması."
+    },
+    {
+      "key": "sedimentary deposits",
+      "tr": "tortul çökeltiler",
+      "explanation": "Su ya da rüzgârla taşınan maddelerin birikmesiyle oluşan katmanlar."
+    },
+    {
+      "key": "strata",
+      "tr": "katmanlar",
+      "explanation": "Yer kabuğunu oluşturan, üst üste yığılmış kayaç tabakaları."
+    },
+    {
+      "key": "oxidation",
+      "tr": "oksitlenme",
+      "explanation": "Bir maddenin oksijenle birleşmesi; Spencer'a göre hayvan yaşamının başlıca kimyasal süreci."
+    },
+    {
+      "key": "de-oxidation",
+      "tr": "oksijen giderme",
+      "explanation": "Bir bileşikten oksijenin ayrılması; bitkilerin karbondioksit ve suyu ayrıştırma süreci (indirgenme)."
+    },
+    {
+      "key": "unstable equilibrium",
+      "tr": "kararsız denge",
+      "explanation": "Küçük bir etkiyle bozulabilen denge durumu; Spencer bitkilerin kurduğu enerji yüklü bileşikleri böyle nitelendirir."
+    },
+    {
+      "key": "stable equilibrium",
+      "tr": "kararlı denge",
+      "explanation": "Bozulduğunda kendine dönen denge durumu; karbondioksit ve su gibi düşük enerjili bileşiklerin durumu."
+    },
+    {
+      "key": "incubation",
+      "tr": "kuluçka",
+      "explanation": "Yumurtanın ısıyla geliştirilip civciv çıkarılması süreci."
+    },
+    {
+      "key": "metamorphosis",
+      "tr": "başkalaşım",
+      "explanation": "Böceklerin yumurtadan larva, pupa ve ergin evrelerine geçerek biçim değiştirmesi."
+    },
+    {
+      "key": "pupa",
+      "tr": "pupa",
+      "explanation": "Böceklerde larva ile ergin arasındaki hareketsiz gelişim evresi."
+    },
+    {
+      "key": "imago",
+      "tr": "ergin",
+      "explanation": "Böceğin başkalaşımını tamamlamış, üreme yeteneğine sahip son evresi."
+    },
+    {
+      "key": "asphyxia",
+      "tr": "boğulma",
+      "explanation": "Kanın yeterince oksijen alamaması sonucu bilinç ve yaşamsal işlevlerin durması."
+    },
+    {
+      "key": "vegeto-alkali",
+      "tr": "bitkisel alkali",
+      "explanation": "Bitkilerden elde edilen, zihinsel etkinliği değiştiren azotlu maddeler (alkaloitler): kafein, morfin vb."
+    },
+    {
+      "key": "alkaline phosphates",
+      "tr": "alkali fosfatlar",
+      "explanation": "Böbreklerle atılan fosfor bileşikleri; 19. yüzyılda beyin etkinliğinin kimyasal göstergesi sayılırdı."
+    },
+    {
+      "key": "unit of force",
+      "tr": "kuvvet birimi",
+      "explanation": "Kuvvetleri ölçmek için sabit kabul edilen birim; Spencer'a göre sabitliği kuvvetin kalıcılığını varsayar."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "unit": "p1-postscript",
+  "description": "Spencer, Bilinemez öğretisine yöneltilen eleştirileri yanıtlar ve Birinci Kısım'ın, Evrim öğretisini sunan İkinci Kısım'dan bağımsız olduğunu vurgular.",
+  "summary": "1899 tarihli bu son notta Spencer, Nihai Gerçekliğin 'bilinemez' olduğunu söylemenin bir bilgi iddiası olduğu itirazını ele alır: düşünmek ilişkilendirmek olduğundan Koşulsuz hakkında düşünce kurulamaz, ama zihnimizin yapısı gereği geride tanımlanamaz bir bilinç kalır. Ardından okuyucuya, Birinci Kısım'ın sonuçlarını kabul etsin ya da reddetsin, İkinci Kısım'daki olgulara dayalı Evrim anlatısını özgürce değerlendirebileceğini; bu anlatının ateist, panteist ya da teist inançlarla çelişmediğini söyler.",
+  "sections": [],
+  "ocr_issues": [
+    "Basılı 103 → 104 sayfa geçişi kaynakta 'E 103 ⟦PAGE pdf134⟧ io4' biçiminde (forma işareti 'E' ve sayfa numaraları) görünüyor; basılı numaralı ⟦PAGE⟧ işareti bulunmadığından çeviriye yalnız ⟦105⟧ işareti konuldu.",
+    "'The Unknowable/'' → 'The Unknowable,' ve 'oefore' → 'before' olarak okundu.",
+    "Metnin sonundaki 'THE KNOWABLE' (pdf137) İkinci Kısım'ın yarım başlık sayfasıdır; Son Not'un parçası olmadığı için çeviriye alınmadı."
+  ],
+  "terms": [
+    {"key": "Appearance", "tr": "Görünüş", "explanation": "Bilince göründüğü biçimiyle şeyler; Spencer'da görüngüler dünyası, ardında yatan Gerçeklik'ten (Reality) ayrı tutulur."},
+    {"key": "relationing", "tr": "ilişkilendirmek", "explanation": "Spencer'ın, düşünmenin özünü anlatan terimi: her düşünce iki terim arasında bir ilişki kurmaktır; ilişkinin bir terimi eksikse düşünce oluşamaz."},
+    {"key": "the Unconditioned", "tr": "Koşulsuz", "explanation": "Hamilton ve Mansel'in terimi: hiçbir ilişki, sınır ya da koşula bağlı olmayan varlık; Spencer'a göre düşünce tarafından kavranamaz."},
+    {"key": "nebula", "tr": "bulutsu", "explanation": "Uzayda yoğunlaşarak yıldız ve gezegen sistemlerini oluşturduğu düşünülen gaz ve toz bulutu; Bulutsu Hipotezi'nin konusu."}
+  ]
+}
