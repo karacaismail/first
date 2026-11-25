@@ -3,6 +3,7 @@ import { Drawer, MantineProvider, Popover } from '@mantine/core';
 import { useMediaQuery } from '@mantine/hooks';
 import { theme } from '../lib/theme';
 import { useMotionTokens } from '../lib/motion';
+import { withBase } from '../lib/url';
 
 export interface TermInfo { key: string; tr: string; explanation: string; slug: string }
 interface Props { terms: Record<string, TermInfo> }
@@ -15,7 +16,7 @@ function Card({ info, withTitle }: { info: TermInfo; withTitle: boolean }) {
       {withTitle ? <p className="tr">{info.tr}</p> : null}
       <p className="en" lang="en">{info.key}</p>
       <p>{info.explanation}</p>
-      <a href={`/sozluk/${info.slug}/`}>Sözlükte gör</a>
+      <a href={withBase(`/sozluk/${info.slug}/`)}>Sözlükte gör</a>
     </div>
   );
 }

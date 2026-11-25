@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../../lib/url';
 import Base from '../../layouts/Base.astro';
 import glossary from '../../data/glossary.json';
 import usage from '../../data/term-usage.json';
@@ -11,7 +12,7 @@ const use = usage as Record<string, { unit: string; href: string; title: string 
 ---
 <Base title="Terimler Sözlüğü" description={`${BOOK.author}'ın İlk İlkeler kitabındaki ${terms.length} teknik terimin Türkçe karşılığı, özgün İngilizcesi ve kısa açıklaması; her terimin geçtiği bölümlere bağlantılar.`} current="/sozluk/">
   <div class="page">
-    <nav aria-label="Konum"><ol class="crumbs"><li><a href="/">{BOOK.title}</a></li><li aria-hidden="true">›</li><li aria-current="page">Terimler Sözlüğü</li></ol></nav>
+    <nav aria-label="Konum"><ol class="crumbs"><li><a href={withBase('/')}>{BOOK.title}</a></li><li aria-hidden="true">›</li><li aria-current="page">Terimler Sözlüğü</li></ol></nav>
     <h1 class="title">Terimler Sözlüğü</h1>
     <p class="subtitle">Çeviride korunan {terms.length} teknik terim, özgün İngilizce biçimi ve kısa açıklaması. Metin içinde noktalı altı çizili terimlere dokunarak aynı açıklamaları görebilirsiniz.</p>
     <nav aria-label="Harfe git"><ul class="alpha">{letters.map((L) => <li><a href={`#harf-${L.toLocaleLowerCase('tr')}`}>{L}</a></li>)}</ul></nav>
@@ -21,11 +22,11 @@ const use = usage as Record<string, { unit: string; href: string; title: string 
         <div class="gloss">
           {g.items.map((t) => (
             <article id={t.slug} data-pagefind-ignore>
-              <h3><a href={`/sozluk/${t.slug}/`} style="text-decoration:none;color:inherit">{t.tr}</a> <span class="en" lang="en">{t.key}</span></h3>
+              <h3><a href={withBase(`/sozluk/${t.slug}/`)} style="text-decoration:none;color:inherit">{t.tr}</a> <span class="en" lang="en">{t.key}</span></h3>
               <p>{t.explanation}</p>
               {t.variants?.length ? <p class="where">Bazı bölümlerde: {t.variants.join(', ')}</p> : null}
               {use[t.key]?.length ? (
-                <div class="where"><span>Geçtiği bölümler:</span>{use[t.key].map((u) => <a href={u.href}>{u.title}</a>)}</div>
+                <div class="where"><span>Geçtiği bölümler:</span>{use[t.key].map((u) => <a href={withBase(u.href)}>{u.title}</a>)}</div>
               ) : null}
             </article>
           ))}

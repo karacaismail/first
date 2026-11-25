@@ -1,0 +1,74 @@
+# Siteyi test eder, derler ve GitHub Pages'te yayınlar.
+# Adres: https://karacaismail.github.io/first/
+name: Siteyi yayınla
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+defaults:
+  run:
+    working-directory: ilk-ilkeler
+
+jobs:
+  build:
+    name: Test et ve derle
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: ilk-ilkeler/package-lock.json
+
+      - name: Bağımlılıkları kur
+        run: npm ci
+
+      - name: Çevirileri siteye aktar
+        run: npm run content
+
+      - name: Tipleri denetle
+        run: npm run check
+
+      - name: Test tarayıcılarını kur
+        run: npx playwright install --with-deps chromium webkit
+
+      - name: Testleri çalıştır ve siteyi derle
+        run: npm test
+
+      - name: Test kayıtlarını sakla
+        if: failure()
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: test-kayitlari
+          path: ilk-ilkeler/test-results
+          retention-days: 7
+
+      - uses: actions/configure-pages@v6.0.0
+
+      - uses: actions/upload-pages-artifact@v5.0.0
+        with:
+          path: ilk-ilkeler/dist
+
+  deploy:
+    name: Yayınla
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5.0.1

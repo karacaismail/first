@@ -10,7 +10,7 @@ Komutları bu klasörün içinde çalıştırın.
 
 | Komut | Ne yapar? |
 | --- | --- |
-| `npm run dev` | Geliştirme sunucusunu açar. Adres `http://localhost:4321` olur. |
+| `npm run dev` | Geliştirme sunucusunu açar. Adres `http://localhost:4321/first/` olur. |
 | `npm run content` | Çevirileri siteye aktarır. Bir sorun varsa durur. |
 | `npm run build` | Siteyi `dist` klasörüne derler. Arama dizinini de kurar. |
 | `npm run preview` | Derlenmiş siteyi bilgisayarda açar. |
@@ -40,7 +40,9 @@ Bu üretilen dosyaları elle düzeltmeyin. Düzeltmeyi `translations` klasörün
 - Tek terimin adresi `/sozluk/terim-adi/` biçimindedir.
 - Arama adresi `/arama/` biçimindedir. Aranan sözcük adreste `?q=` olarak durur.
 
-Sitenin internet adresi `SITE_URL` değişkeninden gelir. Değişken yoksa `astro.config.mjs` içindeki değer kullanılır.
+Site GitHub Pages'te `/first/` alt adresinde yayınlanır. Bu yüzden bütün iç bağlantılar `src/lib/url.ts` dosyasındaki `withBase` işlevinden geçer. Bağlantıya doğrudan `/` ile başlayan bir yol yazmayın. Testler bu kural bozulunca başarısız olur.
+
+Sitenin alan adı `SITE_URL` değişkeninden gelir. Alt adres `BASE_PATH` değişkeninden gelir. Değişkenler yoksa `astro.config.mjs` içindeki değerler kullanılır.
 
 ## Tasarım kuralları
 

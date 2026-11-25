@@ -9,7 +9,7 @@ export default defineConfig({
   use: { baseURL: 'http://127.0.0.1:4323', trace: 'retain-on-failure' },
   webServer: {
     command: 'npm run build && npx astro preview --port 4323 --host 127.0.0.1 --ignore-lock',
-    url: 'http://127.0.0.1:4323/',
+    url: 'http://127.0.0.1:4323/first/',
     reuseExistingServer: false,
     timeout: 240_000,
   },

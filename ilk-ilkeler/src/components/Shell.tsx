@@ -3,6 +3,7 @@ import { AppShell, Burger, MantineProvider, useComputedColorScheme, useMantineCo
 import { useMediaQuery } from '@mantine/hooks';
 import { theme } from '../lib/theme';
 import { useMotionTokens } from '../lib/motion';
+import { withBase } from '../lib/url';
 
 export interface NavPart { slug: string; title: string; label: string; href: string }
 export interface NavItem { part: string; href: string; title: string; number: string }
@@ -105,9 +106,9 @@ function Inner({ parts, items, current, children }: Props) {
               transitionDuration={motion.fast}
               transitionTimingFunction={motion.ease}
             />
-            <a className="brand" href="/">İlk İlkeler <small>Herbert Spencer</small></a>
+            <a className="brand" href={withBase('/')}>İlk İlkeler <small>Herbert Spencer</small></a>
             <div className="hdr-tools">
-              <a className="iconbtn" href="/arama/" aria-label="Kitapta ara" title="Ara"><SearchIcon /></a>
+              <a className="iconbtn" href={withBase('/arama/')} aria-label="Kitapta ara" title="Ara"><SearchIcon /></a>
               <SchemeToggle />
             </div>
           </div>
@@ -138,8 +139,8 @@ function Inner({ parts, items, current, children }: Props) {
                   </ul>
                 </li>
               ))}
-              <li><div className="part"><a href="/sozluk/">Terimler Sözlüğü</a></div></li>
-              <li><div className="part"><a href="/hakkinda/">Bu Çeviri Hakkında</a></div></li>
+              <li><div className="part"><a href={withBase('/sozluk/')}>Terimler Sözlüğü</a></div></li>
+              <li><div className="part"><a href={withBase('/hakkinda/')}>Bu Çeviri Hakkında</a></div></li>
             </ul>
           </nav>
         </AppShell.Navbar>

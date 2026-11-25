@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { withBase } from '../lib/url';
 
 interface Hit { url: string; title: string; excerpt: string; part?: string; subs: { url: string; title: string; excerpt: string }[] }
 type Status = 'idle' | 'loading' | 'ready' | 'unavailable';
@@ -35,9 +36,9 @@ export default function SearchBox() {
     if (initial) setQ(initial);
     (async () => {
       try {
-        const path = '/pagefind/pagefind.js';
+        const path = withBase('/pagefind/pagefind.js');
         const mod = (await import(/* @vite-ignore */ path)) as PagefindApi;
-        await mod.options({ excerptLength: 24 });
+        await mod.options({ excerptLength: 24, baseUrl: withBase('/') });
         pf.current = mod;
         setReady(true);
         setStatus('ready');

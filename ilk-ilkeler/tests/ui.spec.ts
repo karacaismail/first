@@ -1,7 +1,10 @@
 import { test, expect, type Page } from '@playwright/test';
 
-const CHAPTER = '/bilinemez/din-ve-bilim/';
-const PAGES = ['/', CHAPTER, '/bilinemez/', '/sozluk/', '/hakkinda/'];
+// Site GitHub Pages'te /first/ alt adresinde yayınlanır. Testler aynı taban adresle koşar.
+const BASE = (process.env.BASE_PATH ?? '/first').replace(/\/$/, '');
+const u = (p: string) => BASE + p;
+const CHAPTER = u('/bilinemez/din-ve-bilim/');
+const PAGES = [u('/'), CHAPTER, u('/bilinemez/'), u('/sozluk/'), u('/hakkinda/')];
 
 async function hydrated(page: Page) {
   await page.waitForFunction(() => ![...document.querySelectorAll('astro-island')].some((i) => i.hasAttribute('ssr')));
@@ -61,6 +64,7 @@ test('terim açıklaması: tıklama ile açılır, Escape ile kapanır, odak ter
   await expect(dialog).toBeVisible();
   await expect(dialog.locator('.termcard .en')).toHaveText(key!);
   await expect(dialog.locator('.termcard p:not(.en):not(.tr)')).not.toBeEmpty();
+  expect((await dialog.locator('.termcard a').getAttribute('href'))!.startsWith(BASE + '/sozluk/')).toBe(true);
   await expect(term).toHaveAttribute('aria-expanded', 'true');
   await page.keyboard.press('Escape');
   await expect(dialog).toBeHidden();
@@ -135,7 +139,7 @@ test('gezinme: geniş ekranda içindekiler sürekli görünür', async ({ page, 
 });
 
 test('sözlük: terim sayfası ve geçtiği bölüm bağlantıları', async ({ page }) => {
-  await page.goto('/sozluk/');
+  await page.goto(u('/sozluk/'));
   const link = page.locator('.gloss article h3 a').first();
   const href = await link.getAttribute('href');
   await page.goto(href!);
@@ -145,7 +149,7 @@ test('sözlük: terim sayfası ve geçtiği bölüm bağlantıları', async ({ p
 
 test('bütünlük: içindekilerdeki 37 bölümün hepsi açılır ve zincir kesintisizdir', async ({ page, request }, info) => {
   test.skip(info.project.name !== 'chromium-desktop', 'tek projede yeterli');
-  await page.goto('/');
+  await page.goto(u('/'));
   const hrefs = await page.locator('.parts .toc a').evaluateAll((as) => as.map((a) => (a as HTMLAnchorElement).getAttribute('href')!));
   expect(hrefs.length).toBe(37);
   for (const h of hrefs) {
@@ -168,7 +172,7 @@ test('bütünlük: içindekilerdeki 37 bölümün hepsi açılır ve zincir kesi
 const narrow = (vp: { width: number } | null) => !!vp && vp.width < 992;
 
 test('arama: kendi arayüzü, sonuç verir, metin ≥ 14px, Outfit, çevreleyen halka yok', async ({ page }) => {
-  await page.goto('/arama/');
+  await page.goto(u('/arama/'));
   await hydrated(page);
   const input = page.getByRole('searchbox', { name: 'Kitapta ara' });
   await input.click();
@@ -178,6 +182,8 @@ test('arama: kendi arayüzü, sonuç verir, metin ≥ 14px, Outfit, çevreleyen 
   expect(st.font.toLowerCase()).toContain('outfit');
   await input.fill('evrim');
   await expect(page.locator('.search-results li').first()).toBeVisible({ timeout: 10_000 });
+  const resultHref = await page.locator('.search-results a.search-title').first().getAttribute('href');
+  expect(resultHref!.startsWith(BASE + '/'), `arama sonucu taban adresle başlamalı: ${resultHref}`).toBe(true);
   await noHorizontalOverflow(page);
   await minFontSize(page);
 });
@@ -243,17 +249,41 @@ test('tema düğmesi koyu sistem temasında doğru etiketi gösterir', async ({ 
 });
 
 test('§ şeridindeki her bağlantının hedefi var', async ({ page }) => {
-  await page.goto('/bilinebilir/kuvvetlerin-donusumu-ve-esdegerligi/');
+  await page.goto(u('/bilinebilir/kuvvetlerin-donusumu-ve-esdegerligi/'));
   const missing = await page.evaluate(() => [...document.querySelectorAll<HTMLAnchorElement>('.secstrip a')].map((a) => a.hash.slice(1)).filter((id) => !document.getElementById(id)));
   expect(missing).toEqual([]);
 });
 
 test('SEO: site haritası arama sayfasını içermez, robots onu engellemez', async ({ request }, info) => {
   test.skip(info.project.name !== 'chromium-desktop', 'tek projede yeterli');
-  const sm = await (await request.get('/sitemap-0.xml')).text();
+  const sm = await (await request.get(u('/sitemap-0.xml'))).text();
   expect(sm).toContain('/bilinemez/din-ve-bilim/');
   expect(sm).not.toContain('/arama/');
-  const robots = await (await request.get('/robots.txt')).text();
+  const robots = await (await request.get(u('/robots.txt'))).text();
   expect(robots).not.toContain('Disallow: /arama/');
   expect(robots).toMatch(/Sitemap: https?:\/\/.+\/sitemap-index\.xml/);
+});
+
+test('alt adres: bütün iç bağlantılar ve dosyalar taban adresle başlar', async ({ page, request }, info) => {
+  test.skip(info.project.name !== 'chromium-desktop', 'tek projede yeterli');
+  await page.goto(u('/sozluk/'));
+  const termHref = await page.locator('.gloss article h3 a').first().getAttribute('href');
+  const pages = [u('/'), CHAPTER, u('/bilinemez/'), u('/sozluk/'), termHref!, u('/hakkinda/'), u('/arama/'), u('/olmayan-sayfa/')];
+  for (const p of pages) {
+    const html = await (await request.get(p)).text();
+    const refs = [...html.matchAll(/(?:href|src)="(\/[^"/][^"]*|\/)"/g)].map((m) => m[1]);
+    const wrong = refs.filter((r) => !r.startsWith(BASE + '/'));
+    expect(wrong, `${p} sayfasında taban adressiz bağlantı`).toEqual([]);
+  }
+  const robots = await (await request.get(u('/robots.txt'))).text();
+  expect(robots).toContain(`${BASE}/sitemap-index.xml`);
+});
+
+test('alt adres: kanonik adres ve JSON-LD taban adresi içerir', async ({ page }, info) => {
+  test.skip(info.project.name !== 'chromium-desktop', 'tek projede yeterli');
+  await page.goto(CHAPTER);
+  const canonical = await page.locator('link[rel="canonical"]').getAttribute('href');
+  expect(new URL(canonical!).pathname).toBe(CHAPTER);
+  const ld = await page.locator('script[type="application/ld+json"]').first().textContent();
+  expect(JSON.parse(ld!).url).toContain(CHAPTER);
 });

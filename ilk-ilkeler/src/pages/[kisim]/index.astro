@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../../lib/url';
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import { BOOK, PARTS, CHAPTERS, chapterPath } from '../../data/book';
@@ -13,7 +14,7 @@ const heading = part.label !== part.title ? `${part.label}: ${part.title}` : par
 ---
 <Base title={heading} description={`${BOOK.author}, ${BOOK.title} — ${heading}. ${part.intro}`} current={`/${part.slug}/`}>
   <div class="page">
-    <nav aria-label="Konum"><ol class="crumbs"><li><a href="/">{BOOK.title}</a></li><li aria-hidden="true">›</li><li aria-current="page">{heading}</li></ol></nav>
+    <nav aria-label="Konum"><ol class="crumbs"><li><a href={withBase('/')}>{BOOK.title}</a></li><li aria-hidden="true">›</li><li aria-current="page">{heading}</li></ol></nav>
     <p class="eyebrow">{part.label}</p>
     <h1 class="title">{part.title} <span class="sr">({part.titleEn})</span></h1>
     <p class="subtitle" lang="en">{part.titleEn}</p>
@@ -24,7 +25,7 @@ const heading = part.label !== part.title ? `${part.label}: ${part.title}` : par
         return (
           <li>
             {e ? (
-              <a href={chapterPath(d)}>
+              <a href={withBase(chapterPath(d))}>
                 <span class="num">{d.number || '—'}</span>
                 <span><span>{d.title}</span><span class="en" lang="en">{d.titleEn}</span><span class="en">{e.data.summary}</span></span>
               </a>

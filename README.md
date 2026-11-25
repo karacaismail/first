@@ -11,6 +11,12 @@ Spencer 1903 yılında öldü. Bu yüzden özgün metin kamu malıdır.
 - `translations` klasöründe çeviri metinleri var. Her bölüm ayrı bir klasördedir.
 - `ilk-ilkeler` klasöründe okuma sitesi var. Site Astro, React ve Mantine ile yapıldı.
 
+## Site nerede?
+
+Site şu adreste yayında: https://karacaismail.github.io/first/
+
+`main` dalına her gönderimde site yeniden yayınlanır. Bu işi GitHub Actions yapar. Önce testler çalışır. Testler geçmezse site değişmez.
+
 ## Sitede ne var?
 
 - Kitabın 37 bölümünün tamamı var.
@@ -27,7 +33,7 @@ Bilgisayarda Node.js 22.18 ya da daha yeni sürüm gerekir.
 2. `npm install` komutunu çalıştırın.
 3. `npm run content` komutunu çalıştırın. Bu komut çevirileri siteye aktarır.
 4. `npm run dev` komutunu çalıştırın.
-5. Tarayıcıda `http://localhost:4321` adresini açın.
+5. Tarayıcıda `http://localhost:4321/first/` adresini açın.
 
 Arama yalnız derlenmiş sitede çalışır. Derlemek için `npm run build` komutunu çalıştırın.
 

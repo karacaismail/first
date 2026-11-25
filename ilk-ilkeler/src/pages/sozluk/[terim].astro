@@ -1,4 +1,5 @@
 ---
+import { withBase, siteRoot } from '../../lib/url';
 import Base from '../../layouts/Base.astro';
 import glossary from '../../data/glossary.json';
 import usage from '../../data/term-usage.json';
@@ -9,7 +10,7 @@ export function getStaticPaths() {
 }
 const { term } = Astro.props;
 const where = (usage as Record<string, { unit: string; href: string; title: string }[]>)[term.key] ?? [];
-const site = Astro.site!.href.replace(/\/$/, '');
+const site = siteRoot(Astro.site!);
 const jsonLd = [{
   '@context': 'https://schema.org',
   '@type': 'DefinedTerm',
@@ -23,7 +24,7 @@ const jsonLd = [{
 ---
 <Base title={`${term.tr} (${term.key})`} description={`${term.tr} — ${term.key}: ${term.explanation}`} current="/sozluk/" jsonLd={jsonLd}>
   <div class="page">
-    <nav aria-label="Konum"><ol class="crumbs"><li><a href="/">{BOOK.title}</a></li><li aria-hidden="true">›</li><li><a href="/sozluk/">Terimler Sözlüğü</a></li><li aria-hidden="true">›</li><li aria-current="page">{term.tr}</li></ol></nav>
+    <nav aria-label="Konum"><ol class="crumbs"><li><a href={withBase('/')}>{BOOK.title}</a></li><li aria-hidden="true">›</li><li><a href={withBase('/sozluk/')}>Terimler Sözlüğü</a></li><li aria-hidden="true">›</li><li aria-current="page">{term.tr}</li></ol></nav>
     <article data-pagefind-body data-pagefind-filter="tur:Sözlük" data-pagefind-meta="kisim:Sözlük" style="max-width: var(--measure)">
       <p class="eyebrow">Terim</p>
       <h1 class="title">{term.tr}</h1>
@@ -33,7 +34,7 @@ const jsonLd = [{
       {where.length > 0 && (
         <section>
           <h2 style="font-size: var(--fs-h3)">Geçtiği bölümler</h2>
-          <ul class="toc">{where.map((u) => <li><a href={u.href}><span>{u.title}</span></a></li>)}</ul>
+          <ul class="toc">{where.map((u) => <li><a href={withBase(u.href)}><span>{u.title}</span></a></li>)}</ul>
         </section>
       )}
     </article>

@@ -1,10 +1,11 @@
 ---
+import { withBase } from '../lib/url';
 import Base from '../layouts/Base.astro';
 ---
 <Base title="Sayfa bulunamadı" description="Aradığınız sayfa bu sitede yok." noindex>
   <div class="page" style="max-width: var(--measure)">
     <h1 class="title">Sayfa bulunamadı</h1>
     <p class="subtitle">Bağlantı eskimiş ya da yanlış yazılmış olabilir.</p>
-    <div class="cta"><a class="btn primary" href="/">Ana sayfa</a><a class="btn ghost" href="/arama/">Kitapta ara</a></div>
+    <div class="cta"><a class="btn primary" href={withBase('/')}>Ana sayfa</a><a class="btn ghost" href={withBase('/arama/')}>Kitapta ara</a></div>
   </div>
 </Base>

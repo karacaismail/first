@@ -1,4 +1,5 @@
 ---
+import { withBase, siteRoot } from '../../lib/url';
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import TermLayer from '../../components/TermLayer';
@@ -29,7 +30,7 @@ for (const t of glossary as any[]) {
 const [p0, p1] = entry.data.pages;
 const pageText = p0 && p1 ? (p0 === p1 ? `s. ${p0}` : `s. ${p0}–${p1}`) : null;
 const minutes = Math.max(1, Math.round(entry.data.words / 200));
-const site = Astro.site!.href.replace(/\/$/, '');
+const site = siteRoot(Astro.site!);
 const jsonLd = [
   {
     '@context': 'https://schema.org',
@@ -64,9 +65,9 @@ const jsonLd = [
   <div class="page">
     <nav aria-label="Konum">
       <ol class="crumbs">
-        <li><a href="/">{BOOK.title}</a></li>
+        <li><a href={withBase('/')}>{BOOK.title}</a></li>
         <li aria-hidden="true">›</li>
-        <li><a href={`/${part.slug}/`}>{part.label}{part.label !== part.title ? ` · ${part.title}` : ''}</a></li>
+        <li><a href={withBase(`/${part.slug}/`)}>{part.label}{part.label !== part.title ? ` · ${part.title}` : ''}</a></li>
         <li aria-hidden="true">›</li>
         <li aria-current="page">{entry.data.title}</li>
       </ol>
@@ -94,10 +95,10 @@ const jsonLd = [
     </article>
     <nav class="pager" aria-label="Önceki ve sonraki bölüm" data-pagefind-ignore>
       {prev ? (
-        <a class="prev" href={chapterPath(prev)} rel="prev"><span class="dir">← Önceki</span>{prev.title}</a>
+        <a class="prev" href={withBase(chapterPath(prev))} rel="prev"><span class="dir">← Önceki</span>{prev.title}</a>
       ) : <span />}
       {next ? (
-        <a class="next" href={chapterPath(next)} rel="next"><span class="dir">Sonraki →</span>{next.title}</a>
+        <a class="next" href={withBase(chapterPath(next))} rel="next"><span class="dir">Sonraki →</span>{next.title}</a>
       ) : <span />}
     </nav>
   </div>

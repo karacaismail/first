@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../lib/url';
 import '@mantine/core/styles.css';
 import '@fontsource-variable/outfit';
 import '../styles/global.css';
@@ -18,8 +19,8 @@ interface Props {
 const { title, description, current, type = 'website', jsonLd = [], noindex = false, titleSuffix = true } = Astro.props;
 const fullTitle = titleSuffix ? `${title} · ${BOOK.title} (${BOOK.author})` : title;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
-const navParts = PARTS.map((p) => ({ slug: p.slug, title: p.title, label: p.label, href: `/${p.slug}/` }));
-const navItems = CHAPTERS.map((c) => ({ part: c.part, href: chapterPath(c), title: c.title, number: c.number }));
+const navParts = PARTS.map((p) => ({ slug: p.slug, title: p.title, label: p.label, href: withBase(`/${p.slug}/`) }));
+const navItems = CHAPTERS.map((c) => ({ part: c.part, href: withBase(chapterPath(c)), title: c.title, number: c.number }));
 ---
 <!doctype html>
 <html lang="tr" dir="ltr">
@@ -39,8 +40,8 @@ const navItems = CHAPTERS.map((c) => ({ part: c.part, href: chapterPath(c), titl
     <meta name="twitter:card" content="summary" />
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f6f2ea" />
     <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#15181f" />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+    <link rel="sitemap" href={withBase('/sitemap-index.xml')} />
     <ColorSchemeScript defaultColorScheme="auto" />
     <script is:inline>
       // Görünür klavye odağı yalnız Tab/Shift+Tab ile açılır; işaretçi/dokunma kapatır.
@@ -54,11 +55,11 @@ const navItems = CHAPTERS.map((c) => ({ part: c.part, href: chapterPath(c), titl
     {jsonLd.map((obj) => <script type="application/ld+json" set:html={JSON.stringify(obj).replace(/</g, '\\u003c')} />)}
   </head>
   <body>
-    <Shell client:load parts={navParts} items={navItems} current={current}>
+    <Shell client:load parts={navParts} items={navItems} current={current ? withBase(current) : undefined}>
       <slot />
       <footer class="site">
         <p>{BOOK.author}, <em>{BOOK.titleEn}</em> — {BOOK.edition}. Özgün metin kamu malıdır; <a href={BOOK.sourceUrl} rel="noopener">Internet Archive</a> nüshasından çevrilmiştir.</p>
-        <p><a href="/hakkinda/">Bu çeviri hakkında</a> · <a href="/sozluk/">Terimler sözlüğü</a> · <a href="/arama/">Ara</a></p>
+        <p><a href={withBase('/hakkinda/')}>Bu çeviri hakkında</a> · <a href={withBase('/sozluk/')}>Terimler sözlüğü</a> · <a href={withBase('/arama/')}>Ara</a></p>
       </footer>
     </Shell>
   </body>

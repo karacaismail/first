@@ -5,11 +5,14 @@ import pagefind from 'astro-pagefind';
 import { unified } from '@astrojs/markdown-remark';
 import { remarkSpencer } from './src/lib/remark-spencer.mjs';
 
-// Yayın adresi: dağıtımdan önce SITE_URL ortam değişkeniyle ya da burada değiştirin.
-const site = process.env.SITE_URL ?? 'https://ilk-ilkeler.pages.dev';
+// Yayın adresi: GitHub Pages, https://karacaismail.github.io/first/
+// Başka bir yerde yayınlamak için SITE_URL ve BASE_PATH ortam değişkenlerini verin.
+const site = process.env.SITE_URL ?? 'https://karacaismail.github.io';
+const base = process.env.BASE_PATH ?? '/first';
 
 export default defineConfig({
   site,
+  base,
   trailingSlash: 'always',
   build: { format: 'directory' },
   integrations: [react(), sitemap({ filter: (page) => !/\/(arama|404)\/?$/.test(new URL(page).pathname) }), pagefind()],

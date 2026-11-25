@@ -1,11 +1,12 @@
 ---
+import { withBase, siteRoot } from '../lib/url';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import { BOOK, PARTS, CHAPTERS, chapterPath } from '../data/book';
 const entries = await getCollection('bolumler');
 const have = new Set(entries.map((e) => e.data.unit));
 const first = CHAPTERS.find((c) => c.unit === 'p1-ch01')!;
-const site = Astro.site!.href.replace(/\/$/, '');
+const site = siteRoot(Astro.site!);
 const jsonLd = [{
   '@context': 'https://schema.org',
   '@type': 'Book',
@@ -27,21 +28,21 @@ const jsonLd = [{
       <p class="author">{BOOK.author} · <span lang="en">{BOOK.titleEn}</span>, {BOOK.edition.toLowerCase()}</p>
       <p>{BOOK.tagline} Metin, Spencer’ın kendi gözden geçirdiği son baskıdan tam olarak çevrilmiştir; teknik terimler çevirideki karşılıklarıyla verilir ve her terime dokunarak ya da tıklayarak açıklamasını görebilirsiniz.</p>
       <div class="cta">
-        <a class="btn primary" href={chapterPath(first)}>Okumaya başla: {first.title}</a>
-        <a class="btn ghost" href="/sozluk/">Terimler sözlüğü</a>
+        <a class="btn primary" href={withBase(chapterPath(first))}>Okumaya başla: {first.title}</a>
+        <a class="btn ghost" href={withBase('/sozluk/')}>Terimler sözlüğü</a>
       </div>
     </section>
     <div class="parts">
       {PARTS.map((p) => (
         <section aria-labelledby={`kisim-${p.slug}`}>
           <p class="eyebrow">{p.label}</p>
-          <h2 id={`kisim-${p.slug}`}><a href={`/${p.slug}/`}>{p.title}</a> <span class="sr">({p.titleEn})</span></h2>
+          <h2 id={`kisim-${p.slug}`}><a href={withBase(`/${p.slug}/`)}>{p.title}</a> <span class="sr">({p.titleEn})</span></h2>
           <p>{p.intro}</p>
           <ul class="toc">
             {CHAPTERS.filter((c) => c.part === p.slug).map((c) => (
               <li>
                 {have.has(c.unit) ? (
-                  <a href={chapterPath(c)}><span class="num">{c.number || '—'}</span><span>{c.title}<span class="en" lang="en">{c.titleEn}</span></span></a>
+                  <a href={withBase(chapterPath(c))}><span class="num">{c.number || '—'}</span><span>{c.title}<span class="en" lang="en">{c.titleEn}</span></span></a>
                 ) : (
                   <span style="display:flex;gap:var(--sp-3);padding:var(--sp-3) var(--sp-2);color:var(--c-ink-3)"><span class="num">{c.number || '—'}</span><span>{c.title} <small>(çeviri hazırlanıyor)</small></span></span>
                 )}

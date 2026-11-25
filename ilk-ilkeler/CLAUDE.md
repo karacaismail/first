@@ -9,4 +9,5 @@
 - Firefox testi bu projede çalıştırılmaz.
 - Testler önce siteyi derler. Sonra derlenmiş siteyi 4323 portunda açar.
 - Odak, hareket, yazı boyutu ve kenar kuralları `README.md` dosyasındadır. Testler bu kurallar bozulunca başarısız olur.
-- Sitenin internet adresi `SITE_URL` değişkeniyle verilir.
+- Site GitHub Pages'te `/first/` alt adresinde yayınlanır. İç bağlantılar `withBase` işlevinden geçer.
+- `main` dalına gönderim siteyi yayınlar. İş akışı `.github/workflows/pages.yml` dosyasındadır.
