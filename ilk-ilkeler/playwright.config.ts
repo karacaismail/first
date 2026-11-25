@@ -1,13 +1,17 @@
 import { defineConfig, devices } from '@playwright/test';
 
 // Firefox bilinçli olarak dışarıda (kalıcı kullanıcı kararı). Chromium + WebKit, dar ekrandan masaüstüne.
+// LIVE_URL verilirse testler yerel derleme yerine yayındaki siteye karşı koşar.
+// Örnek: LIVE_URL=https://karacaismail.github.io npx playwright test
+const live = process.env.LIVE_URL;
+
 export default defineConfig({
   testDir: './tests',
   timeout: 60_000,
   retries: 0,
   reporter: [['list']],
-  use: { baseURL: 'http://127.0.0.1:4323', trace: 'retain-on-failure' },
-  webServer: {
+  use: { baseURL: live ?? 'http://127.0.0.1:4323', trace: 'retain-on-failure' },
+  webServer: live ? undefined : {
     command: 'npm run build && npx astro preview --port 4323 --host 127.0.0.1 --ignore-lock',
     url: 'http://127.0.0.1:4323/first/',
     reuseExistingServer: false,
