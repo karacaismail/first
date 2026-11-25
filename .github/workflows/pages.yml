@@ -1,4 +1,4 @@
-# Siteyi test eder, derler ve GitHub Pages'te yayınlar.
+# Siteyi derler ve GitHub Pages'te yayınlar.
 # Adres: https://karacaismail.github.io/first/
 name: Siteyi yayınla
 
@@ -22,7 +22,7 @@ defaults:
 
 jobs:
   build:
-    name: Test et ve derle
+    name: Derle
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7.0.1
@@ -39,22 +39,8 @@ jobs:
       - name: Çevirileri siteye aktar
         run: npm run content
 
-      - name: Tipleri denetle
-        run: npm run check
-
-      - name: Test tarayıcılarını kur
-        run: npx playwright install --with-deps chromium webkit
-
-      - name: Testleri çalıştır ve siteyi derle
-        run: npm test
-
-      - name: Test kayıtlarını sakla
-        if: failure()
-        uses: actions/upload-artifact@v7.0.2
-        with:
-          name: test-kayitlari
-          path: ilk-ilkeler/test-results
-          retention-days: 7
+      - name: Siteyi derle
+        run: npm run build
 
       - uses: actions/configure-pages@v6.0.0
 

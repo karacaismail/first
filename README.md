@@ -15,7 +15,7 @@ Spencer 1903 yılında öldü. Bu yüzden özgün metin kamu malıdır.
 
 Site şu adreste yayında: https://karacaismail.github.io/first/
 
-`main` dalına her gönderimde site yeniden yayınlanır. Bu işi GitHub Actions yapar. Önce testler çalışır. Testler geçmezse site değişmez.
+`main` dalına her gönderimde site yeniden yayınlanır. Bu işi GitHub Actions yapar.
 
 ## Sitede ne var?
 
